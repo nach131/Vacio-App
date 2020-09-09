@@ -17,18 +17,21 @@ client.connect(function (err) {
   console.log("Conectado Correctamente");
 
   const db = client.db(dbName);
-  
-  insertDocuments(db, function () {
 
+  // insertDocuments(db, function () {
+  //   client.close();
+  // })
+
+  findDocuments(db, function () {
     client.close();
   })
-});
 
+});
 
 
 const insertDocuments = function (db, callback) {
   // Get the documents collection
-  const collection = db.collection('fotos ');
+  const collection = db.collection('fotos');
   // Insert some documents
   collection.insertMany([
     {
@@ -66,5 +69,16 @@ const insertDocuments = function (db, callback) {
     console.log("Inserted 3 documents into the collection");
     callback(result);
   });
-}
+};
 
+const findDocuments = function (db, callback) {
+  // Get the documents collection
+  const collection = db.collection('fotos');
+  // Find some documents
+  collection.find({}).toArray(function (err, items) {
+    assert.equal(err, null);
+    console.log("Found the following records");
+    console.log(items)
+    callback(items);
+  });
+};
