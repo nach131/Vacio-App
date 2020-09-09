@@ -1,4 +1,4 @@
-const images =
+module.exports =
 [
   {
       "date": "2000-01-01",
@@ -3380,4 +3380,3 @@ const images =
       "url": "https://apod.nasa.gov/apod/image/9912/earthrise_apollo8.jpg"
   }
 ]
-export default images;
