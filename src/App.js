@@ -1,14 +1,13 @@
 
 
-const fotakus = require ('./2001')
+const fotakus = require('./2001')
 
 const mongoose = require('mongoose');
 
-// mongoose.connect("mongodb://localhost:27017/nasaDB", { useUnifiedTopology: true, useNewUrlParser: true });
+mongoose.connect("mongodb://localhost:27017/nasaDB", { useUnifiedTopology: true, useNewUrlParser: true });
 
-// mongoose.connect('mongodb+srv://nacho:klingon@platzi-g8u7b.mongodb.net/listDB?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true })
-mongoose.connect('mongodb+srv://nacho:klingon@cluster0.ldmkf.mongodb.net/nasaDB?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true })
 
+// mongoose.connect('mongodb+srv://nacho:klingon@cluster0.ldmkf.mongodb.net/nasaDB?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true })
 
 
 const fotosSchema = new mongoose.Schema({
@@ -69,12 +68,25 @@ var arr = [
 // insertar objetos del archivo
 //--------------------
 
-console.log(fotakus)
+// console.log(fotakus)
 
-Foto.insertMany(fotakus, function (error) {
-  if (error) {
-    console.log(error)
+// Foto.insertMany(fotakus, function (error) {
+//   if (error) {
+//     console.log(error)
+//   } else {
+//     console.log("Se añadieron items nuevos")
+//   }
+// })
+
+
+// ------------------
+// BUSCAR obj en bd
+// ------------------
+
+Foto.find(function(err, items) {
+  if (err) {
+    console.log(err)
   } else {
-    console.log("Se añadieron items nuevos")
+    console.log(items)
   }
-})
+});
