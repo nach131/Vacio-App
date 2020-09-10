@@ -14,15 +14,14 @@ const fotosSchema = new mongoose.Schema({
 
 const FotoDos = mongoose.model("NombreCollection", fotosSchema);
 
-FotoDos.updateOne(
+FotoDos.deleteOne(
   { _id: "5f5a1cc3be03c7105c6a739c" },
-  { title: "Nombre updateOne" },
   function (err) {
     if (err) {
       console.log(err);
     } else {
       mongoose.connection.close() // cerrar la conexion con mongodb
-      console.log("Se actualizaron los datos Correctamente")
+      console.log("Se borro un registro")
     }
   }
 )
