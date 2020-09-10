@@ -1,13 +1,17 @@
 
-// console.log(require ('./2000'))
 
-const fotakus = require ('./2000')
+const fotakus = require ('./2001')
 
-const mogoose = require('mongoose');
+const mongoose = require('mongoose');
 
-mogoose.connect("mongodb://localhost:27017/nasaDB", { useUnifiedTopology: true, useNewUrlParser: true });
+// mongoose.connect("mongodb://localhost:27017/nasaDB", { useUnifiedTopology: true, useNewUrlParser: true });
 
-const fotosSchema = new mogoose.Schema({
+// mongoose.connect('mongodb+srv://nacho:klingon@platzi-g8u7b.mongodb.net/listDB?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true })
+mongoose.connect('mongodb+srv://nacho:klingon@cluster0.ldmkf.mongodb.net/nasaDB?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true })
+
+
+
+const fotosSchema = new mongoose.Schema({
   date: Date,
   explanation: String,
   hdurl: String,
@@ -16,7 +20,12 @@ const fotosSchema = new mogoose.Schema({
   title: String,
   url: String
 });
-const Foto = mogoose.model("Foto", fotosSchema);
+
+const Foto = mongoose.model("Foto", fotosSchema);
+
+// ------------------------
+// Insertar solo un objeto
+// ------------------------
 
 const foto = new Foto({
   "date": "2000-01-01",
@@ -30,6 +39,11 @@ const foto = new Foto({
 
 // foto.save();
 
+
+
+// ---------------
+// Array 
+// ----------------
 var arr = [
   {
     "date": "2000-01-02",
@@ -50,7 +64,13 @@ var arr = [
     "url": "https://apod.nasa.gov/apod/image/0001/casa_chandra.jpg"
   }
 ]
+
+//-------------------
+// insertar objetos del archivo
+//--------------------
+
 console.log(fotakus)
+
 Foto.insertMany(fotakus, function (error) {
   if (error) {
     console.log(error)
