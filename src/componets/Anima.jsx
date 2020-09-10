@@ -13,6 +13,7 @@ class Anima extends Component {
   // state = {  }
   render() { 
     return ( 
+      <>
       <StyleRoot>
         <div className="test" >
           <div  className="App">
@@ -23,6 +24,7 @@ class Anima extends Component {
           </div>
         </div>
       </StyleRoot>
+      </>
      );
   }
 }
