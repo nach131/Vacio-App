@@ -80,13 +80,28 @@ var arr = [
 
 
 // ------------------
-// BUSCAR obj en bd
+// BUSCAR obj en DB
 // ------------------
 
+// Foto.find(function(err, items) {
+//   if (err) {
+//     console.log(err)
+//   } else {
+//     console.log(items)
+//   }
+// });
+
+// ------------------
+// BUSCAR solo el title
+// ------------------
 Foto.find(function(err, items) {
-  if (err) {
-    console.log(err)
-  } else {
-    console.log(items)
-  }
-});
+    if (err) {
+      console.log(err)
+    } else {
+      mongoose.connection.close() // cerrar la conexion con mongodb
+      // console.log(items)
+      items.forEach(function(item){
+        console.log(item.title, item._id)
+      })
+    }
+  });
