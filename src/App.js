@@ -1,7 +1,5 @@
 
 
-const fotakus = require('./2001')
-
 const mongoose = require('mongoose');
 
 mongoose.connect("mongodb://localhost:27017/nasaDB", { useUnifiedTopology: true, useNewUrlParser: true });
@@ -21,20 +19,21 @@ const fotosSchema = new mongoose.Schema({
 });
 
 const Foto = mongoose.model("Foto", fotosSchema);
+const FotoDos = mongoose.model("NombreCollection", fotosSchema);
 
 // ------------------------
 // Insertar solo un objeto
 // ------------------------
 
-const foto = new Foto({
-  "date": "2000-01-01",
-  "explanation": "Welcome to the millennial year at the threshold of millennium three.  During millennium two, humanity continually redefined its concept of \"Universe\": first as spheres centered on the Earth, in mid-millennium as the Solar System, a few centuries ago as the Galaxy, and within the last century as the matter emanating from the Big Bang.  During millennium three humanity may hope to discover alien life, to understand the geometry and composition of our present concept of Universe, and even to travel through this Universe.  Whatever our accomplishments, humanity will surely find adventure and discovery in the space above and beyond, and possibly define the surrounding Universe in ways and colors we cannot yet imagine by the threshold of millennium four.",
-  "hdurl": "https://apod.nasa.gov/apod/image/0001/flammarion_halfcolor.gif",
-  "media_type": "image",
-  "service_version": "v1",
-  "title": "The Millennium that Defines Universe",
-  "url": "https://apod.nasa.gov/apod/image/0001/flammarion_halfcolor_big.gif"
-});
+// const foto = new Foto({
+//   "date": "2000-01-01",
+//   "explanation": "Welcome to the millennial year at the threshold of millennium three.  During millennium two, humanity continually redefined its concept of \"Universe\": first as spheres centered on the Earth, in mid-millennium as the Solar System, a few centuries ago as the Galaxy, and within the last century as the matter emanating from the Big Bang.  During millennium three humanity may hope to discover alien life, to understand the geometry and composition of our present concept of Universe, and even to travel through this Universe.  Whatever our accomplishments, humanity will surely find adventure and discovery in the space above and beyond, and possibly define the surrounding Universe in ways and colors we cannot yet imagine by the threshold of millennium four.",
+//   "hdurl": "https://apod.nasa.gov/apod/image/0001/flammarion_halfcolor.gif",
+//   "media_type": "image",
+//   "service_version": "v1",
+//   "title": "The Millennium that Defines Universe",
+//   "url": "https://apod.nasa.gov/apod/image/0001/flammarion_halfcolor_big.gif"
+// });
 
 // foto.save();
 
@@ -70,13 +69,14 @@ var arr = [
 
 // console.log(fotakus)
 
-// Foto.insertMany(fotakus, function (error) {
-//   if (error) {
-//     console.log(error)
-//   } else {
-//     console.log("Se añadieron items nuevos")
-//   }
-// })
+FotoDos.insertMany(arr, function (error) {
+  if (error) {
+    console.log(error)
+  } else {
+      mongoose.connection.close() // cerrar la conexion con mongodb
+    console.log("Se añadieron items nuevos")
+  }
+})
 
 
 // ------------------
@@ -94,14 +94,14 @@ var arr = [
 // ------------------
 // BUSCAR solo el title
 // ------------------
-Foto.find(function(err, items) {
-    if (err) {
-      console.log(err)
-    } else {
-      mongoose.connection.close() // cerrar la conexion con mongodb
-      // console.log(items)
-      items.forEach(function(item){
-        console.log(item.title, item._id)
-      })
-    }
-  });
+// Foto.find(function(err, items) {
+//     if (err) {
+//       console.log(err)
+//     } else {
+//       mongoose.connection.close() // cerrar la conexion con mongodb
+//       // console.log(items)
+//       items.forEach(function(item){
+//         console.log(item.title, item._id)
+//       })
+//     }
+//   });
