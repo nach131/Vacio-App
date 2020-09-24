@@ -3,6 +3,7 @@ import './App.css';
 import { bounceInDown } from 'react-animations';
 import Radium, { StyleRoot } from 'radium';
 
+import 'bootswatch/dist/sketchy/bootstrap.min.css'
 
 
 const styles = {
@@ -20,7 +21,7 @@ class App extends React.Component {
         <div className="test" >
           <div  className="App">
             <header className="App-header">
-              <h1 style={styles.bounceInDown} >Quitado</h1>
+              <h1 style={styles.bounceInDown} >Los tengo asi de GRANDES !!!</h1>
 
             </header>
           </div>
