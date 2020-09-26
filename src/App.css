@@ -4,13 +4,20 @@
 
 .App-logo {
   height: 40vmin;
+  width: 40vmin;
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
+/* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+} */
+.egg-izq{
+margin-right: -55px;
+}
+.egg-der {
+margin-left: -55px;
 }
 
 .App-header {
