@@ -3382,5 +3382,6872 @@ module.exports =
       "service_version": "v1",
       "title": "A Year of Dark Cosmology",
       "url": "https://apod.nasa.gov/apod/image/0112/kecksunset_mko.jpg"
-  }
+  },
+  {
+    "copyright": "Jan Curtis",
+    "date": "2002-01-01",
+    "explanation": "What causes black aurora?  These gaps in normal bright aurora are frequently recorded but rarely questioned.  Recent research using data from four Cluster spacecraft orbiting the Earth has now likely found the secret: black auroras are actually anti-auroras.   In normal auroras, electrons and/or predominantly negatively charged particles fall toward Earth along surfaces of constant magnetic field.  They ionize the Earth's atmosphere on impact, causing the bright glows.  In black anti-auroras, however, negatively charged particles are sucked out from the Earth's ionosphere along adjoining magnetic field lines.  These dark anti-auroras can climb to over 20,000 kilometers and last for several minutes.  Pictured above, a black aurora is seen dividing bright auroras over Fairbanks, Alaska, USA.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/blackaurora_curtis_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Secret of the Black Aurora",
+    "url": "https://apod.nasa.gov/apod/image/0201/blackaurora_curtis.jpg"
+},
+{
+    "date": "2002-01-02",
+    "explanation": "High above a cloudy Earth, the International Space Station (ISS) orbits silently.  The Space Shuttle Endeavor Crew took the above picture as they departed the space station in mid-December.  Endeavor brought up three new astronauts to occupy the ISS and carried home the members of Expedition Three, a trio that has been housed in the ISS since August.  Highlights of this Endeavor mission included fixing a solar panel and maneuvering the station to avoid a large piece of passing space junk.  Visible in the above picture are the space station's robot manipulator arm as well as several modules and solar arrays.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/iss_sts108_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "International Space Station Over Earth",
+    "url": "https://apod.nasa.gov/apod/image/0201/iss_sts108.jpg"
+},
+{
+    "date": "2002-01-03",
+    "explanation": "The Hubble Space Telescope's 1995 image of pillars of dust and gas, light-years long, within the Eagle Nebula (M16) was sensational. The three prominent pillars in that close-up visible light picture also appear below center in this wide-field mosaic along with massive, bright, young stars of cluster NGC 6611 (upper right), whose winds and radiation are shaping the dusty pillars. Made in near infrared light with the European Southern Observatory's 8.2-meter Antu telescope, this wide-field image makes the pillars seem more transparent, as the longer wavelengths partially penetrate the obscuring dust. While the Hubble image showed the pillars' startling surface details - over 70 opaque, finger-shaped lumps of material dubbed evaporating gaseous globules",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/m16w1_eso_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M16: Stars, Pillars, and the Eagle's EGGs",
+    "url": "https://apod.nasa.gov/apod/image/0201/m16w1_eso.jpg"
+},
+{
+    "date": "2002-01-04",
+    "explanation": "The head of an interstellar gas and dust cloud is shown here in false-color, a near-infrared view recorded by astronomers hunting for stars within M16's Eagle Nebula. Made famous in a 1995 Hubble image of the 7,000 light-year distant star forming region, the pillar-shaped cloud's surface was seen to be covered with finger-like evaporating gaseous globules (EGGs). The near-infrared image penetrates the obscuring dust cloud's edges. But the cloud's core appears dark and opaque, even at these relatively long wavelengths. Still, this image, made with ESO's Antu telescope, reveals a massive, bright yellow star not directly detected in the visible light Hubble data. This very young star lights up the small bluish nebula with a dark, twisted central stripe, just above it. Below and to its right are several much fainter, less massive stars also not seen in visible light - newborn stars which lie within the Eagle's EGGs. These newborn stars may have already been collapsing, forming from material inside the nebula before the intense radiation from other, nearby, emerging hot stars eroded and sculpted the dramatic pillars and EGGs. In any event, as the dusty clouds are eroded away, stars still forming will be cutoff from their reservoir of star stuff. Further growth and even the development of planetary systems will likely be seriously affected.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/m16c1_eso_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M16: Infrared Star Hunt",
+    "url": "https://apod.nasa.gov/apod/image/0201/m16c1_eso.jpg"
+},
+{
+    "date": "2002-01-05",
+    "explanation": "Awkward and angular looking, Apollo 17's lunar module Challenger was designed for flight in the vacuum of space. This sharp picture from the command module America, shows Challenger's ascent stage in lunar orbit. Small reaction control thrusters are at the sides of the moonship with the bell of the ascent rocket engine itself underneath. The hatch allowing access to the lunar surface is visible in the front and a round radar antenna appears at the top. This spaceship performed gracefully, landing on the moon and returning the Apollo astronauts to the orbiting command module in December of 1972 - but where is Challenger now? Its descent stage remains at the Apollo 17 landing site, Taurus-Littrow. The ascent stage was intentionally crashed nearby after being jettisoned from the command module prior to the astronauts' return to planet Earth. Apollo 17's mission was the sixth and last time astronauts have landed on the moon. Editor's note: Eric Jones, Apollo Lunar Surface Journal editor, comments; \"If you look at the [... large, dark] triangular window, you'll see a bright rectangular area - which is the rendezvous window - beneath it, a bright arc. After much discussion, my team of volunteers and I concluded that the bright arc is the top of [mission commander] Gene Cernan's bubble helmet lit by sunlight ...\"",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/challenger_apollo17_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Apollo 17's Moonship",
+    "url": "https://apod.nasa.gov/apod/image/0201/challenger_apollo17.jpg"
+},
+{
+    "date": "2002-01-06",
+    "explanation": "Are stars better appreciated for their art after they die?  Actually, stars usually create their most artistic displays as they die.  In the case of low-mass stars like our Sun and M2-9 pictured above, the stars transform themselves from normal stars to white dwarfs by casting off their outer gaseous envelopes.  The expended gas frequently forms an impressive display called a planetary nebula that fades gradually over thousand of years.  M2-9, a butterfly planetary nebula 2100 light-years away shown in representative colors, has wings that tell a strange but incomplete tale.  In the center, two stars orbit inside a gaseous disk 10 times the orbit of Pluto.  The expelled envelope of the dying star breaks out from the disk creating the bipolar appearance.  Much remains unknown about the physical processes that cause planetary nebulae.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/m2-9_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M2-9: Wings of a Butterfly Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0201/m2-9_hst.jpg"
+},
+{
+    "copyright": "Robert Gendler",
+    "date": "2002-01-07",
+    "explanation": "Sometimes the simplest shapes are the hardest to explain.  For example, the origin of the mysterious cone-shaped region seen on the far left remains a mystery.   The interstellar formation, dubbed the Cone Nebula, is located about 2700 light years away. Other features in the image include red emission from diffuse interstellar hydrogen, wispy filaments of dark dust, and bright star S Monocerotis, visible on the far right.  Blue reflection nebulae surround the brighter stars.  The dark Cone Nebula region clearly contains much dust which blocks light from the emission nebula and open cluster NGC 2264 behind it.  One hypothesis holds that the Cone Nebula is formed by wind particles from an energetic source blowing past the Bok Globule at the head of the cone.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/cone_gendler_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Mysterious Cone Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0201/cone_gendler.jpg"
+},
+{
+    "date": "2002-01-08",
+    "explanation": "Rich star fields and glowing hydrogen gas silhouette dense, opaque clouds of interstellar gas and dust in this Hubble Space Telescope close-up of IC 2944, a bright star forming region in Centaurus, 5,900 light-years away. The largest of these dark globules, first spotted by South African astronomer A. D. Thackeray in 1950, is likely two separate but overlapping clouds, each more than one light-year wide. Combined the clouds contain material equivalent to about 15 times the mass of the Sun, but will they actually collapse to form massive stars? Along with other data, the sharp Hubble images indicate that Thackeray's globules are fractured and churning as a result of intense ultraviolet radiation from young, hot stars already energizing and heating the bright emission nebula. These and similar dark globules known to be associated with other star forming regions may ultimately be dissipated by their hostile environment -- like cosmic lumps of butter in a hot frying pan. The chevron shape of the picture outlines the detectors of the Hubble's WFPC2 camera.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/ic2944glob_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Thackeray's Globules",
+    "url": "https://apod.nasa.gov/apod/image/0201/ic2944glob_hst.jpg"
+},
+{
+    "copyright": "Mario Cogo",
+    "date": "2002-01-09",
+    "explanation": "Difficult to observe, the momentary green flash above the rising or setting sun has been documented as a phenomenon caused by the atmospheric bending or refraction of sunlight. Like a weak prism, the Earth's atmosphere breaks white sunlight into colors, bending red colors slightly and green and blue colors through increasingly larger angles. When the sky is clear, a green flash just above the sun's edge can sometimes be seen for a second or so, when the sun is close to a distant horizon. A blue flash is even harder to see though, because the atmosphere must be extraordinarily clear to avoid scattering and diminishing the refracted blue sunlight. Still, from a site near Roques de los Muchachos (altitude 2,400 meters) on La Palma in the Canary Islands, astrophotographer Mario Cogo captured this dramatic telescopic image of a blue flash on color film in October of 2001. The image of the setting Sun with large sunspot groups on its surface is heavily distorted by atmospheric layers. A lingering green rim is just visible under the tantalizing blue flash.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/blueflash_cogo_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Blue Flash",
+    "url": "https://apod.nasa.gov/apod/image/0201/blueflash_cogo.jpg"
+},
+{
+    "date": "2002-01-10",
+    "explanation": "If you had x-ray vision, the center regions of our Galaxy would not be hidden from view by immense cosmic dust clouds opaque to visible light. Instead, the Milky Way toward Sagittarius might look something like this stunning mosaic of images from the orbiting Chandra Observatory. Pleasing to look at, the gorgeous false-color representation of the x-ray data shows high energy x-rays in blue, medium energies in green, and low energies in red. Hundreds of white dwarf stars, neutron stars, and black holes immersed in a fog of multimillion-degree gas are included in the x-ray vista. Within the white patch at the image center lies the Galaxy's central supermassive black hole. Chandra's sharp x-ray vision will likely lead to a new appreciation of our Milky Way's most active neighborhood and has already indicated that the hot gas itself may have a temperature of a mere 10 million degrees Celsius instead of 100 million degrees as previously thought. The full mosaic is composed of 30 separate images and covers a 900 by 400 light-year swath at the galactic center.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/gcenter_cxcrgb_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "X-Ray Milky Way",
+    "url": "https://apod.nasa.gov/apod/image/0201/gcenter_cxcrgb_c1.jpg"
+},
+{
+    "date": "2002-01-11",
+    "explanation": "Intense and overwhelming, the direct glare of the Sun is blocked by the smooth disk centered in this image from the sun-staring SOHO spacecraft. Taken on January 8, the picture shows streamers of solar wind billowing radially outward for millions of kilometers above the Sun's surface indicated by the white circle. Below and right is inner planet Venus, so bright that its image is marred by a sharp horizontal stripe, a digital imaging artifact. Also impressively bright is a periodic visitor to the inner Solar System, sunbathing comet 96/P Machholz 1 (above and left). This comet is definitely not a member of the more suicidal sungrazer comet family often spotted approaching the Sun by SOHO. Seen here only 18 million kilometers from the Sun (about one eighth the Earth-Sun distance) with a substantial coma and foreshortened tail, Machholz 1 has now passed perihelion and is outbound in its orbit, to return again in just over 5 years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/p96mach_lascoc2_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Sunbather",
+    "url": "https://apod.nasa.gov/apod/image/0201/p96mach_lascoc2_c1.jpg"
+},
+{
+    "date": "2002-01-12",
+    "explanation": "What if you could see gamma rays? If you could, the sky would seem to be filled with a shimmering high-energy glow from the most exotic and mysterious objects in the Universe. In the early 1990s NASA's orbiting Compton Observatory, produced this premier vista of the entire sky in gamma rays, photons with more than 40 million times the energy of visible light. The diffuse gamma-ray glow from the plane of our Milky Way Galaxy runs horizontally through the false-color image. The brightest spots in the galactic plane (right of center) are pulsars, spinning magnetized neutron stars formed in the violent crucibles of stellar explosions. Above and below the plane, quasars, believed to be powered by supermassive black holes, produce gamma-ray beacons at the edges of the universe. The nature of many of the fainter sources remains unknown.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/egret_allsky.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Gamma Ray Sky",
+    "url": "https://apod.nasa.gov/apod/image/0201/egret_allsky.jpg"
+},
+{
+    "date": "2002-01-13",
+    "explanation": "Sixteen hundred years ago, Hypatia became one of the world's leading scholars in mathematics and astronomy.  Hypatia's legendary knowledge, modesty, and public speaking ability flourished during the era of the Great Library of Alexandria. Hypatia is credited with contributions to geometry and astrometry, and she is thought instrumental in the development of the sky-measuring astrolabe. \"Reserve your right to think, for even to think wrongly is better than not to think at all,\" Hypatia is credited with saying.  \"To teach superstitions as truth is a most terrible thing.\"",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/hypatia.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Hypatia of Alexandria",
+    "url": "https://apod.nasa.gov/apod/image/0201/hypatia.jpg"
+},
+{
+    "copyright": "Philip AppletonSIRTF Science CenterCaltech",
+    "date": "2002-01-14",
+    "explanation": "Sometimes it looks like the Sun is being viewed through a large lens.  In the above case, however, there are actually millions of lenses: ice crystals.  As water freezes in the upper atmosphere, small, flat, six-sided, ice crystals might be formed.  As these crystals flutter to the ground, much time is spent with their faces flat, parallel to the ground.  An observer may pass through the same plane as many of the falling ice crystals near sunrise or sunset.  During this alignment, each crystal can act like a miniature lens, refracting sunlight into our view and creating phenomena like parhelia, the technical term for sundogs.  The above image was taken in the morning of the 2000 Winter Solstice near Ames, Iowa, USA.  Visible in the image center is the Sun, while two bright sundogs glow prominently from both the left and the right.  Also visible behind neighborhood houses and trees are the 22 degree halo, three sun pillars, and the upper tangent arc, all created by sunlight reflecting off of atmospheric ice crystals.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/solsticehalo_appleton.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Sun Halo at Winter Solstice",
+    "url": "https://apod.nasa.gov/apod/image/0201/solsticehalo_appleton_big.jpg"
+},
+{
+    "copyright": "Duane Clausen",
+    "date": "2002-01-15",
+    "explanation": "Few auroras show this level of detail.  This unusual display of an auroral corona occurred on Earth three days after an unusual solar event -- the fifth most powerful explosion yet recorded on the Sun.  An X14-class solar flare on April 15 sent a tremendous Coronal Mass Ejection (CME) into the Solar System.  This CME did not directly impact the Earth.  The Solar-System wide shock wave it created probably did, however, causing a G3-class geomagnetic storm and a night filled with colorful auroras across much of northern North America.  The unusual red color of this Michigan aurora is caused by solar ions striking oxygen molecules 300 kilometers high in Earth's atmosphere.  More typical green auroras are caused by oxygen recombining only 100 kilometers high.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/aurora_clausen.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Red Auroral Corona",
+    "url": "https://apod.nasa.gov/apod/image/0201/aurora_clausen_big.jpg"
+},
+{
+    "date": "2002-01-16",
+    "explanation": "Typical of large galaxy clusters billions of light-years away, Abell 2597 features hundreds of galaxies embedded in a cloud of multimillion degree gas which glows in x-rays. This Chandra Observatory x-ray image shows the hot gas in this cluster's central regions and also reveals two large dark cavities within the x-ray glow; one below and right of center, the other above and left. Not a comment on dental health, Abell 2597's cavities are about 60,000 light-years across. They are thought to be remnants of a 100 million year old explosion originating from a supermassive black hole at the cluster's core. But the dim ghost cavities are not completely empty or they would have collapsed long ago. Instead they are likely filled with hotter gas, high energy particles, and magnetic fields and are moving away from the cluster center, like bubbles rising in champagne. Over the life of a galaxy cluster such explosions may happen over and over, creating a series of cavities which transport magnetic fields away from the cluster center. In fact, radio observations suggest another explosion has since occurred in the center of Abell 2597.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/abell2597_cxc_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Abell 2597's Cosmic Cavities",
+    "url": "https://apod.nasa.gov/apod/image/0201/abell2597_cxc.jpg"
+},
+{
+    "date": "2002-01-17",
+    "explanation": "Pick a galaxy, any galaxy. In the top panel you can choose from a myriad of distant galaxies revealed in a deep Hubble Space Telescope image of a narrow slice of the cosmos toward the constellation Hercules. If you picked the distorted reddish galaxy indicated by the yellow box, then you've chosen one a team of infrared astronomers has recently placed at a distance of 9 billion light-years. Classified as an ERO (Extremely Red Object), this galaxy is from a time when the Universe was only one third its present age. Along the bottom panel, this galaxy's appearance in filters ranging from visible to infrared wavelengths (left to right) is presented as a series of negative images. The brightness of the galaxy in the infrared compared to the visible suggests that light from intense star formation activity, reddened by dust clouds within the galaxy itself, is responsible for the extremely red color. Astronomers estimate that this galaxy has around 100 billion stars and may in fact be a very distant mirror -- an analog of our own Milky Way Galaxy in its formative years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/hercdeep_comp_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Pick a Galaxy, Any Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0201/hercdeep_comp4.jpg"
+},
+{
+    "copyright": "Joe Orman",
+    "date": "2002-01-18",
+    "explanation": "Last November, while skygazing toward the constellation Taurus, astrophotographer Joe Orman arranged this time exposure to include the lovely Hyades and Pleiades star clusters in the field of his telephoto lens. A distance of 400 light-years for the close-knit Pleiades and 150 light-years for the V-shaped Hyades puts these clusters in the general galactic neighborhood of the Sun. Punctuating the Hyades' appearance, bright yellow Aldebaran, 60 light-years away, is not actually a member of the cluster, but it is Taurus' brightest star. Above Aldebaran a yellower, even brighter Saturn is is seen about 1.2 light-hours from our fair planet. Last and least massive, one of the faint specks below Aldebaran is main-belt asteroid Vesta, a mere 13 light-minutes away. Still cruising through Taurus, Vesta is steadily approaching a close alignment or conjunction with Saturn on March 19. Need a program to follow the players? Click on the image for a labeled version.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/taurus_orman_lab.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Saturn and Vesta in Taurus",
+    "url": "https://apod.nasa.gov/apod/image/0201/taurus_orman_c1.jpg"
+},
+{
+    "date": "2002-01-19",
+    "explanation": "Galaxies are made up of stars, but are all stars found within galaxies? Using the Hubble Space Telescope, researchers exploring the Virgo Cluster of galaxies have found about 600 red giant stars adrift in intergalactic space. Above is an artist's vision of the sky from a hypothetical planet of such a lonely sun. The night sky on a world orbiting an intergalactic star would be a stark contrast to Earth's - which features a spectacle of stars, all members of our own Milky Way Galaxy. As suggested by the illustration, a setting red sun would leave behind a dark sky flecked only with faint, fuzzy, apparitions of Virgo Cluster galaxies. Possibly ejected from their home galaxies during galaxy-galaxy collisions, these isolated suns may well represent part of a large, previously unseen stellar population, filling the space between Virgo Cluster galaxies.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/vcstars_illust_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Stars Without Galaxies",
+    "url": "https://apod.nasa.gov/apod/image/0201/vcstars_illust.jpg"
+},
+{
+    "date": "2002-01-20",
+    "explanation": "Callisto's surface shows its age.  While probably formed at the same time as Io, the difference between the surfaces of these two moons of Jupiter could hardly be greater.  Io's surface is young, shows practically no impact craters, and is continually being repaved by the lava exploding from its many large volcanoes.  Callisto's surface is old, shows the highest density of impact craters in the Solar System, and harbors no volcanoes or even any large mountains.  Callisto's surface is one large ice-field, laced with cracks and craters from billions of years of collisions with interplanetary debris. The above image was taken in 2001 May and is, so far, the only complete global color image taken by the Jupiter-orbiting Galileo spacecraft.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/callisto3_gal_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Callisto Full Face",
+    "url": "https://apod.nasa.gov/apod/image/0201/callisto3_gal.jpg"
+},
+{
+    "copyright": "Sigurdur H. Stefnisson",
+    "date": "2002-01-21",
+    "explanation": "Sometimes both heaven and Earth erupt.  In Iceland in 1991, the volcano Hekla erupted at the same time that auroras were visible overhead.  Hekla, one of the most famous volcanoes in the world, has erupted at least 20 times over the past millennium, sometimes causing great destruction.  The last eruption occurred only two years ago but caused only minor damage.  The green auroral band occurred fortuitously about 100 kilometers above the erupting lava.  Is Earth the Solar System's only planet with both auroras and volcanos?",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/volcanoaurora2_shs.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Volcano and Aurora in Iceland",
+    "url": "https://apod.nasa.gov/apod/image/0201/volcanoaurora2_shs.jpg"
+},
+{
+    "date": "2002-01-22",
+    "explanation": "For the first time, Earth's gravity has been used to isolate quantum energy levels of the neutron.  The effect may be used in the future to test for slightly different effects of gravity on neutrally charged particles of different mass. In an experiment by Valery Nesvizhevsky and colleagues at the Laue-Langevin Institute, carefully dropped neutrons were seen to appear at only discrete heights.  The effect is also of interest because it involves the intersection of two branches of physics that remain formally separate. A theory known as Quantum Mechanics tells us about how the universe works on the smallest scales, while Einstein's General Theory of Relativity tells us about how gravity and the universe works on the largest scales.  The effect does not in itself, however, imply attributes of a possible quantum field nature of gravity. Pictured above is a false-color surface that might be created by the evolution of a one-dimensional string.  By describing fundamental particles as tiny strings, many physicists are working toward the creation of a truly quantum theory of gravity.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/quantumgravity_npac_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Neutron Bounce Quantized in Earth Gravity",
+    "url": "https://apod.nasa.gov/apod/image/0201/quantumgravity_npac.jpg"
+},
+{
+    "copyright": "Local Group Galaxies Survey Team",
+    "date": "2002-01-23",
+    "explanation": "Nearby galaxy NGC 6822 is irregular in several ways.  First, the galaxy's star distribution merits a formal classification of dwarf irregular, and from our vantage-point the small galaxy appears nearly rectangular.  What strikes astronomers as more peculiar, however, is NGC 6822's unusually high abundance of HII regions, locales of ionized hydrogen that surround young stars.  Large HII regions, also known as emission nebulas, are visible surrounding the small galaxy, particularly toward the upper right.  Toward the lower left are bright stars that are loosely grouped into an arm. Pictured above, NGC 6822, also known as Barnard's Galaxy, is located only about 1.5 million light years away and so is a member of our Local Group of Galaxies.  The galaxy, home to famous nebulas including Hubble V, is visible with a small telescope toward the constellation of Sagittarius.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/ngc6822_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Local Group Galaxy NGC 6822",
+    "url": "https://apod.nasa.gov/apod/image/0201/ngc6822_noao.jpg"
+},
+{
+    "date": "2002-01-24",
+    "explanation": "A small inner moon of Saturn, Enceladus is only about 500 kilometers in diameter. But the cold, distant world does reflect over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as new-fallen snow. Seen here in a mosaic of Voyager 2 images from 1981, Enceladus shows a variety of surface features and very few impact craters - indicating that it is an active world even though this ice moon should have completely cooled off long ago. In fact the fresh, resurfaced appearance of Enceladus suggests that an internal mechanism, perhaps driven by tidal pumping, generates heat and supplies liquid water to geysers or water volcanos. Since Enceladus orbits within the tenuous outer E ring of Saturn, the moon's surface may be kept snow-bright as it is continuously bombarded with icy ring particles. Eruptions on Enceladus itself would in turn supply material to the E ring. Interplanetary ski bums take note: tiny Enceladus has only about one hundredth the surface gravity of planet Earth.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/enceladus_voyager2_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Ski Enceladus",
+    "url": "https://apod.nasa.gov/apod/image/0201/enceladus_voyager2.jpg"
+},
+{
+    "date": "2002-01-25",
+    "explanation": "While stirring a morning cup of coffee and thinking cosmic thoughts many astronomers would glance at this Hubble Space Telescope image of spiral galaxy NGC 4622 and assume that the galaxy was rotating counterclockwise in the picture. One hundred million light-years away in the constellation Centaurus, NGC 4622's gorgeous outer spiral arms, traced by bright bluish star clusters and dark dust lanes, should be winding up like ... well, like swirls in a cup of coffee. But a closer look at this galaxy reveals that a pronounced inner spiral arm winds in the opposite direction. So which way is this galaxy rotating? Recent evidence combining ground-based spectroscopy and the sharp Hubble image data surprisingly indicates that the galaxy is likely rotating clockwise in the picture, its outer spiral arms opening outward in the direction of rotation. There are further indications that a past collision with a smaller companion galaxy has contributed to this bizarre rotational arrangement of spiral arms, essentially unique among known large spiral galaxies, in NGC 4622.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/ngc4622_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Spiral Arms of NGC 4622",
+    "url": "https://apod.nasa.gov/apod/image/0201/ngc4622_hst.jpg"
+},
+{
+    "date": "2002-01-26",
+    "explanation": "The Space Shuttle Discovery's orbital maneuvering system (OMS) engine firing produced this dramatic flare as it cruised \"upside down\" in low Earth orbit. Discovery was named for a ship commanded by Captain James Cook RN, the 18th Century English astronomer and navigator. Cook's voyages of discovery established new standards in scientific exploration and brought extensive knowledge of the Pacific regions, including Australia, New Zealand, and the Hawaiian Island archipelago to Europeans. The Space Shuttle Endeavor, also named after one of Cook's ships, is the newest of NASA's four-orbiter shuttle fleet.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/engine_sts51_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Shuttle Engine Blast",
+    "url": "https://apod.nasa.gov/apod/image/0201/engine_sts51.jpg"
+},
+{
+    "date": "2002-01-27",
+    "explanation": "During 1968, the Apollo 8 crew flew from the Earth to the Moon and back. The crew, consisting of Frank Borman, James Lovell, and William Anders, were launched atop a Saturn V rocket on December 21, circled the Moon ten times in their command module, and landed back on Earth on December 27.  The Apollo 8 mission's impressive list of firsts includes: the first humans to journey to the Earth's Moon, the first manned flight using the Saturn V, and the first to photograph the Earth from deep space.  The famous picture above, showing the Earth rising above the Moon's limb as seen from lunar orbit, was a marvelous gift to the world.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/earthrise_apollo8_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Earth Rise",
+    "url": "https://apod.nasa.gov/apod/image/0201/earthrise_apollo8.jpg"
+},
+{
+    "date": "2002-01-28",
+    "explanation": "What would it be like to stand on the surface of another world, to look all around you, and to try to figure out how this world got there?  To get an idea, scroll right.  In 1972 during the Apollo 17 mission, astronauts Harrison Schmitt and Eugene Cernan found out first hand.  In this case, the world was Earth's own Moon.  In one of the more famous panoramas taken on the Moon, the magnificent desolation of the barren Moon is apparent.  Visible are rocks, hills, craters, the lunar rover, and astronaut Schmitt preparing to take a soil sample.  A few days after this image was taken, humanity left the Moon and has yet to return.  An interactive version of the above image can be found here.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/lunarpan_apollo17_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "An Apollo 17 Panorama",
+    "url": "https://apod.nasa.gov/apod/image/0201/lunarpan_apollo17.jpg"
+},
+{
+    "date": "2002-01-29",
+    "explanation": "A robotic telescope with red sunglasses in Chile has been photographing the entire southern sky for years.  The result, shown above, is the most complete sky map of the most common visible light emitted from the most abundant element in our Galaxy: hydrogen.  A very specific red color emitted by warm ionized hydrogen was observed.  Although spectacular emission nebulas glow brightly in this type of red light (H-alpha), a diffuse amount of warm hydrogen is spread throughout our Galaxy and its glow nicely indicates not only where darker hydrogen and other gasses may be located, but also the sometimes- complex history of interstellar gas.  Gas tracking the plane of our Galaxy runs across the center, and huge gas clouds, some of which are the expanding shells of long dead stars, are also visible.  The above map was derived from the Southern H-Alpha Sky Survey Atlas (SHASSA) and shows that our entire Galaxy is one big emission nebula, albeit at a quite faint level.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/halpha_shassa_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Southern Sky in Warm Hydrogen",
+    "url": "https://apod.nasa.gov/apod/image/0201/halpha_shassa.jpg"
+},
+{
+    "copyright": "Shay Stephens",
+    "date": "2002-01-30",
+    "explanation": "Is the Moon larger when near the horizon?  No -- as shown above, the Moon appears to be very nearly the same size no matter its location on the sky.  Oddly, the cause or causes for the common Moon Illusion are still being debated. Two leading explanations both hinge on the illusion that foreground objects make a horizon Moon seem farther in the distance.  The historically most popular explanation then holds that the mind interprets more distant objects as wider, while a more recent explanation adds that the distance illusion may actually make the eye focus differently.  Either way, the angular diameter of the Moon is always about 0.5 degrees.  In the above time-lapse sequence taken near the end of last year, the Moon was briefly re-imaged every 2.5 minutes, with the last exposure of longer duration to bring up a magnificent panorama of the city of Seattle.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/seattlemoon_stephens_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Moonrise Over Seattle",
+    "url": "https://apod.nasa.gov/apod/image/0201/seattlemoon_stephens.jpg"
+},
+{
+    "date": "2002-01-31",
+    "explanation": "The stars beyond the Sun and the distant galaxies should be undetectable at extreme ultraviolet wavelengths. At least that was the conventional wisdom when it was first realized that the space between the stars is filled with hydrogen, a strong absorber of extreme ultraviolet light. But this idea was seriously questioned as it became apparent that interstellar hydrogen was patchy in its distribution and the quest to explore the extreme ultraviolet sky culminated in 1992 with the launch of the EUVE (Extreme UltraViolet Explorer) spacecraft. An all-sky map, based on the satellite's first six months of operation, appears above showing brightness variations in the EUV sky in false color (north is up). EUVE's scanning by orbit gives the picture a striped look while other instrument artifacts are seen as crosses and data gaps are dark. Multiple images of the Moon combine to form the short, bright dashed lines wandering along the middle of the picture. The belt stars of the familiar constellation Orion are fairly easy to make out left of picture center. EUVE's science operations ceased in 2001 but it ultimately detected nearly 1,000 celestial objects, including over three dozen outside our own galaxy. EUVE's voyage of discovery is now complete, and the spacecraft re-entered the Earth's atmosphere yesterday at approximately 11:15 p.m. EST.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0201/allsky_euve_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "EUVE Sky Map",
+    "url": "https://apod.nasa.gov/apod/image/0201/allsky_euve.jpg"
+},
+{
+    "date": "2002-02-01",
+    "explanation": "Where does a two-ton tiger hang out? Well, in this case the Trans-Iron Galactic Element Recorder (TIGER) experiment hangs from a mobile crane on the far left in this panorama photo recorded last December near McMurdo Station, Antarctica. The helium-filled balloon which carried TIGER aloft for a record setting 31+ days is stretched out far to the right (scroll right) against the background of majestic Mt. Erebus, the southernmost active volcano in the world. While cruising with its two-ton payload above 100,000 feet, the scientific balloon's fully inflated internal volume was roughly the same as the Louisiana Superdome, but its walls were as thin as shrinkwrap. TIGER was designed to detect the unexplained galactic cosmic rays -- atomic nuclei moving at near light-speed which impinge on the Earth from outside our Solar System. By making the first sensitive measurements of cosmic rays with atomic numbers between 26 (Iron) and 40 (Zirconium), TIGER investigators will seek to identify the type of astrophysical environments which could be sources of the galactic cosmic-ray material and possible ways in which the nuclei are accelerated to such high speeds.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/tigerlaunchPan_jasonlink_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Balloon TIGER",
+    "url": "https://apod.nasa.gov/apod/image/0202/tigerlaunchPan_jasonlink.jpg"
+},
+{
+    "date": "2002-02-02",
+    "explanation": "Deep inside Centaurus A, the closest active galaxy to Earth, lies ... another galaxy! Cen A is a giant elliptical galaxy a mere 10 million light-years distant with a central jumble of stars, dust, and gas that probably hides a massive black hole. This composite combines an optical picture of Cen A with dark lines tracing lobes of radio emission and an infrared image from the ISO satellite (in red). The ISO data maps out the dust in what appears to be a barred spiral galaxy about the size of the prominent nearby spiral M33. The discoverers believe that the giant elliptical's gravity helps this barred spiral galaxy maintain its shape. In turn, material funneled along the spiral's bar fuels the central black hole which powers the elliptical's radio lobes. This apparently intimate association between two distinct and dissimilar galaxies suggests a truly cosmic symbiotic relationship.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/cenasymgal_mirabel_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Centaurus A: The Galaxy Deep Inside",
+    "url": "https://apod.nasa.gov/apod/image/0202/cenasymgal_mirabel.jpg"
+},
+{
+    "copyright": "O. Lopez-CruzINAOEPAURANOAONSF",
+    "date": "2002-02-03",
+    "explanation": "Almost every object in the above photograph is a galaxy.  The Coma Cluster of Galaxies pictured above is one of the densest clusters known - it contains thousands of galaxies.  Each of these galaxies houses billions of stars - just as our own Milky Way Galaxy does.  Although nearby when compared to most other clusters, light from the Coma Cluster still takes hundreds of millions of years to reach us.  In fact, the Coma Cluster is so big it takes light millions of years just to go from one side to the other!  Most galaxies in Coma and other clusters are ellipticals, while most galaxies outside of clusters are spirals.  The nature of Coma's X-ray emission is still being investigated.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0008/coma_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Coma Cluster of Galaxies",
+    "url": "https://apod.nasa.gov/apod/image/0008/coma_noao.jpg"
+},
+{
+    "date": "2002-02-04",
+    "explanation": "A new comet has brightened unexpectedly and is currently visible to unaided observers of southern skies.  Comet C/2000 WM1 (LINEAR) is now reported by some observers to be at third magnitude, making it brighter -- although more diffuse -- than most visible stars.  A dust tail as long as 3 degrees has also been reported.  Pictured above is the center of Comet LINEAR (WM1) taken the morning of February 1 from 300 km north of Sydney, Australia.  A bright coma and the start of the dust tail are visible despite a bright, nearly full Moon.  The comet has now passed its closest approach to the Sun (January) and the Earth (December) and will move toward northern skies as it fades.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/linearwm1_garradd_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet LINEAR (WM1) Shines in the South",
+    "url": "https://apod.nasa.gov/apod/image/0202/linearwm1_garradd.jpg"
+},
+{
+    "date": "2002-02-05",
+    "explanation": "Two of the largest storm systems on Jupiter are colliding, and nobody is sure what will result.  The larger storm is the famous Great Red Spot, while the smaller is a large white oval.  Both are swirling cloud systems that circulate on Jupiter.  The white oval is part of a belt of clouds that circles Jupiter faster than the Great Red Spot.  The oval started being slowed by the Great Red Spot two weeks ago and the collision could last another month.  The oval will likely survive but could possibly be disrupted or absorbed.  The two storm systems went at it at least once before in 1975 causing the Spot's red color to fade for several years.  The passing Voyager 2 robot spacecraft took the above picture of Jupiter's Great Red Spot in 1979.  A different white oval was then visible below the Spot.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/jupredspot_vg2_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Giant Storm Systems Battle on Jupiter",
+    "url": "https://apod.nasa.gov/apod/image/0202/jupredspot_vg2.jpg"
+},
+{
+    "date": "2002-02-06",
+    "explanation": "What cosmic wallpaper is on the sky?  The answer depends on the type of light considered, and for some wavelengths, all the cluttering material in the foreground makes it still unknown.  Recently, however, the background in near infrared light was imaged at high resolution by the 2MASS telescope, and confirmed earlier estimates that it is over twice as bright as originally expected.  A small section of Cosmic Infrared Background (CIB) is shown above in representative colors.  Visible is light emitted from the very first stars and galaxies in the universe, emitted when the universe was less than half its current age.  The CIB is more uniform than the present universe since stars were more spread out at early times.  The brightness of the background indicates that many stars were forming in the universe between cosmological redshifts of one and seven.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/cib_2mass_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Cosmic Infrared Background",
+    "url": "https://apod.nasa.gov/apod/image/0202/cib_2mass.jpg"
+},
+{
+    "date": "2002-02-07",
+    "explanation": "This ominous, dark shape sprawling across the face of the active Sun is a coronal hole -- a low density region extending above the surface where the solar magnetic field opens freely into interplanetary space. Studied extensively from space since the 1960s in ultraviolet and x-ray light, coronal holes are known to be the source of the high-speed solar wind, atoms and electrons which flow outward along the open magnetic field lines. During periods of low activity, coronal holes typically cover regions just above the Sun's poles. But this coronal hole, one of the largest seen so far in the current solar activity cycle, extends from the south pole (bottom) well into northern hemisphere.  Coronal holes like this one may last for a few solar rotations before the magnetic fields shift and change configurations. Shown in false-color, this picture of the Sun on January 8th was made in extreme ultraviolet light by the EIT instrument on board the space-based SOHO observatory.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/coronahole_020108eit_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Coronal Hole",
+    "url": "https://apod.nasa.gov/apod/image/0202/coronahole_020108eit.jpg"
+},
+{
+    "date": "2002-02-08",
+    "explanation": "The quasar known as PKS 1127-145 lies ten billion light-years from our fair planet. A Hubble Space Telescope view in the left panel shows this quasar along with other galaxies as they appear in optical light. The quasar itself is the brightest object in the lower right corner. In the right panel is a Chandra Observatory x-ray picture, exactly corresponding to the Hubble field. While the more ordinary galaxies are not seen in the Chandra image, a striking jet, nearly a million light-years long, emerges from the quasar to dominate the x-ray view. Bright in both optical and x-ray light, the quasar is thought to harbor a supermassive black hole which powers the jet and makes PKS 1127-145 visible across the spectrum -- a beacon from the distant cosmos.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/pks1127_xray_opt_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "PKS 1127-145: Quasar View",
+    "url": "https://apod.nasa.gov/apod/image/0202/pks1127_xray_opt.jpg"
+},
+{
+    "copyright": "Olivier Staiger",
+    "date": "2002-02-09",
+    "explanation": "Fighting clouds and the glow of city lights, a young Moon shines over the western horizon of Mongolia's capital, Ulaan-Baatar. The thin sunlit crescent is about 2 days old and strongly over exposed in this image taken on March 10, 1997. The night side of the Moon is also visible due to earthshine - sunlight reflected from the Earth to the Moon. Just below the Moon, bright Saturn shines through the clouds. Skygazers will have a chance to watch the Moon actually pass in front of the ringed planet in February, March, and April this year. In fact, an excellent lunar occultation of Saturn will be visible from parts of North America on February 20th as Saturn disappears behind the dark limb of a first quarter Moon. Some may even take this opportunity to search for Saturn's lost ring.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/mongoliamoon_staiger.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Moon Over Mongolia",
+    "url": "https://apod.nasa.gov/apod/image/0202/mongoliamoon_staiger.jpg"
+},
+{
+    "copyright": "American ScientistPriscilla FrischU. Chicago",
+    "date": "2002-02-10",
+    "explanation": "The stars are not alone.  In the disk of our Milky Way Galaxy about 10 percent of visible matter is in the form of gas, called the interstellar medium (ISM).  The ISM is not uniform, and shows patchiness even near our Sun.  It can be quite difficult to detect the local ISM because it is so tenuous and emits so little light.  This mostly hydrogen gas, however, absorbs some very specific colors that can be detected in the light of the nearest stars.  A working map of the local ISM within 10 light-years based on recent observations is shown above.  These observations show that our Sun is moving through a Local Interstellar Cloud as this cloud flows outwards from the Scorpius-Centaurus Association star forming region.  Our Sun may exit the Local Interstellar Cloud during the next 10,000 years.  Much remains unknown about the local ISM, including details of its distribution, its origin, and how it affects the Sun and the Earth.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0004/localcloud_frisch_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Local Interstellar Cloud",
+    "url": "https://apod.nasa.gov/apod/image/0004/localcloud_frisch.jpg"
+},
+{
+    "copyright": "AAO",
+    "date": "2002-02-11",
+    "explanation": "An eerie blue glow and ominous columns of dark dust highlight M78, one of the brightest  reflection nebula on the sky. M78 is visible with a small telescope toward the constellation of Orion.  The dust not only absorbs light, but also reflects the light of several bright blue stars that formed recently in the nebula.  The same type of scattering that colors the daytime sky further enhances the blue color.  M78 is about five light-years across. M78 appears above only as it was 1600 years ago, however, because that is how long it takes light to go from there to here.  M78 belongs to the larger Orion Molecular Cloud Complex that contains the Great Nebula in Orion and the Horsehead Nebula.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/m78_aao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Reflection Nebula M78",
+    "url": "https://apod.nasa.gov/apod/image/0202/m78_aao.jpg"
+},
+{
+    "date": "2002-02-12",
+    "explanation": "Can you help in reducing this blanket of methane gas that is warming up our Earth?  Recent evidence holds that methane (CH4) is second only to carbon dioxide (CO2) in creating a warming greenhouse effect but is easier to control.  Atmospheric methane has doubled over the past 200 years, and its smothering potency is over 20 times that of CO2.  Methane may even be responsible for a sudden warming of the Earth by seven degrees Celsius about 55 million years ago.  As most methane is produced biologically, the gas is sometimes associated with bathroom humor.  The largest abundance released by the US, however, is created when anaerobic bacteria break down carbon-based garbage in landfills. Therefore, a more effective way to help our planet than trying to restrict your own methane emissions would be to encourage efficient landfill gas management.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/methearth_giss_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Methane Earth",
+    "url": "https://apod.nasa.gov/apod/image/0202/methearth_giss.jpg"
+},
+{
+    "copyright": "Robert Gendler",
+    "date": "2002-02-13",
+    "explanation": "Few astronomical sights excite the imagination like the nearby stellar nursery known as the Orion Nebula.  The Nebula's glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away.  The Great Nebula in Orion can be found with the unaided eye just below and to the left of the easily identifiable belt of three stars in the popular constellation Orion. The above image has been contrast balanced to bring out Orion's detail in spectacular fashion.  Visible simultaneously are the bright stars of the Trapezium in Orion's heart, the sweeping lanes of dark dust that cross the center, the pervasive red glowing hydrogen gas, and the blue tinted dust that reflects the light of newborn stars.  The whole Orion Nebula cloud complex, which includes the Horsehead Nebula, will slowly disperse over the next 100,000 years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/orion_gendler_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Great Nebula in Orion",
+    "url": "https://apod.nasa.gov/apod/image/0202/orion_gendler.jpg"
+},
+{
+    "date": "2002-02-14",
+    "explanation": "On another Valentine's Day (February 14, 1990), cruising four billion miles from the Sun, the Voyager 1 spacecraft looked back to make this first ever family portrait of our Solar System. The complete portrait is a 60 frame mosaic made from a vantage point 32 degrees above the ecliptic plane. Voyager's wide angle camera frames sweep through the inner Solar System (far left) linking up with gas giant Neptune, at the time the Solar System's outermost planet (scroll right). Positions for Venus, Earth, Jupiter, Saturn, Uranus, and Neptune are indicated by the corresponding letters while the Sun is the bright spot near the center of the circle of frames. The inset frames for each of the planets are from Voyager's narrow field camera. Unseen in the portrait are Mercury, too close to the Sun to be detected, and Mars, unfortunately hidden by sunlight scattered in the camera's optical system. Small, faint Pluto's position was not covered.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/ssportrait_vg1_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Solar System Portrait",
+    "url": "https://apod.nasa.gov/apod/image/0202/ssportrait_vg1.jpg"
+},
+{
+    "date": "2002-02-15",
+    "explanation": "Born on today's date in 1564, Galileo used a telescope to explore the Solar System. In 1610, he became the first to be amazed by Saturn's rings. After nearly 400 years, Saturn's magnificent rings still offer one of the most stunning astronomical sights. Uniquely bright compared to the rings of the other gas giants, Saturn's ring system is around 250,000 kilometers wide but in places only a few tens of meters thick. Modern astronomers believe the rings are perhaps only a hundred million years young. But accumulating dust and dynamically interacting with Saturn's moons, the rings may eventually darken and sag toward the gas giant, losing their lustre over the next few hundred million years. Since Galileo, astronomers have subjected the entrancing rings to intense scrutiny to unlock their secrets. Still mesmerized, some will take advantage of next week's (February 20th) favorable lunar occultation of Saturn to search for evidence of ring material outside the well known boundaries of the ring system. The presence of such a \"lost\" ring of Saturn was first hinted at in reports dating back to the early 20th century.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/lordofrings_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Saturn: Lord of the Rings",
+    "url": "https://apod.nasa.gov/apod/image/0202/lordofrings_hst.jpg"
+},
+{
+    "date": "2002-02-16",
+    "explanation": "Miranda is a bizarre world which surely had a tempestuous past. The innermost of the larger Uranian moons, Miranda is almost 300 miles in diameter and was discovered on today's date in 1948 by American planetary astronomer Gerard Kuiper. Examined very closely by the Voyager 2 spacecraft in 1986, this dark and distant world turned out to be quite a surprise. Miranda was found to display a unique, bewildering variety of terrain leading some to suggest that it has been fractured up to 5 times during its evolution. Along with the famous \"chevron\" feature, the bright V-shaped area just above center, this composite of the highest resolution images of Miranda shows wild juxtapositions of ridges and valleys, older cratered and younger smooth surfaces, and shadowy canyons perhaps 12 miles deep.  The large crater (below center) is the 15 mile wide crater Alonso.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/miranda_vg2mos1_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Miranda, Chevron, and Alonso",
+    "url": "https://apod.nasa.gov/apod/image/0202/miranda_vg2mos1.jpg"
+},
+{
+    "copyright": "American ScientistPriscilla FrischU. Chicago",
+    "date": "2002-02-17",
+    "explanation": "What surrounds the Sun in this neck of the Milky Way Galaxy?  Our current best guess is depicted in the above map of the surrounding 1500 light years constructed from various observations and deductions.  Currently, the Sun is passing through a Local Interstellar Cloud (LIC), shown in violet, which is flowing away from the Scorpius-Centaurus Association of young stars.  The LIC resides in a low-density hole in the interstellar medium (ISM) called the Local Bubble, shown in black.  Nearby, high-density molecular clouds including the Aquila Rift surround star forming regions, each shown in orange.  The Gum Nebula, shown in green, is a region of hot ionized hydrogen gas.  Inside the Gum Nebula is the Vela Supernova Remnant, shown in pink, which is expanding to create fragmented shells of material like the LIC.  Future observations should help astronomers discern more about the local Galactic Neighborhood and how it might have affected Earth's past climate.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0004/galacticneighborhood_frisch_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Local Bubble and the Galactic Neighborhood",
+    "url": "https://apod.nasa.gov/apod/image/0004/galacticneighborhood_frisch.gif"
+},
+{
+    "copyright": "Jayanne English",
+    "date": "2002-02-18",
+    "explanation": "Shells of ancient supernovas, cocoons surrounding newborn stars, and specks from  distant quasars highlight this tremendous vista toward the constellation of Cygnus.  The representative color image covers about 10 degrees across on the sky but is only a small part of the Canadian Galactic Plane Survey in radio light.  Diffuse bands of ionized gas flow though a dominating region of star formation, located about 6000 light-years away.  Two prominent supernova shells visible include the brown globule on the lower left and the white bumpy sphere on the upper right.  To the left of the brown globule is the entire North America Nebula.  Prominent stellar cocoons are visible throughout the image as bright white knots.  Some of these stars will likely generate future supernova shells.  Far in the distance, visible here as only red dots, quasars glow.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/cygnus_cgps_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Radio Vista of Cygnus",
+    "url": "https://apod.nasa.gov/apod/image/0202/cygnus_cgps.jpg"
+},
+{
+    "date": "2002-02-19",
+    "explanation": "Does water exist today on Mars?  Yes, although the only place on Mars known to have water is the North Polar Cap, and that water is frozen.  Views of this potentially life-enabling water-ice are usually obscured -- in the winter by darkness and in the summer by clouds.  Last April, however, the orbiting Mars Global Surveyor spacecraft was able to get a good glimpse of the water-bearing cap just before Martian spring.  Low, dark layers in the above image are thought to contain a large amount of sand, while high, light layers likely contain higher amounts of water-ice.  The image spans an area about 5 kilometers across.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/marswater_mgs_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Water-Ice Imaged in Martian Polar Cap",
+    "url": "https://apod.nasa.gov/apod/image/0202/marswater_mgs.jpg"
+},
+{
+    "date": "2002-02-20",
+    "explanation": "One of these stars is blinking.  This star, a member of globular cluster NGC 6397, is noteworthy not just because it blinks, but because it blinks so fast and because its companion star is so atypical.  Speculation holds that this might be a neutron star spun up to a rate of 274 rotations each second by the bloated red star it orbits.  Matter gravitationally pulled from the bloated star likely orbits the millisecond pulsar, making it spin faster when it crashes onto the surface.  The odd system might have resulted when the neutron star captured a normal star after a near collision near the globular cluster's dense center.  Other collisions near the center of NGC 6397 are thought to have produced other oddities -- blue straggler stars.  The Hubble Space Telescope took the above image of the colorful globular cluster.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/ngc6397_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Oddities of Star Cluster NGC 6397",
+    "url": "https://apod.nasa.gov/apod/image/0202/ngc6397_hst.jpg"
+},
+{
+    "copyright": "Andrew Cooper",
+    "date": "2002-02-21",
+    "explanation": "Comet Ikeya-Zhang is presently heading north in planet Earth's sky, framed by stars of the constellation Cetus. The comet was discovered as a faint, telescopic object near the western horizon on the evening of February 1st independently by Kaoru Ikeya of Shizuoka prefecture, Japan, Daqing Zhang in Henan province, China, and later by observer Paulo Raymundo of Salvador, Brazil. But Ikeya-Zhang is expected to brighten significantly and in March and April could become visible to the unaided eye. This picture, taken near Tucson, Arizona, USA on the evening of February 9th, covers a field a bit less than the width of the full moon showing the comet's condensed coma and narrow, developing tail. Ikeya-Zhang should pass closest to the Sun (perihelion) on March 18 at a point roughly midway between the orbits of Mercury and Venus. Based on preliminary calculations of this comet's orbit, Ikeya-Zhang is suspected of being a periodic comet, returning to the inner Solar System every 500 years or so. In fact, it is speculated that Ikeya-Zhang may be directly connected with a historic bright comet seen in 1532.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/ikeyazhang_cooper_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet Ikeya-Zhang",
+    "url": "https://apod.nasa.gov/apod/image/0202/ikeyazhang_cooper.jpg"
+},
+{
+    "copyright": "Tom MartinezAstronomical\nSociety of Kansas City",
+    "date": "2002-02-22",
+    "explanation": "Gliding through the sky on Wednesday evening, February 20th, a first quarter Moon seemed to run over bright planet Saturn as viewed from much of North America. In this sharp sequence of telescopic digital images from the Powell Observatory near Louisburg, Kansas, USA, Saturn is seen reappearing from behind the bright lunar limb over a period of about 2 minutes. The ringed planet emerges above the dark, smooth lunar Mare Crisium (Sea of Crises). This lunar occultation was widely anticipated in part because the ringed planet and the brilliant Moon are both spectacular celestial sights. Now, European sky gazers will have their turn as the Moon occults the Solar System's largest planet, Jupiter in early morning hours on Saturday, February 23rd.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/occsat_martinez_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Saturn at the Lunar Limb",
+    "url": "https://apod.nasa.gov/apod/image/0202/occsat_martinez.jpg"
+},
+{
+    "date": "2002-02-23",
+    "explanation": "Fifteen years ago today, the brightest supernova of modern times was sighted. Over time, astronomers have watched and waited for the expanding debris from this tremendous stellar explosion to crash into previously expelled material.  A clear result of such a collision is demonstrated above in two frames recorded by the Hubble Space Telescope in 1994 (left) and 1997(right). While the central concentration of stellar debris has clearly evolved over this period, the yellow spot on the ring in the righthand picture announces the collision of an outward moving blast wave with the pre-existing, light-year wide ring.  The collision is occurring at speeds near 60 million kilometers per hour and shock-heats the ring material causing it to glow.  Astronomers are hopeful that such collisions will illuminate the interesting past of SN 1987A, and perhaps provide more clues about the origin of the mysterious rings.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/sn87aknot_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Shocked by Supernova 1987A",
+    "url": "https://apod.nasa.gov/apod/image/0202/sn87aknot_hst.jpg"
+},
+{
+    "date": "2002-02-24",
+    "explanation": "Sir Isaac Newton changed the world.  Born in 1642, Newton was only an above-average student.  But he went home from Cambridge one summer in 1665, thought a lot about the physical nature of the world, and came back two years later with a revolutionary understanding of mathematics, gravitation, and optics.  A Professor of his, upon understanding what Newton had done, resigned his own position at Cambridge so Newton could have it.  Newton's calculus provided a new mathematical framework for the rapid solution of whole classes of physical problems.  Newton's law of gravitation explained in one simple formula how apples fall and planets move.  Newton's insights proved to be so overwhelmingly powerful he was the first scientist ever knighted.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0007/IsaacNewton.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Isaac Newton Explains the Solar System",
+    "url": "https://apod.nasa.gov/apod/image/0007/IsaacNewton.jpg"
+},
+{
+    "date": "2002-02-25",
+    "explanation": "Tomorrow's picture: Plasma Jets  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA/ GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/crescenteuropa_vg2_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Crescent Europa",
+    "url": "https://apod.nasa.gov/apod/image/0202/crescenteuropa_vg2.jpg"
+},
+{
+    "copyright": "AUINRAO",
+    "date": "2002-02-26",
+    "explanation": "Jets of streaming plasma expelled by the central black hole of a massive elliptical galaxy likely light up this composite image of 3C296.  The jets emanating from NGC 5532 and are nearly a million light years long.  Exactly how the central black hole expels the infalling matter is still unknown.  After clearing the galaxy, however, the jets inflate large radio bubbles that could glow for millions of years.  If excited by a passing front, radio bubbles can even light up again after a billion years.  Visible light is depicted in the above image in blue, while radio waves are shown in red.  The radio map was created with the Very Large Array of radio telescopes.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/3c296_nrao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Jets from Radio Galaxy 3C296",
+    "url": "https://apod.nasa.gov/apod/image/0202/3c296_nrao.jpg"
+},
+{
+    "copyright": "Kee Hinckley",
+    "date": "2002-02-27",
+    "explanation": "What could cause a ray of dark?  Such a ray was caught in spectacular fashion above the Florida Everglades two years ago.  The cause is something surprisingly familiar: a shadow.  The gold-tinged cloud near the horizon blocks sunlight from reflecting off air behind the cloud, making that column of air appear unusually dark.  Cloud shadows can be thought of the inverse of the more commonly highlighted crepuscular rays, where sunlight pours though cloud holes.  Another seemingly opposite phenomenon, a sun pillar, involves small ice crystals floating high in the atmosphere.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/cloudshadow_hinckley_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Cloud Shadow Sunrise",
+    "url": "https://apod.nasa.gov/apod/image/0202/cloudshadow_hinckley.jpg"
+},
+{
+    "date": "2002-02-28",
+    "explanation": "Modern astronomers keep a long list of things that go bump in the night. Near the top are supernovae - the death explosions of massive stars, and gamma-ray bursts - the most powerful explosions seen across the Universe. Intriguingly, the galaxy in the above Hubble Space Telescope image may have been host to both a supernova and a gamma-ray burst which were one and the same event. ESO 184-G82 is a spiral galaxy with a prominent central bar and loose spiral arms dotted with bright star-forming regions. The inset shows an expanded view of one of the star-forming regions, about 300 light-years across. Indicated is the location of an extraordinarily powerful supernova explosion whose light first reached planet Earth on April 25, 1998. That location and date also correspond to the detection of an unusual gamma-ray burst, which may be representative of a peculiar class of these cosmic high-energy flashes. So far, this combination is unique and makes barred spiral ESO 184-G82, at a distance of only 100 million light-years, the closest known gamma-ray burst host galaxy.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0202/eso184-g82_c1.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "ESO 184-G82: Supernova - Gamma Ray Burst Connection",
+    "url": "https://apod.nasa.gov/apod/image/0202/eso184-g82_c3.jpg"
+},
+{
+    "date": "2002-03-01",
+    "explanation": "The Solar System's largest planet, gas giant Jupiter, is famous for its swirling Great Red Spot. In the right hand panel above, the familiar giant planet with storm system and cloud bands is shown in an optical image from the passing Cassini spacecraft. In the left hand panel, a false-color image from the orbiting Chandra Observatory presents a corresponding x-ray view of Jupiter. The Chandra image shows clearly, for the first time, x-ray spots and auroral x-ray emission from the poles. The x-ray spot dominating the emission from Jupiter's north pole (top) is perhaps as surprising for astronomers today as the Great Red Spot once was. Confounding previous theories, the x-ray spot is too far north to be associated with heavy electrically charged particles from the vicinity of volcanic moon Io. Chandra data also show that the spot's x-ray emission mysteriously pulsates over a period of about 45 minutes.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/xrayoptjup_comp.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Jupiter's Great X-Ray Spot",
+    "url": "https://apod.nasa.gov/apod/image/0203/xrayoptjup_comp.jpg"
+},
+{
+    "date": "2002-03-02",
+    "explanation": "While searching the skies above 18th century France for comets, astronomer Charles Messier diligently recorded this object as number 27 on his list of things which are definitely not comets. So what is it? Well, 20th century astronomers would classify it as a Planetary Nebula ... but it's not a planet either, even though it may appear round and planet-like in a small telescope. Messier 27 (M27) is now known to be an excellent example of a gaseous emission nebula created as a sun-like star runs out of nuclear fuel in its core. The nebula forms as the star's outer layers are expelled into space, with a visible glow generated by atoms excited by the dying star's intense but invisible ultraviolet light. Known by the popular name of the Dumbbell Nebula, the beautifully symmetric interstellar gas cloud is about 1,200 light-years away in the constellation Vulpecula. This gorgeous synthetic color picture of M27 was produced during testing of one of the European Southern Observatory's Very Large Telescopes.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/m27_vlt_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M27: Not A Comet",
+    "url": "https://apod.nasa.gov/apod/image/0203/m27_vlt.jpg"
+},
+{
+    "date": "2002-03-03",
+    "explanation": "Tomorrow's picture: 5,000 horsepower  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA/ GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0008/erosregolith_near_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Regolith of Asteroid Eros",
+    "url": "https://apod.nasa.gov/apod/image/0008/erosregolith_near.jpg"
+},
+{
+    "date": "2002-03-04",
+    "explanation": "NASA's Crawler-Transporters are the largest tracked vehicles in existence.  Although the crawlers pack over 5,000 horsepower, their top speed is less than two kilometers per hour when fully loaded.  Eleven people are needed to drive a single crawler.  Diesel fuel mileage is about 350 liters per kilometer (less than 0.007 miles per gallon).  The crawler's function is to move NASA's space shuttles -- complete with launch platforms -- from the Assembly Building to the Launch Pad at Kennedy Space Center in Florida, USA.  Two of these massive machines have operated since the Apollo era and have now crawled over 4,000 kilometers, all the while keeping their contents perfectly upright. In this picture a crawler transports the shuttle Columbia to the pad prior to its March 1st launch on the latest Hubble Space Telelescope Servicing Mission.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/columbiacrawler_ksc_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Shuttle Crawler Transporter",
+    "url": "https://apod.nasa.gov/apod/image/0203/columbiacrawler_ksc_c2.jpg"
+},
+{
+    "date": "2002-03-05",
+    "explanation": "Here are the true colors of planet Earth.  Blue oceans dominate our world, while areas of green forest, brown mountains, tan desert, and white ice are also prominent.  Oceans appear blue not only because water itself is blue but also because seawater frequently scatters light from a blue sky.  Forests appear green because they contain chlorophyll, a pigment that preferentially absorbs red light.  The above image is a composite generated predominantly with data from Moderate Resolution Imaging Spectroradiometer (MODIS), an instrument mounted on the Terra satellite that has orbited Earth since 1999 December.  Sub-areas were imaged only when experiencing cloud-free daylight when it occurred from June through September 2001.  The Earth looks much different at night.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/earthtruecolor_nasa_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Earth in True Color",
+    "url": "https://apod.nasa.gov/apod/image/0203/earthtruecolor_nasa.jpg"
+},
+{
+    "date": "2002-03-06",
+    "explanation": "Stunningly detailed, this picture is a computer simulated view of a cluster of galaxies in the distant cosmos. A large, elliptical galaxy dominates this hypothetical cluster's central region surrounded by a swarm of member galaxies. Other galaxies which lie far behind the cluster are seen as numerous visible concentric arcs - lensed by the enormous gravitational field dominated by dark matter within the cluster itself. Such magnificent images are expected to be achieved by the Advanced Camera for Surveys (ACS), one of the upgrades being installed on the Hubble Space Telescope during the ongoing servicing mission. Compared to Hubble's workhorse Wide Field Planetary Camera 2 (WFPC2), whose achievements include the current deep field views of the Universe, the new technology ACS will be twice as sharp an imager with twice the field of view and five times the sensitivity.  Along with extended views of the distant cosmos, enthusiastic astronomers also plan to use the ACS to monitor our own Solar System and to search for planets orbiting stars beyond the Sun.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/simcluster_hubbleACS_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Simulated Galaxy Cluster View",
+    "url": "https://apod.nasa.gov/apod/image/0203/simcluster_hubbleACS_c2.jpg"
+},
+{
+    "copyright": "Gerald Rhemann",
+    "date": "2002-03-07",
+    "explanation": "In the last week, Comet Ikeya-Zhang has become bright enough to be just visible to the unaided eye. Based on its present activity, observers are optimistic that Ikeya-Zhang will become substantially brighter. This composite color image from March 3rd, captured with a wide-field telescope, shows this active comet's bright, condensed coma and a delightful array of subtle structures in its developing tail. The bluish tail stretches for 5 degrees or so against a background of stars in the constellation Pisces. In the coming days look for the comet hanging low in the western evening sky (below a bright yellowish Mars), eventually becoming difficult to see in the March twilight. But after April begins, Ikeya-Zhang will become a predawn object climbing higher into the morning sky as the month progresses. Cataloged as comet C/2002 C1, improved orbit determinations now make it seem very likely that Comet Ikeya-Zhang has been around here before. Refined calculations indicate this comet's last trip through the inner Solar System was 341 years ago, in 1661, when it was recorded as a bright comet.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/ikzhMarz3_rhemann_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet Ikeya-Zhang Brightens",
+    "url": "https://apod.nasa.gov/apod/image/0203/ikzhMarz3_rhemann.jpg"
+},
+{
+    "date": "2002-03-08",
+    "explanation": "Trailing a thick column of exhaust, the Space Shuttle Columbia blasted into the twilight morning sky on March 1, its thundering rockets briefly flooding a cloud bank with the light of a false dawn. The event marked the start of the ongoing eleven day mission to upgrade the Hubble Space Telescope. Hubble's upgrades include the installation of new solar arrays and a new camera. Columbia's crew is scheduled to complete the work today in the last of five space walks. Columbia's launch also marks the first flight of the oldest operating space shuttle after receiving extensive upgrades itself, designed to increase its capabilities for missions to low Earth orbit. The shuttle landing is expected at Kennedy Space Center on March 12.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/columbiadawn_barrett_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Columbia Dawn",
+    "url": "https://apod.nasa.gov/apod/image/0203/columbiadawn_barrett.jpg"
+},
+{
+    "date": "2002-03-09",
+    "explanation": "Quasars (QUASi-stellAR objects) lie near the edge of the observable Universe. Discovered in 1963, astronomers were astounded that such objects could be visible across billions of light-years, as this implies they must emit prodigious amounts of energy. Where does the energy come from? Many believe the quasar's central engine is a giant black hole fueled by tremendous amounts of infalling gas, dust, and stars. This gallery of quasar portraits from the Hubble Space Telescope offers a look at their local neighborhoods: the quasars themselves appear as the bright star-like objects with diffraction spikes. The images in the center and right hand columns reveal quasars associated with disrupted colliding and merging galaxies which should provide plenty of debris to feed a hungry black hole.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/qsohosts_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Quasar Portrait Gallery",
+    "url": "https://apod.nasa.gov/apod/image/0203/qsohosts_hst.jpg"
+},
+{
+    "copyright": "Gordon Garradd",
+    "date": "2002-03-10",
+    "explanation": "On 1996 March 22, a Galaxy and a comet shared the southern sky.  They were captured together, from horizon to horizon, in the night sky above Loomberah, New South Wales, Australia by astronomer Gordon Garradd. Garradd used a home made all-sky camera with a fisheye lens, resulting in a circular 200 degree field of view.  This gorgeous sky view was dominated by the luminous band of our Milky Way Galaxy cut by dramatic, dark interstellar dust clouds.  Along with the bright stars of our Galaxy, the Large Magellanic Cloud is visible at the lower left.  That night sky was also graced by the long, lovely, bluish tail of Comet Hyakutake, which can be seen toward the top of the image, near the bright star Arcturus.  Bright city lights from nearby Tamworth glow along the Northwestern horizon.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/galaxycomet_garradd_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Southern Sky View",
+    "url": "https://apod.nasa.gov/apod/image/0203/galaxycomet_garradd.jpg"
+},
+{
+    "date": "2002-03-11",
+    "explanation": "The largest single-dish fully steerable radio telescope began operation in 2000 August in Green Bank, West Virginia, USA.  Dedicated as the Robert C. Byrd Green Bank Telescope, the device weighs over 30 times more than the Statue of Liberty, and yet can point anywhere in the sky more precisely than one thousandth of a degree.  The main dish is so large that it could house a football game, allowing it to hear even the faint murmurs of quasars located across the universe.  Anyone can propose to use the Green Bank Telescope, although formal proposals are reviewed competitively.  The Green Bank Telescope's large size and innovative design are allowing it to investigate radio waves emitted from comets, planets, pulsars, distant galaxies, and the distant early universe.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/greenbank_nrao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The 100-Meter Green Bank Radio Telescope",
+    "url": "https://apod.nasa.gov/apod/image/0203/greenbank_nrao.jpg"
+},
+{
+    "date": "2002-03-12",
+    "explanation": "What could cause a huge cylindrical mountain to rise from the surface of Venus?  Such features that occur on Venus are known as coronas.  Pictured above in the foreground is 500-kilometer wide Atete Corona found in a region of Venus known as the Galindo.  The image was created by combining multiple radar maps of the region to form a computer-generated three-dimensional perspective.  The series of dark rectangles that crosses the image from top to bottom were created by the imaging procedure and are not real. The origin of massive coronas remains a mystery although speculation holds they result from some form of volcanism.  Studying Venusian coronas help scientists better understand the inner structure of both Venus and Earth.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/atetecorona_magellan_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Atete Corona on Venus",
+    "url": "https://apod.nasa.gov/apod/image/0203/atetecorona_magellan.jpg"
+},
+{
+    "date": "2002-03-13",
+    "explanation": "This arcing, graceful structure is actually a bow shock about half a light-year across, created as the wind from young star LL Orionis collides with the Orion Nebula flow. Adrift in Orion's stellar nursery and still in its formative years, variable star LL Orionis produces a wind more energetic than the wind from our own middle-aged sun. As the fast stellar wind runs into slow moving gas a shock front is formed, analogous to the bow wave of a boat moving through water or a plane traveling at supersonic speed. The slower gas is flowing away from the Orion Nebula's hot central star cluster, the Trapezium, located off the lower right hand edge of the picture. In three dimensions, LL Ori's wrap-around shock front is shaped like a bowl that appears brightest when viewed along the \"bottom\" edge. The complex stellar nursery in Orion shows a myriad of similar fluid shapes associated with star formation, including the bow shock surrounding a faint star at the upper right. Part of a mosaic covering the Great Nebula in Orion, this composite color image was recorded in 1995 by the Hubble Space Telescope.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/llori_hstheritage_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "LL Orionis: When Cosmic Winds Collide",
+    "url": "https://apod.nasa.gov/apod/image/0203/llori_hstheritage.jpg"
+},
+{
+    "date": "2002-03-14",
+    "explanation": "Tomorrow's picture: Neutron Mars  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA/ GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/hst_sts109_e5631.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "SM3B: Mission to Hubble",
+    "url": "https://apod.nasa.gov/apod/image/0203/hst_sts109_c1.jpg"
+},
+{
+    "date": "2002-03-15",
+    "explanation": "Looking for water on Mars, researchers using detectors on board the orbiting Mars Odyssey spacecraft have created this false-color global map of energetic neutrons from the otherwise Red Planet. What do neutrons have to do with water? As cosmic rays from interplanetary space penetrate the thin martian atmosphere and reach the surface they interact with elements in the upper layer of soil, scattering neutrons back into space. But if the martian soil contains hydrogen, it seriously absorbs energetic scattered neutrons. Tracking variations in absorption, neutron detectors can map changes in surface hydrogen content from orbit. Hydrogen content is taken as a surrogate measure of frozen water (H20), the most likely form of hydrogen close to the martian surface. Blue shades in the above map correspond to large concentrations of hydrogen, indicating in particular that the martian south polar region has a high amount of water ice near the surface.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/nmars_odyssey_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Neutron Mars",
+    "url": "https://apod.nasa.gov/apod/image/0203/nmars_odyssey.jpg"
+},
+{
+    "date": "2002-03-16",
+    "explanation": "Do you recognize the Earth's Moon when you see it? The crazy, patchwork appearance of the false-color image makes this almost full view of the Moon's familiar near side look very strange. The Sea of Tranquillity (Mare Tranquillitatis) is the bright blue area at right, the Ocean of Storms (Oceanus Procellarum) is the extensive blue and orange area on the left, and white lines radiate from the crater Tycho at bottom center. Recorded in 1992 by the Galileo spacecraft enroute to Jupiter, the picture is a mosaic of 15 images taken through three color filters. The image data were combined in an exaggerated color scheme to emphasize composition differences - blue hues reveal titanium rich areas while orange and purple colors show regions relatively poor in titanium and iron. Multicolor images exploring the Moon's global surface composition were made in 1994 by the Clementine spacecraft.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/moon_gal_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Colorful Moon",
+    "url": "https://apod.nasa.gov/apod/image/0203/moon_gal.jpg"
+},
+{
+    "copyright": "J. C. CuillandreCFHT StaffCFHT",
+    "date": "2002-03-17",
+    "explanation": "In the heart of the Rosette Nebula lies a bright open cluster of stars that lights up the nebula.  The stars of NGC 2244 formed from the surrounding gas only four million years ago and emit light and wind that define the nebula's appearance today.  High energy light from the bright young stars of NGC 2244 ionizes the surrounding hydrogen gas clouds to create the red emission nebula appearance.  The hot wind of particles that streams away from the cluster stars contributes to an already complex menagerie of gas and dust filaments while slowly evacuating the cluster center.  NGC 2244 measures about 50 light-years across, lies about 4500 light-years away, and is visible with binoculars towards the constellation of Monoceros.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0008/ngc2244_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 2244: A Star Cluster in the Rosette Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0008/ngc2244_cfht.jpg"
+},
+{
+    "copyright": "Gilbert Jones",
+    "date": "2002-03-18",
+    "explanation": "One of the brightest comets of the past five years will likely reach its peak brightness this week.  Comet Ikeya-Zhang, officially known as C/2002 C1, can now be seen without aide from a dark location above the western horizon shortly after sunset.  Recent luminosity estimates for Comet Ikeya-Zhang place it between magnitudes three and four, making it brighter than most commonly visible stars.  The above picture was taken on March 11 near Tucson, Arizona, USA.  The image caught Comet Ikeya-Zhang showing a quite detailed ion tail, possibly disrupted by the magnetic field of the Sun's outwardly flowing particle wind.  As the activity of comets is notoriously hard to predict, Comet Ikeya-Zhang may still hold some surprises as it rounds the Sun this month and starts back out of the Solar System in April.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/ikeyazhang_jones_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet Ikeya-Zhang's Busy Tail",
+    "url": "https://apod.nasa.gov/apod/image/0203/ikeyazhang_jones.jpg"
+},
+{
+    "date": "2002-03-19",
+    "explanation": "In the distant universe, time appears to run slow.  Since time-dilated light appears shifted toward the red end of the spectrum (redshifted), astronomers are able to use cosmological time-slowing to help measure vast distances in the universe.  Above, the light from distant galaxies has been broken up into its constituent colors (spectra), allowing astronomers to measure the redshift of known spectral lines.  The novelty of the above image is that the distance to hundreds of galaxies can now be measured on a single frame using the Visible MultiObject Spectrograph that has begun operating at the Very Large Telescope array in Chile.  Analyzing the space distribution of distant objects will allow insight into when and how stars, galaxies, and quasars formed, clustered, and evolved in the early universe.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/galaxyspectra_vlt_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Breaking Distant Light",
+    "url": "https://apod.nasa.gov/apod/image/0203/galaxyspectra_vlt.jpg"
+},
+{
+    "copyright": "Robert SchwarzU. Wisconsin",
+    "date": "2002-03-20",
+    "explanation": "Looking out from the bottom of the world, strange and spectacular sights are sometimes observed.  Such was the case during the long Antarctic night of 1998, as awesome aurora sub-storms were photographed above scientific outposts.  Visible in the left foreground of the above photograph is the Martin A. Pomerantz Observatory while the now defunct SPIREX telescope canvas dome is visible to its right.  The outside temperature at the time this photograph was taken was about -73 Celsius (-100 Fahrenheit), although a slightly heated box sheltered the camera.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/spaurora1_schwarz.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Aurora Over Antarctica",
+    "url": "https://apod.nasa.gov/apod/image/0203/spaurora1_schwarz.jpg"
+},
+{
+    "date": "2002-03-21",
+    "explanation": "Taken yesterday from the SOHO spacecraft, this false-color image shows the active Sun near the March Equinox, the beginning of Autumn in the south and Spring in the northern hemisphere. Recorded in a band of extreme ultraviolet light emitted by highly ionized iron atoms, the Sun's upper atmosphere or solar corona shines with an array of active regions and plasma loops suspended in magnetic fields. The bright coronal structures and loops seen here have temperatures of about 1.5 million kelvins. By chance, the Sun's earth-facing side also seems to be marked with a twisting complex of dark filament channels shaped like a giant \"S\". Filaments represent relatively (!) cool material in the corona which show up as prominences when seen at the Sun's edge. For planet Earth, recent solar activity has made auroral displays likely around this year's March Equinox.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/eq02_sohoeit_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "S is for Sun",
+    "url": "https://apod.nasa.gov/apod/image/0203/eq02_sohoeit.jpg"
+},
+{
+    "date": "2002-03-22",
+    "explanation": "Scroll right and journey for 300 kilometers over Terra Sirenum in the cratered highlands of southern Mars. The infrared view, 32 kilometers wide, was recently recorded by the THEMIS camera on board the orbiting Mars Odyssey spacecraft. Beginning at the north (left) edge, the scene sweeps across the floor and over the rim of Koval'sky Crater. Continuing southward (right) of the crater's rim are lava flows exhibiting fractures and numerous smaller impact craters. The infrared image was made in daylight hours, so sun-facing slopes are still warm and bright while shadowed areas are cool and dark. But rocky regions also tend to remain cooler and darker than their surroundings, likely corresponding to the dark blotchy terrain along the Koval'sky Crater floor and dark rings of rocky ejecta surrounding some of the smaller craters.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/marse_odythemis.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Odyssey Over Mars",
+    "url": "https://apod.nasa.gov/apod/image/0203/marse_odythemis.jpg"
+},
+{
+    "date": "2002-03-23",
+    "explanation": "What alien planet's bizarre landscape lurks below these fiery-looking clouds? It's only planet Earth, of course ... as seen on the Water Vapor Channel. Hourly, images like this one (an infrared image shown in false-color) are brought to you by the orbiting Geostationary Operational Environmental Satellites' (GOES) multi-channel imagers. These instruments can produce images at the infrared wavelength of 6.7 microns or about 10 times the wavelength of visible light, recording radiation absorbed by water vapor in the upper troposphere. In this picture, the planet's dark regions correspond to high concentrations of water vapor over storms and high cloud tops, while bright areas are relatively dry. The dominant bright feature seen here is a persistent region of dry descending air extending west into the Pacific off the Peruvian coast. Atmospheric water vapor is otherwise invisible to the eye and produced by evaporation from the oceans.  Editor's note: Thanks to Don Garlick (Humboldt State Univ.) for corrections to the original text.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/watervapor_goes8_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Water Vapor Channel",
+    "url": "https://apod.nasa.gov/apod/image/0203/watervapor_goes8.jpg"
+},
+{
+    "date": "2002-03-24",
+    "explanation": "Three thousand light-years away, a dying star throws off shells of glowing gas.  This image from the Hubble Space Telescope reveals the Cat's Eye Nebula to be one of the most complex planetary nebulae known.  In fact, the features seen in the Cat's Eye are so complex that astronomers suspect the bright central object may actually be a binary star system. The term planetary nebula, used to describe this general class of objects, is misleading. Although these objects may appear round and planet-like in small telescopes, high resolution images reveal them to be stars surrounded by cocoons of gas blown off in the late stages of stellar evolution.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/catseye_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Cat's Eye Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0203/catseye_hst.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2002-03-25",
+    "explanation": "Is there a monster in IC 1396?  Known to some as the Elephant's Trunk Nebula, parts of gas and dust clouds of this star formation region may appear to take on foreboding forms, some nearly human.  The only real monster here, however, is a bright young star too far from Earth to hurt us.  Energetic light from this star is eating away the dust of the dark cometary globule near the top of the above image.  Jets and winds of particles emitted from this star are also pushing away ambient gas and dust.  Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a much larger region on the sky than shown here, with an apparent width of more than 10 full moons.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/ic1396_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "An Unusual Globule in IC 1396",
+    "url": "https://apod.nasa.gov/apod/image/0203/ic1396_cfht.jpg"
+},
+{
+    "copyright": "Francisco A. Rodriguez RamirezAstroEduca",
+    "date": "2002-03-26",
+    "explanation": "Comet Ikeya-Zhang has become bright enough to stand out in the night sky.  Discovered February 1, the comet has now just rounded the Sun and has likely attained its peak brightness.  The comet appears near the Sun and over the next week moves from the evening sky (just after sunset) to the morning sky (just before sunrise).  Many observers report a current brightness approaching third magnitude.  The comet is actually a giant snowball created during the early days of our Solar System and pushed out by the gravitational tugs by massive planets.  Comet Ikeya-Zhang has been back to the inner Solar System at least once before in 1661.  Above, the comet was photographed above Tenerife, one the Canary Islands, Spain.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/ikeya_rodriguez_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet Ikeya-Zhang Over Tenerife",
+    "url": "https://apod.nasa.gov/apod/image/0203/ikeya_rodriguez.jpg"
+},
+{
+    "date": "2002-03-27",
+    "explanation": "What would it look like to peer into one of the volcanoes currently active on Jupiter's moon Io?  The caldera of Tupan Patera, named after a Brazilian thunder god, reveals itself to be a strange and dangerous place, replete with hot black lava, warm red sulfur deposits likely deposited from vented gas, and hilly yellow terrain also high in sulfur.  The robot spacecraft Galileo currently orbiting Jupiter provided the above vista late last year when it swooped by the active world.  Tupan Patera is actually a volcanic depression, surrounded by cliffs nearly a kilometer high.  The width of the depression is about 75 kilometers.  As Galileo has filled its mission objectives and is running low on maneuvering fuel, NASA plans to crash the spacecraft into Jupiter during 2003.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/iotupan_galileo_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Looking Into an Io Volcano",
+    "url": "https://apod.nasa.gov/apod/image/0203/iotupan_galileo.jpg"
+},
+{
+    "date": "2002-03-28",
+    "explanation": "The Centaurus Cluster is a swarm of hundreds of galaxies a mere 170 million light-years away. Like other immense galaxy clusters, the Centaurus Cluster is filled with gas at temperatures of 10 million degrees or more, making the cluster a luminous source of cosmic x-rays. While individual galaxies are not seen here, this false-color x-ray image from the Chandra Observatory does reveal striking details of the central region's hot cluster gas, including a large twisted plume about 70,000 light-years long. Colors represent temperatures indicated by the x-ray data with red, yellow, green, and blue shades ranging in order from cool to hot. The plume of gas alone is estimated to contain material equivalent to about one billion times the mass of the Sun. It may be a wake of gas condensing and cooling along the path of the massive, dominant central galaxy moving through the cluster.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/cencluster_cxc_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Centaurus Galaxy Cluster in X-Rays",
+    "url": "https://apod.nasa.gov/apod/image/0203/cencluster_cxc.jpg"
+},
+{
+    "date": "2002-03-29",
+    "explanation": "NGC 4631 is a big beautiful spiral galaxy seen edge-on only 25 million light-years away towards the small northern constellation Canes Venatici. This galaxy's slightly distorted wedge shape suggests to some a cosmic herring and to others the popular moniker of The Whale Galaxy. Either way, it is similar in size to our own Milky Way. In this gorgeous color image, the Whale's dark interstellar dust clouds, young bright blue star clusters, and purplish star forming regions are easy to spot. A companion galaxy, the small elliptical NGC 4627 appears above the Whale Galaxy. Out of view off the lower left corner of the picture lies another distorted galaxy, the hockey stick-shaped NGC 4656. The distortions and mingling trails of gas and dust detected at other wavelengths suggest that all three galaxies have had close encounters with each other in their past. The Whale Galaxy is also known to have spouted a halo of hot gas glowing in x-rays.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/n4631zeiders_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 4631: The Whale Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0203/n4631zeiders_c2.jpg"
+},
+{
+    "date": "2002-03-30",
+    "explanation": "The surface of Venus is perpetually covered by a veil of thick clouds and remains hidden from even the powerful telescopic eyes of earth-bound astronomers. But in the early 1990s, using imaging radar, the Venus orbiting Magellan spacecraft was able to lift the veil from the face of Venus and produced spectacular high resolution images of the planet's surface. Colors used in this computer generated picture of Magellan radar data are based on color images from the surface of Venus transmitted by the Soviet Venera 13 and 14 landers. The bright area running roughly across the middle represents the largest highland region of Venus known as Aphrodite Terra.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/venus180hem_magellan_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Venus Unveiled",
+    "url": "https://apod.nasa.gov/apod/image/0203/venus180hem_magellan_c1.jpg"
+},
+{
+    "date": "2002-03-31",
+    "explanation": "What's causing those odd rings in supernova 1987A?  In 1987, the brightestsupernova in recent history occurred in the Large Magellanic Clouds.  At the center of the picture is an object central to the remains of the violent stellar explosion. When the Hubble Space Telescope was pointed at the supernova remnant in 1994, however, the existence of  curious rings was confirmed.  The origins of these rings still remains a mystery. Speculation into the cause of the rings includes  beamed jets emanating from a dense star left over from the supernova, and a superposition of two stellar winds ionized by the supernova explosion.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/sn1987a_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Mysterious Rings of Supernova 1987A",
+    "url": "https://apod.nasa.gov/apod/image/0203/sn1987a_hst.jpg"
+},
+{
+    "date": "2002-04-01",
+    "explanation": "Using the new camera on the recently refitted Hubble Space Telescope, astronomers have been able to confirm that the Moon is made of green cheese.  The telling clue was the resolution of a numeric date after which the Moon may go bad.  Controversy still exists, however, over whether the date resolved is truly an expiration date or just a \"sell by\" date.  \"To be cautious, we should completely devour the Moon by tomorrow,\" a spokesperson advised.  Happy April Fool's Day from the folks at APOD.  The above image (slightly altered) was actually taken in 1965 by the Ranger 9 probe minutes before impact.  The popular \"Moon is made of Green Cheese\" myth can be traced back almost 500 years.  It has been used historically in context to indicate a claim so clearly false that no one -- not even April Fools -- will believe it.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/gcmoon_ranger9_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Hubble Resolves Expiration Date For Green Cheese Moon",
+    "url": "https://apod.nasa.gov/apod/image/0204/gcmoon_ranger9_apr1.jpg"
+},
+{
+    "copyright": "ORBIMAGESeaWiFSNASA",
+    "date": "2002-04-02",
+    "explanation": "What is causing the water in Florida Bay to turn black?  The mysterious black color could be seen as early as last December in images taken by the SeaWIFS instrument on board the Earth-orbiting SeaStar satellite.  During the darkest period in February, when the above image was taken, visibility in the usually transparent/turquoise water dropped below three meters.  Samples have been taken and are currently being analyzed.  Early tests show the black water has normal salinity and oxygen and might be an unusual nontoxic algae bloom.  Whatever the cause, the black water has real ecological and economic consequences, as normally abundant fish are completely absent.  More recent SeaWIFS images show the black water to be breaking up into smaller pockets.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/blackwater_seawifs_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mysterious Black Water in Florida Bay",
+    "url": "https://apod.nasa.gov/apod/image/0204/blackwater_seawifs.jpg"
+},
+{
+    "date": "2002-04-03",
+    "explanation": "How much mass do flocculent spirals hide?  The above true color image of flocculent spiral galaxy NGC 4414 was taken with the Hubble Space Telescope to help answer this question.  Flocculent spirals -- galaxies without well defined spiral arms -- are a quite common form of galaxy, and NGC 4414 is one of the closest.  Stars and gas near the visible edge of spiral galaxies orbit the center so fast that the gravity from a large amount of unseen dark matter must be present to hold them together.  Pictured above is the photogenic center of NGC 4414.  A bright foreground star from our Milky Way Galaxy shines in the foreground of the image.  Although NGC 4414's center likely holds little dark matter, understanding its matter distribution helps calibrate the rest of the galaxy and, by deduction, flocculent spirals in general.  By determining a precise distance to NGC 4414, astronomers also hope to help calibrate the scale to the more distant universe.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/ngc4414_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 4414: A Flocculent Spiral Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0204/ngc4414_hst.jpg"
+},
+{
+    "copyright": "Jimmy WestlakeColorado\nMountain College",
+    "date": "2002-04-04",
+    "explanation": "Comet Ikeya-Zhang (\"ee-KAY-uh JONG\") has become a most photogenic comet. This lovely early evening view of the comet in Rocky Mountain skies looks northwest over ridges and low clouds. The time exposure was recorded on March 31st from an 8,000 foot elevation near Yampa, Colorado, USA. Sporting a sweeping yellowish dust tail and blue ion tail eight to ten degrees long, Ikeya-Zhang is nestled near the horizon in the northern constellation of Andromeda. To the comet's left is the bright star Mirach or Beta Andromedae while the stretched celestial fuzzball to the comet's right is M31 or the Andromeda galaxy, the nearest bright spiral galaxy to our own Milky Way. As the days pass, Comet Ikeya-Zhang's apparent motion through the sky is towards the right in this image. Tonight, comet-watchers blessed with clear skies should find Ikeya-Zhang posing perfectly for binoculars and cameras just above M31, less than two degrees from the center of the bright galaxy.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/cometIZ_westlake_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Ikeya-Zhang: Comet Over Colorado",
+    "url": "https://apod.nasa.gov/apod/image/0204/cometIZ_westlake_c3.jpg"
+},
+{
+    "date": "2002-04-05",
+    "explanation": "What causes the mysterious gamma-ray bursts? Indicated in this Hubble Space Telescope exposure of an otherwise unremarkable field in the constellation Crater, is the dwindling optical afterglow of a gamma-ray burst first detected by the Beppo-SAX satellite on 2001 December 11. The burst's host galaxy, billions of light-years distant, is the faint smudge extending above and to the left of the afterglow position. After rapidly catching the fading x-ray light from the burst with the orbiting XMM-Newton observatory, astronomers are now reporting the telltale signatures of elements magnesium, silicon, sulphur, argon, and calcium - material most likely found in an expanding debris cloud produced by the explosion of a massive star. The exciting result is evidence that the gamma-ray burst itself is linked to a very energetic supernova explosion which may have preceded the powerful flash of gamma-rays by up to a few days.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/grb011211_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Gamma-Ray Burst Afterglow: Supernova Connection",
+    "url": "https://apod.nasa.gov/apod/image/0204/grb011211_hst.jpg"
+},
+{
+    "date": "2002-04-06",
+    "explanation": "Gamma-rays are the most energetic form of electromagnetic radiation. But these high energy photons penetrate and interact in normal materials and cannot be focused by lenses and mirrors like those in optical telescopes. So how do you make an image in gamma-ray light? One way is to use a patterned mask of material which can cast gamma-ray shadows on a digital detector array. The mask is called a coded aperture and the resulting shadow patterns can be used to construct a gamma-ray image of the source. For example, consider the picture above. In place of a coded mask, familiar objects were positioned in front of a detector array and illuminated with gamma-rays in a laboratory test. Do you recognize the shadow image? (Click on the picture for the focused visible light image.) Destined to fly on the International Gamma-Ray Astrophysics Laboratory (INTEGRAL) satellite scheduled for launch in October of this year, the detector array is part of the imaging gamma-ray telescope, IBIS.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/viswine_integral.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Vintage Gamma Rays",
+    "url": "https://apod.nasa.gov/apod/image/0204/graywine_integral.jpg"
+},
+{
+    "date": "2002-04-07",
+    "explanation": "In 1787, astronomer William Herschel discovered  NGC 2392.  From the ground, NGC 2392 resembles a person's head surrounded by a parka hood.  In 2000, the Hubble Space Telescope imaged  NGC 2392.   From space, the nebula displays gas clouds so complex they are not fully understood.   NGC 2392 is clearly a planetary nebula, and the gas seen above composed the outer layers of a Sun-like star only 10,000 years ago.  The inner filaments visible above are being ejected by strong wind of particles from the central star.  The outer disk contains unusual light-year long orange filaments.  NGC 2392 lies about 5000 light-years away and is visible with a small telescope in the constellation of Gemini.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/ngc2392_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 2392 from Hubble",
+    "url": "https://apod.nasa.gov/apod/image/0204/ngc2392_hst.jpg"
+},
+{
+    "date": "2002-04-08",
+    "explanation": "Lenticular galaxies aren't supposed to be photogenic.  Like spiral galaxies, they contain a disk, but like elliptical galaxies, they are usually short on dust, gas, and pretty spiral arms.  Lenticulars are relatively little studied, possibly because of their seemingly benign nature.  Famous galaxies historically classified as lenticular include M84, M85, and M86.  Recent pictures and evidence, however, indicate that lenticulars can be both photogenic and scientifically interesting.  For example, the above image of NGC 2787 taken with the Hubble Space Telescope shows that the center of this lenticular galaxy has interesting structure.  The image was taken to help determine how lenticular galaxies formed, and what happens in their centers.  The span of NGC 2787 in the above image is about 4500 light years, while the galaxy lies about 25 million light years away toward the constellation of Ursa Major.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/ngc2787_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 2787: A Barred Lenticular Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0204/ngc2787_hst.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2002-04-09",
+    "explanation": "What slithers overhead? The dark winding lanes visible in part of the constellation of Ophiuchus belong to the Snake Nebula.  Also known as Barnard 72, the Snake Nebula is a series of dark absorption clouds made up of molecular gas and interstellar dust.  Interstellar dust grains - composed predominantly of carbon - absorb visible starlight and reradiate much of it in the infrared.  This absorption causes stars behind the clouds to be obscured from view, hence the appearance of starless voids on the sky.  Molecular clouds like the Snake Nebula are places where new stars are likely to form.  The Snake Nebula, pictured above, lies about 650 light-years away and spans the angular width of a full moon.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/snake_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Snake Nebula from CFHT",
+    "url": "https://apod.nasa.gov/apod/image/0204/snake_cfht.jpg"
+},
+{
+    "copyright": "Joe Orman",
+    "date": "2002-04-10",
+    "explanation": "How did those big rocks end up on that strange terrain? One of the more unusual places here on Earth occurs inside Death Valley, California, USA.  There a dried lakebed named Racetrack Playa exists that is almost perfectly flat, with the odd exception of some very large stones, one of which is pictured above.  Now the flatness and texture of large playa like Racetrack are fascinating but not scientifically puzzling -- they are caused by mud flowing, drying, and cracking after a heavy rain.  Only recently, however, has a viable scientific hypothesis been given to explain how 300-kilogram stones ended up near the middle of such a large flat surface.  Unfortunately, as frequently happens in science, a seemingly surreal problem ends up having a relatively mundane solution.  It turns out that high winds after a rain can push even heavy rocks across a momentarily slick lakebed.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/flatlake_orman_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Unusual Rocks in Death Valley",
+    "url": "https://apod.nasa.gov/apod/image/0204/flatlake_orman.jpg"
+},
+{
+    "date": "2002-04-11",
+    "explanation": "What happens when galaxies collide? One of the best studied examples of the jumble of star clusters, gas, and dust clouds produced by such a cosmic train wreck is the interacting galaxy pair NGC 4038 / NGC 4039, the Antennae Galaxies, only sixty million light-years away. In visible light images, long, luminous tendrils of material seem to reach out from the galactic wreckage, lending the entwined pair an insect-like appearance. But this penetrating view from the new Wide-field InfraRed Camera (WIRC) attached to the Palomar Observatory's 200 inch Hale telescope shows, in false-color, details of some otherwise hidden features. The large central nuclei of the two original galaxies dominate the near-infrared scene speckled with other bright sources which are themselves giant, newly formed star clusters. Remarkably the northern (topmost) nucleus, obscured in optical images, is also revealed here to have a barred, mini-spiral structure reminiscent of many \"single\" spiral galaxies.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/irantennae_wirc_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Antennae Galaxies in Near-Infrared",
+    "url": "https://apod.nasa.gov/apod/image/0204/irantennae_wirc.jpg"
+},
+{
+    "copyright": "Juan Carlos Casado",
+    "date": "2002-04-12",
+    "explanation": "This gorgeous galaxy and comet portrait was recorded on April 5th in the skies over the Oriental Pyrenees near Figueres, Spain. From a site above 1,100 meters, astrophotographer Juan Carlos Casado used a guided time exposure, fast film, and a telephoto lens to capture the predicted conjunction of the bright Comet Ikeya-Zhang (right) and the Andromeda Galaxy (left). This stunning celestial scene would also have been a rewarding one for the influential 18th century comet hunter Charles Messier. While Messier scanned French skies for comets, he carefully cataloged positions of things which were fuzzy and comet-like in appearance but did not move against the background stars and so were definitely not comets. The Andromeda Galaxy, also known as M31, is the 31st object in his famous not-a-comet catalog. Not-a-comet object number 110, a late addition to Messier's catalog, is one of Andromeda's small satellite galaxies, and can be seen here just below M31. Our modern understanding holds that the Andromeda galaxy is a large spiral galaxy some 2 million light-years distant. The photogenic Comet Ikeya-Zhang, now a lovely sight in early morning skies, is about 80 million kilometers (4 light-minutes) from planet Earth.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/ikeya-zhang_casado.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Galaxy is not a Comet",
+    "url": "https://apod.nasa.gov/apod/image/0204/ikeya-zhang_casado_c1.jpg"
+},
+{
+    "date": "2002-04-13",
+    "explanation": "The impact crater Pwyll (a name from Celtic Mythology) is thought to represent one of the youngest features on the surface of Jupiter's moon Europa. A combination of color and high resolution black and white data from NASA's Galileo spacecraft was used to produce this view looking down on the crater with the sun illuminating the scene from the right. Pwyll's visible dark central region is about 26 kilometers in diameter, while brilliant white rays of debris blasted from the impact site extend outward for hundreds of kilometers. The white debris or ejecta clearly overlays everything else on the surface - indicating that this impact crater is younger than all surrounding features. The bright white color suggests a composition of water ice particles. Galileo's instruments have uncovered substantial evidence that water in liquid form exists below Europa's icy surface. If Europa has a subsurface ocean, could it harbor life?",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/pwyll_gal_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Pwyll: Icy Crater of Europa",
+    "url": "https://apod.nasa.gov/apod/image/0204/pwyll_gal.jpg"
+},
+{
+    "date": "2002-04-14",
+    "explanation": "Is RJX J185635-375 really so small?  Previously, this compact star held claim to being the closest neutron star -- only 150 light-years away.  Now new observations and analysis indicate not only a larger distance, roughly 450 light-years, but a very small radius for RXJ J185635-375, pictured above. One hypothesized solution holds hope a RJX J185635-375 is actually a not a neutron star but a quark star -- something new.  Now quark stars are truly strange -- some may have made a transition to type of matter known as strange quarks.  Quark stars, were they to exist, can be intermediate between neutron stars and black holes in size and density.  Quark stars can also be more compact and cool faster than neutron stars. In fact, some might even be ultracompact -- so dense that light itself can orbit.  Future observations will likely settle the controversial claims of RJX J185635-375's distance and radiative geometry, and hence determine if a previously undiscovered type of beast roams the sky.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/neutronnebula_eso_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "RX J185635-375: Candidate Quark Star",
+    "url": "https://apod.nasa.gov/apod/image/0204/neutronnebula_eso.jpg"
+},
+{
+    "date": "2002-04-15",
+    "explanation": "The International Space Station (ISS) is being fitted with a backbone.  During the present visit of Space Shuttle Atlantis, astronauts are installing a huge truss on the growing space outpost.  The truss is over 13 meters long and about 4.5 meters wide.  Dubbed Starboard 0, or S0 (pronounced S-Zero) for short, the truss will route electricity, vent excess heat, and allow for future ISS expansion.  Pictured above, the truss was lifted out of the shuttle's cargo bay by the station's robotic Canadarm2.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/isstruss_nasa_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A New Truss for the International Space Station",
+    "url": "https://apod.nasa.gov/apod/image/0204/isstruss_nasa.jpg"
+},
+{
+    "date": "2002-04-16",
+    "explanation": "Pictured above is the largest ball of stars in our Galaxy.  About 10 million stars orbit the center of this globular cluster - named Omega Centauri - as this giant globular cluster orbits our Galactic center.  Recent evidence indicates that Omega Centauri is by far the most massive of the about 150 known globular clusters in the Milky Way.  Omega Centauri, cataloged as NGC 5139, spans about 150 light years across, lies about 15,000 light years away, and can be seen without visual aid toward the constellation of Centaurus. The stars in globular clusters are generally older, redder and less massive than our Sun.  Studying globular clusters tells us not only about the history of our Galaxy but also limits the age of the universe.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/ngc5139_tan_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Millions of Stars in Omega Centauri",
+    "url": "https://apod.nasa.gov/apod/image/0204/ngc5139_tan.jpg"
+},
+{
+    "copyright": "James B. KalerUIUCSkylights",
+    "date": "2002-04-17",
+    "explanation": "Looking out the window of an airplane, you might be lucky enough to see \"the glory\" in the direction directly opposite the Sun.  Before airplanes, the phenomenon, known to some as the heiligenschein or the Specter of the Brocken, was sometimes seen from mountaintops.  There, when conditions were right, one could look away from the Sun and see what appeared to be the shadow of a giant surrounded by a bright halo.  The giant turns out to be the observer, as in the modern version a silhouette of an plane frequently occupies the glory's center.  Pictured above, several concentric rings of the glory were photographed.  The cause of the glory has only been understood recently and is relatively complex.  Briefly, small droplets of water reflect, refract, and diffract sunlight backwards towards the Sun.  The phenomenon has similar counterparts in other branches of science including astronomy, where the looking out from the Earth in the direction opposite the Sun yields a bright spot called the gegenschein.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/glory_kaler_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Glory",
+    "url": "https://apod.nasa.gov/apod/image/0204/glory_kaler.jpg"
+},
+{
+    "copyright": "John FrenchAbrams PlanetariumMSU",
+    "date": "2002-04-18",
+    "explanation": "Have you seen any bright planets lately? Chances are if you've been outside under clear skies just after sunset, then you have. Now shining in the west as bright \"stars\" in the night sky, are all five planets of the solar system known to ancient astronomers - Mercury, Venus, Mars, Saturn, and Jupiter. Recorded from Holt, Michigan, USA about 40 minutes after sunset on April 14th, this digital image captures three of them, Venus, Mars, and Saturn, along with a young crescent Moon. Also indicated are the Pleiades star cluster and bright red giant star Aldebaran in Taurus.  Mercury, setting, is lost in the trees and glow along the horizon, while Jupiter is off the top of this view. The coming weeks will see photo opportunities galore as all five planets gradually move closer together, posing after sunset with the Moon and stars in the western sky. Venus, Mars, and Saturn will form the closest trio, drawing within a 5 degree circle (about the apparent size of your fist with arm extended) above Aldebaran by May 3rd.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/planetsApr_french_c1.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Planets in the West",
+    "url": "https://apod.nasa.gov/apod/image/0204/planetsApr_french_labelsc1.jpg"
+},
+{
+    "copyright": "Laurent Laveder",
+    "date": "2002-04-19",
+    "explanation": "Also known as the Moon's \"ashen glow\" or \"the old Moon in the new Moon's arms\", Earthshine is Earthlight reflected from the Moon's night side. This dramatic image of Earthshine and a young crescent Moon was taken by astrophotographer and APOD translator Laurent Laveder from the remote Pic du Midi Observatory on planet Earth. But the view from the Moon would have been stunning too. When the Moon appears in Earth's sky as a slender crescent, a dazzlingly bright, nearly full Earth would be seen from the lunar surface. The Earth's brightness, due to reflected sunlight, is strongly influenced by cloud cover and recent studies of Earthshine indicate that it is more pronounced during April and May. A description of Earthshine, in terms of sunlight reflected by Earth's oceans in turn illuminating the Moon's dark surface, was written 500 years ago by Leonardo da Vinci.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/lumiere_laveder_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Old Moon in the New Moon's Arms",
+    "url": "https://apod.nasa.gov/apod/image/0204/lumiere_laveder_c1.jpg"
+},
+{
+    "date": "2002-04-20",
+    "explanation": "Few astronomical sights excite the imagination like the nearby stellar nursery known as the Orion Nebula. The Nebula's glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1,500 light-years away. This distinctively detailed image of the Orion Nebula was constructed using data from the 2 Micron All Sky Survey or 2MASS. Using telescopes in the Northern and Southern Hemispheres of planet Earth, the 2MASS project has mapped the entire sky in infrared light. The wavelength of infrared light is longer than visible light but more easily penetrates obscuring dust clouds. 2MASS cameras were sensitve to near infrared wavelengths around 2 microns or about 0.00008 inches. Visible light has a wavelength of about 0.00002 inches. Survey observations in three infrared bands were translated to blue, green, and red colors to produce this composite image.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/ori2mass_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Orion Nebula: The 2MASS View",
+    "url": "https://apod.nasa.gov/apod/image/0204/ori2mass.jpg"
+},
+{
+    "date": "2002-04-21",
+    "explanation": "A fantastic jumble of young blue star clusters, gigantic glowing gas clouds, and imposing dark dust lanes surrounds the central region of the active galaxy Centaurus A. This mosaic of Hubble Space Telescope images taken in blue, green, and red light has been processed to present a natural color picture of this cosmic maelstrom. Infrared images from the Hubble have also shown that hidden at the center of this activity are what seem to be disks of matter spiraling into a black hole with a billion times the mass of the Sun! Centaurus A itself is apparently the result of a collision of two galaxies and the left over debris is steadily being consumed by the black hole. Astronomers believe that such black hole central engines generate the radio, X-ray, and gamma-ray energy radiated by Centaurus A and other active galaxies. But for an active galaxy Centaurus A is close, a mere 10 million light-years away, and is a relatively convenient laboratory for exploring these powerful sources of energy.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/CenA_wfpc2_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Center of Centaurus A",
+    "url": "https://apod.nasa.gov/apod/image/0204/CenA_wfpc2.jpg"
+},
+{
+    "copyright": "Dennis MammanaSkyscapes",
+    "date": "2002-04-22",
+    "explanation": "Can you spot the comet?  Flowing across the frozen Alaskan landscape is an easily visible, colorful aurora.  Just to the lower left, however, well in the background, is something harder to spot: Comet Ikeya-Zhang, the brightest comet of recent years.  Although the aurora faded in minutes, the comet is just now beginning to fade.  It remains just barely visible without aid, however, before sunrise in the East.  The comet is actually a giant dirt-covered snowball that spends most of its time in the outer Solar System -- to where it is now returns.  The above photograph was taken on March 20 when Comet Ikeya-Zhang was near its brightest.  Careful inspection of the photo will uncover several other sky delights, including the giant galaxy M31.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/izaurora_mammana_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet and Aurora Over Alaska",
+    "url": "https://apod.nasa.gov/apod/image/0204/izaurora_mammana.jpg"
+},
+{
+    "date": "2002-04-23",
+    "explanation": "What does the developing International Space Station (ISS) look like now?  After delivering and deploying a crucial first backbone-like component last week, the Space Shuttle Atlantis took an inspection lap around the space station.  The newly installed truss is visible toward the center of the above image.  Also visible are many different types of modules, a robotic arm, several wing-like solar panels, and a supply ship.  Construction began on the ISS in 1998 and the core structure should be in place before 2005.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/iss3_sts110_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Newly Expanded International Space Station",
+    "url": "https://apod.nasa.gov/apod/image/0204/iss3_sts110.jpg"
+},
+{
+    "copyright": "Anglo-Australian Observatory",
+    "date": "2002-04-24",
+    "explanation": "Unspeakable beauty and unimaginable bedlam can be found together in the Trifid Nebula. Also known as M20, this photogenic nebula is visible with good binoculars towards the constellation of Sagittarius. The energetic processes of star formation create not only the colors but the chaos.  The red-glowing gas results from high-energy starlight striking interstellar hydrogen gas.  The dark dust filaments that lace M20 were created in the atmospheres of cool giant stars and in the debris from supernovae explosions.  Which bright young stars light up the blue reflection nebula is still being investigated.  The light from M20 we see today left perhaps 3000 years ago, although the exact distance remains unknown.  Light takes about 50 years to cross M20.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/trifid_aao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Trifid Nebula from AAO",
+    "url": "https://apod.nasa.gov/apod/image/0204/trifid_aao.jpg"
+},
+{
+    "copyright": "Barney Magrath",
+    "date": "2002-04-25",
+    "explanation": "Gazing across this gorgeous skyscape, the Southern Cross and stars of the constellation Centaurus are seen above the outline of Mauna Loa (Long Mountain), planet Earth's largest volcano. Unfamiliar to sky gazers north of about 25 degrees north latitude, the Southern Cross, constellation Crux, is near the horizon to the left of Mauna Loa's summit. A compact constellation of bright stars, the long axis of the cross conveniently points south toward the southern celestial pole. The top of the cross is marked by the lovely pale red star Gamma Crucis, which is in fact a red giant star about 120 light-years distant. Stars of the grand constellation Centaurus almost engulf the Southern Cross with blue giant Beta Centauri, and yellowish Alpha Centauri, appearing as the brightest stars to the left of Gamma Crucis. At a distance of 4.3 light-years, Alpha Centauri, the closest star to the Sun, is actually a triple star system which includes a star similar to the Sun. But what caused the reddish streaks in the foreground of this time exposure? Alas, it is the mundane glow of lights from cars (not molten lava!) traveling the road to Hilo, Hawaii.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/MaunaLoaSkies_Magrath_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Southern Cross in Mauna Loa Skies",
+    "url": "https://apod.nasa.gov/apod/image/0204/MaunaLoaSkies_Magrath_c1.jpg"
+},
+{
+    "copyright": "Carol Lakomiak",
+    "date": "2002-04-26",
+    "explanation": "Still catching the Sun's rays, the International Space Station (ISS) cruises across the early evening sky above Tomahawk, Wisconsin, USA. Recorded on April 9 around 9 pm CDT in a 30 second exposure, the sunlit space station traced this bright streak moving east (right) through the constellation Cassiopeia. Below lies Comet Ikeya-Zhang sporting a visible tail. But while this photogenic comet is now fading from view, the ISS will be getting brighter. Hours after this picture was taken, the Space Shuttle Atlantis docked with the ISS, bringing another structure to add to the growing orbital outpost.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/IZandISS_lakomiak_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet Ikeya-Zhang Meets The ISS",
+    "url": "https://apod.nasa.gov/apod/image/0204/IZandISS_lakomiak.jpg"
+},
+{
+    "date": "2002-04-27",
+    "explanation": "Aloha! With the graceful arc of Earth's limb in the background, the Hawaiian Island archipelago is visible in this stunning photo taken by the astronauts onboard the shuttle Discovery in October of 1988. Along with popular beaches and tropical resorts, these volcanic islands offer extreme elevations with dark, dry, cloudless skies. Consequently they have also become popular sites for large and sophisticated ground based telescopes. The peak of Mauna Kea, on the Big Island (upper left), boasts an impressive array of astronomical instruments including twin Kecks, the Canada-France-Hawaii Telescope, the NASA IRTF, the JCMT and UKIRT, the Subaru and the Gemini Telescope Project. The dormant volcanic cone of Haleakala on Maui (just below the Big Island) is home to the Air Force Maui Optical Station and the Mees Solar Observatory. Mahalo nui loa!",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/hawaii_sts26_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Hawaii",
+    "url": "https://apod.nasa.gov/apod/image/0204/hawaii_sts26.jpg"
+},
+{
+    "date": "2002-04-28",
+    "explanation": "Carinae may be about to explode.  But no one knows when - it may be next year, it may be one million years from now.  Eta Carinae's mass - about 100 times greater than our Sun - makes it an excellent candidate for a full blown supernova. Historical records do show that about 150 years ago Eta Carinae underwent an unusual outburst that made it one of the brightest stars in the southern sky.  Eta Carinae, in the Keyhole Nebula, is the only star currently thought to emit natural LASER light.  This image, taken in 1996, resulted from sophisticated image-processing procedures designed to bring out new details in the unusual nebula that surrounds this rogue star.  Now clearly visible are two distinct lobes, a hot central region, and strange radial streaks.  The lobes are filled with lanes of gas and dust which absorb the blue and ultraviolet light emitted near the center.  The streaks remain unexplained. Will these clues tell us how the nebula was formed?  Will they better indicate when Eta Carinae will explode?",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/etacarinae3_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Doomed Star Eta Carinae",
+    "url": "https://apod.nasa.gov/apod/image/0204/etacarinae3_hst.jpg"
+},
+{
+    "copyright": "Jerry Lodriguss",
+    "date": "2002-04-29",
+    "explanation": "Tomorrow's picture: More than 1000 Words (Usually)  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA/ GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/planets1_lodriguss.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Dusk of the Planets",
+    "url": "https://apod.nasa.gov/apod/image/0204/planets1_lodriguss.jpg"
+},
+{
+    "copyright": "E. Winfreeet al.Caltech",
+    "date": "2002-04-30",
+    "explanation": "Is this image worth a thousand words?  According to the Holographic Principle, the most information you can get from this image is about 3 x 1065 bits for a normal sized computer monitor.  The Holographic Principle, yet unproven, states that there is a maximum amount of information content held by regions adjacent to any surface.  Therefore, counter-intuitively, the information content inside a room depends not on the volume of the room but on the area of the bounding walls.  The principle derives from the idea that the Planck length, the length scale where quantum mechanics begins to dominate classical gravity, is one side of an area that can hold only about one bit of information.  The limit was first postulated by physicist Gerard 't Hooft in 1993.  It can arise from generalizations from seemingly distant speculation that the information held by a black hole is determined not by its enclosed volume but by the surface area of its event horizon.  The term \"holographic\" arises from a hologram analogy where three-dimension images are created by projecting light though a flat screen.  Beware, other people looking at the above image may not claim to see 3 x 1065 bits -- they might claim to see a teapot.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/teapotsirds_winfree_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Holographic Principle",
+    "url": "https://apod.nasa.gov/apod/image/0204/teapotsirds_winfree.gif"
+},
+{
+    "date": "2002-05-01",
+    "explanation": "In the depths of the dark clouds of dust and molecular gas known as the Omega Nebula, stars continue to form.  The above image from the Hubble Space Telescope's newly installed Advanced Camera for Surveys shows unprecedented detail in the famous star-forming region.  The dark dust filaments that lace the center of Omega Nebula were created in the atmospheres of cool giant stars and in the debris from supernova explosions.  The red and blue hues arise from glowing gas heated by the radiation of massive nearby stars.  The points of light are the young stars themselves, some brighter than 100 Suns.  Dark globules mark even younger systems, clouds of gas and dust just now condensing to form stars and planets.  The Omega Nebula lies about 5000 light years away toward the constellation of Sagittarius.  The region shown spans about 3000 times the diameter of our Solar System.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/omega_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "In the Center of the Omega Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0205/omega_hst.jpg"
+},
+{
+    "date": "2002-05-02",
+    "explanation": "In this stunning vista recorded with the Hubble Space Telescope's new advanced camera, distant galaxies form a dramatic backdrop for disrupted spiral galaxy Arp 188, the Tadpole Galaxy. The cosmic Tadpole is a mere 420 million light-years distant toward the northern constellation Draco. Its eye-catching tail is about 280 thousand light-years long and features massive, bright blue star clusters. One story goes that a more compact intruder galaxy crossed in front of Arp 188 - from left to right in this view - and was slung around behind the Tadpole by their gravitational attraction. During the close encounter, tidal forces drew out the spiral galaxy's stars, gas, and dust forming the spectacular tail. The intruder galaxy itself, estimated to lie about 300 thousand light-years behind the Tadpole, can be seen through foreground spiral arms at the upper left. Following its terrestrial namesake, the Tadpole Galaxy will likely lose its tail as it grows older, the tail's star clusters forming smaller satellites of the large spiral galaxy.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/tadpole_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Arp 188 and the Tadpole's Tidal Tail",
+    "url": "https://apod.nasa.gov/apod/image/0205/tadpole_hst_c1.jpg"
+},
+{
+    "date": "2002-05-03",
+    "explanation": "Cones, pillars, and majestic flowing shapes abound in stellar nurseries where natal clouds of gas and dust are buffeted by energetic winds from newborn stars. A well-known example, the Cone Nebula within the bright galactic star-forming region NGC 2264, was captured in this close-up view from the Hubble Space Telescope's newest camera. While the Cone Nebula, about 2,500 light-years away in Monoceros, is around 7 light-years long, the region pictured here surrounding the cone's blunted head is a mere 2.5 light-years across. In our neck of the galaxy that distance is just over half way from the Sun to its nearest stellar neighbor, Alpha Centauri. The massive star NGC 2264 IRS, seen by Hubble's infrared camera in 1997, is the likely source of the wind sculpting the Cone Nebula and lies off the top of the image. The Cone Nebula's reddish veil is produced by glowing hydrogen gas.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/cone_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Cone Nebula Close-Up",
+    "url": "https://apod.nasa.gov/apod/image/0205/cone_hst.jpg"
+},
+{
+    "date": "2002-05-04",
+    "explanation": "While orbiting the planet during their June 1998 mission, the crew of the Space Shuttle Discovery photographed this view of two moons of Earth. Thick storm clouds are visible in the lovely blue planet's nurturing atmosphere and, what was then Earth's largest artificial moon, the spindly Russian Mir Space Station can be seen above the planet's limb. The bright spot to the right of Mir is Earth's very large natural satellite, The Moon. The Mir orbited planet Earth once every 90 minutes about 200 miles above the planet's surface or about 4,000 miles from Earth's center. The Moon orbits once every 28 days at a distance of about 250,000 miles from the center of the Earth.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/moonmir_sts91_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Moons of Earth",
+    "url": "https://apod.nasa.gov/apod/image/0205/moonmir_sts91_big.jpg"
+},
+{
+    "copyright": "N. A. Sharp",
+    "date": "2002-05-05",
+    "explanation": "M7 is one of the most prominent open clusters of stars on the sky.  The cluster, dominated by bright blue stars, can be seen with the naked eye in a dark sky in the tail of the constellation of Scorpius.  M7 contains about 100 stars in total, is about 200 million years old, spans 25 light-years across, and lies about 1000 light-years away.   This color picture was taken in 1995 at the Burrell-Schmidt Telescope at Kitt Peak National Observatory in Arizona.  The M7 star cluster has been known since ancient times, being noted by Ptolemy in the year 130 AD.  Also visible is a dark dust cloud near the bottom of the frame, and literally millions of unrelated stars towards the Galactic center.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0004/m7_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The M7 Open Star Cluster in Scorpius",
+    "url": "https://apod.nasa.gov/apod/image/0004/m7_noao.jpg"
+},
+{
+    "date": "2002-05-06",
+    "explanation": "These two galaxies are pulling each other apart.  Known as \"The Mice\" because they have such long tails, each spiral galaxy has likely already passed through the other and will probably collide again and again until they coalesce.  The long tails are created by the relative difference between gravitational pulls on the near and far parts of each galaxy.  Scrolling right will show the very long tail of one of the galaxies.  Because the distances are so large, the whole thing takes place in slow motion -- over hundreds of millions of years.  NGC 4676 lies about 300 million light-years away toward the constellation of Coma Berenices and are likely members of the Coma Cluster of Galaxies.  The above picture was taken with the Hubble Space Telescope's new Advanced Camera for Surveys which is more sensitive and images a larger field than previous Hubble cameras.  The camera's increased sensitivity has imaged, serendipitously, galaxies far in the distance scattered about the frame.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/ngc4676_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 4676: When Mice Collide",
+    "url": "https://apod.nasa.gov/apod/image/0205/ngc4676_hst.jpg"
+},
+{
+    "date": "2002-05-07",
+    "explanation": "What is not pretty about the above picture?  In a word: smog.  In 2000 October the orbiting Space Shuttle Discovery photographed upstate New York just at sunset.  Visible is golden sunlight reflecting from two of the Great Lakes (Erie and Ontario), and several of the Finger Lakes.  Between the clouds at the top and ground at the bottom, however, is a trapped layer of smog.  Smog is mostly ozone but may contain small amounts of volatile organic compounds.  As opposed to \"good smog\" in the upper atmosphere, \"bad smog\" near the ground is created mostly by humans.  In the upper atmosphere, ozone reflects back harmful ultraviolet radiation, but when it occurs near the ground, it can be inhaled.  Smog continues to be studied with an eye for how it develops and how it affects human health.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/earthsmog_sts092_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Smog Over New York",
+    "url": "https://apod.nasa.gov/apod/image/0205/earthsmog_sts092.jpg"
+},
+{
+    "date": "2002-05-08",
+    "explanation": "It was a quiet day on the Sun.  The above image shows, however, that even during off days the Sun's surface is a busy place.  Shown in ultraviolet light, the relatively cool dark regions have temperatures of thousands of degrees Celsius.  Large sunspot group AR 9169 is visible as the bright area near the horizon.  The bright glowing gas flowing around the sunspots has a temperature of over one million degrees Celsius.  The reason for the high temperatures is unknown but thought to be related to the rapidly changing magnetic field loops that channel solar plasma.  Sunspot group AR 9169 moved across the Sun during 2000 September and decayed in a few weeks.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/sun2_trace_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Sunspot Loops in Ultraviolet",
+    "url": "https://apod.nasa.gov/apod/image/0205/sun2_trace.jpg"
+},
+{
+    "copyright": "Philip Perkins",
+    "date": "2002-05-09",
+    "explanation": "Stonehenge, four thousand year old monument to the Sun, provides an appropriate setting for this delightful snapshot of the Sun's children gathering in planet Earth's sky. While the massive stone structure dates from around 2000 B.C., this arrangement of the visible planets was recorded only a few days ago on the evening of May 4th, 2002 A.D. Bright Jupiter stands highest above the horizon at the upper left. A remarkable, almost equilateral triangle formed by Saturn (left), Mars (top), and Venus (right) is placed just above the stones near picture center. Fighting the glow of the setting sun, Mercury can be spotted closest to the horizon, below and right of the planetary triad. Still easy to enjoy for casual sky gazers, this photogenic and slowly shifting planetary grouping will be joined by a young crescent Moon beginning Monday, May 13.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/planets1stonehenge_perkins_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Planets Over Stonehenge",
+    "url": "https://apod.nasa.gov/apod/image/0205/planets1stonehenge_perkins.jpg"
+},
+{
+    "copyright": "Joe Orman",
+    "date": "2002-05-10",
+    "explanation": "Tomorrow's picture: Saturnday  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA/ GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/planets2_orman.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Trailing Planets",
+    "url": "https://apod.nasa.gov/apod/image/0205/planets1_orman.jpg"
+},
+{
+    "date": "2002-05-11",
+    "explanation": "What could you see approaching Saturn aboard an interplanetary cruise ship? Your view would likely resemble this subtly shaded image of the gorgeous ringed gas giant. Processed by the Hubble Heritage project, the picture intentionally avoids overemphasizing color contrasts and presents a natural looking Saturn with cloud bands, storms, nearly edge-on rings, and the small round shadow of the moon Enceladus near the center of the planet's disk. Of course, seats were not available on the only ship currently enroute, the Cassini spacecraft. Cassini flew by Jupiter at the turn of the millennium and is scheduled to arrive at Saturn in the year 2004. After an extended cruise to a world 1,400 million kilometers from the Sun, Cassini will tour the Saturnian system, conducting a remote, robotic exploration with software and instruments designed by denizens of planet Earth.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/saturn_herhst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Natural Saturn On The Cassini Cruise",
+    "url": "https://apod.nasa.gov/apod/image/0205/saturn_herhst.jpg"
+},
+{
+    "date": "2002-05-12",
+    "explanation": "While exploring the inner edge of the Helix Nebula with the Hubble Space Telescope's Wide Field Planetary Camera 2, astronomers were able to produce this striking image - rich in details of an exotic environment.  This planetary nebula, created near the final phase of a sun-like star's life, is composed of tenuous shells of gas ejected by the hot central star.  The atoms of gas, stripped of electrons by ultraviolet radiation from the central star, radiate light at characteristic energies allowing specific chemical elements to be identified.  In this image, emission from nitrogen is represented as red, hydrogen emission as green, and oxygen as blue.  The inner edge of the Helix Nebula, also known as NGC 7293, is in the direction toward the central star, which is toward the upper right.  Clearly visible near the inner edge are finger shaped cometary knots.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/helixedge_hst_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "At the Edge of the Helix Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0205/helixedge_hst.jpg"
+},
+{
+    "date": "2002-05-13",
+    "explanation": "What caused this unusual white rock formation on Mars?  Intrigued by the possibility that they could be salt deposits left over as an ancient lakebed dried-up, detailed studies of these fingers now indicate a more mundane origin: volcanic ash.  Studying the exact color of the formation indicated the volcanic origin.  The light material appears to have eroded away from surrounding area, indicating a very low-density substance consistent with the ash hypothesis. The stark contrast between the rocks and the surrounding sand is compounded by the unusual darkness of the sand.  The above picture was taken with the Thermal Emission Imaging System on the Mars Odyssey spacecraft currently orbiting Mars.  The image spans about 10 kilometers inside a much larger crater.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/whiterock_mo_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "White Rock Fingers on Mars",
+    "url": "https://apod.nasa.gov/apod/image/0205/whiterock_mo.jpg"
+},
+{
+    "date": "2002-05-14",
+    "explanation": "Why is N44C glowing so strangely?  The star that appears to power the nebula, although young and bright, does not seem hot enough to create some of the colors observed.  A search for a hidden hotter star in X-rays has come up empty.  One hypothesis is that the known central star has a neutron star companion in a very wide orbit.  Hot X-rays might only then be emitted during brief periods when the neutron star nears the known star and crashes through a disk of surrounding gas.  Future observations might tell.  N44C, pictured in the above Hubble Space Telescope image, is an emission nebula in the Large Magellanic Cloud, a neighboring galaxy to our Milky Way Galaxy. Flowing filaments of colorful gas and dark dust far from the brightest region are likely part of the greater N44 complex.  It would take light about 125 years to cross N44C.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/n44c_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "N44C: A Nebular Mystery",
+    "url": "https://apod.nasa.gov/apod/image/0205/n44c_hst.jpg"
+},
+{
+    "copyright": "Michael Karrer",
+    "date": "2002-05-15",
+    "explanation": "As Comet Ikeya-Zhang approached the Sun two months ago, it developed a complex blue ion tail.  The tail was composed of ions that boiled off the nucleus and were pushed away from the Sun by the out-flowing fast-moving particles of the solar wind.  Complexity in the tail is created by comet nucleus rotation, variability in the comet surface evaporation rate, and variability of the Sun's magnetic field and solar wind.  The above animation documents how Comet Ikeya-Zhang's tail changed over 30 minutes in ten consecutive 3-minute exposures on March 11.  Comet Ikeya Zhang is now fading as it heads back to the outer Solar System.  It should remain visible through a small telescope for another month.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/cometiz_karrer.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Tail Wags of Comet Ikeya-Zhang",
+    "url": "https://apod.nasa.gov/apod/image/0205/cometiz_karrer.gif"
+},
+{
+    "date": "2002-05-16",
+    "explanation": "During April and May, attention has been focused on the western evening sky, presenting its spectacle of bright planets and crescent moons shortly after sunset. Meanwhile, the the Sun itself has not been just sinking quietly below the horizon. For example on May 2nd, two enormous clouds of energetic particles blasted away from the solar surface in nearly simultaneous eruptions. Known as coronal mass ejections (CMEs), they appear as large \"bubbles\" oriented at about 2 o'clock and 8 o'clock in this composite image from cameras onboard the sun-staring SOHO spacecraft. At picture center, an extreme ultraviolet image of the Sun recorded near the time of these eruptions has been superimposed for scale. The blank region surrounding it corresponds to an occulting disk in one of SOHO's coronagraphic cameras. Speeding outward at millions of kilometers per hour, these two CMEs missed our fair planet. But those that do impact Earth's magnetosphere often trigger auroral displays and disruptions.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/doublecme_soho_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Double Trouble Solar Bubbles",
+    "url": "https://apod.nasa.gov/apod/image/0205/doublecme_soho.jpg"
+},
+{
+    "date": "2002-05-17",
+    "explanation": "On the 21st of November 2001, satellites detected yet another burst of gamma-rays from the cosmos. While this flash of high-energy photons lasted for less than a minute, eager astronomers have been following the fading optical light from the location of the burst source ever since. Seen above in a series of Hubble Space Telescope images recorded from December 4, 2001 to May 5, 2002 (13 through 161 days after the burst), the fading transient lies to the right of a fuzzy, distant galaxy, likely home to the gamma-ray burster. Two constant point-like objects to the left of the galaxy are foreground stars within our own Milky Way. The transient did not not simply fade away, though. Observations from the Hubble, OGLE, and the large Magellan telescope in Chile indicate that it bumped up or brightened again days after the burst in a convincing display characteristic of a supernova - the death explosion of a massive star. These results add to the mounting evidence that at least some of the mysterious cosmic gamma-ray bursts are produced in the violent event which ends the lives of massive stars.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/grb011121_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Gamma-Ray Burst, Supernova Bump",
+    "url": "https://apod.nasa.gov/apod/image/0205/grb011121_hst_c1.jpg"
+},
+{
+    "copyright": "Robert Gendler",
+    "date": "2002-05-18",
+    "explanation": "How far can you see? The most distant object easily visible to the unaided eye is M31, the great Andromeda Galaxy some two million light-years away. Without a telescope, even this immense spiral galaxy appears as an unremarkable, faint, nebulous cloud in the constellation Andromeda. But a bright yellow nucleus, dark winding dust lanes, gorgeous blue spiral arms and star clusters are recorded in this stunning telescopic digital mosaic of the nearby island universe. While even casual skygazers are now inspired by the knowledge that there are many distant galaxies like M31, astronomers seriously debated this fundamental concept only 80 years ago. Were these \"spiral nebulae\" simply outlying components of our own Milky Way Galaxy or were they instead \"island universes\" -- distant systems of stars comparable to the Milky Way itself? This question was central to the famous Shapley-Curtis debate of 1920, which was later resolved by observations of M31 in favor of Andromeda, island universe.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/m31_gendler_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Andromeda Island Universe",
+    "url": "https://apod.nasa.gov/apod/image/0205/m31_gendler.jpg"
+},
+{
+    "copyright": "Calvin J. Hamilton",
+    "date": "2002-05-19",
+    "explanation": "Tethys is one of the larger and closer moons of Saturn.  It was visited by both Voyager spacecraft - Voyager 1 in November 1980 and by Voyager 2 in August 1981.  Tethys is now known to be composed almost completely of water ice.  Tethys shows a large impact crater that nearly circles the planet.  That the impact that caused this crater did not disrupt the moon is taken as evidence that Tethys was not completely frozen in its past.  Two smaller moons, Telesto and Calypso, orbit Saturn just ahead of and behind Tethys.  Giovanni Cassini discovered Tethys in 1684.  In 1997, NASA launched a spacecraft named Cassini to Saturn that will arrive in 2004.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/tethys_vg2_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Saturn's Moon Tethys",
+    "url": "https://apod.nasa.gov/apod/image/0205/tethys_vg2.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2002-05-20",
+    "explanation": "To the east of the Lagoon Nebula is a star field rich in diversity.  On the lower left are clouds rich in dark dust that hide background stars and young star systems still forming.  Dark clouds include LDN 227 on the left and IC 1275 on the right, with a bright star near its tip.  On the upper right are clouds rich in hot glowing gas, including part of the emission nebula NGC 6559.  On the right, between the two regions, is a nebula reflecting light from a group of massive blue stars.  The NGC 6559 complex pictured above spans about 3 light years and likely has a common history with the Lagoon Nebula.  The complex lies about 5000 light-years away toward the constellation of Sagittarius.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/m8complex_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "East of the Lagoon Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0205/m8complex_cfht.jpg"
+},
+{
+    "date": "2002-05-21",
+    "explanation": "What causes this unusual structure near the center of our Galaxy? The long parallel rays slanting across the top of the above radio image are known collectively as the Galactic Center Radio Arc and jut straight out from the Galactic plane.  The Radio Arc is connected to the Galactic center by strange curving filaments known as the Arches.  The bright radio structure at the bottom right likely surrounds a black hole at the Galactic center and is known as Sagittarius A*.  One origin hypothesis holds that the Radio Arc and the Arches have their geometry because they contain hot plasma flowing along lines of constant magnetic field.  Recent images from the Chandra X-ray Observatory appear to show this plasma colliding with a nearby cloud of cold gas.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/gcradioarc_vla_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Galactic Center Radio Arc",
+    "url": "https://apod.nasa.gov/apod/image/0205/gcradioarc_vla.jpg"
+},
+{
+    "copyright": "Thierry Legault",
+    "date": "2002-05-22",
+    "explanation": "Tomorrow's picture: the color of x-rays  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA/ GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/Eiffeltower1_lagault.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Moon and Planets by the Eiffel Tower",
+    "url": "https://apod.nasa.gov/apod/image/0205/Eiffeltower1_lagault.jpg"
+},
+{
+    "date": "2002-05-23",
+    "explanation": "Supernova remnant N132D shows off complex structures in this sharp, color x-ray image. Still, overall this cosmic debris from a massive star's explosive death has a strikingly simple horseshoe shape. While N132D lies 180,000 light-years distant in the Large Magellanic Cloud, the expanding remnant appears here about 80 light-years across. Light from the supernova blast which created it would have reached planet Earth about 3,000 years ago. Observed by the orbiting Chandra Observatory, N132D still glows in x-rays, its shocked gas heated to millions of degrees Celsius. Since x-rays are invisible, the Chandra x-ray image data are represented in this picture by assigning visible colors to x-rays with different energies. Low energy x-rays are shown as red, medium energy as green, and high energy as blue colors. These color choices make a pleasing picture and they also show the x-rays in the same energy order as visible light photons, which range from low to high energies as red, green, and blue.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/n132d_cxc_xraycolor.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "N132D and the Color of X-Rays",
+    "url": "https://apod.nasa.gov/apod/image/0205/n132d_cxc_xraycolor_c1.jpg"
+},
+{
+    "copyright": "www.MrEclipse.com",
+    "date": "2002-05-24",
+    "explanation": "Venus, named for the Roman goddess of love, and Mars, the war god's namesake, approach each other by moonlight in this lovely sky view recorded on May 14th from Dunkirk, Maryland, USA. The four second time exposure made in twilight with a digital camera also records earthshine illuminating the otherwise dark surface of the young crescent Moon. Venus shines as the third brightest object in Earth's sky, after the Sun and the Moon itself, and has been appearing as the brilliant evening star in the pantheon of planets arrayed in the west during April and May. Here, Venus' light is so intense that it produces a noticeable spike in the sensitive camera's image. Much fainter Mars is lower in the picture, caught between tree limbs swaying in a gentle evening breeze. By early June, Mars will be harder to spot as it wanders toward the horizon, but Venus and father Jupiter will draw closer together, presenting a spectacular pair of bright planets in the west.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/MoonVenusMars_espenak_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Love and War by Moonlight",
+    "url": "https://apod.nasa.gov/apod/image/0205/MoonVenusMars_espenak.jpg"
+},
+{
+    "date": "2002-05-25",
+    "explanation": "Comet Shoemaker-Levy 9, named after its co-discoverers, was often referred to as the \"string of pearls\" comet. It is famous for its suggestive appearance as well as its collision with the planet Jupiter! The comet's original single nucleus was torn to pieces by Jupiter's strong gravity during a close encounter with the solar system's largest planet in 1992. The pieces are seen (scroll right) in this composite of Hubble Space Telescope images to be \"pearls\" strung out along the comet's orbital path. In July of 1994 these pieces collided with Jupiter in a rare and spectacular series of events.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/sl9_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A String Of Pearls",
+    "url": "https://apod.nasa.gov/apod/image/0205/sl9_hst_c1.jpg"
+},
+{
+    "copyright": "Jerry Lodriguss",
+    "date": "2002-05-26",
+    "explanation": "The dark nebula predominant at the lower left of the above photograph is known as the Pipe Nebula.  The dark clouds, suggestively shaped like smoke rising from a pipe, are caused by absorption of background starlight by dust.  These dust clouds can be traced all the way to the Rho Ophiuchi nebular clouds on the right.  The brightest star in the field is Antares. Many types of nebula are highlighted here: the red are emission nebula, the blue are reflection nebula, and the dark are absorption nebula. This picture has been digitally enhanced.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0003/pipe2_lodriguss_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Pipe Dark Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0003/pipe2_lodriguss.jpg"
+},
+{
+    "copyright": "Helmut RottU. Innsbruck",
+    "date": "2002-05-27",
+    "explanation": "It's all gone but the mountains.  Most of the sprawling landscape of ice that lies between the mountains visible above has now disintegrated.  The above picture was taken in Antarctica from the top of Grey Nunatak, one of three Seal Nunatak mountains that border the Larsen B Ice-Shelf.  The other two Nunataks are visible in the picture taken in 1994.  Over the past several years large chunks of the 200-meter thick Larsen B Ice-Shelf have been breaking off and disintegrating.  The cause is thought to be related to the local high temperatures of recent years and, possibly, global warming.  Over the past few years, the area that has disintegrated is roughly the size of Luxembourg.  As ice-shelves break up, they unblock other ice sheets that fall onto the ocean, raising sea levels everywhere.  Scientists are watching the much-larger Ross Ice Shelf, which, if it collapses, could cause global sea levels to rise five meters.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/larsen03_rotts.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Antarctic Ice Shelf Vista",
+    "url": "https://apod.nasa.gov/apod/image/0205/larsen03_rotts.jpg"
+},
+{
+    "date": "2002-05-28",
+    "explanation": "The most photogenic array of radio telescopes in the world has also been one of the most productive.  Each of the 27 radio telescopes in the Very Large Array (VLA) is the size of a house and can be moved on train tracks.  The above pictured VLA, celebrating its twenty-second year of operation, is situated in New Mexico, USA. The VLA has been used to discover water on planet Mercury, radio-bright coronae around ordinary stars, micro-quasars in our Galaxy, gravitationally-induced Einstein rings around distant galaxies, and radio counterparts to cosmologically distant gamma-ray bursts.  The vast size of the VLA has allowed astronomers to study the details of super-fast cosmic jets, and even map the center of our Galaxy.  An upgrade of the VLA is being planned.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/vla006_nrao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Very Large Array of Radio Telescopes",
+    "url": "https://apod.nasa.gov/apod/image/0205/vla006_nrao.jpg"
+},
+{
+    "date": "2002-05-29",
+    "explanation": "What may appear fuzzy to some makes things crystal clear to others.  The cosmic microwave background radiation emanating from the universe could only have the above fuzzy pattern if it contained clear amounts of dark matter and dark energy.  The conclusion, based on a detailed analysis of the temperature and spacing of the bumps, was a surprise to those who felt that previous evidence for such a strange universe, based on observations of distant supernovae, was somehow inaccurate.  The measurements were made with a novel group of microwave telescopes in Tenerife, Spain called the Very Small Array.  The bumps appearing above are some of the oldest objects ever seen.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/cmb_vsa_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Cosmic Ripples Implicate Dark Universe",
+    "url": "https://apod.nasa.gov/apod/image/0205/cmb_vsa.jpg"
+},
+{
+    "copyright": "Emmanuel Mallart",
+    "date": "2002-05-30",
+    "explanation": "Tomorrow's picture: in a canyon on Mars  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA/ GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/orione_mallart_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Orion Nebulosities",
+    "url": "https://apod.nasa.gov/apod/image/0205/orione_mallart_c1.jpg"
+},
+{
+    "date": "2002-05-31",
+    "explanation": "Scroll right and dive into a spectacular canyon on Mars. This daytime infrared view, recently recorded by the THEMIS camera on board the orbiting Mars Odyssey spacecraft, covers a 30 by 175 kilometer swath running along the canyon floor. The north (left) end of the scene is poised at the edge of Candor Chasma, part of the great Valles Marineris canyon system. In all about 4,000 kilometers long and up to 6 kilometers deep, Valles Marineris is roughly five times the size of the Grand Canyon on planet Earth. The THEMIS camera data was recorded in three separate infrared bands and combined to make this striking false-color image. Resulting color differences along this intricate section of martian terrain are attributed to differences in mineralogy, the chemical makeup and structure of the rocks, sediments and surface dust.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0205/marscandor_themis_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "In Chandor Chasma on Mars",
+    "url": "https://apod.nasa.gov/apod/image/0205/marscandor_themis_a.jpg"
+},
+{
+    "date": "2002-06-01",
+    "explanation": "The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an attempt by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astronomical discoveries and measurements. Dreyer's work was successful and is still important today as this famous catalog continues to lend its \"NGC\" to bright clusters, galaxies, and nebulae. Take for example this star cluster known as NGC 2266 (item number 2,266 in the NGC compilation). It lies about 10,000 light-years distant in the constellation Gemini and represents an open or galactic cluster. With an age of about 1 billion years, NGC 2266 is old for a galactic cluster. Its evolved red giant stars are readily apparent in this gorgeous three-color image.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/ngc2266_credner_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 2266: Old Cluster in the New General Catalog",
+    "url": "https://apod.nasa.gov/apod/image/0206/ngc2266_credner.jpg"
+},
+{
+    "date": "2002-06-02",
+    "explanation": "Which way to the interstate?  What appears to be a caricature of a complex highway system on Earth is actually a system of ridges and cracks on the icy surface of Jupiter's moon Europa.  The distance between parallel ridges in the above photograph is typically about 1 kilometer.  The complexity of the cracks and ridges tell a story of Europa's past that is mostly undecipherable -- planetary geologists try to understand just the general origin of the overall features. One noteworthy feature is the overall white sheen, possibly indicating the presence of frost.  Another is the dark centers between parallel ridges, which might indicate that dirty water from an underground ocean recently welled up in the cracks and froze.  Recent research indicates that enough carbon exists to support an underwater biosphere, but that Europa's ice crust may be over three kilometers thick in some places.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/europafrost_gal_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Cracks and Ridges on Europa",
+    "url": "https://apod.nasa.gov/apod/image/0206/europafrost_gal.jpg"
+},
+{
+    "copyright": "Suprime-Cam",
+    "date": "2002-06-03",
+    "explanation": "Why are huge clouds of gas billowing from spiral galaxy NGC 4388?  The extent of the gas clouds, over 100,000 light-years, was unexpected before the Subaru Telescope took the above image.  NGC 4388 has a bright energetic nucleus and so is classified as an active galaxy.  The spiral, relatively close by at 60 million light years, is a member of the nearest major cluster of galaxies: the Virgo Cluster.  One hypothesis holds that the gas was stripped away as NGC 4388 made its way through the  intergalactic medium of the Virgo Cluster. A competing hypothesis holds that the gas is all that remains of a smaller galaxy that was gravitationally deconstructed by the larger NGC 4388.  Further observations may better determine NGC 4388's past and likely contribute to a better understanding of how galaxies evolve inside massive clusters.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/ngc4388_subaru_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Galaxy NGC 4388 Expels Huge Gas Cloud",
+    "url": "https://apod.nasa.gov/apod/image/0206/ngc4388_subaru.jpg"
+},
+{
+    "date": "2002-06-04",
+    "explanation": "Is it an Escher, or Mars?  Three different types of surfaces visible in the North Polar Cap of Mars morph into each other in a way perhaps reminiscent of the works of M. C. Escher.  On the far left dark sand covers the ground, while the center shows a transition to a dune field.  On the far right a transition is made to a much lighter surface, likely containing a larger amount of ice.  Shadows indicate that lighter material holds the higher ground, with some steep cliffs on the divide.  Dune shapes indicate that wind typically blows toward the upper left.  Mars Global Surveyor, one of two robot spacecraft currently orbiting Mars, took the above image in early 2001.  Recent images from the other orbiter, Mars Odyssey, have bolstered the hypothesis that a significant amount of water-ice lies beneath the surface near the Martian South Pole.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/marsmorph_mgs_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Martian Metamorphosis",
+    "url": "https://apod.nasa.gov/apod/image/0206/marsmorph_mgs.jpg"
+},
+{
+    "date": "2002-06-05",
+    "explanation": "Far beyond the local group of galaxies lies NGC 3621, some 22 million light-years away. Found in the serpentine southern constellation Hydra, the loose spiral arms of this gorgeous island universe are loaded with luminous young star clusters and dark dust lanes. Still, for earthbound astronomers NGC 3621 is not just another pretty face-on spiral galaxy. Some of its brighter stars have been used as standard candles to establish important estimates of extragalactic distances and the scale of the Universe. This color picture was constructed from astronomical image data recorded with the Very Large Telescope Antu, at Paranal Observatory in Chile.  At the original resolution, individual, hot supergiant stars can be identified and studied across NGC 3621.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/ngc3621_bresolin_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 3621: Far Beyond the Local Group",
+    "url": "https://apod.nasa.gov/apod/image/0206/ngc3621_bresolin_c2.jpg"
+},
+{
+    "date": "2002-06-06",
+    "explanation": "After astronauts repaired NICMOS - the Near Infrared Camera and Multi-Object Spectrometer - during the latest Hubble Space Telescope servicing mission, astronomers were quick to turn the sophisticated instrument on the photogenic stellar nursery known as the Cone Nebula. This remarkable NICMOS close-up of the Cone Nebula dramatically confirms that the Hubble's infrared vision has been restored. Gas and dust clouds at the blunted tip of the cone-shaped star-forming region are seen here in false-color covering an area about half a light-year across. Toward the left hand side of the picture, the four bright stars with diffraction spikes are also present in visible light images and are in front of the Cone Nebula, itself 2,500 light-years away. But the fainter stars to their right are embedded in or behind the nebula's obscuring dust clouds and are revealed only in this penetrating infrared view.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/ircone_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Cone Nebula Infrared Close-Up",
+    "url": "https://apod.nasa.gov/apod/image/0206/ircone_hst_c2.jpg"
+},
+{
+    "date": "2002-06-07",
+    "explanation": "This infant solar system was discovered posing along the lonely outskirts of the Rho Ophiuchi dark cloud, a star forming region 500 light-years from Earth. Enlarged in an infrared false-color portrait from the European Southern Observatory's Antu telescope, the dark dusty disk of planet-forming material lies edge-on, neatly dividing two small nebulae which reflect light from a hidden, youthful central star. Enthusiastically nicknamed the \"Flying Saucer\", the circumstellar disk is about 300 astronomical units across (1 a.u. is the Earth-Sun distance) or about 5 times the diameter of Neptune's orbit. The twin reflection nebulae have clearly different colors for reasons which still remain a mystery, but the relatively isolated neighborhood of the natal solar system is a stroke of luck. Planets should be able to develop within the dusty disk free from the destructive influence of radiation and winds from any nearby massive hot stars usually found in young star clusters.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/irdisk_eso_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Portrait of an Infant Solar System",
+    "url": "https://apod.nasa.gov/apod/image/0206/irdisk_eso_c1.jpg"
+},
+{
+    "copyright": "Olivier Staiger",
+    "date": "2002-06-08",
+    "explanation": "A lunar eclipse can be viewed in a leisurely fashion. Visible to anyone on the night side of planet Earth (weather permitting), totality often lasts an hour or so as the moon glides through the Earth's shadow. But a solar eclipse is more fleeting. Totality can last a few minutes only for those fortunate enough to stand in the path of the Moon's shadow as it races across the Earth's surface. For the April 29, 1995 annular solar eclipse, photographer Olivier Staiger was standing in Macara, Ecuador under partially cloudy skies. Just before the maximum annular eclipse phase he recorded this dramatic moment as a bird flew near the sun. The next solar eclipse, on June 10, will also be an annular one. Partial phases will be visible from eastern Asia, the Pacific Ocean and much of North America. Very accurate predictions of eclipses have long been possible.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/eclipsebird_staiger.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Fleeting Eclipse",
+    "url": "https://apod.nasa.gov/apod/image/0206/eclipsebird_staiger.jpg"
+},
+{
+    "date": "2002-06-09",
+    "explanation": "A photogenic group of nebulae can be found toward Chamaeleon, a constellation visible predominantly in skies south of the Earth's equator.  Celestial objects visible there include the blue reflection nebulas highlighted by thin dust surrounding the bright stars in the above image center.  Toward the top and lower right, dark molecular clouds laced with thick dust block light from stars in the background.  The parent molecular cloud Chamaeleon I is located about 450 light years from Earth.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/chamaeleon_vlt_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Chamaeleon Sky",
+    "url": "https://apod.nasa.gov/apod/image/0206/chamaeleon_vlt.jpg"
+},
+{
+    "copyright": "Skyscapes",
+    "date": "2002-06-10",
+    "explanation": "Today, a few lucky people will see a \"ring of fire.\"  That's a name for the central view of an annular eclipse of the Sun by the Moon.  At the peak of this eclipse, the middle of the Sun will appear to be missing and the dark Moon will appear to be surrounded by the bright Sun.  This will only be visible, however, from a path that crosses the Pacific Ocean.  From most locations at most times, including most of eastern Asia and western North America, the Moon will only appear to take a bite out the Sun.  In east Asia, the rising Sun will appear partially eclipsed on the morning of June 11.  Simultaneously, in much of North America, the same eclipsed sun will appear to be setting on June 10.  Remember to never look directly at the Sun even during an eclipse.  An annular eclipse occurs instead of a total eclipse when the Moon is on the far part of its elliptical orbit around the Earth.  The next annular eclipse of the Sun will take place in 2003 May, although a total eclipse will occur later this year in early December.  Pictured above, a spectacular annular eclipse was photographed behind palm trees on 1992 January.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/RingOfFire_mammana.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Annular Eclipse: The Ring of Fire",
+    "url": "https://apod.nasa.gov/apod/image/0206/RingOfFire_mammana.jpg"
+},
+{
+    "copyright": "T. A. Rector",
+    "date": "2002-06-11",
+    "explanation": "From afar, the whole thing looks like an Eagle.  A closer look of the Eagle Nebula, however, shows the bright region is actually a window into the center of a larger dark shell of dust.  Through this window, a brightly-lit workshop appears where a whole open cluster of stars is being formed.  In this cavity tall pillars and round globules of dark dust and cold molecular gas remain where stars are still forming.  Already visible are several young bright blue stars whose light and winds are burning away and pushing back the remaining filaments and walls of gas and dust.  The Eagle emission nebula, tagged M16, lies about 6500 light years away, spans about 20 light-years, and is visible with binoculars toward the constellation of Serpens.  The above picture combines three specific emitted colors and was taken with the 0.9-meter telescope on Kitt Peak, Arizona, USA.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/eagle_kp09_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Inside the Eagle Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0206/eagle_kp09.jpg"
+},
+{
+    "copyright": "Gerard Barkats",
+    "date": "2002-06-12",
+    "explanation": "Part of the Sun disappeared behind the Moon earlier this week.  Previously, the waning Moon was best visible from all places on Earth during the early morning hours because it led the Sun.  As the Moon orbited the Earth, however, the Sun caught up to it and passed it on the sky. Now the waxing Moon trails the Sun and is therefore best visible just after sunset.  Each month, as viewed from the Earth, the Sun appears to lap the Moon and the cycle repeats.  Sometimes when the Moon passes the Sun, it goes directly in front of part of it, causing a partial eclipse.  Pictured above, a time lapse sequence shows the Moon passing the Sun on June 10 behind the Golden Gate Bridge in San Francisco, California, USA.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/ggeclipse_gb_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Partial Eclipse Over the Golden Gate Bridge",
+    "url": "https://apod.nasa.gov/apod/image/0206/ggeclipse_gb.jpg"
+},
+{
+    "date": "2002-06-13",
+    "explanation": "The Tarantula Nebula is more than 1,000 light-years across - a giant emission nebula within our neighboring galaxy the Large Magellanic Cloud. Inside this cosmic arachnid lies a central young cluster of massive stars, cataloged as R136, whose intense radiation and strong winds have helped energize the nebular glow and shape the spidery filaments. In this impressive color mosaic of images from the Wide-Field Imager camera on ESO's 2.2 meter telescope at La Silla Observatory, other young star clusters can be seen still within the nebula's grasp. Also notable among the denizens of the Tarantula zone are several dark clouds invading the nebula's outer limits as well as the dense cluster of stars NGC 2100 at the extreme left edge of the picture. The small but expanding remnant of supernova 1987a, the closest supernova in modern history, lies just off the lower right corner of the field. The rich mosaic's field of view covers an area on the sky about the size of the full moon in the southern constellation Dorado.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/tarantula_esowfi_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Tarantula Zone",
+    "url": "https://apod.nasa.gov/apod/image/0206/tarantula_esowfi.jpg"
+},
+{
+    "copyright": "Lynette Cook",
+    "date": "2002-06-14",
+    "explanation": "Is our Solar System unique?  The discovery of a Jupiter-like planet in a Jupiter-like orbit around nearby Sun-like star 55 Cancri, announced yesterday, gives a new indication that planetary systems similar to our Solar System likely exist elsewhere.  The planet, discovered by G. Marcy (UC Berkeley) and collaborators, is one of two new planets found around 55 Cancri -- in 1997 a Jupiter-massed planet was found orbiting very close in.  The finding involved noting subtle changes in the speed of the star caused by its orbiting planets.  The above drawing depicts what this planet might look like, complete with a hypothetical moon.  The star 55 Cancri, only 40 light-years distant, is visible with binoculars towards the constellation of Cancer.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/55Can_cook_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "55 Cancri: Familiar Planet Discovered",
+    "url": "https://apod.nasa.gov/apod/image/0206/55Can_cook.jpg"
+},
+{
+    "date": "2002-06-15",
+    "explanation": "The sands of time are running out for the central star of this hourglass-shaped planetary nebula. With its nuclear fuel exhausted, this brief, spectacular, closing phase of a Sun-like star's life occurs as its outer layers are ejected - its core becoming a cooling, fading white dwarf. In 1995, astronomers used the Hubble Space Telescope (HST) to make a series of images of planetary nebulae, including the one above.  Here, delicate rings of colorful glowing gas (nitrogen-red, hydrogen-green, and oxygen-blue) outline the tenuous walls of the \"hourglass\". The unprecedented sharpness of the HST images has revealed surprising details of the nebula ejection process and may help resolve the outstanding mystery of the variety of complex shapes and symmetries of planetary nebulae.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/MyCn18_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "MyCn18: An Hourglass Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0206/MyCn18_hst.jpg"
+},
+{
+    "date": "2002-06-16",
+    "explanation": "Why does Jupiter have rings?  Jupiter's rings were discovered in 1979 by the passing Voyager 1 spacecraft, but their origin was a mystery.  Data from the Galileo spacecraft currently orbiting Jupiter later confirmed that these rings were created by meteoroid impacts on small nearby moons.  As a small meteoroid strikes tiny Adrastea, for example, it will bore into the moon, vaporize, and explode dirt and dust off into a Jovian orbit.  Pictured above is an eclipse of the Sun by Jupiter, as viewed from Galileo.  Small dust particles high in Jupiter's atmosphere, as well as the dust particles that compose the rings, can be seen by reflected sunlight.   Anniversary: APOD Turns Seven",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/jupring1_gal_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Jupiter's Rings Revealed",
+    "url": "https://apod.nasa.gov/apod/image/0206/jupring1_gal.jpg"
+},
+{
+    "date": "2002-06-17",
+    "explanation": "The many bright, point-like sources in this Chandra Observatory x-ray image lie within NGC 4697, an elliptical galaxy some 40 million light-years away towards Virgo. Like other normal elliptical galaxies, NGC 4697 is a spherical ensemble of mainly older, fainter, low mass stars, with little star forming gas and dust compared to spiral galaxies. But the luminous x-ray sources in the Chandra image indicate that NGC 4697 had a wilder youth. Powering the x-ray sources are neutron stars and black holes in binary star systems, where x-rays are generated as matter from a more ordinary companion star falls in to these bizarre, compact objects. Since neutron stars and black holes are the endpoints in the lives of massive stars, NGC 4697 must have had many bright, massive stars in its past. An exceptionally large number of NGC 4697's x-ray binaries are found in the galaxy's globular star clusters, suggesting that dense star clusters are a good place for neutron stars and black holes to capture a companion. Stellar winds and supernovae explosions of massive stars could also have produced the hot gas responsible for this galaxy's diffuse x-ray glow.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/ngc4697_cxc.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 4697: X-Rays from an Elliptical Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0206/ngc4697_cxc_c1.jpg"
+},
+{
+    "date": "2002-06-18",
+    "explanation": "How can a round star make a square nebula?  This conundrum comes to light when studying  planetary nebulae like IC 4406.  Evidence indicates that IC 4406 is likely a hollow cylinder, with its square appearance the result of our vantage point in viewing the cylinder from the side.  Were IC 4406 viewed from the top, it would likely look similar to the Ring Nebula.  This representative-color picture is a composite made by combining images taken by the Hubble Space Telescope last June and this January. Hot gas flows out the ends of the cylinder, while filaments of dark dust and molecular gas lace the bounding walls.  The star primarily responsible for this interstellar sculpture can be found in the planetary nebula's center.  In a few million years, the only thing left visible in IC 4406 will be a fading white dwarf star.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/ic4406_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "IC 4406: A Seemingly Square Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0206/ic4406_hst.jpg"
+},
+{
+    "copyright": "Gregory GiulianiAstroImagine",
+    "date": "2002-06-19",
+    "explanation": "The Moon, fresh from a biting encounter with the Sun last week, appeared next to threaten Venus.  The waxing Moon appeared to glide right past, however, just a few degrees away.  Venus, of course, is much further away from the Earth than the Moon, so the passing was really just an angular illusion.  Pictured above on June 13, a fading sunset finds the crescent Moon and Venus between clouds and above the city lights of Geneva, Switzerland.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/MoonVenusGeneva_giuliani.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Moon & Venus Over Geneva",
+    "url": "https://apod.nasa.gov/apod/image/0206/MoonVenusGeneva_giuliani.jpg"
+},
+{
+    "copyright": "Robert Gendler",
+    "date": "2002-06-20",
+    "explanation": "Big and beautiful spiral galaxy M81, in the northern constellation Ursa Major, is one of the brightest galaxies visible in the skies of planet Earth. This superbly detailed view reveals its bright nucleus, grand spiral arms and sweeping cosmic dust lanes with a scale comparable to the Milky Way. Hinting at a disorderly past, a remarkable dust lane runs straight through the disk, below and right of the galactic center, contrary to M81's other prominent spiral features. The errant dust lane may be the lingering result of a close encounter between M81 and its smaller companion galaxy, M82. Scrutiny of variable stars in M81 (aka NGC 3031) has yielded one of the best determined distances for an external galaxy -- 11.8 million light-years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/m81_gendler_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Bright Galaxy M81",
+    "url": "https://apod.nasa.gov/apod/image/0206/m81_gendler_c1.jpg"
+},
+{
+    "date": "2002-06-21",
+    "explanation": "Today's scheduled geocentric astronomical event is the Solstice, with the Sun reaching its northernmost declination at 13 hours 24 minutes Universal Time. For denizens of planet Earth this Solstice marks the beginning of Summer in the northern hemisphere and Winter in the south. Of course, the tilt of the Earth's axis of rotation (and not a change in the Earth-Sun distance) is mainly responsible for the changing seasons and the Sun's yearly north-south motion through the sky. Following the rising and setting points of the Sun along the horizon is one way to track the Sun's progress along its seasonal cycle. Tall grasses and tinted clouds frame this dramatic view of the setting Sun approaching the northern limit of this year's seasonal journey as seen near Raffingora, Zimbabwe.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/zimsun_alexander.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Zimbabwe Sunset",
+    "url": "https://apod.nasa.gov/apod/image/0206/zimsun_alexander.jpg"
+},
+{
+    "date": "2002-06-22",
+    "explanation": "Two sulfurous eruptions are visible on Jupiter's volcanic moon Io in this color composite Galileo image. On the left, over Io's limb, a new bluish plume rises about 86 miles above the surface of a volcanic caldera known as Pillan Patera. In the middle of the image, near the night/day shadow line, the ring shaped Prometheus plume is seen rising 45 miles above Io while casting a shadow to the right of the volcanic vent. Named for the Greek god who gave mortals fire, the Prometheus plume is visible in every image ever made of the region dating back to the Voyager flybys of 1979 - presenting the possibility that this plume has been continuously active for at least 18 years. This image was recorded in 1997 on June 28 at a distance of 372,000 miles.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/prometheus_gal_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Io: The Prometheus Plume",
+    "url": "https://apod.nasa.gov/apod/image/0206/prometheus_gal.jpg"
+},
+{
+    "date": "2002-06-23",
+    "explanation": "Rocks from space hit Earth every day.  The larger the rock, though, the less often Earth is struck.  Many kilograms of space dust pitter to Earth daily. Larger bits appear initially as a bright meteor.  Baseball-sized rocks and ice-balls streak through our atmosphere daily, most evaporating quickly to nothing.  Significant threats do exist for rocks near 100 meters in diameter, which strike the Earth roughly every 1000 years.  An object this size could cause significant tidal waves were it to strike an ocean, potentially devastating even distant shores.  A collision with a massive asteroid, over 1 km across, is more rare, occurring typically millions of years apart, but could have truly global consequences.  Many asteroids remain undiscovered.  In fact, one was discovered in 1998 as the long blue streak in the above archival image taken by the Hubble Space Telescope. Last week, the small 100-meter asteroid 2002 MN was discovered only after it whizzed by the Earth, passing well within the orbit of the Moon.  2002 MN passed closer than any asteroid since 1994 XM1.  A collision with a large asteroid  would not affect Earth's orbit so much as raise dust that would affect Earth's climate.  One likely result is a global extinction of many species of life, possibly dwarfing the ongoing extinction occurring now.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/asteroids_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Asteroids in the Distance",
+    "url": "https://apod.nasa.gov/apod/image/0206/asteroids_hst.jpg"
+},
+{
+    "copyright": "P. C. FrischU. Chicagoet al.U. Indiana",
+    "date": "2002-06-24",
+    "explanation": "Where does the Sun's influence end? Nobody is sure.  Out past the orbits of Neptune and Pluto extends a region named the heliosphere where the Sun's magnetic field and particles from the Solar Wind continue to dominate.  The surface where the Solar Wind drops below sound speed is called the termination shock and is depicted as the inner oval in the above computer-generated illustration.  It is thought that this surface occurs as close as 75-90 AU -- so close that a Pioneer or Voyager spacecraft may soon glide through it as they exit the Solar System at about 3 AU/year.  The actual contact sheet between the Sun's ions and the Galaxy's ions is called the heliopause and is thought to occur at about 110 AU.  It is depicted above as the middle surface.  The Sun's heliopause moves through the local interstellar medium much as a boat moves on water, pushing a bow shock out in front, thought to occur near 230 AU.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/heliosphere_pc_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Sun's Heliosphere & Heliopause",
+    "url": "https://apod.nasa.gov/apod/image/0206/heliosphere_pc.jpg"
+},
+{
+    "date": "2002-06-25",
+    "explanation": "Venus and Jupiter appeared to glide right past each other earlier this month.  In a slow day-by-day march, Jupiter sank into the sunset horizon while Venus remained high and bright.  The conjunction ended the five-planet party visible over the last two months.  Jupiter, of course, is much further away from the Earth and Sun than Venus, so the passing was really just an angular illusion.  Pictured above on June 3, a fading sunset finds Venus shining over Jupiter above clouds, mountains, and the city lights of Belfast, Northern Ireland.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/belfastplanets_paice_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Venus and Jupiter Over Belfast",
+    "url": "https://apod.nasa.gov/apod/image/0206/belfastplanets_paice.jpg"
+},
+{
+    "date": "2002-06-26",
+    "explanation": "Clouds of glowing gas mingle with lanes of dark dust in the Trifid Nebula, a star forming region toward the constellation of Sagittarius.  In the center, the three huge dark dust lanes that give the Trifid its name all come together. Mountains of opaque dust appear on the lower left, while filaments of dust are visible threaded throughout the nebula.  A single massive star visible near the center causes much of the Trifid's glow.  The Trifid, also known as M20, is only about 300,000 years old, making it among the youngest emission nebula known.  The nebula lies about 5000 light years away and part pictured above spans about 20 light years.  The above false-color digitally enhanced image was taken with the Gemini North telescope earlier this month.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/trifid_gemini_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "In the Center of the Trifid Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0206/trifid_gemini.jpg"
+},
+{
+    "date": "2002-06-27",
+    "explanation": "Just as erosion from the Colorado River carved the Grand Canyon on Earth, a river of flood water may have carved Ma'adim Vallis, one of the largest canyons on Mars. Researchers have presented strong evidence for such a scenario based on elevation data recorded by the MOLA (Mars Orbiter Laser Altimeter) experiment on the Mars Global Surveyor spacecraft. This false-color, detailed, topographical map of MOLA data shows in blue the area of an enormous complex of lakes that are thought to have existed over three and a half billion years ago in the southern highlands of Mars. As the largest lake spilled over the low point in its boundary a torrential flood would have moved north, along the direction indicated by the arrow, carving the sinuous Ma'adim Vallis. At the north end of Ma'adim Vallis, the flood waters would have poured into large, round Gusev Crater. Since standing bodies of surface water are thought to be favorable for ancient martian microbial life, Gusev Crater has been suggested as a landing site for future Mars missions.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/marslakes_topomap_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Carving Ma'adim Vallis",
+    "url": "https://apod.nasa.gov/apod/image/0206/marslakes_topomap_c.jpg"
+},
+{
+    "date": "2002-06-28",
+    "explanation": "Can the Hubble Space Telescope take a picture that shows the Apollo lunar modules on the Moon? With its 2.4 meter diameter mirror, the smallest object that the Hubble can resolve at the Moon's distance of around 400,000 kilometers is about 80 meters across. So, from low Earth orbit even Hubble's sharp vision can not image the Apollo lunar module descent stages, at most a few meters across, left behind at the lunar landing sites. A space telescope over ten times the size of Hubble could ... or a much smaller telescope in close lunar orbit. In fact, this picture does just resolve Apollo 17's Lunar Module, Challenger, and its shadow on the cratered floor of the Taurus-Littrow valley in the Moon's Mare Serenitatis. It was taken in 1972 from the Apollo 17 Command Module, America, orbiting about 100 kilometers above the Moon's surface and covers an area about 1.1 kilometers wide. Using a web site created by Dan Durda of Southwest Research Institute, armchair astronauts can explore orbital views of this and the 5 other Apollo lunar landing sites.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/lmsurface_apollo17_d.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Lunar Module at Taurus-Littrow",
+    "url": "https://apod.nasa.gov/apod/image/0206/lmsurface_apollo17_d.jpg"
+},
+{
+    "date": "2002-06-29",
+    "explanation": "This deep view of the cosmos is the sequel to the 1995 hit Hubble Space Telescope Deep Field. Billed as the Hubble Deep Field South, it was produced by pointing the space telescope toward a patch of sky in the southern constellation Tucana. Over a period of 10 days, many separate exposures were accumulated and combined to reveal progressively fainter galaxies. The original deep field was constructed by observing a piece of sky in the northern constellation Ursa Major. Both stare down 12 billion light-year long tunnels to far-off and still mysterious times when young galaxies inhabited an infant universe. Hubble Deep Field South observations were released to an enthusiastic audience on November 23, 1998.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/southerndeep_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Deep Field In The Southern Sky",
+    "url": "https://apod.nasa.gov/apod/image/0206/southerndeep_hst.jpg"
+},
+{
+    "date": "2002-06-30",
+    "explanation": "This asteroid has a moon! The robot spacecraft Galileo currently exploring the Jovian system, encountered and photographed two asteroids during its long journey to Jupiter. The second asteroid it photographed, Ida, was discovered to have a moon which appears as a small dot to the right of Ida in this picture. The tiny moon, named Dactyl, is about one mile across, while the potato shaped Ida measures about 36 miles long and 14 miles wide. Dactyl is the first moon of an asteroid ever discovered. The names Ida and Dactyl are based on characters in Greek mythology. Other asteroids are now known to have moons.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/idadactyl_galileo_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Ida and Dactyl: Asteroid and Moon",
+    "url": "https://apod.nasa.gov/apod/image/0206/idadactyl_galileo.jpg"
+},
+{
+    "copyright": "Anglo-Australian Observatory",
+    "date": "2002-07-01",
+    "explanation": "The nebula surrounding bright star S Mon is filled with dark dust and glowing gas.  The strange shapes originate from fine interstellar dust reacting in complex ways with the energetic light and hot gas being expelled by the young stars.  The region just below S Mon, the bright star in the above picture, is nicknamed the Fox Fur Nebula for its color and texture.  The blue glow directly surrounding S Mon results from reflection, where neighboring dust reflects light from the bright star.  The more diffuse red glow results from emission, where starlight ionizes hydrogen gas.  Pink areas are lit by a combination of the two processes.  S Mon is part of a young open cluster of stars named NGC 2264, located about 2500 light years away toward the constellation of Monoceros, just north of the Cone Nebula.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/foxfur_aao014_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Fox Fur Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0207/foxfur_aao014.jpg"
+},
+{
+    "date": "2002-07-02",
+    "explanation": "What color is the universe?  More precisely, if the entire sky was smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted above, is a conditionally perceived shade of beige.  To determine this, astronomers computationally averaged the light emitted by one of the largest sample of galaxies yet analyzed: the 200,000 galaxies of the 2dF survey.  The resulting cosmic spectrum has some emission in all parts of the electromagnetic spectrum, but a single perceived composite color.  This color has become much less blue over the past 10 billion years, indicating that redder stars are becoming more prevalent.   In a contest to better name the color, notable entries included skyvory, univeige, and the winner: cosmic latte.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/cosmiclatte_jhu.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Average Color of the Universe",
+    "url": "https://apod.nasa.gov/apod/image/0207/cosmiclatte_jhu.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2002-07-03",
+    "explanation": "What is going on in NGC 891?  This galaxy appeared previously to be very similar to our own Milky Way Galaxy: a spiral galaxy seen nearly edge-on.  However, recent high-resolution images of NGC 891's dust show unusual filamentary patterns extending well away from its Galactic disk.  This interstellar dust was probably thrown out of the galactic disk toward the halo by stellar supernovae explosions.  Because dust is so fragile, its appearance after surviving disk expulsion can be very telling. Newly discovered phenomena, however, sometimes appear so complex that more questions are raised than are answered.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/ngc891_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Interstellar Dust Bunnies of NGC 891",
+    "url": "https://apod.nasa.gov/apod/image/0207/ngc891_cfht.jpg"
+},
+{
+    "date": "2002-07-04",
+    "explanation": "cal galaxy NGC 4365 is old, probably about 12 billion years old. Like most elliptical galaxies, this galaxy was thought to be full of old stars too, its burst of star forming activity having long since ended. But combining data from the Hubble Space Telescope and the European Southern Observatory's ground-based Antu Telescope, a team of European and US astronomers discovered NGC 4365's surprising secret -- some of its star clusters are young. In this composite image, the galaxy's bright nucleus is at the upper left. NGC 4365's star clusters themselves appear as bright dots against a diffuse glow of unresolved starlight and fuzzy, distant background galaxies. The notched border outlines Hubble's WFPC2 camera field. Moving the cursor over the image identifies individual star clusters, with the relatively young (few billion year-old) clusters circled in blue, and the anticipated 12 billion year-old clusters circled in red. NGC 4365 is 60 million light-years away in the Virgo galaxy cluster.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/ngc4365-15a-02sm.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Young Star Clusters in an Old Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0207/ngc4365-15a-02sm.jpg"
+},
+{
+    "copyright": "Corrado Alesso",
+    "date": "2002-07-05",
+    "explanation": "Whimsical and creative, this multiple exposure suggests that planet Earth's sky could be very dramatic indeed if it were graced by many moons. And in James Thurber's well-known children's story, Princess Lenore was comfortable with the idea of many moons, even if the wise men of the King's court failed to understand. But just for the Royal Astronomer and Mathematician, this picture has an explanation. On 2001 July 8, three days past full moon, astrophotographer Corrado Alesso loaded his camera with high-speed film and set it up in the province of Cuneo, Italy. With the shutter open, he recorded four separate one second long exposures on the same frame, covering the wide-angle lens for about 30 minutes between each exposure as the inconstant moon drifted through the night.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/CorradoMultipleMoon_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Many Moons",
+    "url": "https://apod.nasa.gov/apod/image/0207/CorradoMultipleMoon.jpg"
+},
+{
+    "date": "2002-07-06",
+    "explanation": "How big is the Jovian moon Io? The most volcanic body in the Solar System, Io (usually pronounced \"EYE-oh\") is 3,600 kilometers in diameter, about the size of planet Earth's single large natural satellite. Gliding past Jupiter at the turn of the millennium, the Cassini spacecraft captured this awe inspiring view of active Io with the largest gas giant as a backdrop, offering a stunning demonstration of the ruling planet's relative size. Although in the picture Io appears to be located just in front of the swirling Jovian clouds, Io hurtles around its orbit once every 42 hours at a distance of 420,000 kilometers or so from the center of Jupiter. That puts it nearly 350,000 kilometers above Jupiter's cloud tops, roughly equivalent to the distance between Earth and Moon. The Cassini spacecraft itself was about 10 million kilometers from Jupiter when recording the image data.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/iojup_cassini_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Io: Moon Over Jupiter",
+    "url": "https://apod.nasa.gov/apod/image/0207/iojup_cassini.jpg"
+},
+{
+    "date": "2002-07-07",
+    "explanation": "The center of our Galaxy is obscured in visible light by dark dust that rotates with the stars in the Galactic Plane.  In this century, however, sensors have been developed that can detect light more red that humans can see - light called infrared.  The above picture shows what the Galactic Center looks like in three increasingly red bands of near-infrared light.  The picture results from a digital combination of data recently taken by the 2MASS and MSX Galactic surveys.  In near-infrared light (shown in blue) the dust is less opaque and many previously shrouded red giant stars become visible.  In the mid-infrared (shown in red) the dust itself glows brightly, but allows us a view very close to our tumultuous and mysterious Galactic Center.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0007/gcatlas_2mass_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Galactic Center Across the Infrared",
+    "url": "https://apod.nasa.gov/apod/image/0007/gcatlas_2mass.jpg"
+},
+{
+    "copyright": "Bell Labs-Lucent Technologies",
+    "date": "2002-07-08",
+    "explanation": "Sometimes staring into empty space is useful.  Pictured above is a region of sky that was picked because it had, well, nothing: no bright stars, no bright galaxies, and no picturesque nebulas.  What could not be avoided, however, were a few stars in our own Galaxy, and many distant galaxies strewn across the universe.  Now the more distant galaxies have their light slightly deflected by the gravity of more nearby galaxies, causing them to appear slightly distorted.  By analyzing these gravitational lens distortions, nearby mass concentrations can be found, regardless of how bright they appear.  Using this method, astronomers can now weigh entire clusters of galaxies and search for large groupings of relatively dark matter.  Circled in the lower right of the above image is a cluster of galaxies that was found not by its light, but by its mass.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/emptyspace_btc_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Weighing Empty Space",
+    "url": "https://apod.nasa.gov/apod/image/0207/emptyspace_btc.jpg"
+},
+{
+    "copyright": "Vasilij RumyantsevCrimean Astrophysical Obsevatory",
+    "date": "2002-07-09",
+    "explanation": "Tomorrow's picture: southwest of the big dipper  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA/ GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/analemma_vr_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Analemma",
+    "url": "https://apod.nasa.gov/apod/image/0207/analemma_vr.jpg"
+},
+{
+    "copyright": "Tony and Daphne Hallas",
+    "date": "2002-07-10",
+    "explanation": "Follow the handle of the Big Dipper away from the dipper's bowl, until you get to the handle's last bright star. Then, just slide your telescope a little south and west and you'll likely find this stunning pair of interacting galaxies, the 51st entry in Charles Messier's famous catalog. Perhaps the original spiral nebula, the large galaxy with well defined spiral structure is also cataloged as NGC 5194. Its spiral arms and dust lanes clearly sweep in front of its companion galaxy (left), NGC 5195. The pair are about 37 million light-years distant and officially lie within the boundaries of the small constellation Canes Venatici. While M51 is visible as a faint, fuzzy patch in binoculars, this sharp color picture was made with a 14 inch telescope and combines digital camera exposures totaling 3 hours and 42 minutes.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/m51_hallas_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M51: Cosmic Whirlpool",
+    "url": "https://apod.nasa.gov/apod/image/0207/m51_hallas.jpg"
+},
+{
+    "date": "2002-07-11",
+    "explanation": "Fresh from yesterday's episode, a popular pair of interacting galaxies known as the Whirlpool debut here beyond the realm of visible light -- imaged at high energies by the orbiting Chandra X-ray Observatory. Still turning in a remarkable performance, over 80 glittering x-ray stars are present in the Chandra image data from the region. The number of luminous x-ray sources, likely neutron star and black hole binary systems within the confines of M51, is unusually high for normal spiral or elliptical galaxies and suggests this cosmic whirlpool has experienced intense bursts of massive star formation. The bright cores of both galaxies, NGC 5194 and NGC 5195 (right and left respectively), also exhibit high-energy activity in this false-color x-ray picture showing a diffuse glow from multi-million degree gas. An expanded view of the region near the core of NGC 5194 reveals x-rays from a supernova remnant, the debris from a spectacular stellar explosion, first detected by earthbound astronomers in 1994.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/m51_cxc_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M51: X-Rays from the Whirlpool",
+    "url": "https://apod.nasa.gov/apod/image/0207/m51_cxc.jpg"
+},
+{
+    "date": "2002-07-12",
+    "explanation": "For billions of years, massive stars in our Milky Way Galaxy have lived spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After a few million years, the enriched material is blasted back into interstellar space where star formation begins anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the explosion which created this supernova remnant was probably first seen in planet Earth's sky just over 300 years ago, although it took that light more than 10,000 years to reach us. In this gorgeous Hubble Space Telescope image of cooling filaments and knots in the Cas A remnant, light from specific elements has been color coded to help astronomers understand the recycling of our galaxy's star stuff. For instance, red regions are dominated by emission from sulfur atoms while blue shades correspond to oxygen. The area shown is about 10 light-years across.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/casA_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Recycling Cassiopeia A",
+    "url": "https://apod.nasa.gov/apod/image/0207/casA_hst.jpg"
+},
+{
+    "date": "2002-07-13",
+    "explanation": "This weekend's stereo picture finds Apollo 12 astronaut Pete Conrad standing on the lunar surface near the southern rim of Surveyor Crater in November of 1969. With red/blue glasses you can gaze beyond the spacesuited Conrad across the magnificent desolation of the Moon's Ocean of Storms. Conrad stands next to large chunks of loose rock, debris from the small impact crater. A sampling scoop is in his right hand and a specially designed tool carrier rests by his left foot as he poses for the picture. His photographer, fellow astronaut Al Bean, captured two separate images (cataloged as AS12-49-7318 and AS12-49-7319) by doing something like a stereo \"cha-cha\" ... taking the first picture while resting his weight on his right foot and the second after shifting to his left. With the first tinted blue and second red, the pair of pictures were offset and combined to create a 3D anaglyph. Donning red/blue glasses allows the result to be viewed with stereo vision.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/as12stereo_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Apollo 12: Stereo View Near Surveyor Crater",
+    "url": "https://apod.nasa.gov/apod/image/0207/as12stereo_c2.jpg"
+},
+{
+    "date": "2002-07-14",
+    "explanation": "The Crab Nebula, filled with mysterious filaments, is the result of a star that was seen to explode in 1054 AD.  This spectacular supernova explosion was recorded by Chinese and (quite probably) Anasazi Indian astronomers.  The filaments are mysterious because they appear to have less mass than expelled in the original supernova and higher speed than expected from a free explosion. In the above picture taken recently from a Very Large Telescope, the color indicates what is happening to the electrons in different parts of the Crab Nebula. Red indicates the electrons are recombining with protons to form neutral hydrogen, while blue indicates the electrons are whirling around the magnetic field of the inner nebula.  In the nebula's very center lies a pulsar: a neutron star rotating, in this case, 30 times a second.",
+    "hdurl": "https://apod.nasa.gov/apod/image/9911/crab_vlt_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Crab Nebula from VLT",
+    "url": "https://apod.nasa.gov/apod/image/9911/crab_vlt.jpg"
+},
+{
+    "copyright": "David Malin",
+    "date": "2002-07-15",
+    "explanation": "What is the closest star to our Sun?  It is Proxima Centauri, the nearest member of the Alpha Centauri triple star system.  Light takes only 4.22 years to reach us from Proxima Centauri.  This small red star, captured in the center of the above image,  is so faint that it was only discovered in 1915 and is only visible through a telescope.  Stars of all types from our Milky Way Galaxy are visible in the background.   The brightest star in the Alpha Centauri system is quite similar to our Sun, has been known as long as recorded history, and is the third brightest star in the night sky.  The Alpha Centauri system is primarily visible from Earth's Southern Hemisphere.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/proximacen1_aao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Proxima Centauri: The Closest Star",
+    "url": "https://apod.nasa.gov/apod/image/0207/proximacen1_aao.jpg"
+},
+{
+    "date": "2002-07-16",
+    "explanation": "After just passing Mercury, the robot spacecraft Mariner 10 looked back.  The above picture is what it saw.  Mercury, the closest planet to the Sun, is heavily cratered much like Earth's Moon.  As Mercury slowly rotates, its surface temperature varies from an unbearably cold -180 degrees Celsius in the half facing away from the Sun, to an unbearably hot 400 degrees Celsius in the half facing toward the Sun.  Mercury is slightly larger than Earth's Moon and much denser.   The Mariner 10 spacecraft swooped by Mercury three times in its journey around the inner Solar System in the mid-1970s.  This outbound view has similarities to the inbound view.  Nearly half of Mercury's surface has yet to be photographed in detail.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/mercuryoutbound_mariner10_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Outbound from Mercury",
+    "url": "https://apod.nasa.gov/apod/image/0207/mercuryoutbound_mariner10.jpg"
+},
+{
+    "date": "2002-07-17",
+    "explanation": "The star cluster in RCW38 was hiding.  Looking at the star forming region RCW38 will not normally reveal most of the stars in this cluster.  The reason is that the open cluster is so young that it is still shrouded in thick dust that absorbs visible light.  This dust typically accompanies the gas that condenses to form young stars.  When viewed in infrared light, however, many stars in RCW38 are revealed, because dust is less effective at absorbing infrared light. The above representative-color image mosaic of RCW38 taken by the 2MASS sky survey in infrared light shows not only many bright blue stars from the star cluster but clouds of brightly emitting gas and dramatic lanes of dark dust. RCW38 spans about 10 light-years and is located about 5500 light years away towards the constellation of Vela.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/rcw38_2mass_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Star-Forming Region RCW38 from 2MASS",
+    "url": "https://apod.nasa.gov/apod/image/0207/rcw38_2mass.jpg"
+},
+{
+    "date": "2002-07-18",
+    "explanation": "The solar active region designated number 10030 (or simply region 30) is now appearing on the visible hemisphere of the closest star. Dwarfed by the Sun's disk, the group of sunspots which make up region 30 actually cover an enormous area -- nearly 10 times the size of Earth. The panels above were recorded July 15, 16, and 17 (top to bottom) by the MDI instrument on the space-based SOHO Observatory as the solar rotation slowly carried the large, dynamic sunspot group across the Sun's nearside. On July 15, a powerful solar flare erupted from this region followed by a coronal mass ejection. The energetic cloud of electrically charged particles swept past our fair planet yesterday, and as a result enhanced auroral activity is possible.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/ar0030_sohomdi_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Sunspot Region 30",
+    "url": "https://apod.nasa.gov/apod/image/0207/ar0030_sohomdi.jpg"
+},
+{
+    "date": "2002-07-19",
+    "explanation": "The bulging center of our Milky Way Galaxy, dark cosmic clouds, the thin galactic plane, and even nearby galaxies are easy to spot in this sky view. But each pixel in the digital image is actually based on star counts alone -- as derived from the Two Micron All Sky Survey (2MASS) database. In 2001, the 2MASS project completed a ground-based survey of the entire sky and cataloged upwards of 250 million stars. Their full all-sky picture assigns a brightness and color to individual pixels based on corresponding star counts in each of the survey's three near-infrared bands. In this cropped image, the star-packed galactic center is toward the upper left, with the bright plane of our Galaxy running horizontally through it. Dense regions of interstellar dust clouds, still opaque to penetrating near-infrared light, appear dark by reducing the 2MASS star counts. Our fuzzy neighboring galaxies, the large and small Magellanic Clouds, are at the lower right, while scattered single bright spots correspond to the intense concentrations of stars in the Milky Way's large globular star clusters.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/allsky_2massstars_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Counting Stars in the Infrared Sky",
+    "url": "https://apod.nasa.gov/apod/image/0207/allsky_2massstars_c.jpg"
+},
+{
+    "date": "2002-07-20",
+    "explanation": "On July 20th, 1969, humans first set foot on the Moon. Taken from a window of their Apollo 11 lunar module, the Eagle, this picture shows the footprints in the powdery lunar soil made by astronauts Neil Armstrong and Buzz Aldrin. It has been estimated that one billion people on planet Earth watched Armstrong step from the lander onto the surface of another world, making this live transmission one of the highest rated television shows ever.  In the foreground at right, a rocket nozzle on the side of the Eagle is seen in silhouette, while beyond an unfurled United States flag is the television camera, remounted on a stand to better view the landing area. The Apollo missions to the Moon have been described as the result of the greatest technological mobilization in history.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/moontv_apollo11_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Footprints on Another World",
+    "url": "https://apod.nasa.gov/apod/image/0207/moontv_apollo11.jpg"
+},
+{
+    "date": "2002-07-21",
+    "explanation": "For such a close galaxy, NGC 4945 is easy to miss.  NGC 4945 is a spiral galaxy in the Centaurus Group of galaxies, located only six times farther away than the prominent Andromeda Galaxy. The thin disk galaxy is oriented nearly edge-on, however, and shrouded in dark dust.  Therefore galaxy-gazers searching the southern constellation of Centaurus need a telescope to see it.  The above picture was taken with a large telescope testing a new wide-angle, high-resolution CCD camera.  Most of the spots scattered about the frame are foreground stars in our own Galaxy, but some spots are globular clusters orbiting the distant galaxy.  NGC 4945 is thought to be quite similar to our own Milky Way Galaxy.  X-ray observations reveal, however, that NGC 4945 has an unusual, energetic, Seyfert 2 nucleus that might house a large black hole.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/ngc4945_mgi_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Nearby Spiral Galaxy NGC 4945",
+    "url": "https://apod.nasa.gov/apod/image/0207/ngc4945_mgi.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2002-07-22",
+    "explanation": "Did you ever have a day when it felt like a dark cloud was following you around?  For the open cluster of stars NGC 6520, every day is like this. On the left of the above picture are many of NGC 6520's bright blue stars.  They formed only millions of years ago - much more recently than our ancient Sun which formed billions of years ago.  On the right is an absorption nebula, molecular cloud Barnard 86, from which the stars of NGC 6520 surely formed.  This nebula contains much opaque dust that blocks light from the many stars that would have been visible in the background.  Surrounding NGC 6520 is part of the tremendously dense starscape in the bulge of our Milky Way Galaxy, the extended halo of stars that surrounds the center of our Galaxy. NGC 6520 spans about 10 light years and lies about 5500 light years away toward the direction of Sagittarius.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/GCbulge_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Open Cluster NGC 6520 from CFHT",
+    "url": "https://apod.nasa.gov/apod/image/0207/GCbulge_cfht.jpg"
+},
+{
+    "copyright": "Roddy Mackenzie",
+    "date": "2002-07-23",
+    "explanation": "What would it be like to stand atop the tallest mountain on Earth?  To see a full panoramic vista from there, scroll right.  Visible are snow peaked mountains near and far, tremendous cliffs, distant plateaus, the tops of clouds, and a dark blue sky.  Mt. Everest stands 8.85 kilometers above sea level, roughly the maximum height reached by international airplane flights, but much less than the 300 kilometers achieved by a space shuttle.  Hundreds of people have tried and failed to climb the behemoth by foot, a feat first accomplished successfully in 1953.  About 1000 people have now made it to the summit.  Roddy Mackenzie, who climbed the mountain in 1989, captured the above image. Mt. Everest lies in the Himalayan mountains in the country of Nepal.  In the native language of Nepal, the mountain's name is \"Sagarmatha\" which means \"goddess of the sky.\"",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/everest_mackenzie.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The View from Everest",
+    "url": "https://apod.nasa.gov/apod/image/0207/everest_mackenzie.jpg"
+},
+{
+    "copyright": "MPCCBATHarvard CfAIAU",
+    "date": "2002-07-24",
+    "explanation": "Our Solar System is a busy place.  Although the major planets get the most press, a swarm of rocks, comets, and asteroids also exist. The above plot shows the placement of known inner Solar System objects on 2002 July 20.  The light blue lines indicate the orbits of planets.  The green dots indicate asteroids, officially known as minor planets.  The red dots indicate asteroids that come within 1.3 Earth-Sun distances (AU) of the Sun and so pose an increased (although small) collision risk with the Earth.   Comets appear as dark blue squares, while dark blue points are Jupiter Trojans, asteroids that orbit just ahead of, or just behind Jupiter.  Note that most asteroids of the inner Solar System orbit between Mars and Jupiter in the main asteroid belt.  Every day this plot shifts with objects nearer the Sun typically shifting the most.  The current locations of these objects can be found here.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/innersolsys_cfa_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Our Busy Solar System",
+    "url": "https://apod.nasa.gov/apod/image/0207/innersolsys_cfa.gif"
+},
+{
+    "date": "2002-07-25",
+    "explanation": "For astronomers, elements other than hydrogen and helium are sometimes considered to be simply \"heavy elements\". It's understandable really, because even lumped all together heavy elements make up an exceedingly small fraction of the Universe. Still, heavy elements can profoundly influence galaxy and star formation ... not to mention the formation of planets and people. In this tantalizing false-color x-ray image from the orbiting Chandra Observatory, small dwarf galaxy NGC 1569 is surrounded by x-ray emitting clouds of gas thousands of light-years across. The gas has recently been observed to contain significant concentrations of astronomers' heavy elements such as oxygen, silicon, and magnesium, supporting the idea that dwarf galaxies, the most common type of galaxy in the Universe, are largely responsible for heavy elements in intergalactic space. A mere 7 million light-years distant toward the long-necked constellation Camelopardalis, NGC 1569 has undergone a recent burst of star formation and stellar supernova explosions. The furious cosmic activity has heated the expanding gas clouds to temperatures of millions of degrees while enriching them with newly synthesized heavy elements.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/ngc1569_cxc_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 1569: Heavy Elements from a Small Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0207/ngc1569_cxc.jpg"
+},
+{
+    "copyright": "Dominic Cantin",
+    "date": "2002-07-26",
+    "explanation": "Clear evening skies are a welcome sight for stargazers worldwide, but clearing skies are good too. Just such a glorious occasion was recorded in this dramatic photo taken by Dominic Cantin during a recent gathering of Canadian astronomers at St-N�r�e Observatory, located about 60 kilometers southeast of the city of Quebec. Looking toward the west on July 13th, the exposure captured a distant lightning flash from a passing thunderstorm at the far left. On the right, the storm clouds' retreat has uncovered an overexposed crescent Moon sharing the evening twilight with bright Venus only a few degrees away (below and far right). In the darkening sky above the young Moon is a familiar right triangle of stars in the constellation Leo. Cantin reports that clear skies followed, all night long.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/skies_cantin_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Clearing Skies",
+    "url": "https://apod.nasa.gov/apod/image/0207/skies_cantin.jpg"
+},
+{
+    "date": "2002-07-27",
+    "explanation": "Bright sunlight glints and long dark shadows dramatize this image of the lunar surface taken by Apollo 11 astronaut Neil Armstrong, the first to walk on the Moon. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin unfurling a long sheet of foil also known as the Solar Wind Collector. Exposed facing the Sun, the foil trapped atoms streaming outward in the solar wind, ultimately catching a sample of material from the Sun itself. Along with moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/aldrinswc_apollo11_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Apollo 11: Catching Some Sun",
+    "url": "https://apod.nasa.gov/apod/image/0207/aldrinswc_apollo11.jpg"
+},
+{
+    "copyright": "SETI League",
+    "date": "2002-07-28",
+    "explanation": "No one knows for sure what caused this signal.  There is a slight possibility that it just might originate from an extraterrestrial intelligence. The bright colors on the blue background indicate that an anomalous signal was received here on Earth by a radio telescope involved in a Search for Extraterrestrial Intelligence (SETI).  A search for these signals is ongoing by several groups including volunteer members of the SETI League.  Time labels the vertical axis of the above plot, and frequency marks the horizontal axis.  Although this strong signal was never positively identified, astronomers have identified in it many attributes characteristic of a more mundane and ultimately terrestrial origin.  In this case, a leading possibility is that the signal originates from an unusual modulation between a GPS satellite and an unidentified Earth-based source. Many unusual signals from space remain unidentified.  No signal has yet been strong enough or run long enough to be unambiguously identified as originating from an extraterrestrial intelligence.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/unknownseti_cavan_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "An Anomalous SETI Signal",
+    "url": "https://apod.nasa.gov/apod/image/0207/unknownseti_cavan.jpg"
+},
+{
+    "copyright": "Anglo-Australian Observatory",
+    "date": "2002-07-29",
+    "explanation": "The Sun appears to move on the sky because the Earth rotates.  The extreme brightness of the Sun, however, makes it difficult to capture a sun-trail -- the path the Sun traces on the sky.  To capture the above picture, a very dark filter covered the camera lens for most of the time, allowing only a trifle of light from the bright Sun to peek through.   Just after the Sun had dipped below the horizon but before it was completely dark, the thick filter was removed and the pretty foreground scene was captured.  Slight flares appeared when the Sun went behind thin clouds.  Star-trails and planet-trails are much easier to image, and a similar Moon trail has also recently been imaged.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/suntrail_malin_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Setting Sun Trail",
+    "url": "https://apod.nasa.gov/apod/image/0207/suntrail_malin.jpg"
+},
+{
+    "date": "2002-07-30",
+    "explanation": "Star clusters are a swarm of complex motions.  The stars that compose globular clusters and many open clusters all orbit the cluster center, occasionally interacting, gravitationally, with a close-passing star.  The orbits of stars around the cluster are typically not as circular as the orbits of planets in our solar system.  Cluster stars frequently fall more directly toward the center and many times trace out unusual and complex loops.  The vast space inside a cluster results in stars colliding only rarely.   The above computer animation, derived from a type of computer code called an N-body simulation, shows 100 identical stars in a time-lapse movie where hundreds of years pass in one second.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/globbw_block.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Star Cluster in Motion",
+    "url": "https://apod.nasa.gov/apod/image/0207/globbw_block.gif"
+},
+{
+    "date": "2002-07-31",
+    "explanation": "How do dying stars eject their outer layers?  Stars that create elegant planetary nebulas like Henize 3-401, pictured above, are not unusual, causing speculation that, one day, our own Sun may look like this.  Henize 3-401 is one of the most elongated planetary nebulas yet discovered, a particularly odd feat for a seemingly round star.  Perhaps, some astronomers hypothesize, the elongated shape gives a clue to the expulsion mechanism.  Genesis hypotheses include that the outer layers of gas are funneled out by the star's own magnetic field, and that a second unseen star is somehow involved.  After the gas disperses in a few thousand years, only a white dwarf star will remain.  Henize 3-401 lies about 10,000 light years away toward the constellation of Carina.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/h3401_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Henize 3-401: An Elongated Planetary Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0207/h3401_hst.jpg"
+},
+{
+    "copyright": "www.MrEclipse.com",
+    "date": "2002-08-01",
+    "explanation": "July was a good month for sunspots ... really big sunspots. In fact, the full disk and inset pictures above show three large groups of spots, photographed only a few days ago on July 28. Together the sunspots span a region about thirty times the diameter of planet Earth. Now rotating behind the Sun's visible edge, these groups followed close on the heels of another enormous sunspot group which appeared in mid July. All of July's monster sunspot groups could be viewed without magnification, using safe solar observing methods of course. While individual sunspots are not numbered or cataloged, groups of sunspots, designated solar active regions, are given consecutive numbers as they appear on the visible solar disk. That numbering began on January 5, 1972 and on June 14, 2002, reached active region number 10,000. At the 10k mark no door prizes were given and no disasters plagued our fair solar system. But since June 14, active region reports often drop at least the leading digit, making these three active regions AR 0050, AR 0039, and AR 0044 (top left to bottom right).",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/sun020728_espenak_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Sunspots and Solar Active Regions",
+    "url": "https://apod.nasa.gov/apod/image/0208/sun020728_espenak.jpg"
+},
+{
+    "date": "2002-08-02",
+    "explanation": "Comet 57P has fallen to pieces, at least 19 of them. Orbiting the Sun every 6 years or so this faint comet - also christened Comet 57P/du Toit-Neujmin-Delporte for its three 1941 co-discoverers - is simply 57th on the list of comets known to be periodic, beginning with Comet 1P/Halley. In mid July, responding to reports of a new object possibly associated with Comet 57P, astronomers were able to construct this mosaic of deep sky images identifying a surprising 19 fragments (circled) strung out behind the cometary coma and nucleus itself (far left). The full mosaic spans about a million kilometers at the distance of the comet, while the individual pieces detected are probably a few tens to a few hundred meters across. Stress produced as sunlight warmed the icy, rocky nucleus likely contributed to the fragmentation. In fact, when last seen passing through the inner solar system in 1996, Comet 57P brightened unexpectedly, indicating a sudden increase in surface activity.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/comet57p_fernandez.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet 57P Falls to Pieces",
+    "url": "https://apod.nasa.gov/apod/image/0208/comet57p_fernandez.jpg"
+},
+{
+    "date": "2002-08-03",
+    "explanation": "Tuning in to the center of our Milky Way galaxy, radio astronomers explore a complex, mysterious place. A premier high resolution view, this startlingly beautiful picture covers a 4x4 degree region around the galactic center. It was constructed from 1 meter wavelength radio data obtained by telescopes of the Very Large Array near Socorro, New Mexico, USA. The galactic center itself is at the edge of the extremely bright object labeled Sagittarius (Sgr) A, suspected of harboring a million solar mass black hole. Along the galactic plane which runs diagonally through the image are tortured clouds of gas energized by hot stars and bubble-shaped supernova remnants (SNRs) - hallmarks of a violent and energetic cosmic environment. But perhaps most intriguing are the arcs, threads, and filaments which abound in the scene. Their uncertain origins challenge present theories of the dynamics of the galactic center.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/gc_1meter_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Galactic Center - A Radio Mystery",
+    "url": "https://apod.nasa.gov/apod/image/0208/gc_1meter.jpg"
+},
+{
+    "date": "2002-08-04",
+    "explanation": "NGC 2997 is a grand design spiral galaxy.  Its small nucleus and sprawling spiral arms give it a type Sc designation.  NGC 2997, pictured above, is speeding away from us at about 1100 kilometers per second, which would place it at about 55 million light years distant, given current estimates of the expansion rate of our universe.  NGC 2997 is thought to have a mass of about 100 billion times that of our Sun, but is probably less massive than our own Milky Way galaxy.  NGC 2997 is not seen face-on - it is thought tilted by about 45 degrees.  NGC 2997 is particularly notable for a nucleus surrounded by a chain of hot giant clouds of ionized hydrogen.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/ngc2997_vlt_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Spiral Galaxy NGC 2997 from VLT",
+    "url": "https://apod.nasa.gov/apod/image/0208/ngc2997_vlt.jpg"
+},
+{
+    "copyright": "Lyndon AndersonPrairie Journal",
+    "date": "2002-08-05",
+    "explanation": "This aurora was a bit of a surprise.  For starters, last Friday morning, no intense auroral activity was expected at all.  Possibly more surprising, however, the aurora appeared to show an usual structure of green rays from some locations.  In the above image, captured from North Dakota, USA, a picket fence of green rays stretches toward the horizon.  Mirroring the green rays is a red band, somewhat rare in its own right.  Lights from the cities of Bismarck and Mandan are visible near the horizon.  Large sunspot groups indicate that activity from the currently active Sun is relatively likely, possibly causing other streams of energetic particles to cascade onto the Earth and so causing more auroras.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/aurorarays_anderson_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Rays from an Unexpected Aurora",
+    "url": "https://apod.nasa.gov/apod/image/0208/aurorarays_anderson.jpg"
+},
+{
+    "date": "2002-08-06",
+    "explanation": "How fast do fundamental particles wobble?  A surprising answer to this seemingly inconsequential question is coming out of Brookhaven National Laboratory in New York, USA and may not only indicate that the Standard Model of Particle Physics is incomplete but also that our universe is filled with a previously undetected type of fundamental particle.  Specifically, the muon, a particle with similarities to a heavy electron, has had its relatively large wobble under scrutiny since 1999 in an experiment known as g-2 (gee-minus-two), pictured above.  The result galvanizes other experimental groups around the world to confirm it, and pressures theorists to better understand it.  The rate of wobble is sensitive to a strange sea of virtual particles that pop into and out of existence everywhere.  The unexpected wobble rate may indicate that this sea houses virtual particles that include nearly invisible supersymmetric counterparts to known particles.  If so, a nearly invisible universe of real supersymmetric particles might exist all around us.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/g2_bowman_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Muon Wobble Possible Door to Supersymmetric Universe",
+    "url": "https://apod.nasa.gov/apod/image/0208/g2_bowman.jpg"
+},
+{
+    "date": "2002-08-07",
+    "explanation": "What, in heaven, is that?  Sometimes astronomers see things on the sky they don't immediately understand.  In 1985 this happened to Arturo Gomez, and the object became known as Gomez's Hamburger for its distinctive yet familiar shape.  After some investigation, the object was identified as a proto-planetary nebula, a gas cloud emitted by a Sun-like star just after its central hydrogen fuel has all been fused to helium.  Gomez's Hamburger is on its way to becoming a full-fledged planetary nebula in a few thousand years.  The light seen (the bun) is reflected by dust from the central star, although the star itself is obscured by a thick dust disk that runs across the middle (the patty).  Gomez's Hamburger, pictured above in a recent image from the Hubble Space Telescope, is only a fraction of a light year across but located approximately 10,000 light years away towards the constellation of Sagittarius.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/hamburger_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Gomez's Hamburger: A Proto-Planetary Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0208/hamburger_hst.jpg"
+},
+{
+    "date": "2002-08-08",
+    "explanation": "Findings of ancient martian microbial fossils in meteorites and liquid water related features on Mars' surface are currently controversial issues. But one thing long established by space-based observations of the Red Planet is the presence of volcanos, as Mars supports some of the largest volcanos in the solar system. This synthetic color picture recorded in March by the Mars Global Surveyor spacecraft shows two of them, Ceraunius Tholus (leftmost) and Uranius Tholus. Found north of the Tharsis region of truly large martian volcanos, these are actually two relatively small volcanos, Ceraunius Tholus being only about the size of the Big Island of Hawaii on planet Earth. Impact craters which overlay the volcanic martian terrain indicate that these volcanos are themselves ancient and inactive. North is to the right and the scene is illuminated by sunlight from the top left. A light region of dust deposited by recent global dust storms lies on the lower left flank of Ceraunius Tholus, whose summit crater is about 25 kilometers across.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/certholus_mgs_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Ancient Volcanos of Mars",
+    "url": "https://apod.nasa.gov/apod/image/0208/certholus_mgs.jpg"
+},
+{
+    "copyright": "Jim Steele",
+    "date": "2002-08-09",
+    "explanation": "erimenting with a new telescope and camera, photographer Jim Steele captured this surreal but festive image of fireworks in the night sky above Ashland, Oregon. The date was July 4th and the fiery streaks were part of the traditional annual celebration of independence day in the United States. Fiery streaks from another annual event will revisit dark skies this weekend, as shooting stars arc through the night during the much anticipated Perseid Meteor Shower. Perseid meteors are actually bits of dust from the periodic Comet Swift-Tuttle and once each year planet Earth orbits through Swift-Tuttle's cometary dust stream. As the comet dust enters Earth's atmosphere traveling at tens of kilometers per second, the particles are vaporized leaving bright and sometimes colorful trails. While Perseid meteors can be viewed over the next few nights, this year's shower is expected to peak on August 12 and 13 with a rate of dozens or more meteors per hour visible in moonless early morning skies.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/fireworks_steele.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Fireworks and Shooting Stars",
+    "url": "https://apod.nasa.gov/apod/image/0208/fireworks_steele.jpg"
+},
+{
+    "date": "2002-08-10",
+    "explanation": "This is what the Earth looks like at night.  Can you find your favorite country or city?  Surprisingly, city lights make this task quite possible.  Human-made lights highlight particularly developed or populated areas of the Earth's surface, including the seaboards of Europe, the eastern United States, and Japan.  Many large cities are located near rivers or oceans so that they can exchange goods cheaply by boat.  Particularly dark areas include the central parts of South America, Africa, Asia, and Australia.  The above image is actually a composite of hundreds of pictures made by the orbiting DMSP satellites. (Editor's note: This image has become an email-attachment phenomenon! It has also generated many print requests. Unfortunately, we do not sell prints. However, a high-resolution digital version of the image is available (click here or here).",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/earthlights02_dmsp_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Earth at Night",
+    "url": "https://apod.nasa.gov/apod/image/0208/earthlights02_dmsp.jpg"
+},
+{
+    "copyright": "S. KohleBonn University",
+    "date": "2002-08-11",
+    "explanation": "The ongoing Perseid Meteor Shower should be at its strongest on August 12 and 13. The best time to watch will be between 2:00 AM and dawn on Monday morning (so plan on setting your alarm tonight!) and then again on Tuesday. In dark, moonless, predawn skies you may see dozens of meteors per hour. Grains of cosmic sand and gravel shed from Comet Swift-Tuttle will streak across the sky as they vaporize during entry into Earth's atmosphere. Tracing the meteor trails backwards, experienced skygazers will find they converge on the constellation Perseus, thus this annual meteor shower's name. Pictured above is a Perseid meteor from 1993. The colors are representative but digitally enhanced. As the meteor streaked across the night sky, different excited atoms emitted different colors of light.  The origin of the green tinge visible at the right is currently unknown, however, and might result from oxygen in Earth's atmosphere.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/perseid3_sk_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Perseid Meteor",
+    "url": "https://apod.nasa.gov/apod/image/0208/perseid3_sk.jpg"
+},
+{
+    "date": "2002-08-12",
+    "explanation": "Why is spiral galaxy Centaurus A in so much turmoil?  The above composite image shows different clues to the unusual galaxy's past in different bands of light.  In low energy radio waves, shown in red, lobes across the thick swath of dust glow brightly.  In more energetic radio waves, depicted in green, a bright jet is seen emanating from the galaxy's center.  In optical light, shown in white, the stars that compose much of the galaxy are visible.  Recently, Centaurus A has recently been imaged in X-ray light by the Chandra X-ray Observatory.  The X-rays, depicted in blue, show arcs of hot gas shooting out from the center in an explosion that likely happened about 10 million years ago.  One hypothesis that would explain the turmoil would be if Centaurus A devoured a smaller galaxy about 100 million years ago.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/cenA_chandra_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Colors and Mysteries of Centaurus A",
+    "url": "https://apod.nasa.gov/apod/image/0208/cenA_chandra.jpg"
+},
+{
+    "copyright": "Sebastien GiguereAstrolab du Parc du Mont-Megantic",
+    "date": "2002-08-13",
+    "explanation": "Have you contemplated your sky recently?  Last night was a good one for midnight meditators at many northerly locations as meteors from the Perseid meteor shower frequently streaked through.  The Perseid meteor shower has slowly been building to a crescendo but should continue to be rewarding tonight and into the week.  Pictured above on August 1, a group of celestial sightseers near Quebec, Canada are treated to a dark and wondrous night sky that contained bright stars, green auroras, the band of our Milky Way galaxy, a majestic Moon rising, the International Space Station slowly gliding by, and the occasional flash of a Perseid meteor.  Although no meteors were caught in this frame, the Big Dipper remained quite prominent.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/peoplesky_mpo.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Contemplating the Sky",
+    "url": "https://apod.nasa.gov/apod/image/0208/peoplesky_mpo.jpg"
+},
+{
+    "date": "2002-08-14",
+    "explanation": "NGC 3603 is the largest region of glowing gas in our Milky Way galaxy.   Spanning over 20 light years across, the giant emission nebula (HII region) is home to a massive star cluster, thick dust pillars, and a star about to explode.  NGC 3603 was captured above in infrared light by a Two Micron All Sky Survey (2MASS) telescope.  The young star cluster near the center heats the region's mostly hydrogen gas.  Many stars in the cluster are estimated to be about one million years old, much less than the five billion-year age of our Sun.  NGC 3603 lies approximately 20,000 light years away toward the constellation of Carina.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/ngc3603_2mass_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Giant Emission Nebula NGC 3603 in Infrared",
+    "url": "https://apod.nasa.gov/apod/image/0208/ngc3603_2mass.jpg"
+},
+{
+    "copyright": "Wade B. Clark Jr.",
+    "date": "2002-08-15",
+    "explanation": "Skygazers report that the annual Perseid meteor shower went pretty much as predicted, producing a meteor every few minutes during the dark early morning hours of August 12 and 13. And as the constellation Perseus rose above the horizon on the night of August 11, astrophotographer Wade Clark was anticipating recording images of the flashing meteor trails from the Mt. Baker Ski Area in northwest Washington, USA. But Clark was also treated to a colorful display of northern lights. As a result, the stars of Perseus are arrayed near the center of his well composed skyscape along with trails of Perseid meteors all viewed through the auroral glow. The alluring scene might look familiar to watchers of bygone Perseids. For many, views of the meteor shower in 2000 also coincided with auroral displays, courtesy of the active Sun.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/aurperseids_clark_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Meteors and Northern Lights",
+    "url": "https://apod.nasa.gov/apod/image/0208/aurperseids_clark.jpg"
+},
+{
+    "copyright": "Dirk Obudzinski",
+    "date": "2002-08-16",
+    "explanation": "While meteors do show colors, the colors aren't always seen with the unaided eye. Still, high speed color film recorded this rainbow-like trail as a meteor streaked through the early morning sky on August 13 above Sedona, Arizona, USA. Part of the annual Perseid meteor shower, this bit of dust from the tail of Comet Swift-Tuttle entered Earth's atmosphere at over 200,000 kilometers per hour. The trail it left glowed briefly as friction with the atmosphere vaporized the dust grain and ionized atoms along its path. The initial green color is thought to be the glow from oxygen in the atmosphere at altitudes above 100 kilometers or so, while sodium atoms and other constituents of the cometary dust grain itself contribute to the orange hues.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/perseid_obudzinski1_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Rainbow Perseid",
+    "url": "https://apod.nasa.gov/apod/image/0208/perseid_obudzinski1.jpg"
+},
+{
+    "date": "2002-08-17",
+    "explanation": "Asteroid 2002 NY40 will fly by planet Earth early in the morning August 18 Universal Time (late in the evening August 17 Eastern Daylight Time). Approaching to within about 530,000 kilometers or 1.3 times the Earth-Moon distance 2002 NY40 will definitely not be close enough to pose any danger of collision. But it will be close enough and just bright enough for experienced skygazers to see this 800 meter wide space rock in a small telescope or binoculars as it glides quickly through northern skies past the bright star Vega. It will also be close enough to ping with radar, and asteroid hunters using the large Arecibo radio telescope in Puerto Rico expect to determine the three dimensional outline of 2002 NY40. Similar investigations of other near Earth asteroids have revealed some surprising shapes. In this five minute time exposure, recorded at Cerro Tololo Inter-American Observatory on August 14, 2002 NY40 shows itself as a long smudge as it moves against a background of faint stars in the constellation Aquarius.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/ast2002ny40_gomez_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Asteroid 2002 NY40",
+    "url": "https://apod.nasa.gov/apod/image/0208/ast2002ny40_gomez.jpg"
+},
+{
+    "date": "2002-08-18",
+    "explanation": "A magnetic compass does not point toward the true North Pole of the Earth.  Rather, it more closely points toward the North Magnetic Pole of the Earth.  The North Magnetic Pole is currently located in northern Canada.  It wanders in an elliptical path each day, and moves, on the average, more than forty meters northward each day.  Evidence indicates that the North Magnetic Pole has wandered over much of the Earth's surface in the 4.5 billion years since the Earth formed.  The Earth's magnetic field is created by Earth's partially ionized outer core, which rotates more rapidly than the Earth's surface.  Indicated in the above picture is Ellef Ringnes Island, the location of Earth's North Magnetic Pole in 1999.",
+    "hdurl": "https://apod.nasa.gov/apod/image/9910/northcanada_noaa_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Earth's North Magnetic Pole",
+    "url": "https://apod.nasa.gov/apod/image/9910/northcanada_noaa.jpg"
+},
+{
+    "date": "2002-08-19",
+    "explanation": "Above the clouds, atop an island off the coast of Africa, a group of cutting-edge telescopes inspects the universe.  Pictured above are telescopes at Roque de los Muchachos Observatory on La Palma, one of the Canary Islands, Spain.  The site is one of the premier observing locations on Earth.  The telescopes pictured are, from left to right, the Carlsberg Meridian Telescope, the 4.2-meter William Herschel Telescope, the Dutch Open Telescope, the Swedish Solar Tower, the 2.5-meter Isaac Newton Telescope, and the 1.0-meter Jacobus Kapteyn Telescope.  Pioneering observations made recently by these telescopes include stars and galaxies forming early in our universe, comets breaking up, and evidence for planets around Sun-like stars.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/canary_ing_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Roque de los Muchachos Observatory",
+    "url": "https://apod.nasa.gov/apod/image/0208/canary_ing.jpg"
+},
+{
+    "copyright": "James WadsleyMcMaster U.",
+    "date": "2002-08-20",
+    "explanation": "Where is most of the normal matter in the Universe?  Recent observations from the Chandra X-ray Observatory confirm that it is in hot gas filaments strewn throughout the universe.  \"Normal matter\" refers to known elements and familiar fundamental particles.  Previously, the amount of normal matter predicted by the physics of the early universe exceeded the normal matter in galaxies and clusters of galaxies, and so was observationally unaccounted for.  The Chandra observations found evidence for the massive and hot intergalactic medium filaments by noting a slight dimming in distant quasar X-rays likely caused by hot gas absorption.  The above image derives from a computer simulation showing an expected typical distribution of hot gas in a huge slice of the universe 2.7 billion light-years across and 0.3 billion light years thick.  The distribution of much more abundant dark matter likely mimics the normal matter, although the composition of the dark matter remains mysterious.  Both the distribution and the nature of the even more abundant dark energy also remain unknown.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/cosmogas_wadsley_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Universe in Hot Gas",
+    "url": "https://apod.nasa.gov/apod/image/0208/cosmogas_wadsley.jpg"
+},
+{
+    "date": "2002-08-21",
+    "explanation": "NGC 300 is so interesting because it is so normal.  An Sc-type spiral galaxy in the nearby Sculptor group of galaxies, NGC 300 shows typical flowing blue spiral arms, an expected compact nucleus, and the requisite amount of stars, star clusters, and nebulae.  Therefore, studying NGC 300 should indicate how, exactly, a normal spiral galaxy works.  Toward this goal, NGC 300 and the surrounding area were studied in exquisite detail, creating and combining a series of high-resolution images to create the above conglomerate picture. NGC 300 lies only 7 million light years away, spans nearly the same amount of sky as the full moon, and is visible with a small telescope toward the constellation of Sculptor.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/ngc300_eso_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Spiral Galaxy NGC 300",
+    "url": "https://apod.nasa.gov/apod/image/0208/ngc300_eso.jpg"
+},
+{
+    "date": "2002-08-22",
+    "explanation": "Featured in color in yesterday's episode, big, beautiful, face-on spiral galaxy NGC 300 is seen here through a narrow filter that transmits only the red light of hydrogen atoms. Ionized by energetic starlight, a hydrogen atom emits the characteristic red H-alpha light as its single electron is recaptured and transitions to lower energy states. As a result, this image of NGC 300 is dominated by regions filled with massive, young stars and shell-shaped clouds of hydrogen gas hundreds to thousands of light-years across. Formed in groups called OB associations, the stars are likely only a few million years young. The hydrogen clouds are glowing nebulae or HII regions that have been sculpted by the strong stellar winds and ultraviolet radiation. While picking out your favorite cosmic shell in this picture, don't be misled by the relatively bright foreground stars located in our own Milky Way galaxy. They often show spikes and rings caused by the telescope and camera system.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/ngc300h_eso_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Shell Game in NGC 300",
+    "url": "https://apod.nasa.gov/apod/image/0208/ngc300h_eso.jpg"
+},
+{
+    "copyright": "Rick Scott",
+    "date": "2002-08-23",
+    "explanation": "On August 13, while counting Perseid meteors under dark, early morning Arizona skies, Rick Scott set out to photograph their fleeting but fiery trails. The equipment he used included a telephoto lens and fast color film. After 21 pictures he'd caught only two meteors, but luckily this was one of them. Tracking the sky, his ten minute long exposure shows a field of many stars in our own Milky Way galaxy, most too faint to be seen by the unaided eye. Flashing from lower left to upper right, the bright meteor would have been an easy eyeful though, as friction with Earth's atmosphere vaporized the hurtling grain of cosmic sand, a piece of dust from Comet Swift-Tuttle. Just above and left of center, well beyond the stars of the Milky Way, lies the island universe known as M31 or the Andromeda galaxy. The visible meteor trail begins about 100 kilometers above Earth's surface, one of the closest celestial objects seen in the sky. In contrast, Andromeda, about 2 million light-years away, is the most distant object easily visible to the naked-eye.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/perseidM31_rscott_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Island Universe, Cosmic Sand",
+    "url": "https://apod.nasa.gov/apod/image/0208/perseidM31_rscott.jpg"
+},
+{
+    "date": "2002-08-24",
+    "explanation": "The complex shell of a star seen to explode 300 years ago is helping astronomers to understand how that star exploded.  This Chandra Observatory image of supernova remnant Cassiopeia A (Cas A) shows unprecedented detail in three x-ray colors.  The relationship between brightness, color, and position of material in the image indicates where in the star this material was just before the explosion.  Bright knots on the left, for example, contain little iron, and so are hypothesized to originate from a higher layer than outer red filaments, which are iron rich.  The blue region on the right is seen through absorbing dust, and so appears depleted of low-energy x-rays.  It takes light ten years to cross the gas shell of the Cas A supernova remnant, which is 10,000 light-years distant. Most of the elements that make people and planets were produced in supernova explosions.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/casA_chandra_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Cas A Supernova Remnant in X-Rays",
+    "url": "https://apod.nasa.gov/apod/image/0208/casA_chandra.jpg"
+},
+{
+    "date": "2002-08-25",
+    "explanation": "Old photographs show no evidence of the above nebula.  In 1992, a white dwarf star toward the constellation of Cygnus blew off its outer layers in a classical nova explosion: an event called Nova Cygni 1992.  Light flooded the local interstellar neighborhood, illuminated this existing gas cloud, excited the existing hydrogen, and hence caused the red emission.  The only gas actually expelled by the nova can be seen as a small red ball just above the photograph's center.  Eventually, light from the nova shell will fade, and this nebula will again become invisible!",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/novacyg_cfa_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Nebula Nova Cygni Turns On",
+    "url": "https://apod.nasa.gov/apod/image/0208/novacyg_cfa.jpg"
+},
+{
+    "copyright": "B. E. SchaeferU. Texas",
+    "date": "2002-08-26",
+    "explanation": "The ancient text has no known title, no known author, and is written in no known language: what does it say and why does it have many astronomy illustrations?  The mysterious book was once bought by an emperor, forgotten on a library shelf, sold for thousands of dollars, and later donated to Yale.  Possibly written in the 15th century, the over 200-page volume is known most recently as the Voynich Manuscript, after its (re-)discoverer in 1912.  Pictured above is an illustration from the book that appears to be somehow related to the Sun.  The book labels some patches of the sky with unfamiliar constellations.  The inability of modern historians of astronomy to understand the origins of these constellations is perhaps dwarfed by the inability of modern code-breakers to understand the book's text.  The book remains in Yale's rare book collection under catalog number \"MS 408.\"",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/voynich_schaefer_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Mysterious Voynich Manuscript",
+    "url": "https://apod.nasa.gov/apod/image/0208/voynich_schaefer.jpg"
+},
+{
+    "date": "2002-08-27",
+    "explanation": "The largest canyon in the Solar System cuts a wide swath across the face of Mars.  Named Valles Marineris, the grand valley extends over 3,000 kilometers long, spans as much as 600 kilometers across, and delves as much as 8 kilometers deep.  By comparison, the Earth's Grand Canyon in Arizona, USA is 800 kilometers long, 30 kilometers across, and 1.8 kilometers deep.  The origin of the Valles Marineris remains unknown, although a leading hypothesis holds that it started as a crack billions of years ago as the planet cooled.  Recently, several geologic processes have been identified in the canyon.  The above mosaic was created from over 100 images of Mars taken by Viking Orbiters in the 1970s.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/marsglobe_viking_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Valles Marineris: The Grand Canyon of Mars",
+    "url": "https://apod.nasa.gov/apod/image/0208/marsglobe_viking.jpg"
+},
+{
+    "date": "2002-08-28",
+    "explanation": "In this spectacular 3D stereoscopic view from orbit, steep-sided, flat-topped hills stand above the Terra Meridiani region of Mars. Seen best with red/blue glasses (red for the left eye), the structures are reminiscent of buttes and mesas found in southwestern areas of the North American continent on planet Earth. Like their terrestrial counterparts, these layered martian outcrops apparently formed of hard sedimentary rocks with surrounding softer material eroded away. The possibility that surface water laid down the formations makes the Terra Meridiani region a tempting target for future exploration by Mars landers. But alternative explanations include material deposited by wind or accumulations of volcanic ash. The area pictured is about 3 kilometers across, maybe a thirty minute walk over flat ground. Terrestrial rock climbers take note; you and your equipment would only weigh around 1/3 as much in the lower martian surface gravity.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/3Dterrameridiani_mgs_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "3D Mars: Northern Terra Meridiani",
+    "url": "https://apod.nasa.gov/apod/image/0208/3Dterrameridiani_mgs_c1.jpg"
+},
+{
+    "copyright": "Robert Gendler",
+    "date": "2002-08-29",
+    "explanation": "The Pelican Nebula, also known as IC 5070, lies about 2,000 light-years away in the high and far-off constellation of Cygnus, the Swan. This picture spans a portion of the magnificent nebula about 30 light-years wide. Fittingly, this cosmic pelican is found just off the east \"coast\" of the North America Nebula, another surprisingly familiar looking emission nebula in Cygnus. In fact, the Pelican and North America nebulae are part of the same large star forming region. The two glowing nebulae appear separated from our vantage point by a large obscuring dust cloud running across the upper left corner in this gorgeous color view. Within the Pelican Nebula, dark dust clouds also help define the eye and long bill, while a bright front of ionized gas suggests the curved shape of the head and neck. Even though it is almost as close as the Orion Nebula, the stellar nursery marked by the Pelican and North America nebulae has proven complex and difficult to study.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/pelican_gendler_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Pelican in the Swan",
+    "url": "https://apod.nasa.gov/apod/image/0208/pelican_gendler_c1.jpg"
+},
+{
+    "copyright": "Steve Mandel",
+    "date": "2002-08-30",
+    "explanation": "It's easy to get lost following the intricate filaments in this stunningly detailed image of faint supernova remnant Simeis 147. Seen towards the constellation Taurus it covers nearly 3 degrees (6 full moons) on the sky corresponding to a width of 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years. On three separate nights in December 2001 and January 2002 astronomer Steve Mandel accumulated a total of over eight hours of exposure time to compose this image. He used an astronomical CCD camera, telephoto lens, and his specially designed adapter to allow such wide-field digital imaging. He also used a narrow H-alpha filter to transmit only the the light from recombining hydrogen atoms in the expanding nebulosity, defining the regions of shocked, glowing gas. This supernova remnant has an apparent age of about 100,000 years (light from the original explosion first reached Earth 100,000 years ago) but it is not the only aftermath of the massive stellar explosion. The cosmic catastrophe also left behind a spinning neutron star or pulsar, all that remains of the star's dense core.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/s147_mandel_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Semeis 147: Supernova Remnant",
+    "url": "https://apod.nasa.gov/apod/image/0208/s147_mandel.jpg"
+},
+{
+    "date": "2002-08-31",
+    "explanation": "Launched twenty-five years ago, NASA's Voyager 1 and 2 spacecraft are now over 10 billion kilometers from the Sun. Still operational, the Voyagers are being tracked and commanded through the Deep Space Network. Having traveled beyond the outer planets, these remarkable spacecraft are only the third and fourth human built artifacts to escape our solar system, following in the footsteps of Pioneer 10 and 11. A 12-inch gold plated copper disk containing recorded sounds and images representing human cultures and life on Earth, is affixed to each Voyager - a message in a bottle cast into the cosmic sea. The recorded material was selected by a committee chaired by the late Carl Sagan. Simple diagrams on the cover (visible above) represent symbolically the spacecraft's origin and give instructions for playing the disk. The exotic construction of the disks should provide them with a long lifetime as they coast through interstellar space. The two spacecraft will not make a close approach to another planetary system for at least 40,000 years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/record_voyager_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Voyagers' Message in a Bottle",
+    "url": "https://apod.nasa.gov/apod/image/0208/record_voyager.jpg"
+},
+{
+    "date": "2002-09-01",
+    "explanation": "Galaxies like colorful pieces of candy fill the Hubble Deep Field - one of humanity's most distant optical views of the Universe. The dimmest, some as faint as 30th magnitude (about four billion times fainter than stars visible to the unaided eye), are very distant galaxies and represent what the Universe looked like in the extreme past, perhaps less than one billion years after the Big Bang. To make the Deep Field image, astronomers selected an uncluttered area of the sky in the constellation Ursa Major (the Big Bear) and pointed the Hubble Space Telescope at a single spot for 10 days accumulating and combining many separate exposures. With each additional exposure, fainter objects were revealed. The final result has been used to explore the mysteries of galaxy evolution and the infant Universe.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0007/deepfield_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Hubble Deep Field",
+    "url": "https://apod.nasa.gov/apod/image/0007/deepfield_hst.jpg"
+},
+{
+    "copyright": "Alaska FairbanksAtmospheric Halos",
+    "date": "2002-09-02",
+    "explanation": "How can an aurora appear so near the ground? Pictured above are not aurora but nearby light pillars, a local phenomenon that can appear as a distant one.  In most places on Earth, a lucky viewer can see a Sun-pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground in a form of light snow, sometimes known as a crystal fog.  These ice crystals may then reflect ground lights in columns not unlike a Sun-pillar.  In the above picture, the colorful lights causing the light pillars surround a ice-skating rink in Fairbanks, Alaska.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/pillars_tape_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Colorful Light Pillars",
+    "url": "https://apod.nasa.gov/apod/image/0209/pillars_tape.jpg"
+},
+{
+    "date": "2002-09-03",
+    "explanation": "Does the surface of Mars change?  When inspecting yearly images of the Martian surface taken by the robot spacecraft Mars Global Surveyor currently orbiting Mars, sometimes new dark trails are visible.  Although originally a mystery, the culprit is now usually known to be a dust devil, a huge swirling gas-cloud with similarities to a terrestrial tornado.  Pictured above, a recent image has not only captured a new dark trail but the actual dust devil itself climbing a crater wall.  Dust devils are created when Martian air is heated by a warm surface and begins to spin as it rises.  Dust devils can stretch 8 kilometers high but usually last only a few minutes.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/dustdevil_mgs_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Dust Devil on Mars",
+    "url": "https://apod.nasa.gov/apod/image/0209/dustdevil_mgs.jpg"
+},
+{
+    "date": "2002-09-04",
+    "explanation": "The Cat's Eye Nebula (NGC 6543) is one of the best known planetary nebulae in the sky. Its haunting symmetries are seen in the very central region of this stunning false-color picture, processed to reveal the enormous but extremely faint halo of gaseous material, over three light-years across, which surrounds the brighter, familiar planetary nebula. Made with data from the Nordic Optical Telescope in the Canary Islands, the composite picture shows emission from nitrogen atoms as red and oxygen atoms as green and blue shades. Planetary nebulae have long been appreciated as a final phase in the life of a sun-like star. Only much more recently however, have some planetaries been found to have halos like this one, likely formed of material shrugged off during earlier active episodes in the star's evolution. While the planetary nebula phase is thought to last for around 10,000 years, astronomers estimate the age of the outer filamentary portions of this halo to be 50,000 to 90,000 years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/n6543_ing_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Halo of the Cat's Eye",
+    "url": "https://apod.nasa.gov/apod/image/0209/n6543_ing_c.jpg"
+},
+{
+    "date": "2002-09-05",
+    "explanation": "Launched in 1977, 25 years ago today, the Voyager 1 spacecraft's historic tour of the outer Solar System took it past Saturn in late 1980. On November 12, 1980, Voyager 1 recorded this view looking across the edge of Titan, Saturn's largest moon, from a distance of about 22,000 kilometers. Seen in false color, the moon's hazy atmosphere appears orange with further layers of blue haze suspended above. Titan's mostly nitrogen atmosphere, denser than planet Earth's, also contains methane and is thought to be laced with more complex hydrogen and carbon compounds. The composition is likened to Earth's atmosphere before life began. Spotted by Voyager, the detached layers of haze hundreds of kilometers above the surface, along with details of Titan's atmospheric chemistry, have intrigued earth-bound researchers who have recently proposed a model that links seasonal variations in the haze, winds, and sunlight. Their model accounts for the early Voyager observations as well as subsequent studies. Further tests of the model are anticipated when the Huygens probe, carried by the saturn-bound Cassini spacecraft, enters Titan's atmosphere in 2005.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/titanhaze_voyager1_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Voyager Views Titan's Haze",
+    "url": "https://apod.nasa.gov/apod/image/0209/titanhaze_voyager1.jpg"
+},
+{
+    "date": "2002-09-06",
+    "explanation": "Most ground-based telescopes with lenses and mirrors are hindered by the Earth's nurturing, protective atmosphere that blurs images and scatters and absorbs light. But this telescope was designed to detect extreme gamma rays - photons with over 100 billion times the energy of visible light - and actually requires the atmosphere to operate. As the gamma rays impact the upper atmosphere they produce air showers of high-energy particles. Adorned with 382 separate mirrors each 60 centimeters in diameter and equipped with a fast camera, the telescope records in detail the brief flashes of optical light, called Cherenkov light, created by the air shower particles. The telescope pictured here was inaugurated this week and is intended to operate as part of the High Energy Stereoscopic System (HESS) array under construction in Namibia. The initial phase of HESS will consist of four telescopes working in concert to provide multiple stereoscopic views of the air showers, relating them to the energies and directions of the incoming cosmic gamma rays.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/telescope_hess_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "HESS Gamma-Ray Telescope",
+    "url": "https://apod.nasa.gov/apod/image/0209/telescope_hess.jpg"
+},
+{
+    "date": "2002-09-07",
+    "explanation": "Get out your red/blue glasses and launch yourself into this stereo picture of Saturn! The picture is actually composed from two images recorded weeks apart by the Voyager 2 spacecraft during its visit to the Saturnian System in August of 1981. Traveling at about 35,000 miles per hour, the spacecraft's changing viewpoint from one image to the next produced this exaggerated but pleasing stereo effect. Saturn is the second largest planet in the Solar System, after Jupiter. Its spectacular ring system is so wide that it would span the space between the Earth and Moon. Although they look solid here, Saturn's rings consist of individually orbiting bits of ice and rock ranging in size from grains of sand to barn-sized boulders.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/sat3d_voyager2_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Stereo Saturn",
+    "url": "https://apod.nasa.gov/apod/image/0209/sat3d_voyager2.jpg"
+},
+{
+    "copyright": "Robert NemiroffMTU",
+    "date": "2002-09-08",
+    "explanation": "What would you see if you went right up to a black hole?  Above are two computer generated images highlighting how strange things would look.  On the left is a normal star field containing the constellation Orion.  Notice the three stars of nearly equal brightness that make up Orion's Belt.  On the right is the same star field but this time with a black hole superposed in the center of the frame.  The black hole has such strong gravity that light is noticeably bent towards it - causing some very unusual visual distortions. In the distorted frame, every star in the normal frame has at least two bright images - one on each side of the black hole.  In fact, near the black hole, you can see the whole sky - light from every direction is bent around and comes back to you.  Black holes are thought to be the densest state of matter, and there is indirect evidence for their presence in stellar binary systems and the centers of globular clusters, galaxies, and quasars.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/blackholeframe_rjn_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Too Close to a Black Hole",
+    "url": "https://apod.nasa.gov/apod/image/0209/bh_rjn.gif"
+},
+{
+    "date": "2002-09-09",
+    "explanation": "Is this one galaxy or two?  This question came to light in 1950 when astronomer Art Hoag chanced upon this unusual extragalactic object.  On the outside is a ring dominated by bright blue stars, while near the center lies a ball of much redder stars that are likely much older.  Between the two is a gap that appears almost completely dark.  How Hoag's Object formed remains unknown, although similar objects have now been identified and collectively labeled as a form of ring galaxy.  Genesis hypotheses include a galaxy collision billions of years ago and perturbative gravitational interactions involving an unusually shaped core.  The above photo taken by the Hubble Space Telescope in July 2001 reveals unprecedented details of Hoag's Object and may yield a better understanding.   Hoag's Object spans about 100,000 light years and lies about 600 million light years away toward the constellation of Serpens.  Coincidentally, visible in the gap (at about one o'clock) is yet another ring galaxy that likely lies far in the distance.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/hoag_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Hoag's Object: A Strange Ring Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0209/hoag_hst.jpg"
+},
+{
+    "copyright": "Lyndon AndersonPrairiejournal.com",
+    "date": "2002-09-10",
+    "explanation": "A thunderstorm, lightning, a bright star and a bright planet all graced an evening sky for a short while near Bismarck, North Dakota, USA two weeks ago.  Thick thunderclouds from a passing storm are the origin of a strong cloud to ground lightning strike.  Small areas of rain darken portions of the orange sunset, visible at the horizon above the vast prairie.  The planet Venus peeks below the clouds on the lower left of the image.  Blue sky shines high above the distant storm, streaked with high white cirrus clouds.  The bright star Arcturus glitters near the image top, just left of center.  Just a few minutes later, only a memory and this picture remained.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/venusstorms_anderson_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Venus Beyond the Storm",
+    "url": "https://apod.nasa.gov/apod/image/0209/venusstorms_anderson.jpg"
+},
+{
+    "date": "2002-09-11",
+    "explanation": "Occasionally, a planet in our Solar System will pass in front of a bright star.  Since stars and planets take up so little space on the sky, such events are quite rare.  Two months ago, however, Pluto and its large moon Charon passed in front of a comparatively bright triple star system known as P126.  By noting how P126 A dimmed, the event was useful for studying Pluto's relatively unknown atmosphere.  A Very Large Telescope in Chile using a deformable mirror to counter the blurring effect of Earth's atmosphere captured the above image.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/plutoeclipse_eso_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Pluto & Charon Eclipse a Triple Star",
+    "url": "https://apod.nasa.gov/apod/image/0209/plutoeclipse_eso.jpg"
+},
+{
+    "date": "2002-09-12",
+    "explanation": "In 1572, Danish astronomer Tycho Brahe recorded the sudden appearance of a bright new star in the constellation Cassiopeia. The new star faded from view over a period of months and is believed to have been a supernova, one of the last stellar explosions seen in our Milky Way galaxy. Now known as Tycho's Supernova Remnant, the expanding debris cloud is shown in this detailed false-color x-ray image from the orbiting Chandra Observatory. Represented in blue, the highest energy x-rays come from shocked regions along the outer edges of the supernova remnant, corresponding to gas at temperatures of 20 million degrees Celsius. X-rays from cooler gas (only 10 million degrees or so!) dominate the remnant's interior. Unlike some other supernova remnants, no hot central point source can be found, supporting the theory that the origin of this stellar explosion was a runaway nuclear detonation that ultimately destroyed a white dwarf star. At a distance of about 7,500 light-years, Tycho's Supernova Remnant appears to be nearly 20 light-years across. This x-ray picture's field of view slightly cuts off the bottom of the generally spherical cloud.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/tychosnr_cxc_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "X-Rays From Tycho's Supernova Remnant",
+    "url": "https://apod.nasa.gov/apod/image/0209/tychosnr_cxc_c1.jpg"
+},
+{
+    "copyright": "Russell Croman",
+    "date": "2002-09-13",
+    "explanation": "Anchored in the vast lava flows of the Moon's Oceanus Procellarum lies the Aristarchus Plateau. Recorded from a backyard observatory on planet Earth, this sharp, amazingly colorful view nicely captures the geologically diverse area, including the brownish plateau, Aristarchus and Herodotus craters, and the meandering Vallis Schroteri. The bright impact crater at the corner of the plateau is Aristarchus, a young crater 42 kilometers wide and 3 kilometers deep, surrounded by a radial system of light-colored rays. Only slightly smaller, lava flooded Herodotus crater is above and to the left. A valley or rille feature likely carved by rapidly flowing lava or a collapsed lava tunnel, Vallis Schroteri begins just to the right of Herodotus and winds across the plateau for about 160 kilometers, eventually turning toward the top of the picture and the shadow of the lunar terminator. Aristarchus Plateau itself is like a rectangular island about 200 kilometers across, raised up to 2 kilometers or so above the smooth surface of the lunar Ocean of Storms.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/aristarchus_croman_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Aristarchus Plateau",
+    "url": "https://apod.nasa.gov/apod/image/0209/aristarchus_croman_c1.jpg"
+},
+{
+    "date": "2002-09-14",
+    "explanation": "This x-ray image of the Moon was made by the orbiting ROSAT (Röntgensatellit) Observatory in 1990. In this digital picture, pixel brightness corresponds to x-ray intensity. Consider the image in three parts: the bright hemisphere of the x-ray moon, the darker half of the moon, and the x-ray sky background. The bright lunar hemisphere shines in x-rays because it scatters x-rays emitted by the sun. The background sky has an x-ray glow in part due to the myriad of distant, powerful active galaxies, unresolved in the ROSAT picture but recently detected in Chandra Observatory x-ray images. But why isn't the dark half of the moon completely dark? It's true that the dark lunar face is in shadow and so is shielded from direct solar x-rays. Still, the few x-ray photons which seem to come from the moon's dark half are currently thought to be caused by energetic particles in the solar wind bombarding the lunar surface.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/rosat_moon_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "X-Ray Moon",
+    "url": "https://apod.nasa.gov/apod/image/0209/rosat_moon.jpg"
+},
+{
+    "date": "2002-09-15",
+    "explanation": "An unusual triangle of light will be particularly bright near the eastern horizon before sunrise during the next two months for observers in Earth's northern hemisphere.  Once considered a false dawn, this triangle of light is actually Zodiacal Light, light reflected from interplanetary dust particles.  The triangle is clearly visible on the left of the above frame taken from Mauna Kea in Hawaii on September 8 by one of the developing global network of fisheye nighttime web cameras, called CONCAMs, of the Night Sky Live Project.  Zodiacal dust orbits the Sun predominantly in the same plane as the planets: the ecliptic.  Zodiacal light is so bright this time of year because the dust band is oriented nearly vertical at sunrise, so that the thick air near the horizon does not block  out relatively bright reflecting dust.  Zodiacal light is also bright for people in Earth's northern hemisphere in March and April just after sunset.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/zodiacal_nsl_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Zodiacal Light and the False Dawn",
+    "url": "https://apod.nasa.gov/apod/image/0209/zodiacal_nsl.jpg"
+},
+{
+    "copyright": "Ecliptic \nEnterprises Corporation",
+    "date": "2002-09-16",
+    "explanation": "Tomorrow's picture: Hold the Mayo  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA/ GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/atlas5_rc_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "An Atlas V Rocket Prepares to Launch",
+    "url": "https://apod.nasa.gov/apod/image/0209/atlas5_rc.jpg"
+},
+{
+    "copyright": "Umar MohideenU. California at Riverside",
+    "date": "2002-09-17",
+    "explanation": "This tiny ball provides evidence that the universe will expand forever.  Measuring slightly over one tenth of a millimeter, the ball moves toward a smooth plate in response to energy fluctuations in the vacuum of empty space.  The attraction is known as the Casimir Effect, named for its discoverer, who, 50 years ago, was trying to understand why fluids like mayonnaise move so slowly.  Today, evidence is accumulating that most of the energy density in the universe is in an unknown form dubbed dark energy.  The form and genesis of dark energy is almost completely unknown, but postulated as related to vacuum fluctuations similar to the Casimir Effect but generated somehow by space itself.  This vast and mysterious dark energy appears to gravitationally repel all matter and hence will likely cause the universe to expand forever.  Understanding vacuum fluctuations is on the forefront of research not only to better understand our universe but also for stopping micro-mechanical machine parts from sticking together.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/casimirsphere_mohideen_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Force from Empty Space: The Casimir Effect",
+    "url": "https://apod.nasa.gov/apod/image/0209/casimirsphere_mohideen.jpg"
+},
+{
+    "copyright": "AAO",
+    "date": "2002-09-18",
+    "explanation": "Many vast star fields in the plane of our Milky Way Galaxy are rich in clouds of stars, dust, and gas.  First and foremost, visible in the above picture are millions of stars, many of which are similar to our Sun.  Next huge filaments of dark interstellar dust run across the image and block the light from millions of more stars yet further across our Galaxy.  The bright red region on the left is the Omega Nebula, an emission nebula of mostly hot hydrogen gas also known as M17.  A small bright grouping of stars near the image center is the open cluster M18, while the long bright streak of stars just right of center is M24.  On the far right of the image is the picturesque red emission nebula IC 1283 flanked by two blue reflection nebulas NGC 6589 and NGC 6590.  These objects are visible with a small telescope toward the constellation of Sagittarius.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/m17region_uks022.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Sagittarius Starscape",
+    "url": "https://apod.nasa.gov/apod/image/0209/m17region_uks022_big.jpg"
+},
+{
+    "date": "2002-09-19",
+    "explanation": "A day is just under 11 minutes long on 1998 KY26, a 30 meter wide, fast-spinning, water-rich asteroid. This computer simulated view of its lumpy surface has a resolution of about 3 meters and is based on radar and optical observations (click on the image for a series of surface views). The observations were made shortly after the discovery of the diminutive world which passed within about 800,000 kilometers of Earth, or about 2 times the Earth-Moon distance, in June of 1998. Around 10 million asteroids of similar size may exist in orbits that also come near Earth's, but little is known about them. However, spinning so fast, tiny 1998 KY26 can not be a loose conglomerate held together by gravity alone. Instead it is likely a monolithic chunk fragmented from a larger asteroid. As the radar and optical data suggest 1998 KY26 has a high water content, this relatively accessible asteroid could be a literal oasis for future space explorers.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/1998ky26_three_ostro.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Asteroid 1998 KY26",
+    "url": "https://apod.nasa.gov/apod/image/0209/1998ky26_one_ostro.jpg"
+},
+{
+    "date": "2002-09-20",
+    "explanation": "How does a city-sized neutron star power the vast Crab Nebula?  The expulsion of wisps of hot gas at high speeds appears to be at least part of the answer.  Yesterday time-lapse movies taken from both the Chandra X-ray Observatory and the Hubble Space Telescope were released showing a wisp of gas moving out at about half the speed of light.  Wisps like this likely result from tremendous electric voltages created by the central pulsar, a rapidly rotating, magnetized, central neutron star. The hot plasma strikes existing gas, causing it glow in colors across the electromagnetic spectrum.  Pictured above is a composite image of the center of the Crab Nebula where red represents radio emission, green represents visible emission, and blue represents X-ray emission.  The dot at the very center is the hot pulsar spinning 30 times per second.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/crabshrug_rox.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Crab Nebula Pulsar Shrugs",
+    "url": "https://apod.nasa.gov/apod/image/0209/crabshrug_rox_big.jpg"
+},
+{
+    "date": "2002-09-21",
+    "explanation": "During the Astro-1 astronomy mission of December, 1990, Space Shuttle astronauts photographed this stunning view of the setting full moon poised above the Earth's limb. In the foreground, towering clouds of condensing water vapor mark the extent of the troposphere, the lowest layer of the planet's life-sustaining atmosphere. Strongly scattering blue sunlight, the upper atmospheric layer, the stratosphere, fades dramatically to the black background of space. Moon and clouds are strong visual elements of many well known portraits of planet Earth, including Ansel Adams' famous \"Moonrise, Hernandez, New Mexico\", photographed in 1941.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/moonset_sts35_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Moonset, Planet Earth",
+    "url": "https://apod.nasa.gov/apod/image/0209/moonset_sts35.jpg"
+},
+{
+    "date": "2002-09-22",
+    "explanation": "Two hours before closest approach to Neptune in 1989, the Voyager 2 robot spacecraft snapped this picture.  Clearly visible for the first time were long light-colored cirrus-type clouds floating high in Neptune's atmosphere. Shadows of these clouds can even be seen on lower cloud decks.  Most of Neptune's atmosphere is made of hydrogen and helium, which is invisible.  Neptune's blue color therefore comes from smaller amounts of atmospheric methane, which preferentially absorbs red light.  Neptune has the fastest winds in the Solar System, with gusts reaching 2000 kilometers per hour.   Speculation holds that diamonds may be created in the dense hot conditions that exist under the clouds-tops of Uranus and Neptune.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/neptuneclouds_vg2_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Two Hours Before Neptune",
+    "url": "https://apod.nasa.gov/apod/image/0209/neptuneclouds_vg2.jpg"
+},
+{
+    "copyright": "Universia",
+    "date": "2002-09-23",
+    "explanation": "Have you ever seen the band of our Milky Way Galaxy?  Chances are you have never seen it like this -- nor could you.  In a clear sky from a dark location at the right time, a faint band of light is visible across the sky.  This band is the disk of our spiral galaxy.  Since we are inside this disk, the band appears to encircle the Earth.  The above spectacular picture is a bit of a digital trick, though.  A first shot was taken in July 2000 with the camera counter-rotating from the Earth so that the stars appear fixed.  This allowed a long exposure from which a great amount of detail could emerge from the background star field.  Later, after moonrise, a much shorter image was taken from the same location catching details of the French Alps near Mount Blanc, the highest mountain in Western Europe.  Reflections in the water were later enhanced digitally.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/lacblanc_sylvestre_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Milky Way Over the French Alps",
+    "url": "https://apod.nasa.gov/apod/image/0209/lacblanc_sylvestre.jpg"
+},
+{
+    "date": "2002-09-24",
+    "explanation": "What would it be like to fly free over the seas and clouds of Earth?  The first to experience such an \"untethered space walk\" were NASA astronauts Bruce McCandless and Robert Stewart during Space Shuttle mission 41-B in 1984.  McCandless, pictured above, used a Manned Maneuvering Unit (MMU) to move in and around the cargo bay of the space shuttle.  The MMU works by shooting jets of nitrogen and has since been used to help deploy and retrieve satellites.  With a mass over 140 kilograms, an MMU is heavy on Earth, but, like everything, is weightless in space. The MMU was replaced in 2001 with the SAFER backpack propulsion unit.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/spacewalk_sts41b_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "To Fly Free in Space",
+    "url": "https://apod.nasa.gov/apod/image/0209/spacewalk_sts41b.jpg"
+},
+{
+    "copyright": "Russell Croman",
+    "date": "2002-09-25",
+    "explanation": "Rising before the Sun on September 4, Jupiter and an old cresent Moon gathered in the dim constellation of Cancer. Watching from a hillside near Austin, Texas, planet Earth, astrophotographer Russell Croman recorded this view of their passing as clouds gracefully dimmed the brilliant moonlight. Earthshine illuminates the lunar night side and on close inspection, bright Jupiter at the lower right appears tightly flanked by its own four large Galilean moons. Next to Jupiter lies a loose swarm of stars just below the clouds. The stars are the brighter members of the nearby star cluster M44, popularly known as the Beehive cluster. Croman's remarkable digital image has been processed only slightly to improve the visibility of the earthshine region and Jupiter's moons.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/moonbees_croman_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Jupiter, Moons and Bees",
+    "url": "https://apod.nasa.gov/apod/image/0209/moonbees_croman.jpg"
+},
+{
+    "date": "2002-09-26",
+    "explanation": "Bright light from a setting Sun and pale glow from a rising Moon both contribute to this stunning picture of a rocket exhaust trail twisting and drifting in the evening sky. Looking west, the digital telephoto view was recorded from Table Mountain Observatory near Wrightwood California, USA on September 19, four days before the autumnal equinox. The rocket, a Minuteman III solid fuel missile, was far down range when the image was taken. Launched from Vandenberg Air Force Base it carried its test payload thousands of miles out over the Pacific Ocean. The red/orange color from the setting Sun dramatically intensifies near the top of the rocket trail, but below the sunset line, the very bottom of the trail is faintly illuminated from the east by a nearly full Moon.  Still in full sunlight, the bright diffuse cloud at the top of the trail, the result of a rocket stage separation, is tinged with rainbows likely produced by high altitude ice crystals forming in the exhaust plume.  Astronomer James Young comments that the cloud takes on the appearance of a white dove flying from right to left across the sky.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/minuteman3_young_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Rocket Trail at Sunset",
+    "url": "https://apod.nasa.gov/apod/image/0209/minuteman3_young.jpg"
+},
+{
+    "date": "2002-09-27",
+    "explanation": "Don't be fooled by the familiar symmetry. The graceful spiral structure seen in this computer visualization does not portray winding spiral arms in a distant galaxy of stars. Instead, the graphic shows spiral shock waves in a three dimensional simulation of an accretion disk -- material swirling onto a compact central object that could represent a white dwarf star, neutron star, or black hole. Such accretion disks power bright x-ray sources within our own galaxy. They form in binary star systems which consist of a donor star (not shown above), supplying the accreting material, and a compact object whose strong gravity ultimately draws the material towards its surface. For known x-ray binary systems the size of the accretion disk itself might fall somewhere between the diameter of the Sun (about 1,400,000 kilometers) and the diameter of the Moon's orbit (800,000 kilometers). One interesting result of the virtual reality astrophysics illustrated here is that the simulated disk develops instabilities which tend to smear out the pronounced spiral shocks.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/accretion_mpowen_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Accretion Disk Simulation",
+    "url": "https://apod.nasa.gov/apod/image/0209/accretion_mpowen_c1.jpg"
+},
+{
+    "date": "2002-09-28",
+    "explanation": "A drop of water or prism of glass can spread out visible sunlight into a rainbow of colors. In order of increasing energy, the well known spectrum of colors in a rainbow runs red, orange, yellow, green, blue, indigo, violet. X-ray light too can be spread out into a spectrum ordered by energy ... but not by drops of water or glass. Instead, the orbiting Chandra X-ray Observatory uses a set of 540 finely ruled, gold gratings to spread out the x-rays, recording the results with digital detectors. The resulting x-ray spectrum reveals much about the compositions, temperatures, and motions within cosmic x-ray sources. This false color Chandra image shows the x-ray spectrum of a star system in Ursa Major cataloged as XTE J1118+480 and thought to consist of a sun-like star orbiting a black hole. Unlike the familiar appearance of a prism's visible light rainbow, the energies here are ordered along radial lines with the highest energy x-rays near the center and lowest energies near the upper left and lower right edges of the image. The central spiky region itself is created by x-rays from the source which are not spread out by the array of gratings.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/xtej1118_xray_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "X-Ray Rainbows",
+    "url": "https://apod.nasa.gov/apod/image/0209/xtej1118_xray.jpg"
+},
+{
+    "date": "2002-09-29",
+    "explanation": "Venus, the second closest planet to the Sun, is a popular way-point for spacecraft headed for the gas giant planets in the outer reaches of the solar system. Why visit Venus first? Using a \"gravity assist \" maneuver, spacecraft can swing by planets and gain energy during their brief encounter saving fuel for use at the end of their long interplanetary voyage. This colorized image of Venus was recorded by the Jupiter-bound Galileo spacecraft shortly after its gravity assist flyby of Venus in February of 1990. Galileo's glimpse of the veiled planet shows structure in swirling sulfuric acid clouds. The bright area is sunlight glinting off the upper cloud deck. A recent intriguing but controversial hypothesis holds that living microbes might exist in the upper clouds of Venus.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/venus1_gal_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Venus: Just Passing By",
+    "url": "https://apod.nasa.gov/apod/image/0209/venus1_gal.jpg"
+},
+{
+    "date": "2002-09-30",
+    "explanation": "These bacteria could survive on another planet.  In an Earth lab, Deinococcus radiodurans (D. rad) survive extreme levels of radiation, extreme temperatures, dehydration, and exposure to genotoxic chemicals.  Amazingly, they even have the ability to repair their own DNA, usually with 48 hours.  Known as an extremophile, bacteria such as D. rad are of interest to NASA partly because they might be adaptable to help human astronauts survive on other worlds.  A recent map of D. rad's DNA might allow biologists to augment their survival skills with the ability to produce medicine, clean water, and oxygen.  Already they have been genetically engineered to help clean up spills of toxic mercury.  Likely one of the oldest surviving life forms, D. rad was discovered by accident in the 1950s when scientists investigating food preservation techniques could not easily kill it.  Pictured above, Deinococcus radiodurans grow quietly in a dish.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0209/drad_daly_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "D. rad Bacteria: Candidate Astronauts",
+    "url": "https://apod.nasa.gov/apod/image/0209/drad_daly.jpg"
+},
+{
+    "date": "2002-10-01",
+    "explanation": "What could cause rectangular ridges on Mars?  As data flows in from the two spacecraft currently orbiting Mars, surface structures are seen that are not immediately understood.  These structures pose puzzles that planetary geologists are eager to solve, as they might provide clues to past processes that have shaped Mars over billions of years.  On the right of the above image is an unusual array of ridges first spotted in Mariner 9 data in 1972.  A ridge wall runs for about 5 kilometers.  Two competing progenitor theories include hardened sand dunes and once-molten rock that seeped through surface cracks and cooled.  Dubbed \"Inca City\" for their resemblance to stone walls of an ancient Earth civilization, the new Mars Global Surveyor images now show them to be part of a larger circular pattern, indicating an origin possibly related to the impact crater.  (Non-natural origin hypotheses are not invoked by conservative scientists unless clear indications exist that natural processes could not work.)",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/incacity_msss_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Rectangular Ridges on Mars",
+    "url": "https://apod.nasa.gov/apod/image/0210/incacity_msss.jpg"
+},
+{
+    "copyright": "David Malin",
+    "date": "2002-10-02",
+    "explanation": "The flowing trails of dust toward Corona Australis, the constellation of the Southern Crown, are visible here not because they glow, but because they absorb and reflect.  The dust appears bluer when seen near bright stars because it preferentially reflects blue light.  The densest knots of dust are so thick that no background stars or interior stars can be seen through them.  These knots indicate molecular clouds filled with cool gas where future stars will likely form.  The above image spans about 5 degrees while the reflection nebula lies about 500 light-years distant.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/cra_aao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Star Clouds Toward the Southern Crown",
+    "url": "https://apod.nasa.gov/apod/image/0210/cra_aao.jpg"
+},
+{
+    "date": "2002-10-03",
+    "explanation": "A leading candidate for the most mysterious star found in recent times is variable star V838 Monocerotis. At a distance of about 8,000 light-years, V838 Mon was discovered to be in outburst in January of this year. Initially thought to be a familiar type of classical nova, astronomers quickly realized that instead, V838 Mon may be a totally new addition to the astronomical zoo. Observations indicate that the erupting star transformed itself over a period of months from a small under-luminous star a little hotter than the Sun, to a highly-luminous, cool supergiant star undergoing rapid and complex brightness changes. The transformation defies the conventional understanding of stellar life cycles. A most notable feature of V838 Mon is the \"expanding\" nebula which now appears to surround it. Seen above in two separate images from the South African Astronomical Observatory's 1 meter telescope, the nebula is probably a light echo from shells of formerly unseen material lost by the star during its previous evolution. Light-years in diameter, the shells progressively reflect the light from V838 Mon's outbursts, providing an opportunity to look back at the history of this remarkable star's behaviour.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/v838mon_crause.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "V838 Mon: Mystery Star",
+    "url": "https://apod.nasa.gov/apod/image/0210/v838mon_crause_c1.jpg"
+},
+{
+    "copyright": "Robert Gendler",
+    "date": "2002-10-04",
+    "explanation": "From our vantage point in the Milky Way Galaxy, we see NGC 6946 face on. The big beautiful spiral galaxy is located just 10 million light-years away, behind a veil of foreground stars in the high and far-off constellation of Cepheus. Looking from the bright core outward along the loose, fragmented spiral arms, the galaxy's colors show a striking change from the yellowish light of old stars in the galaxy's center to young blue star clusters and reddish star forming regions. NGC 6946 is also bright in infrared light and rich in gas and dust, exhibiting a high star birth and death rate. In fact, during the 20th century, at least six supernovae, the death explosions of massive stars, were discovered in NGC 6946. In this sharp composite color digital image, a small barred structure is just visible at the gorgeous galaxy's core.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/ngc6946e_gendler_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Facing NGC 6946",
+    "url": "https://apod.nasa.gov/apod/image/0210/ngc6946e_gendler.jpg"
+},
+{
+    "date": "2002-10-05",
+    "explanation": "Amazingly detailed, this false-color x-ray image is centered on the galaxy Cygnus A. Recorded by the orbiting Chandra Observatory, Cygnus A is seen here as a spectacular high energy x-ray source. But it is actually more famous at the low energy end of the electromagnetic spectrum as one of the brightest celestial radio sources. Merely 700 million light-years distant, Cygnus A is the closest powerful radio galaxy and the false-color radio image (inset right) shows remarkable similarity to Chandra's x-ray view. Central in both pictures, the center of Cygnus A shines brightly while emission extends 300,000 light-years to either side along the same axis. Near light speed jets of atomic particles produced by a massive central black hole are believed to cause the emission. In fact, the x-ray image reveals \"hot spots\" suggestive of the locations where the particle jets are stopped in surrounding cooler, denser gas. The x-ray image also shows that the jets have cleared out a huge cavity in the surrounding gas. Bright swaths of emission within the cavity likely indicate x-ray hot material ... swirling toward the central black hole.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/cyga_cxo_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "X-Ray Cygnus A",
+    "url": "https://apod.nasa.gov/apod/image/0210/cyga_cxo_nrao.jpg"
+},
+{
+    "date": "2002-10-06",
+    "explanation": "The bright Lagoon Nebula is home to a diverse array of astronomical objects.  Particularly interesting sources include a bright open cluster of stars and several energetic star-forming regions.  When viewed by eye, cluster light is dominated by an overall red glow that is caused by luminous hydrogen gas, while the dark filaments are caused by absorption by dense lanes of dust. The above picture, from the Curtis-Schmidt Telescope, however, shows the nebula's emission in three exact colors specifically emitted by hydrogen, oxygen, and sulfur. The Lagoon Nebula, also known as M8 and NGC 6523, lies about 5000 light-years away.  The Lagoon Nebula can be located with binoculars in the constellation of Sagittarius spanning a region over three times the diameter of a full Moon.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/m8_barba_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Lagoon Nebula in Three Colors",
+    "url": "https://apod.nasa.gov/apod/image/0210/m8_barba.jpg"
+},
+{
+    "date": "2002-10-07",
+    "explanation": "Is the galaxy in the center connected to the quasar on the upper right? Disagreements about systems like this have raged for decades and have been used to challenge the foundations of modern cosmology.  Some believe that the quasar Markarian 205 was recently ejected from galaxy NGC 4319, indicating that the high redshift of Markarian 205 is not indicative of its distance.  Most astronomers have come to believe, however, that the two are not physically associated, and that the high redshift of Markarian 205 indeed indicates that it lies across our universe.  In this predominant view, as with a tree branch that happens to point toward the Moon, their juxtaposition in the above image is just coincidence.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/ngc4319_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Galaxy and the Quasar",
+    "url": "https://apod.nasa.gov/apod/image/0210/ngc4319_hst.jpg"
+},
+{
+    "date": "2002-10-08",
+    "explanation": "The motion of ultra-fast jets shooting out from a candidate black hole star system have now been documented by observations from the orbiting Chandra X-ray Observatory.  In 1998, X-ray source XTE J1550-564 underwent a tremendous outburst.  Jets of material sent streaming into space at near light-speed impacted existing gas heating it so much it glowed in X-ray light.  The panels on the left of the above image show in X-rays that the hot spots have moved out by more than three light years in the time since the explosion, with the left jet recently fading below detectability.  The drawing of the right depicts the binary star system that likely produced the X-ray jets, with a normal red star on the left dumping matter into an accretion disk around the black hole on the right.  The jets are thought to be emitted along the spin axis of the black hole.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/xtej1550_chandra_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The X-Ray Jets of XTE J1550",
+    "url": "https://apod.nasa.gov/apod/image/0210/xtej1550_chandra.jpg"
+},
+{
+    "date": "2002-10-09",
+    "explanation": "Asteroids almost as large as planets are still being discovered in our own Solar System.  Recently an asteroid more than half the size of Pluto was found orbiting at a distance only a little further than the Solar System's most distant planet.   The large asteroid moves relative to background stars in the discovery images shown above taken by the Oschin Telescope at Palomar, California, USA.  Quaoar, the name suggested for the space rock by its discoverers, is one of several large asteroids discovered recently that roam in the distant Kuiper Belt.  Quaoar's size was resolved by images from the Hubble Space Telescope.  Quaoar is likely a  cold world covered in ice from which the Sun appears only as a particularly bright star.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/quaoar_gps_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Quaoar: Large Asteroid in the Outer Solar System",
+    "url": "https://apod.nasa.gov/apod/image/0210/quaoar_gps.gif"
+},
+{
+    "date": "2002-10-10",
+    "explanation": "Car is a massive star, but it's not as bright as it used to be. Now only easily visible in binoculars or a small telescope, Eta Carinae has a history of spectacular flaring and fading behavior. In fact, in April of 1843 Eta Car briefly became second only to Sirius as the brightest star in planet Earth's night sky, even though at a distance of about 7,500 light-years, it is about 800 times farther away. Surrounded by a complex and evolving nebula, Eta Carinae is seen near the center of this false-color infrared image, constructed using data from the Midcourse Space Experiment (MSX). The MSX satellite mapped the galactic plane in 1996. In the picture, wispy, convoluted filaments are clouds of dust glowing at infrared wavelengths. Astronomers hypothesize that Eta Car itself will explode as a supernova in the next million years or so. Massive Eta Car has even been considered a candidate for a hypernova explosion and the potential source of a future gamma-ray burst.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/etacar_msx_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Dusty Environs of Eta Carinae",
+    "url": "https://apod.nasa.gov/apod/image/0210/etacar_msx.jpg"
+},
+{
+    "date": "2002-10-11",
+    "explanation": "One of the brightest stars on the sky likely has planets.  Fomalhaut, actually the 17th brightest star in the night sky, is a mere 22 light-years away but only a fraction of the age of our Sun.  Recent observations in far infrared light with a detector cooled to near zero kelvins indicate a dust disk surrounding Fomalhaut that has both a hole in the center and a warped edge.  Now the hole in the center indicates that dust has fallen onto interior planets -- possibly like the Earth -- while the warp at the edge indicates the gravitational pull of a planet like Jupiter or Saturn.  The discovery image was taken with the SCUBA instrument through the James Clerk Maxwell Telescope in Hawaii, USA.  The above illustration shows what the Fomalhaut dusty planetary system might look like from near the large planet.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/fomalhaut_atc_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Fomalhaut Dust Disk Indicates Planets",
+    "url": "https://apod.nasa.gov/apod/image/0210/fomalhaut_atc.jpg"
+},
+{
+    "date": "2002-10-12",
+    "explanation": "Officially the Chandra Deep Field - South, this picture represents the deepest ever x-ray image of the Universe. One million seconds of accumulated exposure time with the orbiting Chandra X-ray Observatory went in to its making. Concentrating on a single, otherwise unremarkable patch of sky in the constellation Fornax, this x-ray image corresponds to the visible light Hubble Deep Field - South released in 1998. Chandra's view, color coded with low energies in red, medium in green, and high-energy x-rays in blue, shows many faint sources of relatively high-energy x-rays. These are likely active galaxies feeding supermassive central black holes and large clusters of galaxies at distances of up to 12 billion light-years. The stunning picture supports astronomers' ideas of a youthful universe in which massive black holes were much more dominant than at present.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/deepfields_cxo_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Chandra Deep Field",
+    "url": "https://apod.nasa.gov/apod/image/0210/deepfields_cxo.jpg"
+},
+{
+    "copyright": "Anglo-Australian Observatory",
+    "date": "2002-10-13",
+    "explanation": "The odd looking \"creature\" to the right of center in the above photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not completely known.  The galaxy to the left of center is very far in the distance and is only placed near CG4 by chance superposition.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/cg4_aao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "CG4: A Ruptured Cometary Globule",
+    "url": "https://apod.nasa.gov/apod/image/0210/cg4_aao.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2002-10-14",
+    "explanation": "How did this nebula get created?  The Cocoon Nebula, cataloged as IC 5146, is a strikingly beautiful nebula located about 4,000 light years away toward the constellation of Cygnus.  Inside the Cocoon is a newly developing open cluster of stars.  Like other stellar nurseries, the Cocoon Nebula is, at the same time, an emission nebula, a reflection nebula, and an absorption nebula.  Speculation based on recent measurements holds that the massive star in the center of the above image opened a hole in an existing molecular cloud through which much of the glowing material flows.  The same star, which formed about 100,000 years ago, now provides the energy source for much of the emitted and reflected light from this nebula.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/cocoon_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "IC 5146: The Cocoon Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0210/cocoon_cfht.jpg"
+},
+{
+    "date": "2002-10-15",
+    "explanation": "Gusting solar winds and blasts of charged particles from the Sun made the early days of October rewarding ones for those anticipating auroras. While out enjoying the stormy space weather from Toemmeraas, Norway, Trygve Lindersen recorded this picturesque apparition of the northern lights with a digital camera on October 6. From this perspective, the curtains of green light formed a ring which seemed to hover, wraithlike, just above the foreground trees. But the ring of light was actually 100 kilometers or more above the trees and the greenish glow produced by oxygen molecules interacting with energetic electrons and fluorescing near the edge of space. After days of enchanting auroral displays on planet Earth, the solar activity which triggered October's geomagnetic storms seems to have subsided ... for now.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/aurora_lindersen2_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Aurora's Ring",
+    "url": "https://apod.nasa.gov/apod/image/0210/aurora_lindersen2_c1.jpg"
+},
+{
+    "copyright": "Robert D. LossWAISRC",
+    "date": "2002-10-16",
+    "explanation": "The remnants of nuclear reactors nearly two billion years old were found in the 1970s in Africa.  These reactors are thought to have occurred naturally. No natural reactors exist today, as the relative density of fissile uranium has now decayed below that needed for a sustainable reaction.  Pictured above is Fossil Reactor 15, located in Oklo, Gabon.  Uranium oxide remains are visible as the yellowish rock.  Oklo by-products are being used today to probe the stability of the fundamental constants over cosmological time-scales and to develop more effective means for disposing of human-manufactured nuclear waste.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/oklo15_curtin.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Oklo: Ancient African Nuclear Reactors",
+    "url": "https://apod.nasa.gov/apod/image/0210/oklo15_curtin.jpg"
+},
+{
+    "date": "2002-10-17",
+    "explanation": "Almost lost in this cosmic jumble of stars, gas and dust is a faint but definite blue arc -- a stream of young stars whose formation was probably triggered as a small dwarf galaxy was torn apart approaching the giant elliptical galaxy Centaurus A. The 2,000 light-year long arc is revealed in the upper right corner of this processed color digital image, while the dense central region of Centaurus A is near the bottom. Star clusters that make up the blue arc are likely strung out along the incoming trajectory of the small galaxy and are estimated to be only 200-400 million years old. The remarkable result suggests that astronomers have identified a spectacular example of a kind of galactic cannibalism in progress, a process which is believed to contribute to the formation and evolution of large galaxies, including our own Milky Way. Over time, stars and star clusters in this stream should eventually disperse and merge with tumultuous Centaurus A.  The image data was recorded with the four meter Blanco telescope at Cerro Tololo Inter-American Observatory.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/cena_peng_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Centaurus A: Young Blue Star Stream",
+    "url": "https://apod.nasa.gov/apod/image/0210/cena_peng_c1.jpg"
+},
+{
+    "date": "2002-10-18",
+    "explanation": "At the center of our Milky Way Galaxy lies a black hole with over 2 million times the mass of the Sun. Once a controversial claim, this astounding conclusion is now virtually inescapable and based on observations of stars orbiting very near the galactic center. Using one of the Paranal Observatory's very large telescopes and the sophisticated infrared camera NACO, astronomers patiently followed the orbit of a particular star, designated S2, as it came within about 17 light-hours of the center of the Milky Way (17 light-hours is only about 3 times the radius of Pluto's orbit). Their results convincingly show that S2 is moving under the influence of the enormous gravity of an unseen object which must be extremely compact -- a supermassive black hole. This deep NACO near-infrared image shows the crowded inner 2 light-years of the Milky Way with the exact position of the galactic center indicated by arrows. NACO's ability to track stars so close to the galactic center can accurately measure the black hole's mass and perhaps even provide an unprecedented test of Einstein's theory of gravity as astronomers watch a star orbit a supermassive black hole.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/mwcentre_eso_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "At the Center of the Milky Way",
+    "url": "https://apod.nasa.gov/apod/image/0210/mwcentre_eso.jpg"
+},
+{
+    "date": "2002-10-19",
+    "explanation": "Like the downtown area of your favorite city, the roads you drive to work on, and any self-respecting web site ... Io's surface is constantly under construction. This moon of Jupiter holds the distinction of being the Solar System's most volcanically active body -- its bizarre looking surface continuously formed and reformed by lava flows. Generated using 1996 data from NASA's Galileo spacecraft, this high resolution composite image of Io is centered on the side of Io that always faces away from Jupiter. It has been enhanced to emphasize Io's surface brightness and color variations, revealing features as small as 1.5 miles across. The notable absence of impact craters suggests that the entire surface is covered with new volcanic deposits much more rapidly than craters are created. What drives this volcanic powerhouse? A likely energy source is the changing gravitational tides caused by Jupiter and the other Galilean moons as Io orbits the massive gas giant planet. Heating Io's interior, the pumping tides would generate the sulfurous volcanic activity.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/iosurface_gal_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Io's Surface: Under Construction",
+    "url": "https://apod.nasa.gov/apod/image/0210/iosurface_gal.jpg"
+},
+{
+    "date": "2002-10-20",
+    "explanation": "Before there was the International Space Station, the reigning orbiting spaceport was Russia's Mir.  Pictured above in 1995, the United States Space Shuttle Atlantis docked with the segmented Mir. During shuttle mission STS-71, astronauts answered questions from school students over amateur radio and performed science experiments aboard Spacelab.  The Spacelab experiments helped to increase understanding of the effects of long-duration space flights on the human body. Last year, after 15 years of successful service, the decaying Mir space station broke up as it entered the Earth's atmosphere.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/shuttlemir_nasa_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Space Shuttle Docked with Mir",
+    "url": "https://apod.nasa.gov/apod/image/0210/shuttlemir_nasa.jpg"
+},
+{
+    "copyright": "Robert Gendler",
+    "date": "2002-10-21",
+    "explanation": "Andromeda is the nearest major galaxy to our own Milky Way Galaxy.  Our Galaxy is thought to look much like Andromeda.  Together these two galaxies dominate the Local Group of galaxies.  The diffuse light from Andromeda is caused by the hundreds of billions of stars that compose it.  The several distinct stars that surround Andromeda's image are actually stars in our Galaxy that are well in front of the background object.  Andromeda is frequently referred to as M31 since it is the 31st object on Messier's list of diffuse sky objects.  M31 is so distant it takes about two million years for light to reach us from there.  Although visible without aid, the above image of M31 is a digital mosaic of 20 frames taken with a small telescope.  Much about M31 remains unknown, including how the center acquired two nuclei.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/Andromeda_gendler_sm.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M31: The Andromeda Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0210/Andromeda_gendler_s60.jpg"
+},
+{
+    "date": "2002-10-22",
+    "explanation": "As expected, the ozone hole near Earth's South Pole is back again this year. This time, however, it's smaller than the past two years, and has an unusual double lobe structure.  Ozone is important because it shields us from damaging ultraviolet sunlight.  Ozone is vulnerable, though, to CFCs and halons being released into the atmosphere.  International efforts to reduce the use of these damaging chemicals appear to be having a positive effect on their atmospheric abundance.  The smaller size of the ozone hole this year, however, is attributed mostly to warmer than normal air in the surrounding stratosphere.  The above picture of the ozone hole was taken on September 24 by  TOMS on board the orbiting Earth Probe satellite.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/ozone020924_toms_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Small Double Ozone Hole in 2002",
+    "url": "https://apod.nasa.gov/apod/image/0210/ozone020924_toms.jpg"
+},
+{
+    "copyright": "Maas DigitalEcliptic \nEnterprises CorporationLockheed MartinNASA",
+    "date": "2002-10-23",
+    "explanation": "What would it look like to see a Space Shuttle liftoff from just above the shuttle?  Because the answer has value in assessing spacecraft performance, NASA attached a small RocketCam to the side of the External Tank on the launch of the Space Shuttle Atlantis earlier this month.  The above five-frame movie, excerpted from a longer video sequence, shows in dramatic fashion what it looks like to ride into space while looking back at the Earth.  In the final frame, taken about 15 minutes after liftoff, the shuttle can be seen separating from the External Tank and proceeding to orbit.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/stsanim2_eec.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Liftoff With the Space Shuttle",
+    "url": "https://apod.nasa.gov/apod/image/0210/stsanim2_eec.gif"
+},
+{
+    "date": "2002-10-24",
+    "explanation": "The Gullies of Mars would probably not have been sensational enough for the title of a vintage Edgar Rice Burroughs story about the Red Planet. But it would get the attention of planetary scientists today. First identified in high resolution images of Mars recorded by the orbiting Mars Global Surveyor spacecraft, the gullies are interpreted as startling evidence that liquid water flowed across the martian surface in geologically recent times. Similar channels on Earth are formed by flowing water, but on Mars the temperature is normally too cold and the atmosphere too thin to sustain liquid water. Still, it is thought possible that water did burst out from underground layers and remain liquid long enough to erode the gullies, while alternative explanations suggest the erosion was produced by a flowing jumble of solid and gaseous carbon dioxide. Spanning a few kilometers along the wall of an impact crater this high resolution image from Mars Global Surveyor shows typical martian gullies near the top of the crater wall giving way to sand dunes toward the crater floor. Whitish frost is visible near the top and on the dark sand dunes below. The muted colors were synthesized from wide angle image data.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/marsgullies42_mgs_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Gullies on Mars",
+    "url": "https://apod.nasa.gov/apod/image/0210/marsgullies42_mgs.jpg"
+},
+{
+    "date": "2002-10-25",
+    "explanation": "In Jules Verne's science fiction classic A Journey to the Center of the Earth, Professor Hardwigg and his fellow explorers encounter many strange and exciting wonders. What wonders lie at the center of our Galaxy? Astronomers know of some of the bizarre objects which exist there, like vast cosmic dust clouds, bright star clusters, swirling rings of gas, and even a supermassive black hole. Much of the Galactic Center is shielded from our view in visible light by the intervening dust and gas, but it can be explored using other forms of electromagnetic radiation. This haunting wide angle image of the Galactic Center region in infrared light was constructed using data from the Midcourse Space Experiment (MSX) satellite. The image maps three mid-infrared bands, otherwise invisible to human eyes, into visible blue, green, and red colors revealing the thermal emission from dust clouds near the galactic center that have been heated by starlight. The galactic plane runs along the middle of this image while the galactic center itself is the bright spot at picture center. The field of view of this cropped picture is about 1.5 by 2.5 degrees.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/galcenter_msx_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Journey to the Center of the Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0210/galcenter_msx_c1.jpg"
+},
+{
+    "date": "2002-10-26",
+    "explanation": "cal galaxy NGC 720 is enveloped in a cosmic cloud of x-ray emitting gas. Seen in this false color image from the Chandra X-ray Observatory, the extreme temperature of the gas - about 7 million degrees Celsius - makes it impossible to confine the cloud to the vicinity of NGC 720 based on the gravity of this galaxy's visible stars alone. In fact, the x-ray cloud is taken as solid evidence for the presence of dark matter surrounding NGC 720 -- unseen material which has gravitational influence that can keep the x-ray hot gas cloud from escaping. Chandra's remarkable vision clearly distinguishes the bright point-like x-ray sources from the diffuse cloud. Astronomers can then use the detailed shape of the cloud to infer the distribution of dark matter in NGC 720 and even test theories about the fundamental nature of dark matter. According to modern understanding, the mysterious dark matter, whatever it is, is by far the most common form of matter in the Universe. Galaxy NGC 720 lies about 80 million light-years distant toward the constellation Cetus.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/ngc720_cxo.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Dark Matter, X-rays, and NGC 720",
+    "url": "https://apod.nasa.gov/apod/image/0210/ngc720_cxo.jpg"
+},
+{
+    "date": "2002-10-27",
+    "explanation": "Asteroid 951 Gaspra is a huge rock tumbling in space.  Gaspra became one of the best-studied asteroids in 1991 when the spacecraft Galileo flew by. In the above photograph, subtle color variations have been exaggerated to highlight changes in reflectivity, surface structure and composition.  Gaspra is about 20 kilometers long and orbits the Sun in the main asteroid belt between Mars and Jupiter.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/gaspra_galileo_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Asteroid Gaspra's Best Face",
+    "url": "https://apod.nasa.gov/apod/image/0210/gaspra_galileo.jpg"
+},
+{
+    "date": "2002-10-28",
+    "explanation": "What on Earth is that? The Richat Structure in the Sahara Desert of Mauritania is easily visible from space because it is nearly 50 kilometers across.  Once thought to be an impact crater, the Richat Structure's flat middle and lack of shock-altered rock indicates otherwise.  The possibility that the Richat Structure was formed by a volcanic eruption also seems improbable because of the lack of a dome of igneous or volcanic rock.  Rather, the layered sedimentary rock of the Richat structure is now thought by many to have been caused by uplifted rock sculpted by erosion.  The above image was captured last year by the orbiting Landsat 7 satellite.  Why the Richat Structure is nearly circular remains a mystery.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/richat_landsat7_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Earth's Richat Structure",
+    "url": "https://apod.nasa.gov/apod/image/0210/richat_landsat7.jpg"
+},
+{
+    "date": "2002-10-29",
+    "explanation": "What could cause a long indentation on the Moon?  First discovered over 200 years ago with a small telescope, rilles (rhymes with pills) appear all over the Moon.  Three types of rilles are now recognized: sinuous rilles, which have many meandering curves, arcuate rilles which form sweeping arcs, and straight rilles, like Ariadaeus Rille pictured above.  Long rilles such as Ariadaeus Rille extend for hundreds of kilometers.  Sinuous rilles are now thought to be remnants of ancient lava flows, but the origins of arcuate and linear rilles are still a topic of research.  The above linear rille was photographed by the Apollo 10 crew in 1969 during their historic approach to only 14-kilometers above the lunar surface.  Two months later, Apollo 11, incorporating much knowledge gained from Apollo 10, landed on the Moon.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/rille_apollo10_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Lunar Rille",
+    "url": "https://apod.nasa.gov/apod/image/0210/rille_apollo10.jpg"
+},
+{
+    "copyright": "ICSTARS Astronomy",
+    "date": "2002-10-30",
+    "explanation": "Will this year's Leonid meteor shower be as good as last year's?  No one knows for sure.  Possibly, however, in the waning nighttime hours of November 18 and lasting throughout much of November 19, sky gazers across the globe may get their last chance ever to see a meteor storm.  Although the glare of a nearly full Moon will likely hide the presence of many faint meteors, plenty of bright meteors may well streak across the other side of the sky.  The above image was taken during 2001 as Leonids stormed over Uluru (Ayers Rock), Australia.  The image is actually a digital composite of 22 separate frames, including one at sunset.  The Gum Nebula is visible on the upper left.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/ayersleonids_winter_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Leonids Over Uluru",
+    "url": "https://apod.nasa.gov/apod/image/0210/ayersleonids_winter.jpg"
+},
+{
+    "copyright": "Juha Kinnunen",
+    "date": "2002-10-31",
+    "explanation": "Tomorrow's picture: Europa's Freckles  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & NASA SEU Edu. Forum & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0210/aurora_Kinnunen6.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Aurora in the Night",
+    "url": "https://apod.nasa.gov/apod/image/0210/aurora_Kinnunen6.jpg"
+},
+{
+    "date": "2002-11-01",
+    "explanation": "uropa, one of Jupiter's large Galilean moons, may well possess an ocean of liquid water hidden beneath its icy surface -- and so holds the tantalizing possibility of life. In this image, constructed with data recorded in 1996 and 1997 by the Galileo spacecraft, Europa's characteristic surface ridges and cracks are seen along with domes and dark reddish spots called lenticulae from the Latin word for freckles. The freckles are about 10 kilometers across and are believed to be blobs of warmer ice from below that have gradually risen through the colder surface layers, analogous to the motions in a lava lamp. If the freckles do represent material from deeper ice layers closer to the hidden ocean, future space missions to investigate Europa's interior could sample the relatively accessible freckles rather than drill through Europa's potentially thick ice shell.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/europafreckles_gal_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Europa's Freckles",
+    "url": "https://apod.nasa.gov/apod/image/0211/europafreckles_gal_c1.jpg"
+},
+{
+    "date": "2002-11-02",
+    "explanation": "Scattered within this cavernous nebula, cataloged as NGC 604, are over 200 newly formed hot, massive, stars. At 1,500 light-years across, this expansive cloud of interstellar gas and dust is effectively a giant stellar nursery located some three million light-years distant in the spiral galaxy, M33. The newborn stars irradiate the gas with energetic ultraviolet light stripping electrons from atoms and producing a characteristic nebular glow. The details of the nebula's structure hold clues to the mysteries of star formation and galaxy evolution.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/ngc604_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 604: Giant Stellar Nursery",
+    "url": "https://apod.nasa.gov/apod/image/0211/ngc604_hst_c1.jpg"
+},
+{
+    "date": "2002-11-03",
+    "explanation": "The developing International Space Station (ISS) has changed its appearance yet again.  Last month the Space Shuttle Atlantis visited the ISS and installed the third of eleven pieces that will compose the Integrated Truss Structure.  The new S-1 Truss is visible on the right, below the extended solar panels across the top.  The world's foremost space outpost can be seen developing over the past few years by comparing the above image to past images.  Also visible above are many different types of modules, a robotic arm, several wing-like solar panels, and a supply ship.  Construction began on the ISS in 1998 and the core structure should be in place before 2005. Yesterday, the ISS celebrated its second anniversary of continuous human habitation.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/iss_sts112_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The International Space Station Expands Again",
+    "url": "https://apod.nasa.gov/apod/image/0211/iss_sts112.jpg"
+},
+{
+    "date": "2002-11-04",
+    "explanation": "Cassini, a robot spacecraft launched in 1997 by NASA, is close enough now to resolve many rings and moons of its destination planet: Saturn.  The spacecraft has closed to about two Earth-Sun separations from the ringed giant. Last month, Cassini snapped several images during an engineering test.  These images have been combined into the contrast-enhanced color composite pictured above.  Saturn's rings and cloud-tops are visible on the far right, while Titan, its largest moon, is visible as the speck on the lower left.  When arriving at Saturn in July 2004, the Cassini orbiter will begin to circle and study the Saturnian system.  Several months later, a probe named Huygens will separate and attempt to land on the surface of Titan.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/sattitan_cassini_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Cassini Approaches Saturn",
+    "url": "https://apod.nasa.gov/apod/image/0211/sattitan_cassini.jpg"
+},
+{
+    "copyright": "Wally PacholkaTony Hallas",
+    "date": "2002-11-05",
+    "explanation": "This year's Leonid Meteor Shower is predicted to have two peaks, like last year's.  The first peak should come at about 04:00 hours Universal Time (UT) on November 19 and be primarily visible from Western Europe before sunrise.  The second peak is predicted to occur at about 10:30 UT and be primarily visible from North America before local sunrise.  During these times, the Leonid Meteor Shower might well develop into a true meteor storm, with rates possibly exceeding those measured during last year's storm.  The meteors in these two peaks come from sand-sized particles ejected from Comet Tempel-Tuttle during trips to the inner Solar System in 1767 and 1866, respectively.  If you're stuck without a view you can still catch the shower by looking for streaks caught by the web cameras of the Night Sky Live Project.  Pictured above are several meteors from the 2001 Leonids streaking over Joshua Tree National Park in California, USA.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/leonids01_pacholka_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Leonids Over Joshua Tree National Park",
+    "url": "https://apod.nasa.gov/apod/image/0211/leonids01_pacholka.jpg"
+},
+{
+    "copyright": "Jerry Lodriguss",
+    "date": "2002-11-06",
+    "explanation": "Some of the brightest stars form a large and easily found pattern in the winter sky of Earth's northern hemisphere.  Dubbed the  Winter Hexagon, the stars involved can usually be identified even in the bright night skies of a big city.  The six stars that compose the Winter Hexagon are Aldebaren, Capella, Castor, Procyon, Rigel, and Sirius.  Rolling your cursor over the above image will identify them.  The Winter Hexagon asterism engulfs several constellations including Orion and Canis Major.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/hexagon_lodriguss.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Winter Hexagon",
+    "url": "https://apod.nasa.gov/apod/image/0211/hexagon_lodriguss.jpg"
+},
+{
+    "copyright": "Christophe Marlot",
+    "date": "2002-11-07",
+    "explanation": "The 2001 Leonid storm was so intense that the meteor shower's radiant, the point on the sky from which the fleeting trails seemed to diverge, was easy to spot. But the bits of debris that created the meteors really moved along parallel paths, following the orbit of  their parent comet Tempel-Tuttle. Their apparent divergence from the shower's radiant point was simply due to perspective as skygazers looked toward the stream of cosmic debris. During the 2001 Leonid storm, while the radiant was above the horizon from SoBaekSan Observatory in South Korea, astronomer Christophe Marlot made this single time exposure recording star trail arcs and a number of meteors. Since Marlot was looking away from the cosmic debris stream, this perspective actually shows red tinged meteor trails converging toward a point below the horizon and opposite the radiant -- the Leonid shower's antiradiant.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/leoantiradiant_marlot.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "2001 Leonids: Meteors in Perspective",
+    "url": "https://apod.nasa.gov/apod/image/0211/leoantiradiant_marlot.jpg"
+},
+{
+    "date": "2002-11-08",
+    "explanation": "This pretty planetary nebula, cataloged as NGC 6369, was discovered by 18th century astronomer William Herschel as he used a telescope to explore the constellation Ophiucus. Round and planet-shaped, the nebula is also relatively faint and has acquired the popular moniker of Little Ghost Nebula. Planetary nebulae in general are not at all related to planets, but instead are created at the end of a sun-like star's life as its outer layers expand into space while the star's core shrinks to become a white dwarf. The transformed white dwarf star, seen near the center, radiates strongly at ultraviolet wavelengths and powers the expanding nebula's glow. Surprisingly complex details and structures of NGC 6369 are revealed in this delightful color image composed from Hubble Space Telescope data. The nebula's main ring structure is about a light-year across and the glow from ionized oxygen, hydrogen, and nitrogen atoms are colored blue, green, and red respectively. Over 2,000 light-years away, the Little Ghost Nebula offers a glimpse of the fate of our Sun, which should produce its own pretty planetary nebula only about 5 billion years from now.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/ngc6369_heritage_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 6369: The Little Ghost Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0211/ngc6369_heritage.jpg"
+},
+{
+    "copyright": "Roger Smith",
+    "date": "2002-11-09",
+    "explanation": "High atop a Chilean mountain lies one of the premier observatories of the southern sky: the Cerro Tololo Inter-American Observatory (CTIO). Pictured above is the dome surrounding one of the site's best known instruments, the 4-meter Blanco Telescope. Far behind the dome are thousands of individual stars and diffuse light from three galaxies: the Small Magellanic Cloud (upper left), the Large Magellanic Cloud (lower left), and our Milky Way Galaxy (right).  Visible just to Blanco's right is the famous superposition of four bright stars known as the Southern Cross. A single 20 second exposure, this digital image was recorded with a sensitive detector intended for astronomical imaging. The observatory structures are lit solely by starlight.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/sky_ctio_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Cerro Tololo Sky",
+    "url": "https://apod.nasa.gov/apod/image/0211/sky_ctio.jpg"
+},
+{
+    "copyright": "Polar Image",
+    "date": "2002-11-10",
+    "explanation": "Many think it is just a myth.  Others think it is true but its cause isn't known.  Adventurers pride themselves on having seen it.  It's a green flash from the Sun.  The truth is the green flash does exist and its cause is well understood.  Just as the setting Sun disappears completely from view, a last glimmer appears startlingly green.  The effect is typically visible only from locations with a low, distant horizon, and lasts just a few seconds. A green flash is also visible for a rising Sun, but takes better timing to spot.  A dramatic green flash was caught in the above photograph in 1992 from Finland. The Sun itself does not turn partly green, the effect is caused by layers of the Earth's atmosphere acting like a prism.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/greenflash_parviainen_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Green Flash from the Sun",
+    "url": "https://apod.nasa.gov/apod/image/0211/greenflash_parviainen.jpg"
+},
+{
+    "date": "2002-11-11",
+    "explanation": "What causes the surrounding shells in peculiar galaxy Cen A? Last month a fascinating image of peculiar galaxy Centaurus A was released, processed to highlight a faint blue arc indicating an ongoing collision with a smaller galaxy.  Another interesting feature of Cen A, however, is the surrounding system of shells, better visible here in this recently released wider pan from the four meter Blanco telescope at Cerro Tololo Inter-American Observatory.  Faint shells around galaxies are not unusual and considered by themselves as evidence of a previous galaxy merger, analogous to water ripples on a pond.  An unexpected attribute of these shells is the abundance of gas, which should become separated from existing stars during the collision.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/cenawhole_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Outer Shells of Centaurus A",
+    "url": "https://apod.nasa.gov/apod/image/0211/cenawhole_noao.jpg"
+},
+{
+    "date": "2002-11-12",
+    "explanation": "Dominating the top third of Africa is the largest band of dry land on Earth: the Sahara Desert.  Stretching across the Sahara are vast plains of sand and gravel, seas of sand dunes, and barren rocky mountains.  Only 10,000 years ago, however, grasses covered the region, then rich in mammals such as lions and elephants.  Now only two percent of the Sahara are oases, patches of land where crops will grow and where nearly two million people live.   Oases are usually centered on natural water springs.  Pictured above is colorful and rocky land spanning about 50 kilometers near the Terkezi Oasis in Chad.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/terkezi_landsat7_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Terkezi Oasis in the Sahara Desert",
+    "url": "https://apod.nasa.gov/apod/image/0211/terkezi_landsat7.jpg"
+},
+{
+    "date": "2002-11-13",
+    "explanation": "NASA's interplanetary probe STARDUST, on its way to Comet Wild 2 in January 2004, passed asteroid 5535 Annefrank earlier this month.  Annefrank, named for a holocaust victim who kept a famous diary, is a member of the main asteroid belt between Mars and Jupiter.  Just prior to closest approach at about 3300 km distant, the robot spacecraft took the above picture.  Although images obtained were not detailed enough to resolve much of the asteroid's surface, the size, reflectivity, and general shape of the asteroid were recorded.  At 6 kilometers across, asteroid Annefrank turned out to be larger -- and darker -- than expected.   Deadline Approaching: Send your name to Mars!",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/annefrank_stardust_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Asteroid Annefrank",
+    "url": "https://apod.nasa.gov/apod/image/0211/annefrank_stardust.jpg"
+},
+{
+    "date": "2002-11-14",
+    "explanation": "This stunning image shows remarkable and mysterious details near the dark central region of a planet-sized sunspot in one of the sharpest views ever of the surface of the Sun. Just released, the picture was made using the Swedish Solar Telescope now in its first year of operation on the Canary Island of La Palma. Along with features described as hairs and canals are dark cores visible within the bright filaments that extend into the sunspot, representing previously unknown and unexplored solar phenomena. The filaments' newly revealed dark cores are seen to be thousands of kilometers long but only about 100 kilometers wide. Resolving features 100 kilometers wide or less is a milestone in solar astronomy and has been achieved here using sophisticated adaptive optics, digital image stacking, and processing techniques to counter the blurring effect of Earth's atmosphere. At optical wavelengths, these images are sharper than even current space-based solar observatories can produce. Recorded on 15 July 2002, the sunspot shown is the largest of the group of sunspots cataloged as solar active region AR 10030.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/sunspot_swedish_c1.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Sharpest View of the Sun",
+    "url": "https://apod.nasa.gov/apod/image/0211/sunspot_swedish_label1.jpg"
+},
+{
+    "copyright": "LeRoy Zimmerman",
+    "date": "2002-11-15",
+    "explanation": "Spanning southern to northern skies, stars trail across this panoramic view of the African night from equatorial Kenya. The three hour long exposure was made on a clear, dark, mid November evening facing due west and covers just over 180 degrees along the horizon. So, the South Celestial Pole is at the center of the concentric arcs on the left and the North Celestial Pole is at the far right (scroll right). And, you guessed it(!), the stars setting along the Celestial Equator leave the straight trails near the middle of the picture. Well illustrated in this thoughtfully composed panorama, the star trails in the African night are, of course, not due to motions of the individual stars but simply reflect the daily rotation of planet Earth itself.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/NightTrailsOfAfrica_zimmerman_c1.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Night Trails of Africa",
+    "url": "https://apod.nasa.gov/apod/image/0211/NightTrailsOfAfrica_zimmerman_c1.jpg"
+},
+{
+    "copyright": "T. PuckettPuckett Observatory",
+    "date": "2002-11-16",
+    "explanation": "Star trails streak this composite time exposure of comet Tempel-Tuttle recorded by Tim Puckett on January 26, 1998. Then passing through the inner solar system on its 33 year orbit around the Sun, Tempel-Tuttle brightened unexpectedly, but binoculars or small telescopes were still required to visually observe it. Tempel-Tuttle is also called \"the Leonid Comet\" as the yearly Leonid meteor shower results when the Earth crosses this comet's orbital plane and encounters a trail of cometary dust. So, while not rivaling spectacular naked-eye comets like Hyakutake or Hale-Bopp, Tempel-Tuttle still puts on a show. The Earth is now approaching relatively dense regions of Tempel-Tuttle's orbiting debris trail, so in the next few days, skywatchers will be searching for leonid meteors. An extremely active meteor shower is expected to be visible over Europe and North America in the early morning hours of Tuesday, November 19, despite interference from a glaring full moon.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/temptut_puckett_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Tempel-Tuttle: The Leonid Comet",
+    "url": "https://apod.nasa.gov/apod/image/0211/temptut_puckett_big.jpg"
+},
+{
+    "copyright": "Chen Huang-Ming",
+    "date": "2002-11-17",
+    "explanation": "Is Leo leaking? Leo, the famous sky constellation visible on the left of the above all-sky photograph, appears to be the source of all the meteors seen in last year's Leonids Meteor Shower.  That Leonids point back to Leo is not a surprise - it is the reason that this November meteor shower is called the Leonids.  Sand-sized debris expelled from Comet Tempel-Tuttle follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation Leo.  Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Leo.  Over 100 bright meteors can be seen in the above half-hour exposure.  The intensity of the Leonid Meteor Shower in 2002 is uncertain but may approach one per second for some locations on November 18 and 19.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0112/leonids_chen_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Leonids from Leo",
+    "url": "https://apod.nasa.gov/apod/image/0112/leonids_chen.jpg"
+},
+{
+    "copyright": "Pierre ThomasLSTENS Lyon",
+    "date": "2002-11-18",
+    "explanation": "Tomorrow's picture: 2002 Leonids  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & NASA SEU Edu. Forum & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/peekskill_thomas_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Car, the Hole, and the Peekskill Meteorite",
+    "url": "https://apod.nasa.gov/apod/image/0211/peekskill_thomas.jpg"
+},
+{
+    "date": "2002-11-19",
+    "explanation": "Reports of the 2002 Leonid Meteor Shower are coming in from across the world.  Preliminary indications have the shower as less active than last year but with an impressive peak seen through 1030 and 1100 Universal Time visible from much of North America.  Observers reported many meteors at the peak arriving in groups.  Pictured above is one such meteor from the peak caught earlier today by the Night Sky Live continuous camera at Kitt Peak National Observatory in Arizona, USA.  A memorable event of the 2002 Leonids was when the town of Mitzpe Ramon in Israel dimmed its lights to allow better imaging of Leonid meteors from Wise Observatory.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/kp02leonid_concam_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Kitt Peak Leonid at 1026 UT",
+    "url": "https://apod.nasa.gov/apod/image/0211/kp02leonid_concam.jpg"
+},
+{
+    "copyright": "Frank Sapp",
+    "date": "2002-11-20",
+    "explanation": "Beautiful and bright, the 2002 Leonid meteors battled against glaring moonlight. This winning example, from Tuesday morning skies above Laughlin, Nevada, USA, finds an undaunted Leonid streaking between the familiar constellation of Orion (left) and an overexposed full Moon. As anticipated, the Leonid shower packed a double punch on November 19 with planet Earth plunging through two dense clouds of meteroids, dusty debris left by the passage of comet Tempel-Tuttle. Some European observers reported 10 or so meteors a minute during the first peak near 4:00 Universal Time while North American skygazers witnessed slightly lower rates near the second peak around 10:30 UT. Overall, observed rates were much lower than last year's Leonid meteor storm, but for many the sky was still filled with a rewarding spectacle of bright meteors. And that performance may be a fond farewell for years to come. The annual Leonid meteor shower will not likely approach even these rates again until the end of this century.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/leonid2002_sapp1_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Leonids vs. The Moon",
+    "url": "https://apod.nasa.gov/apod/image/0211/leonid2002_sapp1.jpg"
+},
+{
+    "copyright": "NOAO",
+    "date": "2002-11-21",
+    "explanation": "What could cause the center of M94 to be so bright?  Spiral galaxy M94 has a ring of newly formed stars surrounding its nucleus, giving it not only an unusual appearance but also a strong interior glow.  A leading progenitor hypothesis holds that an elongated knot of stars known as a bar rotates in M94 and has generated a burst of star formation in the form of an outward moving ring.  M94, pictured above digitally sharpened, spans about 30,000 light years, lies about 15 million light years away, and can be seen with a small telescope toward the constellation of Canes Venatici.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/m94_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Starburst Galaxy M94",
+    "url": "https://apod.nasa.gov/apod/image/0211/m94_noao.jpg"
+},
+{
+    "copyright": "Blake SuddethHaikuSusan Ode",
+    "date": "2002-11-22",
+    "explanation": "Full of itself moon - EVERYONE SHOULD LOOK AT ME. What's 33 years?  And for those who need a story ... photographer Blake Suddeth took over a hundred digital pictures early Tuesday morning in order to capture this single, gorgeous 10 second exposure of a \"Leonid of the Lake\" meteor flashing by a very full of itself moon. The dreamlike foreground lake and fog are courtesy of Greenwood, South Carolina, USA.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/LeonidOfTheLake_suddeth_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Full Moon, Lake, and Leonids Indeed",
+    "url": "https://apod.nasa.gov/apod/image/0211/LeonidOfTheLake_suddeth.jpg"
+},
+{
+    "date": "2002-11-23",
+    "explanation": "Like a target ring bull's-eye, the Mare Orientale is one of the most striking large scale lunar features. Located on the Moon's extreme western edge, this impact basin is unfortunately difficult to see from an earthbound perspective. It is over 3 billion years old, about 600 miles across and was formed by the impact of an asteroid sized object. The collision caused ripples in the lunar crust resulting in the three concentric circular features visible in this 1967 photograph made by NASA's Lunar Orbiter 4. Molten lava from the Moon's interior flooded the impact site through the fractured crust creating a mare. Dark, smooth regions on the moon are called mare (Latin for sea), because early astronomers thought these areas might be oceans.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/mareOrientale_lunarOrbiter4_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mare Orientale",
+    "url": "https://apod.nasa.gov/apod/image/0211/mareOrientale_lunarOrbiter4_c1.jpg"
+},
+{
+    "date": "2002-11-24",
+    "explanation": "Why put observatories in space?  Most telescopes are on the ground.  On the ground, you can deploy a heavier telescope and fix it more easily.  The trouble is that Earth-bound telescopes must look through the Earth's atmosphere. First, the Earth's atmosphere blocks out a broad range of the electromagnetic spectrum, allowing a narrow band of visible light to reach the surface. Telescopes which explore the Universe using light beyond the visible spectrum, such as those onboard the Chandra X-ray Observatory need to be carried above the absorbing atmosphere. Second, the Earth's atmosphere blurs the light it lets through.  The blurring is caused by varying density and continual motion of air.  By orbiting above the Earth's atmosphere, the Hubble Space Telescope, pictured above, can get clearer images. In fact, even though HST has a mirror 15 times smaller than large Earth-bound telescopes, it can still resolve finer details. A future large optical telescope in space is planned.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/hst_sts82_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Hubble Floats Free",
+    "url": "https://apod.nasa.gov/apod/image/0211/hst_sts82.jpg"
+},
+{
+    "copyright": "Gary A. GlatzmaierUCSC",
+    "date": "2002-11-25",
+    "explanation": "Why does the Earth have a magnetic field?  The electrical conductivity of the molten plasma of the Earth's core should be able to damp the current magnetic field in only thousands of years.  Yet our five billion year old Earth clearly causes magnets to point to (defined) north.  The mystery is still being studied but recently thought related to motions in the Earth's liquid outer core.  Specifically, as portions of the outer core cool and fall inward, oceans of the liquid iron-rich magma rise outward, forced into a helical motion by the spin of the Earth.  This motion, many geologists now believe, regenerates Earth's magnetism.  Pictured above, a computer simulation shows the resulting magnetic field lines out to two Earth radii, with blue lines directed inward and yellow lines directed outward.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/field_glatz_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Earth's Magnetic Field",
+    "url": "https://apod.nasa.gov/apod/image/0211/field_glatz.gif"
+},
+{
+    "date": "2002-11-26",
+    "explanation": "NASA will launch two robots to Mars next year and you can help name them. The Mars Exploration Rovers are scheduled for launch on or near this coming June, when Mars and Earth are relatively close in their orbits.  The landing craft are expected to touch down on Mars in January 2004 and deploy the robot rovers shortly thereafter.  Rovers have the capability to crawl about 100 meters each day of their planned 90-day mission.  The mission's scientific purpose is to seek out and  inspect interesting rocks and terrain that could give clues to the past of Mars. Suggestions for names should be sent here, accompanied by a short essay, by 2003 January 31.  (Eds. Note: The contest is only open to school children in grades K-12.)",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/marsrover_mer_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Name This Martian Robot",
+    "url": "https://apod.nasa.gov/apod/image/0211/marsrover_mer.jpg"
+},
+{
+    "copyright": "\nJuan Carlos Casado\nand\nIsabel Graboleda\n",
+    "date": "2002-11-27",
+    "explanation": "Tomorrow's picture: when galaxies collide  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & NASA SEU Edu. Forum & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/leonids2002_casado_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Leonids and Leica",
+    "url": "https://apod.nasa.gov/apod/image/0211/leonids2002_casado.jpg"
+},
+{
+    "date": "2002-11-28",
+    "explanation": "The Hubble optical image on the left shows NGC 6240 in the throes of a titanic galaxy - galaxy collision 400 million light-years away. As the cosmic catastrophe plays out, the merging galaxies spew forth distorted tidal tails of stars, gas, and dust and undergo frantic bursts of star formation. Using the orbiting Chandra Observatory's x-ray vision to peer within the bright central regions of NGC 6240 astronomers believe they have uncovered, for the first time, not one but two enormous orbiting black holes, by detecting the characteristic x-ray radiation from the interstellar debris swirling toward them. In the false-color close-up view at right, the x-ray data clearly show the black hole sources (shaded blue) separated by about 3,000 light-years. Einstein's theory of gravity predicts that such a pair of black holes must spiral closer together, and ultimately coalesce into a single, even more massive black hole after several hundred million years. In the final moments the merging supermassive black holes will produce an extremely powerful burst of gravitational radiation.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/ngc6240_chandra_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Supermassive Black Holes of NGC 6240",
+    "url": "https://apod.nasa.gov/apod/image/0211/ngc6240_composite.jpg"
+},
+{
+    "copyright": "NOAO",
+    "date": "2002-11-29",
+    "explanation": "Open clusters of stars can be near or far, young or old, and diffuse or compact.  Open clusters may contain from 100 to 10,000 stars, all of which formed at nearly the same time.  Bright blue stars frequently distinguish younger open clusters.  M35, pictured above on the upper left, is a relatively nearby at 2800 light years distant, relatively young at 150 million years old, and relatively diffuse, with about 2500 stars spread out over a volume 30 light years across.  An older and more compact open cluster, NGC 2158, is visible above on the lower right.  NGC 2158 is four times more distant that M35, over 10 times older, and much more compact as it contains many more stars in roughly the same volume of space.  NGC 2158's bright blue stars have self-destructed, leaving cluster light to be dominated by older and yellower stars.  Both clusters are visible toward the constellation of Gemini -- M35 with binoculars and NGC 2158 with a small telescope.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/m35_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Open Star Clusters M35 and NGC 2158",
+    "url": "https://apod.nasa.gov/apod/image/0211/m35_noao.jpg"
+},
+{
+    "date": "2002-11-30",
+    "explanation": "This panorama of the cratered lunar surface was constructed from images returned by the US Surveyor 6 lander. Surveyor 6 was not the first spacecraft to accomplish a soft landing on the Moon ... but it was the first to land and then lift off again! After the spacecraft touched down near the center of the Moon's nearside in November of 1967, NASA controllers commanded it to hop. Briefly firing its rocket engine and lifting itself some 4 meters above the surface, the Surveyor moved about 2.5 meters to one side before setting down again. The hopping success of Surveyor 6 essentially marked the completion of the Surveyor series main mission - to determine if the lunar terrain was safe for the planned Apollo landings.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0211/pan_surveyor6_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Surveyor Hops",
+    "url": "https://apod.nasa.gov/apod/image/0211/pan_surveyor6_full.jpg"
+},
+{
+    "copyright": "AAO",
+    "date": "2002-12-01",
+    "explanation": "It is the most famous star cluster on the sky. The Pleiades can be seen without binoculars from even the depths of a light-polluted city.  Also known as the Seven Sisters and M45, the Pleiades is one of the brightest and closest open clusters.   The Pleiades contains over 3000 stars, is about 400 light years away, and only 13 light years across.  Quite evident in the above photograph are the blue reflection nebulae that surround the bright cluster stars.  Low mass, faint, brown dwarfs have recently been found in the Pleiades.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/pleiades_aao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Pleiades Star Cluster",
+    "url": "https://apod.nasa.gov/apod/image/0212/pleiades_aao.jpg"
+},
+{
+    "copyright": "T. A. Rector",
+    "date": "2002-12-02",
+    "explanation": "Spiral galaxy M33 is a mid-sized member of our Local Group of Galaxies.  M33 is also called the Triangulum Galaxy for the constellation in which it resides.  About four times smaller (in radius) than our Milky Way Galaxy and the Andromeda Galaxy (M31), it is much larger than the many of the local dwarf spheroidal galaxies.  M33's proximity to M31 causes it to be thought by some to be a satellite galaxy of this more massive galaxy.  M33's proximity to our Milky Way Galaxy causes it to appear more than twice the angular size of the Full Moon, and be visible with a good pair of binoculars. The above high-resolution image from the 0.90-m telescope at Kitt Peak National Observatory is a four-color composite.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/m33_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Nearby Spiral M33",
+    "url": "https://apod.nasa.gov/apod/image/0212/m33_noao.jpg"
+},
+{
+    "copyright": "Fred Espenak",
+    "date": "2002-12-03",
+    "explanation": "On December 4th, for the second time in as many years, the Moon's shadow will track across southern Africa bringing a total solar eclipse to African skies. Reaching Africa just before 6:00 Universal Time, the narrow path of totality - corresponding to the path of the Moon's umbra or dark central shadow - will run eastward through Angola, Namibia (Caprivi Strip), Botswana, Zimbabwe, South Africa's Kruger National Park, and Mozambique. Moving out across the Indian Ocean it will ultimately cross onto the Australian continent at sunset (around 9:10 UT). Observers directly in this path could catch at most a minute or so of the eclipse at its total phase, but at least a partial eclipse will be visible over much of Africa, Australia, some parts of Indonesia, and eastern Antarctica. While watching last year's June 21 eclipse, astronomer Fred Espenak recorded a series of exposures used to construct this dramatic composite image. The sequence follows the 2001 geocentric celestial event from start to finish above a thorny acacia tree near Chisamba, Zambia.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/tse2001a_espenak.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Eclipse Over Acacia",
+    "url": "https://apod.nasa.gov/apod/image/0212/tse2001a_espenak.jpg"
+},
+{
+    "date": "2002-12-04",
+    "explanation": "Gliding toward today's total eclipse of the Sun, the crescent Moon has been rising early, just before dawn. And as a prelude to its close solar alignment, the Moon also completed a lovely celestial triangle, closing with bright planets Mars and Venus on the morning of December 1. While the total solar eclipse can only be seen from a narrow corridor, skygazers around the globe could appreciate this lunar-planetary conjunction. This view is from near Nashville Tennessee, USA, and finds brilliant Venus at the lowest corner of the triangle with a much fainter Mars immediately to the right of the Moon. The Moon's sunlit crescent is overexposed, but details of the lunar night side are revealed by earthshine. Above and to the right of the trio is Spica, brightest star in the constellation Virgo.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/moontrio_koehn_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Moon, Mars, Venus, and Spica",
+    "url": "https://apod.nasa.gov/apod/image/0212/moontrio_koehn.jpg"
+},
+{
+    "date": "2002-12-05",
+    "explanation": "NGC 2359 is a striking emission nebula with an impressive popular name - Thor's Helmet. Sure, its suggestive winged appearance might lead some to refer to it as the \"duck nebula\", but if you were a nebula which name would you choose? By any name NGC 2359 is a bubble-like nebula some 30 light-years across, blown by energetic winds from an extremely hot star seen near the center and classified as a Wolf-Rayet star. Wolf-Rayet stars are rare massive blue giants which develop stellar winds with speeds of millions of kilometers per hour. Interactions with a nearby large molecular cloud are thought to have contributed to this nebula's more complex shape and curved bow-shock structures. NGC 2359 is about 15,000 light-years distant toward the constellation Canis Major.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/ngc2359_smith_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 2359: Thor's Helmet",
+    "url": "https://apod.nasa.gov/apod/image/0212/ngc2359_smith.jpg"
+},
+{
+    "date": "2002-12-06",
+    "explanation": "Normally hiding from view in the glare of the Sun, the shy solar corona came out to play Wednesday as a total solar eclipse graced morning skies over southern Africa. This telescopic image of the Sun's corona or outer atmosphere shimmering around the silhouetted Moon was recorded near the centreline of the total eclipse path, 10 kilometers north of Beitbridge, Zimbabwe. At that location, near the Zimbabwe - South Africa border, the total phase pictured here lasted a leisurely one minute and 23 seconds. Zimbabwean photographer Murray Alexander reported that fortunately no clouds interfered but few people were present, while many watching from the South Africa side were clouded out. Still, if you missed this geocentric celestial event, just wait until next year. Two solar eclipses and two lunar eclipses are on planet Earth's schedule for 2003, along with a transit of Mercury.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/tse2002_alexander1.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Zimbabwe Solar Eclipse",
+    "url": "https://apod.nasa.gov/apod/image/0212/tse2002_alexander1.jpg"
+},
+{
+    "date": "2002-12-07",
+    "explanation": "Pictured above is the innermost of Jupiter's Galilean satellites, Io, superposed in front of the gas giant planet. To the left of Io is a dark spot that is Io's own shadow.  A solar eclipse would be seen from within the shadow spot on Jupiter. Viewed from planet Earth, similar shadows of Jupiter's large moons can often be seen crossing the giant planet's disk. But during the next several months, the Galilean moons can also be seen crossing in front of each other as, for a while, their orbits lie nearly edge-on when viewed by earthbound observers. This true-color contrast-enhanced image was taken two years ago by the robot spacecraft Cassini, as it passed Jupiter on its way to Saturn in 2004.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/jupiterIo_cassini_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Jupiter, Io and Shadow",
+    "url": "https://apod.nasa.gov/apod/image/0212/jupiterIo_cassini.jpg"
+},
+{
+    "date": "2002-12-08",
+    "explanation": "The developing International Space Station (ISS) has changed its appearance yet again.  Earlier this month the Space Shuttle Endeavor visited the ISS and installed the fourth of eleven pieces that will compose the Integrated Truss Structure.  The new P-1 Truss is visible on the left, below the extended solar panels.  The world's foremost space outpost can be seen developing over the past few years by comparing the above image to past images.  Also visible above are many different types of modules, a robotic arm, several wing-like solar panels, and a supply ship.  Construction began on the ISS in 1998 and the core structure should be in place before 2005.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/iss0212_nasa_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The International Space Station Expands Yet Again",
+    "url": "https://apod.nasa.gov/apod/image/0212/iss0212_nasa.jpg"
+},
+{
+    "copyright": "EUMETSAT",
+    "date": "2002-12-09",
+    "explanation": "When the Moon's shadow reached out and touched the Earth last week, the result was a solar eclipse. Such an eclipse is total only for observers located along a narrow path corresponding to the ground track of the shadow's dark central portion or umbra.  For this eclipse, racing along at nearly 2000 kilometers per hour, the Moon's umbra obligingly crossed over land along regions of Africa and Australia. Totality lasted for about two minutes or less at a given location.  Many nearby regions fell within the lighter but much wider outer shadow region, the penumbra, and witnessed a partial solar eclipse.  The above movie follows the Moon's shadow as it crossed Africa during a similar eclipse in June 2001. Each frame is separated in time by about 20 minutes. The movie was created from frames taken by the orbiting European satellite MeteoSat-6.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/eclipse_eumetsat_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Moon Shadow Moves Over Africa",
+    "url": "https://apod.nasa.gov/apod/image/0212/eclipse_eumetsat.gif"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2002-12-10",
+    "explanation": "In the depths of the dark clouds of dust and molecular gas known as M17, stars continue to form.  The similarity to the Greek letter capital Omega gives the molecular cloud its popular name, but the nebula is also known as the Swan Nebula, the Horseshoe Nebula, and M17.  The darkness of these molecular clouds results from background starlight being absorbed by thick carbon-based smoke-sized dust.  As bright massive stars form, they produce intense and energetic light that slowly boils away the dark shroud.  M17, pictured above, is visible with binoculars towards the constellation of Sagittarius, lies 5000 light-years away, and spans 20 light-years across.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/omega_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M17: Omega Nebula Star Factory",
+    "url": "https://apod.nasa.gov/apod/image/0212/omega_cfht.jpg"
+},
+{
+    "copyright": "OAOG",
+    "date": "2002-12-11",
+    "explanation": "Streaking high above diffuse clouds -- but well in front of distant stars -- are sand-sized bits of an ancient comet: meteors.  These bits flaked off Comet Tempel-Tuttle during its pass through the inner Solar System about 150 years ago.  Far in the background are stars toward the constellation of Ursa Major. The above image is digital combination of 12 exposures taken on the morning of November 19 from Florida, USA.  Observers there reported a strong peak in faint meteors between 5:30 and 6:00 EST, with a particularly strong minute coming at 5:46 EST when 22 Leonid meteors were counted.  The likely less impressive Geminid meteor shower will peak over the next three nights.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/Leonids_martin_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Meteors Between Stars and Clouds",
+    "url": "https://apod.nasa.gov/apod/image/0212/Leonids_martin.jpg"
+},
+{
+    "date": "2002-12-12",
+    "explanation": "In December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, in the Taurus-Littrow valley, while colleague Ronald Evans orbited overhead. Near the beginning of their third and final excursion across the lunar surface, Schmitt took this picture of Cernan flanked by an American flag and their lunar rover's umbrella-shaped high-gain antenna. The prominent Sculptured Hills lie in the background while Schmitt's reflection can just be made out in Cernan's helmet. The Apollo 17 crew returned with 110 kilograms of rock and soil samples, more than from any of the other lunar landing sites. And after thirty years, Cernan and Schmitt are still the last to walk on the Moon.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/as17-140-21391.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Apollo 17: Last on the Moon",
+    "url": "https://apod.nasa.gov/apod/image/0212/as17-140-21391c1.jpg"
+},
+{
+    "copyright": "Wendy CarlosJonathan Kern",
+    "date": "2002-12-13",
+    "explanation": "During a total solar eclipse, the Sun's extensive outer atmosphere or corona is an awesome and inspirational sight. Yet the subtle shades and shimmering features of the corona that engage the eye span a brightness range of over 10,000 to 1, making them notoriously difficult to capture in a photograph. Still, this single five second exposure comes very close to revealing the crown of the Sun in all its glory. The color picture was taken with a specially built coronal camera and telescope during the December 4th total eclipse from Messina, South Africa. The camera's design incorporates a precisely made filter whose density, or ability to block light, decreases markedly with distance from the filter center, compensating for the difference between the brighter inner portion of the corona at the Sun's edge and the much fainter outer regions. The central spot in the image corresponds to a calibration window centered on the eclipsed Sun.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/tse02full_carloskern_002_Newkirk-5s.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Crown of the Sun",
+    "url": "https://apod.nasa.gov/apod/image/0212/tse02c1_carloskern_002_Newkirk-5s.jpg"
+},
+{
+    "date": "2002-12-14",
+    "explanation": "What is creating the strange texture of IC 418?  Dubbed the Spirograph Nebula for its resemblance to drawings from a cyclical drawing tool, planetary nebula IC 418 shows patterns that are not well understood.  Perhaps they are related to chaotic winds from the variable central star, which changes brightness unpredictably in just a few hours.  By contrast, evidence indicates that only a few million years ago, IC 418 was probably a well-understood star similar to our Sun.  Only a few thousand years ago, IC 418 was probably a common red giant star.  Since running out of nuclear fuel, though, the outer envelope has begun expanding outward leaving a hot remnant core destined to become a white-dwarf star, visible in the image center.  The light from the central core excites surrounding atoms in the nebula causing them to glow.  IC 418 lies about 2000 light-years away and spans 0.3 light-years across.  This false-color image taken from the Hubble Space Telescope reveals the unusual details.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/spirograph_heritage_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "IC 418: The Spirograph Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0212/spirograph_heritage.jpg"
+},
+{
+    "copyright": "Joachim WambsganssAp. Inst. Potsdam",
+    "date": "2002-12-15",
+    "explanation": "A virtual sky map like this would be of interest to astronomers studying gravitational microlensing. In microlensing, the gravity of stars near the line of sight can act to magnify the light of background objects such as distant stars, or quasars. Nowhere is this magnification greater than near a gravitational lensing caustic. In the above computer simulated map, caustics are discernible as the sharp bright curved lines. When a background quasar moves across a microlensing caustic, it can appear dramatically brighter. Many astronomers thought microlensing events practically immeasurable even twenty years ago, but within the past five years now hundreds have been found. Precise measurements of microlensing are now providing unique information about the composition and distribution of matter in galaxies and the universe. Some astronomers now predict that future microlensing searches might even isolate planets orbiting distant stars.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/caustics_jkw_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Network of Microlensing Caustics",
+    "url": "https://apod.nasa.gov/apod/image/0212/caustics_jkw.gif"
+},
+{
+    "date": "2002-12-16",
+    "explanation": "What types of terrain are found on Mars?  Part of the answer comes from thermal imaging by the robot spacecraft 2001 Mars Odyssey currently orbiting Mars.  The above picture is a superposition of two infrared images, a black and white image taken during Martian daylight and a false-color image taken at night.  For the daytime image, dark colors mean cool temperatures, dropping from about -5 degrees Celsius to low as -35 degrees Celsius.  Shadowed regions appear particularly dark, while grooved structure on the floor of Melas Chasma indicates successively overlapping landslides.  In the nighttime swath, blue areas have cooled relatively quickly, indicating a composition of fine-grained dust and sand.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/marsplateau_odyssey_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Night and Day in Melas Chasma on Mars",
+    "url": "https://apod.nasa.gov/apod/image/0212/marsplateau_odyssey.jpg"
+},
+{
+    "date": "2002-12-17",
+    "explanation": "The International Space Station (ISS) will be the largest human-made object ever to orbit the Earth.  The station is so large that it could not be launched all at once -- it is being built piecemeal with large sections added continually by flights of the Space Shuttle.  To function, the ISS needs trusses to keep it rigid and to route electricity and liquid coolants.  These trusses are huge, extending over 15 meters long, and with masses over 10,000 kilograms.  Pictured above at the end of last month, astronaut Michael Lopez-Alegria works to install the Port-One Truss.  On the right is the end of Canadarm2, the robotic remote control arm of the ISS.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/truss_sts113_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Beefing Up the International Space Station",
+    "url": "https://apod.nasa.gov/apod/image/0212/truss_sts113.jpg"
+},
+{
+    "date": "2002-12-18",
+    "explanation": "What causes the unusual colors surrounding Io's volcanoes?  Io, the innermost large moon of Jupiter, is known to be the most tumultuous body in the Solar System.  Approximately the size of Earth's Moon, Io undergoes nearly continuous volcanic eruptions from an interior heated by gravitational tides from Jupiter and Jupiter's other large moons.  The robot spacecraft Galileo currently orbiting Jupiter has been monitoring the active volcano Culann Patera over the past few years.  The above images indicate that the volcano has produced not only red and black colored lava flows, but yellow sulfur patches from explosive plumes.  Green colors may arise when these processes affect the same terrain.  White patches may be caused, in part, by sulfur dioxide snow.  As Galileo has fulfilled its mission objectives and is running low on maneuvering fuel, NASA plans to crash the spacecraft into Jupiter during 2003.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/iovolcano_gal_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Io Volcano Culann Patera",
+    "url": "https://apod.nasa.gov/apod/image/0212/iovolcano_gal.jpg"
+},
+{
+    "date": "2002-12-19",
+    "explanation": "On December 11 astronomers found one of the brightest and most distant explosions in the Universe - a gamma-ray burst - hiding in the glare of a relatively nearby star. The earliest image of the burst's visible light was caught by an earthbound RAPTOR (RAPid Telescopes for Optical Response). The two exposures inset above were taken by a RAPTOR unit about 65 seconds (left) and 9 minutes (top right) after high-energy radiation from the burst, dutifully cataloged as GRB 021211, was identified by the orbiting HETE-2 satellite. One of only two optical transients (OTs) ever found at times so close to a burst's gamma-ray emission, the fading visible light source is indicated by arrows, blended with the image of foreground stars toward the constellation Canis Minor.  The RAPTOR unit (lower inset) is designed with peripheral low resolution cameras and a central, sensitive high resolution imager, in analogy with a predator's vision. In the future, the RAPTOR project expects its innovative instruments to be able to independently discover and catalog a host of cosmic things that go bump in the night.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/raptor_vestrand1.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "RAPTOR Images GRB 021211",
+    "url": "https://apod.nasa.gov/apod/image/0212/raptor_vestrand1.jpg"
+},
+{
+    "copyright": "Robert Gendler",
+    "date": "2002-12-20",
+    "explanation": "Revisiting one of the most famous nebulae in planet Earth's night sky, astrophotographer Robert Gendler has constructed this stunning, color-enhanced mosaic of the region surrounding the Great Nebula in Orion. As seen here, the clouds of Orion are dominated by the reddish emission nebula M42 near the bottom of the image, with blue reflection nebulae, including NGC 1977, near the top. Strewn with dust lanes and dark nebulae, the striking cosmic apparitions surrounding Orion's stellar nurseries are about 1,500 light-years away and are themselves several light-years across. Located at the edge of a giant molecular cloud complex spanning hundreds of light-years, these nebulae represent only a small, but very visible(!), fraction of this region's wealth of interstellar material. Within these colorful clouds of Orion, astronomers have also identified what appear to be numerous infant solar systems.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/orineb2_gendler_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Colorful Clouds of Orion",
+    "url": "https://apod.nasa.gov/apod/image/0212/orineb2_gendler_c1.jpg"
+},
+{
+    "date": "2002-12-21",
+    "explanation": "Aloha and Season's greetings! On December 22nd, at 01:14 Universal Time (December 21, 3:14pm Hawaii-Aleutian Standard Time), the Sun reaches its southernmost point in planet Earth's sky marking the final season change for the year 2002. In celebration, consider this delightfully detailed, brightly colored image of the active Sun. From the EIT instrument onboard the space-based SOHO observatory, the tantalizing picture is a false-color composite of three images all made in extreme ultraviolet light. Each individual image highlights a different temperature regime in the upper solar atmosphere and was assigned a specific color; red at 2 million, green at 1.5 million, and blue at 1 million degrees C. The combined image shows bright active regions strewn across the solar disk, which would otherwise appear as dark groups of sunspots in visible light images, along with some magnificent plasma loops and an immense prominence at the righthand solar limb.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/sun3col_thompsoneit_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Solstice Celebration",
+    "url": "https://apod.nasa.gov/apod/image/0212/sun3col_thompsoneit.jpg"
+},
+{
+    "copyright": "Galileo ProjectNASA",
+    "date": "2002-12-22",
+    "explanation": "The December solstice brings the beginning of Winter to Earth's Northern Hemisphere and Summer time to the South! This view of Earth's Southern Hemisphere near the beginning of Summer was created using images from the Galileo spacecraft taken during its  December 1990 flyby of our fair planet. Dramatically centered on the South Pole, this mosaic was constructed by piecing together images made over a 24 hour period so that the entire hemisphere appears to be in sunlight. South America (middle left), Africa (upper right), and Australia (lower right), are visible as dark masses while Antarctica gleams brightly in the center. Swirling clouds marking regularly spaced major weather systems are also prominent.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/earthsp_gal_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Summer at the South Pole",
+    "url": "https://apod.nasa.gov/apod/image/0212/earthsp_gal.jpg"
+},
+{
+    "copyright": "AAO",
+    "date": "2002-12-23",
+    "explanation": "Billions of stars light up the direction toward the center of our Galaxy.  The vast majority of these stars are themselves billions of years old, rivaling their home Milky Way Galaxy in raw age.  These stars are much more faint and red than the occasional young blue stars that light up most galaxies.  Together with interstellar dust, these old stars make a yellowish starscape, as pictured above.  Although the opaque dust obscures the true Galactic center in visible light, a relative hole in the dust occurs on the right of the image.  This region, named Baade's Window for an astronomer who studied it, is used to inspect distant stars and to determine the internal geometry of the Milky Way.  Baade's Window occurs toward the constellation of Sagittarius.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/sagstars_uks020_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Stars and Dust Through Baade's Window",
+    "url": "https://apod.nasa.gov/apod/image/0301/sagstars_uks020.jpg"
+},
+{
+    "date": "2002-12-24",
+    "explanation": "Spring reached the north pole of Mars in May, and brought with it the usual dust storms.  As the north polar cap begins to thaw, a temperature difference occurs between the cold frost region and recently thawed surface, resulting in swirling winds between the adjacent regions.  In the above image mosaic from the Mars Global Surveyor spacecraft currently orbiting Mars, the white material is frozen carbon dioxide that covers much of the extreme north.  The choppy clouds of at least three dust storms can be identified.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/northmars_mgs_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Spring Dust Storms at the North Pole of Mars",
+    "url": "https://apod.nasa.gov/apod/image/0212/northmars_mgs.jpg"
+},
+{
+    "copyright": "Colorado\nMountain College",
+    "date": "2002-12-25",
+    "explanation": "Orion always comes up sideways ... and was caught in the act earlier this month by astronomer Jimmy Westlake, stargazing eastward over the Rocky Mountains north of Leadville, Colorado, USA. To make this gorgeous image, Westlake placed his camera on a tripod for two exposures. The first lasted for 18 minutes allowing the stars to trail as they rose above the mountain range. After a minute long pause, the second exposure began and lasted only 25 seconds decorating the end of each trail with a celestial point of light.  The three bright stars in Orion's belt stand in a nearly vertical line above the mountain peak right of center. Hanging from his belt, the stars and nebulae of the Hunter's sword follow the slope down and to the right. A festive yellow-orange Betelgeuse is the brightest star above the peak just left of center, but brighter still, planet Saturn shines near the upper left corner. In the foreground on planet Earth, a frozen lake and snowy mountains are lit by a four day old crescent Moon. Happy Holidays and Best Wishes from APOD!",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/OrionRising_westlake_b1.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Orion Rising",
+    "url": "https://apod.nasa.gov/apod/image/0212/OrionRising_westlake_d1.jpg"
+},
+{
+    "copyright": "CWRUAntarctic Search for Meteorites ProgramNASANSF",
+    "date": "2002-12-26",
+    "explanation": "Where is the best place on Earth to find meteorites?  Although meteors fall all over the world, they usually just sink to the bottom of an ocean, are buried by shifting terrain, or are easily confused with terrestrial rocks.  At the bottom of the Earth, however, in East Antarctica, huge sheets of blue ice remain pure and barren.  When traversing such a sheet, a dark rock will stick out.  These rocks have a high probability of being true meteorites -- likely pieces of another world.  An explosion or impact might have catapulted these meteorites from the Moon, Mars, or even an asteroid, yielding valuable information about these distant worlds and our early Solar System.  Small teams of snowmobiling explorers so far have found thousands.  Pictured above, ice-trekkers search a field 25-kilometers in front of Otway Massif in the Transantarctic Mountain Range during the Antarctic summer of 1995-1996.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/meteorsearch_harvey_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Searching for Meteorites in Antarctica",
+    "url": "https://apod.nasa.gov/apod/image/0212/meteorsearch_harvey.jpg"
+},
+{
+    "date": "2002-12-27",
+    "explanation": "A mere 6,000 light-years distant and sailing through the constellation Vela, star cluster RCW 38 is full of powerful stars. It's no surprise that these stars, only a million years young with hot outer atmospheres, appear as point-like x-ray sources dotting this x-ray image from the orbiting Chandra Observatory.  But the diffuse cloud of x-rays surrounding them is a bit mysterious. The image is color coded by x-ray energy, with high energies in blue, medium in green, and low energy x-rays in red. Just a few light-years across, the cloud which pervades the cluster has colors suggesting the x-rays are produced by high energy electrons moving through magnetic fields. Yet a source of energetic electrons, such as shockwaves from exploding stars (supernova remnants), or rotating neutron stars (pulsars), is not apparent in the Chandra data. Whatever their origins, the energetic particles could leave an imprint on planetary systems forming in young star cluster RCW 38, just as nearby energetic events seem to have affected the chemistry and isotopes found in our own solar system.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/rcw38_chandra_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "X-Ray Mystery in RCW 38",
+    "url": "https://apod.nasa.gov/apod/image/0212/rcw38_chandra_c1.jpg"
+},
+{
+    "date": "2002-12-28",
+    "explanation": "This dream-like image of Mir was recorded by astronauts as the Space Shuttle Atlantis approached the Russian space station prior to docking during the STS-76 mission. Sporting spindly appendages and solar panels, Mir resembles a whimsical flying insect hovering about 350 kilometers above New Zealand's South Island and the city of Nelson near Cook Strait. In late March 1996, Atlantis shuttled astronaut Shannon W. Lucid to Mir for a five month visit, increasing Mir's occupancy from 2 to 3. It returned to pick Lucid up and drop off astronaut John Blaha during the STS-79 mission in August of that year. Since becoming operational in 1986, Mir has been visited by over 100 spacefarers from the nations of planet Earth including, Russia, the United States, Great Britain, Germany, France, Japan, Austria, Kazakhstan and Slovakia.  After joint Shuttle-Mir training missions in support of the International Space Station, continuous occupation of Mir ended in August 1999. The Mir was deorbited in March 2001.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/mirdream_sts76_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mir Dreams",
+    "url": "https://apod.nasa.gov/apod/image/0212/mirdream_sts76.jpg"
+},
+{
+    "date": "2002-12-29",
+    "explanation": "Globular clusters once ruled the Milky Way.  Back in the old days, back when our Galaxy first formed, perhaps thousands of globular clusters roamed our Galaxy.  Today, there are perhaps 200 left.  Many globular clusters were destroyed over the eons by repeated fateful encounters with each other or the Galactic center.  Surviving relics are older than any Earth fossil, older than any other structures in our Galaxy, and limit the universe itself in raw age.  There are few, if any, young globular clusters in our Milky Way Galaxy because conditions are not ripe for more to form.  Things are different next door, however, in the neighboring LMC galaxy. Pictured above is a \"young\" globular cluster residing there: NGC 1818.  Observations show it formed only about 40 million years ago - just yesterday compared to the 12 billion year ages of globular clusters in our own Milky Way",
+    "hdurl": "https://apod.nasa.gov/apod/image/0103/ngc1818_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 1818: A Young Globular Cluster",
+    "url": "https://apod.nasa.gov/apod/image/0103/ngc1818_hst.jpg"
+},
+{
+    "copyright": "Dave Liquorice",
+    "date": "2002-12-30",
+    "explanation": "Have you ever seen a sun pillar?  When the air is cold and the Sun is rising or setting, falling ice crystals can reflect sunlight and create an unusual column of light.  Ice sometimes forms flat, stop-sign shaped crystals as it falls from high-level clouds.  Air resistance causes these crystals to lie nearly flat much of the time as they flutter to the ground.  Sunlight reflects off crystals that are properly aligned, creating the sun-pillar effect.  In the above picture, a sun-pillar reflects light from a setting Sun.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/sunpillar_liquorice.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Sun Pillar",
+    "url": "https://apod.nasa.gov/apod/image/0212/sunpillar_liquorice_big.jpg"
+},
+{
+    "date": "2002-12-31",
+    "explanation": "Could an asteroid destroy civilization on Earth?  Mountain-sized space rocks could potentially impact the Earth causing global effects, and perhaps even be mistaken for a nuclear blast of terrestrial origin. Such large impacts are rare but have happened before.  Modern telescopes have therefore begun to scan the skies for signs of approaching celestial hazards.  Over the past year, projects such as Spacewatch and Spaceguard have continually discovered previously unknown asteroids that indeed pass near the Earth.  Such projects are still rather modest, however.  In June, 100-meter asteroid 2002 MN was discovered only after it whizzed by the Earth, crossing even within the orbit of the Moon.  This year brought much discussion in the astronomical community of expanding technology to discover most large Near Earth Objects and extend the time between discovery and impact for all potential astronomical hazards.  Pictured above is an illustration of a busy planetary system, showing the view of a planet ringed with space debris from a recently formed crater of an orbiting moon.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0212/caldera_durda_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Year of Assessing Astronomical Hazards",
+    "url": "https://apod.nasa.gov/apod/image/0212/caldera_durda.jpg"
+},
+{
+    "copyright": "StarryScapes",
+    "date": "2003-01-01",
+    "explanation": "Ten thousand years ago, before the dawn of recorded human history, a new light must suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was an exploding star and record the colorful expanding cloud as the Veil Nebula.  Pictured above is the west end of the Veil Nebula known technically as NGC 6960 but less formally as the Witch's Broom Nebula.  The rampaging gas gains its colors by impacting and exciting existing nearby gas.  The supernova remnant lies about 1400 light-years away towards the constellation of Cygnus.  This Witch's Broom actually spans over three times the angular size of the full Moon.  The bright blue star 52 Cygnus is visible with the unaided eye from a dark location but unrelated to the ancient supernova.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/ngc6960_tan_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 6960: The Witch's Broom Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0301/ngc6960_tan.jpg"
+},
+{
+    "date": "2003-01-02",
+    "explanation": "Mt. Etna has been erupting for hundreds of thousands of years.  In late October of last year, however, earthquakes triggered a particularly vigorous outburst from this well known volcano on the Italian island of Sicily.  Local schools were closed and air-traffic re-routed as hot lava poured out and ash spewed out and settled as far away as Libya.  Pictured above was the Mt. Etna ash plume as it appeared to astronauts on the International Space Station.  The view looks toward the southeast. Light colored smoke is due to forest fires caused by lava on the volcano's north face.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/etna_iss_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mt. Etna Eruption Plume",
+    "url": "https://apod.nasa.gov/apod/image/0301/etna_iss.jpg"
+},
+{
+    "date": "2003-01-03",
+    "explanation": "Not so long ago and not so far, far away, a galaxy was born. Seen in this Hubble Space Telescope image, the island universe of stars, gas, and dust cataloged as POX 186 is a mere 68 million light-years distant toward an uncrowded region in the constellation Virgo. POX 186 is truly dwarfed by galaxies like our own Milky Way. The diminutive galaxy is about 900 light-years across with around 10 million stars, compared to the Milky Way's 100,000 light-year span and more than 200 billion stars. Cosmically speaking, POX 186 is also very young as the Hubble snapshot reveals a disturbed galaxy that is likely the result of a 100 million year old collision between two even smaller star systems. In fact, POX 186 observations suggest that such isolated, small galaxies may be the last to form, since the most massive galaxies in the universe seem to have formed billions of years ago.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/pox186_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "POX 186: Not So Long Ago",
+    "url": "https://apod.nasa.gov/apod/image/0301/pox186_hst.jpg"
+},
+{
+    "date": "2003-01-04",
+    "explanation": "Stars of many types and colors are visible in this Hubble Space Telescope close-up of a starfield in the Large Magellanic Cloud (LMC).  Over 10,000 stars are visible -- the brightest of which are giant stars.  Were our Sun at the distance of these stars, about 170,000 light-years, it would hardly be discernable.  By contrast, only a few thousand individual stars can be seen in the night sky with the unaided eye, and many of these lie within only a few hundred light-years.  So typically, the light we see from nearby stars left during the age of our great-grand-parents, while light from LMC stars started its journey well before the dawn of recorded human history.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/lmcstarfield_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Magellanic Starfield",
+    "url": "https://apod.nasa.gov/apod/image/0301/lmcstarfield_hst.jpg"
+},
+{
+    "date": "2003-01-05",
+    "explanation": "Birds don't fly this high.  Airplanes don't go this fast.  The Statue of Liberty weighs less.  No species other than human can even comprehend what is going on, nor could any human just a millennium ago.  The launch of a rocket bound for space is an event that inspires awe and challenges description.  Pictured above, the Space Shuttle Atlantis lifted off to visit the International Space Station during the early morning hours of July 12.  From a standing start, the two million kilogram rocket ship left to circle the Earth where the outside air is too thin to breathe and where there is little noticeable onboard gravity.  Rockets bound for space are now launched from somewhere on Earth about once a week.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/nightlaunch_sts104_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Atlantis to Orbit",
+    "url": "https://apod.nasa.gov/apod/image/0301/nightlaunch_sts104.jpg"
+},
+{
+    "copyright": "High Moon",
+    "date": "2003-01-06",
+    "explanation": "Sometimes, during a total eclipse of the Sun, a strange shadow of darkness can be seen stretching off into the distance.  Called a shadow cone, they are visible because the Earth's atmosphere is not completely transparent, scattering sunlight and hence appearing blue during the day.  Shadow cones are particularly dramatic for eclipses near the horizon, as geometry creates a long corridor of sun-blocked air.  Visible above is a shadow cone caught during a total solar eclipse visible last month from South Australia.  The eclipsed Sun itself still appears bright because of light from the surrounding corona.  The digital camera on the left is zoomed in to show a better image of the actual eclipse.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/shadowcone2_staiger.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Shadow Cone of a Total Solar Eclipse",
+    "url": "https://apod.nasa.gov/apod/image/0301/shadowcone2_staiger.jpg"
+},
+{
+    "copyright": "NOAO",
+    "date": "2003-01-07",
+    "explanation": "Open cluster M38 can be seen with binoculars toward the constellation of Auriga.  M38 is considered an intermediately rich open cluster of stars, each of which is about 200 million years old.  Located in the disk of our Milky Way galaxy, M38 is still young enough to house many bright blue stars, although it's brightest star is a yellow giant shining 900 times brighter than our Sun.  The cluster spans roughly 25 light-years and lies about 4000 light-years away.  M38, pictured above, is found only about 2.5 degrees northwest of open cluster M36. Loosely bound by gravity, open clusters spread out over time as they orbit the galactic center and their member stars slowly escape.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/m38_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Open Star Cluster M38",
+    "url": "https://apod.nasa.gov/apod/image/0301/m38_noao.jpg"
+},
+{
+    "date": "2003-01-08",
+    "explanation": "Using the orbiting Chandra X-ray Observatory, astronomers have taken this long look at the core of our Milky Way galaxy, some 26,000 light-years away. The spectacular false-color view spans about 130 light-years. It reveals an energetic region rich in x-ray sources and high-lighted by the central source, Sagittarius A*, known to be a supermassive black hole with 3 million times the mass of the Sun. Given its tremendous mass, Sagittarius A* is amazingly faint in x-rays in comparison to central black holes observed in distant galaxies, even during its frequent x-ray flares. This suggests that this supermassive black hole has been starved by a lack of infalling material. In fact, the sharp Chandra image shows clouds of multi-million degree gas dozens of light-years across flanking (upper right and lower left) the central region -- evidence that violent events have cleared much material from the vicinity of the black hole.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/mwcore_cxo_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "X-Rays from the Galactic Core",
+    "url": "https://apod.nasa.gov/apod/image/0301/mwcore_cxo_c1.jpg"
+},
+{
+    "date": "2003-01-09",
+    "explanation": "Two billion light-years away, galaxy cluster Abell 1689 is one of the most massive objects in the Universe. In this view from the Hubble Space Telescope's Advanced Camera for Surveys, Abell 1689 is seen to warp space as predicted by Einstein's theory of gravity -- bending light from individual galaxies which lie behind the cluster to produce multiple, curved images. The power of this enormous gravitational lens depends on its mass, but the visible matter, in the form of the cluster's yellowish galaxies, only accounts for about one percent of the mass needed to make the observed bluish arcing images of background galaxies. In fact, most of the gravitational mass required to warp space enough to explain this cosmic scale lensing is in the form of still mysterious dark matter. As the dominant source of the cluster's gravity, the dark matter's unseen presence is mapped out by the lensed arcs and distorted background galaxy images.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/abell1689_hstacs_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Abell 1689 Warps Space",
+    "url": "https://apod.nasa.gov/apod/image/0301/abell1689_hstacs_c1.jpg"
+},
+{
+    "copyright": "Ron WodaskiNewastro Remote TelescopeNew Mexico Skies",
+    "date": "2003-01-10",
+    "explanation": "Wandering through the constellation Taurus, Saturn made its closest approach to planet Earth last month, tilting its lovely rings toward appreciative skygazers while rising high in midnight skies. On January 4th and 5th, Saturn also crossed in front of the high and far-off Crab Nebula (M1), a cosmic cloud of debris from a stellar explosion and first on the list of astronomer Charles Messier's celestial sights. But Saturn and the Crab made poor playmates, as light from the bright planet overwhelmed the the diffuse nebula, all but hiding the Crab during the transit. Taken on January 2nd, a few days before their closest encounter, this composite digital image illustrates the problem. The subtle nebula is just visible at the right, while on the left, light from a drastically over-exposed Saturn overflows its pixels. Composited into the image is a correctly exposed picture of ringed Saturn with the Saturnian moons labeled. The well-exposed Saturn image was also taken on January 2nd, but captured with an exposure lasting only a fraction of a second, in contrast with the tens of seconds of exposure time required to reveal the Crab.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/saturnm1_wodaski_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Crab that Played with the Planet",
+    "url": "https://apod.nasa.gov/apod/image/0301/saturnm1_wodaski_c2.jpg"
+},
+{
+    "date": "2003-01-11",
+    "explanation": "Humans left the Moon over thirty years ago, but donning red-blue glasses (red for the left eye) you can share this excellent stereo perspective view of their last stomping ground. Recorded by Eugene Cernan, the scene depicts his fellow astronaut and geologist Harrison Schmitt next to a large split boulder on the floor of the narrow Taurus-Littrow valley located at the eastern edge of the lunar Mare Serenitatis. Parked nearby, their lunar rover is visible beyond the boulder at the right. During their stay the Apollo 17 astronauts explored the unusually dark terrain at the Taurus-Littrow landing site and deployed explosives to test the internal geology of the Moon. Apollo 17 returned the most lunar rocks and soil samples of any lunar mission.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/apollo17stereo_vantuyne_full1.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Apollo 17: Boulder in Stereo",
+    "url": "https://apod.nasa.gov/apod/image/0301/apollo17stereo_vantuyne_c1.jpg"
+},
+{
+    "date": "2003-01-12",
+    "explanation": "When a meteorite strikes the Moon, the energy of the impact melts some of the splattering rock, a fraction of which might cool into tiny glass beads.  Many of these glass beads were present in lunar soil samples returned to Earth by the Apollo missions.  Pictured above is one such glass spherule that measures only a quarter of a millimeter across.  This spherule is particularly interesting because it has been victim to an even smaller impact.  A miniature crater is visible on the upper left, surrounded by a fragmented area caused by the shockwaves of the small impact.  By dating many of these impacts, some astronomers estimate that cratering on our Moon increased roughly 500 million years ago and continues even today.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0003/spherule_apollo11_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Spherule from Outer Space",
+    "url": "https://apod.nasa.gov/apod/image/0003/spherule_apollo11.jpg"
+},
+{
+    "copyright": "George Jacoby",
+    "date": "2003-01-13",
+    "explanation": "The first hint of what will become of our Sun was discovered inadvertently in 1764.  At that time, Charles Messier was compiling a list of \"annoying\" diffuse objects not to be confused with \"interesting\" comets.  The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, the type of nebula our Sun will produce when nuclear fusion stops in its core.  M27 is one of the brightest planetary nebulae on the sky, and can be seen in the constellation Vulpecula with binoculars.  It takes light about 1000 years to reach us from M27,  shown above, digitally sharpened, in three isolated colors emitted by hydrogen and oxygen.  Understanding the physics and significance of M27 was well beyond 18th century science.  Even today, many things remain mysterious about bipolar planetary nebula like M27, including the physical mechanism that expels a low-mass star's gaseous outer-envelope, leaving an X-ray hot white dwarf.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/dumbbellho_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Dumbbell Nebula in Hydrogen and Oxygen",
+    "url": "https://apod.nasa.gov/apod/image/0301/dumbbellho_noao.jpg"
+},
+{
+    "date": "2003-01-14",
+    "explanation": "Centered above is distant galaxy 0313-192, some one billion light-years away. Radio emission from the galaxy has been mapped by the National Radio Astronomy Observatory's Very Large Array and is shown in red, composited with a visible light image from the Hubble Space Telescope's new Advanced Camera for Surveys. Dust lanes and other features in the Hubble image as well as infrared Gemini telescope data demonstrate clearly that 0313-192 is a spiral galaxy seen edge-on. (Note the unrelated spiral galaxy seen face-on above and to the right.) For years, double cosmic clouds of radio emission such as those flanking this spiral galaxy's core have been studied and cataloged. But, at least until now, such radio sources were only known to arise from the cores of giant elliptical galaxies or in violent merging galaxy systems, making 0313-192 the wrong kind of galaxy to be found in this scenario. Astronomers are searching for clues to why this spiral galaxy, potentially similar to our own Milky Way, shows such powerful activity.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/0313comp_keel_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "0313-192: The Wrong Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0301/0313comp_keel.jpg"
+},
+{
+    "date": "2003-01-15",
+    "explanation": "Yes it does look like Saturn, but Saturn is only one of four giant ringed planets in our Solar System. And while Saturn has the brightest rings, this system of rings and moons actually belongs to planet Uranus, imaged here in near-infrared light by the Antu telescope at the ESO Paranal Observatory in Chile. Since gas giant Uranus' methane-laced atmosphere absorbs sunlight at near-infrared wavelengths the planet appears substantially darkened, improving the contrast between the otherwise relatively bright planet and the normally faint rings. In fact, the narrow Uranian rings are all but impossible to see in visible light with earthbound telescopes and were discovered only in 1977 as careful astronomers noticed the then unknown rings blocking light from background stars. The rings are thought to be younger than 100 million years and may be formed of debris from the collision of a small moon with a passing comet or asteroid-like object. With moons named for characters in Shakespeare's plays, the distant ringed world Uranus was last visited in 1986 by the Voyager 2 spacecraft.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/uranusrings_eso_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Ringed Planet Uranus",
+    "url": "https://apod.nasa.gov/apod/image/0301/uranusrings_eso.jpg"
+},
+{
+    "date": "2003-01-16",
+    "explanation": "In spiral galaxies, majestic winding arms of young stars and interstellar gas and dust rotate in a disk around a bulging galactic nucleus. Elliptical galaxies seem to be simpler, randomly swarming with old stars and lacking gas and dust. So astronomers were excited to find that NGC 1700, a young elliptical galaxy about 160 million light-years away, shows evidence for a 90,000 light-year wide rotating disk of multi-million degree hot gas. The evidence comes from data recorded by the orbiting Chandra Observatory, whose sharp x-ray image of NGC 1700 is seen above. Balancing gravity, the rotation of the x-ray hot disk, the largest of its type yet discovered, gives the galaxy a pronounced boxy profile in this false-color picture. Theories about the origin of the disk suggest that NGC 1700 may be the result of a cosmic scale galactic merger, perhaps between a spiral and elliptical galaxy. NGC 1700 is just visible with small telescopes toward the flowing constellation Eridanus.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/ngc1700_cxc_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 1700: Elliptical Galaxy and Rotating Disk",
+    "url": "https://apod.nasa.gov/apod/image/0301/ngc1700_cxc.jpg"
+},
+{
+    "copyright": "Brian Lula",
+    "date": "2003-01-17",
+    "explanation": "Seemingly adrift in a cosmic sea of stars and gas, this delicate, floating apparition is cataloged as NGC 7635 -- The Bubble Nebula. In this wide-angle view, the Bubble nebula lies at the center of a larger complex of shocked glowing gas about 11,000 light-years distant in the fair constellation Cassiopeia. NGC 7635 really is an interstellar bubble, blown by winds from the brightest star visible within the bubble's boundary. The bubble's expansion is constrained by the surrounding material. About 10 light-years in diameter, if the Bubble nebula were centered on the Sun, the Sun's nearest stellar neighbor, Alpha Centauri, would also be enclosed. This breathtaking picture is a combination of telescopic digital images made through broad color filters along with a narrow filter intended to transmit only the red light emitted by excited hydrogen atoms.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/ngc7635_lula_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Stars and the Bubble Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0301/ngc7635_lula_c2.jpg"
+},
+{
+    "date": "2003-01-18",
+    "explanation": "Subtle and delicate in appearance, these are filaments of shocked interstellar gas -- part of the expanding blast wave from a violent stellar explosion. Recorded in November 1997 with the Wide Field and Planetary Camera 2 on board the Hubble Space Telescope, the picture is a closeup of a supernova remnant known as the Cygnus Loop. The nearly edge-on view shows a small portion of the immense shock front moving toward the top of the frame at about 170 kilometers per second while glowing in light emitted by atoms of excited hydrogen gas. Not just another pretty picture, this particular image has provided some dramatic scientific results. In 1999, researchers used it to substantially revise downward widely accepted estimates of distance and age for this classic supernova remnant. Now determined to lie only 1,440 light-years away, the Cygnus Loop is thought to have been expanding for 5 - 10 thousand years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/cygloop_blair_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Filaments in the Cygnus Loop",
+    "url": "https://apod.nasa.gov/apod/image/0301/cygloop_blair.jpg"
+},
+{
+    "copyright": "Keith BeardmoreLANL",
+    "date": "2003-01-19",
+    "explanation": "Scientists have found, unexpectedly, tiny time capsules from billions of years in the past.  The discovery involves small molecules that can apparently become trapped during the formation of large enclosed molecules known as fullerenes, or buckyballs.  Luann Becker  (UCSB) and collaborators recently found fullerenes in an ancient meteorite that fell to Earth about 30 years ago.  Extra-terrestrial fullerenes inside the meteorite survived, and upon inspection, were not empty inside.  The small molecules trapped inside are giving a glimpse of what the Solar System was like during its formation.  Pictured above is a computer simulation showing a relatively small fullerene (60-atoms of carbon) situated above a hydrogenated silicon surface.  How these fullerenes formed, how they survived, where else they can be found, and what else might be found inside these tiny time capsules is developing into an exciting  area of research.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0003/fullerene_beardmore_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Fullerenes as Miniature Cosmic Time Capsules",
+    "url": "https://apod.nasa.gov/apod/image/0003/fullerene_beardmore.jpg"
+},
+{
+    "date": "2003-01-20",
+    "explanation": "How tall are mountains on Jupiter's moon Io?  One way to find out is to view them at sunset.  Tall structures facing the Sun are then better-lit and cast long shadows.  The above image highlights Mongibello Mons on the far left, a sharp ridge rising so high it would rank among the highest mountains on Earth.  The violently changing surface of Io shows not only classic volcano cinder cones but also many thrust faults where the ground has fractured and created dramatic shear cliffs.  The grayscale image was taken two years ago by the robot spacecraft Galileo currently orbiting Jupiter.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/iosunset_galileo_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Io at Sunset",
+    "url": "https://apod.nasa.gov/apod/image/0301/iosunset_galileo.jpg"
+},
+{
+    "copyright": "Antilhue Obs.",
+    "date": "2003-01-21",
+    "explanation": "In the vast Orion Molecular Cloud complex, several bright blue nebulas are particularly apparent.  Pictured above are two of the most prominent reflection nebulas - dust clouds lit by the reflecting light of bright embedded stars.  The more famous nebula is M78, on the upper right, cataloged over 200 years ago.  On the lower left is the lesser known NGC 2071.  Astronomers continue to study these reflection nebulas to better understand how interior stars form.  The Orion complex lies about 1500 light-years distant, contains the Orion and Horsehead nebulas, and covers much of the constellation of Orion.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/m78_dv_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Reflecting Dust Clouds of Orion",
+    "url": "https://apod.nasa.gov/apod/image/0301/m78_dv.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2003-01-22",
+    "explanation": "Many stars like our Sun were formed in open clusters.  The above pictured open cluster, M11, contains thousands of stars and is just over five thousand light years distant.  The stars in this cluster all formed together about 250 million years ago.  The bright young stars in M11 appear blue.  Open clusters, also called galactic clusters, contain fewer and younger stars than globular clusters.  Also unlike globular clusters, open clusters are generally confined to the plane of our Galaxy. M11 is visible with binoculars towards the constellation of Scutum.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/m11_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M11: The Wild Duck Cluster",
+    "url": "https://apod.nasa.gov/apod/image/0301/m11_cfht.jpg"
+},
+{
+    "copyright": "Lauri A. Kangas",
+    "date": "2003-01-23",
+    "explanation": "On January 16, NASA's space shuttle Columbia roared into blue morning skies above Kennedy Space Center on STS-107, the first shuttle mission of 2003. But this is not a picture of that launch! It was taken on the morning of January 16 though, at sunrise, looking eastward toward Lake Ontario from just outside of Caledon, Ontario, Canada. In the picture a sun pillar, sunlight reflecting from ice crystals gently falling through the cold air, seems to shoot above the fiery Sun still low on the horizon. By chance, fog and clouds forming over the relatively warm lake look like billowing smoke from a rocket's exhaust plume and complete the launch illusion. Amateur photographer Lauri Kangas stopped on his way to work to record the eye-catching sun pillar launch.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/sunpillar_kangas_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Launch of the Sun Pillar",
+    "url": "https://apod.nasa.gov/apod/image/0301/sunpillar_kangas_c1.jpg"
+},
+{
+    "date": "2003-01-24",
+    "explanation": "Known as Seyfert's Sextet, this intriguing group of galaxies lies in the head portion of the split constellation Serpens. The sextet actually contains only four interacting galaxies, though. Near the center of this Hubble Space Telescope picture, the small face-on spiral galaxy lies in the distant background and appears only by chance aligned with the main group. Also, the prominent condensation on the far right is likely not a separate galaxy at all, but a tidal tail of stars flung out by the galaxies' gravitational interactions. About 190 million light-years away, the interacting galaxies are tightly packed into a region around 100,000 light-years across, comparable to the size of our own Milky Way galaxy, making this one of the densest known galaxy groups. Bound by gravity, the close-knit group may coalesce into a single large galaxy over the next few billion years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/sextet_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Seyfert's Sextet",
+    "url": "https://apod.nasa.gov/apod/image/0301/sextet_hst_c1.jpg"
+},
+{
+    "date": "2003-01-25",
+    "explanation": "Globular star cluster Palomar 13 has roamed the halo of our Milky Way Galaxy for the last 12 billion years. The apparently sparse cluster of stars just left of center in this composite color digital image, it is one of the smallest, faintest globular clusters known. (The bright foreground star near bottom is unrelated and creates the spiky imaging artifacts.) Observations spanning forty years indicate that Palomar 13's galactic halo orbit is a highly eccentric one which, every one or two billion years, brings it relatively close to the galactic center. With each close approach to the Milky Way's central regions, gravitational tidal forces strip away the delicately bound cluster stars. In fact, detailed present day studies offer evidence for a dramatic end to this dwindling cluster's tidal tug of war. Palomar 13's latest close approach was only about 70 million years ago. But, when Palomar 13 again approaches the galaxy, it could well turn out to be the cluster's last stand.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/p13_siegel.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Palomar 13's Last Stand",
+    "url": "https://apod.nasa.gov/apod/image/0301/p13_siegel_crop1.jpg"
+},
+{
+    "copyright": "UIUCGCCC",
+    "date": "2003-01-26",
+    "explanation": "We live in a forest.  Strewn throughout the universe are \"trees\" of hydrogen gas that absorb light from distant objects.  These gas clouds leave numerous absorption lines in a distant quasar's spectra, together called the Lyman-alpha forest.  Distant quasars appear to be absorbed by many more Lyman-alpha clouds than nearby quasars, indicating a Lyman-alpha thicket early in our universe.  The above image depicts one possible computer realization of how Lyman-alpha clouds were distributed at a redshift of 3.  Each side of the box measures 30 million light-years across.  Much remains unknown about the Lyman-alpha forest, including the real geometry and extent of the clouds, and why there are so many fewer clouds today.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/lyalpha_gc3_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Lyman Alpha Forest",
+    "url": "https://apod.nasa.gov/apod/image/0301/lyalpha_gc3.jpg"
+},
+{
+    "copyright": "J. AlvesESOGroningenST-ECFST-ECFVLT",
+    "date": "2003-01-27",
+    "explanation": "What is happening to molecular cloud BHR 71?  Quite possible, a binary star system is forming inside.  Most stars in our Galaxy are part of binary star systems, but few have ever been seen in formation.  Recent observations of dust-darkened Bok Globule BHR 71, however, show evidence for two young stars forming deep in the cloud, likely close enough to form a binary.  Isolated BHR 71 spans about one light year and lies only about 600 light years away in the southern sky.  The brighter embedded star -- not visible here -- is about 10 times as bright as the Sun and drives the jet that swept out the empty lane. The above four-color image was taken with a Very Large Telescope in Chile.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/bhr71_vlt_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "BHR 71: Stars, Clouds, and Jets",
+    "url": "https://apod.nasa.gov/apod/image/0301/bhr71_vlt.jpg"
+},
+{
+    "copyright": "Thomas NylenAndrew FountainPSUNASANSF",
+    "date": "2003-01-28",
+    "explanation": "A lake hidden beneath 19 meters of ice and gravel has been found near the bottom of the world that might contain an ecosystem completely separate from our own.  In a modern version of Sir Arthur Conan Doyle's classic book Lost World, scientists are now plotting a mission to drill down into the lake and take out a small part to see what's there.  Lake Vida, buried under Antarctic ice for over 2,500 years, is liquid only because of its high salt content.  Previously, scientists drilled to within a few meters of the lake and indeed found frozen microbes.  Their existence bolsters speculation that similar microorganisms could be found in frozen brine beneath the surface of Mars.  If living organisms are found in Lake Vida, they may give an indication that life might even still exist under similar frozen ice-sheets, such as under the larger Lake Vostok, parts of Mars, and even moons of Jupiter such as Europa.  Pictured above, a robot meteorological station continues to monitor surface conditions over the ice-sealed lake.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/vida_lter_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Lost World of Lake Vida",
+    "url": "https://apod.nasa.gov/apod/image/0301/vida_lter.jpg"
+},
+{
+    "copyright": "StarryScapes",
+    "date": "2003-01-29",
+    "explanation": "The Horsehead Nebula is one of the most famous nebulae on the sky.  It is visible as the dark indentation to the red emission nebula seen above and to the right of center in the above photograph.  The bright star on the left is located in the belt of the familiar constellation of Orion. The horse-head feature is dark because it is really an opaque dust cloud which lies in front of the bright red emission nebula. Like clouds in Earth's atmosphere, this cosmic cloud has assumed a recognizable shape by chance. After many thousands of years, the internal motions of the cloud will alter its appearance.  The emission nebula's red color is caused by electrons recombining with protons to form hydrogen atoms.  Also visible in the picture are blue reflection nebulae, which preferentially reflect the blue light from nearby stars.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/horsehead_tan_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Orion's Horsehead Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0301/horsehead_tan.jpg"
+},
+{
+    "date": "2003-01-30",
+    "explanation": "Cruising through the inner Solar System, new Comet Kudo-Fujikawa reached perihelion, its closest approach to the Sun, yesterday, January 29. Passing within 28.4 million kilometers of the Sun, this comet came much closer than innermost planet Mercury basking only 57.9 million kilometers from our parent star. So close to the Sun, comet Kudo-Fujikawa was extremely bright but impossible for earthbound observers to see against the solar glare. Still, the space-based SOHO observatory captured these views of the comet as it neared perihelion by using a coronograph's occulting disk to block the overwhelming sunlight. In the series of images, the size and location of the blocked-out Sun is indicated by white circles, while arrows point to the traveling comet's bright coma and developing tail. Though fading on its outbound journey, Kudo-Fujikawa should soon be visible to southern hemisphere comet-watchers in February's evening skies.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/cometseries_c2soho_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet Kudo-Fujikawa: Days in the Sun",
+    "url": "https://apod.nasa.gov/apod/image/0301/cometseries_c2soho_c1.jpg"
+},
+{
+    "copyright": "Cleary Summit",
+    "date": "2003-01-31",
+    "explanation": "In this striking image, a rocket climbs skyward toward an expansive green auroral display in the first launch of 2003 from the University of Alaska's Poker Flat Research Range. Recorded on January 27th, the view from Cleary Summit near Fairbanks, Alaska shows the fiery tracks of both solid fuel stages of the Black Brant IX sounding rocket that lofted its payload to an altitude of 385 kilometers. Compared to rockets which launch payloads to Earth orbit and beyond, sounding rockets are small and relatively inexpensive. They get their generic name from the nautical term \"to sound\" which means to take measurements. Known as HIBAR (HIgh Bandwidth Auroral Rocket), this experiment was designed to measure aurora related high-frequency plasma waves which may originate thousands of kilometers above the aurora's visible glow.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0301/aurorarocket_johnson_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Auroral Rocket Launch",
+    "url": "https://apod.nasa.gov/apod/image/0301/aurorarocket_johnson_c1.jpg"
+},
+{
+    "date": "2003-02-01",
+    "explanation": "The lonely RX J1856.5-3754 was formed from the collapsed core of an exploding star. At a distance of 180 light-years it is the closest known neutron star. More massive than the Sun but only 20 kilometers across, this tiny stellar juggernaut plows through the hydrogen gas and dust clouds of interstellar space at about 200 kilometers per second. The surface of the neutron star is fantastically hot, around 700,000 degrees Celsius, making it detectable with orbiting x-ray telescopes. But optical astronomers were surprised to discover that RX J1856.5-3754 is also surrounded by a cone-shaped nebula. Indicated in this deep image from the European Southern Observatory's Kueyen telescope, the nebula glows in the red light of ionized hydrogen atoms recombining with electrons. Its cone shape is analogous to the bow wave of a ship plowing through water. A faint blue dot near the tip of the cone is the neutron star itself. The nebula appears to have formed very near the surface of the neutron star and astronomers are trying to determine if the observed densities and temperatures can explain the nebula's appearance.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/neutronnebula_eso_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Nebula And The Neutron Star",
+    "url": "https://apod.nasa.gov/apod/image/0302/neutronnebula_eso.jpg"
+},
+{
+    "date": "2003-02-02",
+    "explanation": "Where did all the stars go?  What used to be considered a hole in the sky is now known to astronomers as a dark molecular cloud.  Here, a high concentration of dust and molecular gas absorb practically all the visible light emitted from background stars.  The eerily dark surroundings help make the interiors of molecular clouds some of the coldest and most isolated places in the universe.  One of the most notable of these dark absorption nebulae is a cloud toward the constellation Ophiuchus known as Barnard 68, pictured above.  That no stars are visible in the center indicates that Barnard 68 is relatively nearby, with measurements placing it about 500 light-years away and half a light-year across.  It is not known exactly how molecular clouds like Barnard 68 form, but it is known that these clouds are themselves likely places for new stars to form. It is possible to look right through the cloud in infrared light.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0109/barnard68_vlt_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Molecular Cloud Barnard 68",
+    "url": "https://apod.nasa.gov/apod/image/0109/barnard68_vlt.jpg"
+},
+{
+    "date": "2003-02-03",
+    "explanation": "Saturday morning, the Space Shuttle Columbia broke up during re-entry.  Pictured above is the seven-member crew that was lost.  True space pioneers, they were, left to right, David M. Brown, Rick D. Husband, Laurel B. Clark, Kalpana Chawla, Michael P. Anderson, William C. McCool, and Ilan Ramon.  As debris from the shuttle may be toxic, NASA asks that anything found be reported immediately to local authorities and not touched.  For the safety of future missions, investigations into the cause of the tragedy are underway.  If you have any video or photographs that may aid in these investigations, NASA asks that you please see  this web page, call (US) 281-483-3388, or send e-mail to columbiaimages@nasa.gov.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/columbia_s107.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Space Shuttle and Crew Lost During Re-Entry",
+    "url": "https://apod.nasa.gov/apod/image/0302/columbia_s107.jpg"
+},
+{
+    "copyright": "Astropix.com",
+    "date": "2003-02-04",
+    "explanation": "These wisps of gas are all that remain visible of a Milky Way star.  Many thousands of years ago that star exploded in a supernova leaving the Veil Nebula, pictured above. At the time, the expanding cloud was likely as bright as a crescent Moon toward the constellation of Cygnus, visible for weeks to people living at the dawn of recorded history.  The remaining supernova remnant lies about 1400 light-years away and covers over five times the size of the full Moon.  The bright wisp on the right is known as the Witch's Broom Nebula and can be seen with a small telescope.  The Veil Nebula is also known as the Cygnus Loop.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/veil_lodriguss_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Wisps of the Veil Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0302/veil_lodriguss.jpg"
+},
+{
+    "date": "2003-02-05",
+    "explanation": "What could have formed these unusual channels?  Inside Newton Basin on Mars, numerous narrow channels run from the top down to the floor.  The above picture covers a region spanning about 1500 meters across.  These and other gullies have been found on Mars in recent high-resolution pictures taken by the orbiting Mars Global Surveyor robot spacecraft.  Similar channels on Earth are formed by flowing water, but on Mars the temperature is normally too cold and the atmosphere too thin to sustain liquid water.  Nevertheless, many scientists hypothesize that liquid groundwater can sometimes surface on  Mars, erode gullies and channels, and pool at the bottom before freezing and evaporating.  If so, life-sustaining ice and water might exist even today below the Martian surface -- water that could potentially support a human mission to Mars.  Research into this exciting possibility is sure to continue!",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/gullies3_mgs_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Unusual Gullies and Channels on Mars",
+    "url": "https://apod.nasa.gov/apod/image/0302/gullies3_mgs.jpg"
+},
+{
+    "date": "2003-02-06",
+    "explanation": "Bright and beautiful spiral galaxy M83 lies a mere twelve million light-years from Earth, toward the headstrong constellation Hydra. Sweeping spiral arms, prominent in visible light images, lend this galaxy its popular moniker -- the Southern Pinwheel. In fact, the spiral arms are still apparent in this Chandra Observatory false-color x-ray image of M83, traced by diffuse, hot, x-ray emitting gas. But more striking in the x-ray image is the galaxy's bright central region. The central emission likely represents even hotter gas created by a sudden burst of massive star formation. Point-like neutron star and black hole x-ray sources, final stages in the life cycles of massive stars, also show a concentration near the center of M83 and offer further evidence for a burst of star formation at this galaxy's core. Light from this burst of star formation would have first reached Earth some 20 million years ago.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/m83_cxc_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "X-Rays from M83",
+    "url": "https://apod.nasa.gov/apod/image/0302/m83_cxc_full.jpg"
+},
+{
+    "copyright": "Matthew Spinelli",
+    "date": "2003-02-07",
+    "explanation": "Orion, the Hunter, is one of the most easily recognizable constellations in planet Earth's night sky. But Orion's stars and nebulae don't look quite as colorful to the eye as they do in this lovely photograph, taken last month from Vekol Ranch south of Phoenix, Arizona, USA. The celestial scene was recorded in a five minute time exposure using high-speed color print film and a 35mm camera mounted on a small telescope. In the picture, cool red giant Betelgeuse takes on a yellowish tint as the brightest star at the upper left. Otherwise Orion's hot blue stars are numerous, with supergiant Rigel balancing Betelgeuse at the lower right, Bellatrix at the upper right, and Saiph at the lower left. Lined up in Orion's belt (left to right) are Alnitak, Alnilam, and Mintaka all about 1,500 light-years away, born of the constellation's well studied interstellar clouds. And if the middle \"star\" of Orion's sword looks reddish and fuzzy to you, it should. It's the stellar nursery known as the Great Nebula of Orion.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/orion_spinelli_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Orion on Film",
+    "url": "https://apod.nasa.gov/apod/image/0302/orion_spinelli_c1.jpg"
+},
+{
+    "date": "2003-02-08",
+    "explanation": "This enhanced Hubble Space Telescope image shows in remarkable detail the inner portion of the disk of dust and gas surrounding the star AB Aurigae. Knots of material, visible here for the first time, may well represent an early stage of a process which could result in the formation of planets over the next few million years. AB Aurigae is a young star (2-4 million years old), about 469 light-years distant. Its swirling circumstellar disk is large, about 30 times the size of our solar system. Astronomers believe planet-making is just beginning in AB Aurigae's disk because known disks surrounding younger stars (less than 1 million years old) do not show such clumpy structure, while disks of slightly older stars (aged 8-10 million years) have gaps and features suggesting that planets have already been formed. Why the window pane appearance? Wide black stripes in the picture are caused by occulting bars used to block out the overwhelming starlight. The diagonal streaks are due to diffraction spikes.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/abaurigae_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "AB Aurigae: How To Make Planets",
+    "url": "https://apod.nasa.gov/apod/image/0302/abaurigae_hst.jpg"
+},
+{
+    "date": "2003-02-09",
+    "explanation": "Our Earth is not at rest.  The Earth moves around the Sun.  The Sun orbits the center of the Milky Way Galaxy.  The Milky Way Galaxy orbits in the  Local Group of Galaxies.  The Local Group falls toward the Virgo Cluster of Galaxies.  But these speeds are less than the speed that all of these objects together move relative to the cosmic microwave background (CMB).  In the above all-sky map, radiation in the Earth's direction of motion appears blueshifted and hence hotter, while radiation on the opposite side of the sky is redshifted and colder.  The map indicates that the  Local Group moves at about 600 kilometers per second relative to this primordial radiation.  This high speed was initially unexpected and its magnitude is still unexplained.  Why are we moving so fast? What is out there?",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/dip_cobe.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "COBE Dipole: Speeding Through the Universe",
+    "url": "https://apod.nasa.gov/apod/image/0302/dip_cobe_big.jpg"
+},
+{
+    "copyright": "Rezmon Observatory",
+    "date": "2003-02-10",
+    "explanation": "A comet may likely become visible to the unaided eye over the next few days above the horizon where the Sun has just set.  Comet NEAT (C/ 2002 V1), discovered last November, has brightened dramatically as it approached the Sun.  Over the next few days, the quickly setting comet could appear as bright as second magnitude.  On February 18 it will round the Sun well within the orbit of Mercury.  During surrounding days, the Sun's glare will effectively hide the comet to human observers.  It is quite probable, though, that Comet NEAT will standout prominently in images taken by the Sun-looking SOHO satellite.  Pictured above, Comet NEAT's complex and developing tail was photographed on January 29 (top) and February 2.  Sky enthusiasts should remember to never look directly at the Sun.   APOD Update: APOD mirror now on-line from Australia.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/V1Neat_spenko_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet NEAT Approaches the Sun",
+    "url": "https://apod.nasa.gov/apod/image/0302/V1Neat_spenko.jpg"
+},
+{
+    "date": "2003-02-11",
+    "explanation": "What causes unusual knots of gas and dust in planetary nebulas?  Seen previously in the Ring Nebula, the Helix Nebula, and NGC 2392, the knots' existence was not predicted previously and still not well understood.  Pictured above is a newly released image",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/m27_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Dumbbell Nebula Close-Up from Hubble",
+    "url": "https://apod.nasa.gov/apod/image/0302/m27_hst.jpg"
+},
+{
+    "date": "2003-02-12",
+    "explanation": "Analyses of a new high-resolution map of microwave light emitted only 380,000 years after the Big Bang appear to define our universe more precisely than ever before.  The eagerly awaited results from the orbiting Wilkinson Microwave Anisotropy Probe resolve several long-standing disagreements in cosmology rooted in less precise data.  Specifically, present analyses of above WMAP all-sky image indicate that the universe is 13.7 billion years old (accurate to 1 percent), composed of 73 percent dark energy, 23 percent cold dark matter, and only 4 percent atoms, is currently expanding at the rate of 71 km/sec/Mpc (accurate to 5 percent), underwent episodes of rapid expansion called inflation, and will expand forever.  Astronomers will likely research the foundations and implications of these results for years to come.   APOD Update: APOD now available in Portuguese from Brazil.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/sky_wmap_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "WMAP Resolves the Universe",
+    "url": "https://apod.nasa.gov/apod/image/0302/sky_wmap.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2003-02-13",
+    "explanation": "Bright blue stars are still forming in the dark pillars of the Eagle Nebula.  Made famous by a picture from the Hubble Space Telescope in 1995, the Eagle Nebula shows the dramatic process of star formation.  To the upper right of the nebula in the above picture lies the heart of the open cluster M16.  The bright blue stars of M16 have been continually forming over the past 5 million years, most recently in the famous central gas and dust pillars known as elephant trunks.  Light takes about 7000 years to reach us from M16, which spans about 20 light years and can be seen with binoculars toward the constellation of Serpens.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/m16_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Eagle Nebula from CFHT",
+    "url": "https://apod.nasa.gov/apod/image/0302/m16_cfht.jpg"
+},
+{
+    "date": "2003-02-14",
+    "explanation": "Yes, it's Valentine's Day (!) and looking toward star cluster NGC 346 in our neighboring galaxy the Small Magellanic Cloud, astronomers have noted this heart-shaped cloud of hot, x-ray emitting gas in the cluster's central region. The false-color Chandra Observatory x-ray image also shows a strong x-ray source just above the heart-shaped cloud which corresponds to HD 5980, a remarkable, massive binary star system that lies within the cluster. HD 5980 has been known to undergo dramatic brightness variations, in 1994 briefly outshining all other stars in the Small Magellanic Cloud, and has been likened to the luminous, eruptive variable star Eta Carinae in our own Milky Way galaxy. At about 100 light-years across, NGC 346's heart-shaped cloud is probably the result of an ancient supernova explosion. Alternatively it may have been produced during past eruptions from the HD 5980 system, analogous to the nebula associated with Eta Carinae.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/ngc346_cxo_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Heart in NGC 346",
+    "url": "https://apod.nasa.gov/apod/image/0302/ngc346_cxo_c1.jpg"
+},
+{
+    "date": "2003-02-15",
+    "explanation": "One hundred seventy-five years ago (on February 8th), Jules Verne was born in Nantes, France. Inspired by a lifelong fascination with machines, Verne wrote visionary works about \"Extraordinary Voyages\" including such terrestrial travels as Around the World in 80 Days, Journey to the Centre of the Earth, and Twenty Thousand Leagues Under the Sea. In 1865 he published the story of three adventurers who undertook a journey From the Earth to the Moon. Verne's characters rode a \"projectile-vehicle\" fired from a huge cannon constructed in Florida, USA. Does that sound vaguely familiar? A century later, the Saturn V rocket and NASA's Apollo program finally turned this work of fiction into fact, propelling adventuresome trios on what was perhaps Verne's most extraordinary voyage. This dramatic view shows the moonbound Apollo 11 space-vehicle riding top a Saturn V rocket as it blasts skyward. Launched from a spaceport in Florida, the Apollo 11 crew traveled to the moon and back again in 1969, making humanity's first landing on the lunar surface.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/moonbound_apollo11_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Happy Birthday Jules Verne",
+    "url": "https://apod.nasa.gov/apod/image/0302/moonbound_apollo11.jpg"
+},
+{
+    "date": "2003-02-16",
+    "explanation": "The planet Mercury resembles a moon. Mercury's old surface is heavily cratered like many moons.  Mercury is larger than most moons but smaller than  Jupiter's moon Ganymede and Saturn's moon Titan.  Mercury is much denser and more massive than any moon, though, because it is made mostly of iron. In fact, the Earth is the only planet more dense.  A visitor to Mercury's surface would see some strange sights.  Because Mercury rotates exactly three times every two orbits around the  Sun, and because Mercury's orbit is so elliptical, a visitor to Mercury might see the Sun rise, stop in the sky, go back toward the rising horizon, stop again, and then set quickly over the other horizon.  From Earth, Mercury's proximity to the Sun causes it to be visible only for a short time just after sunset or just before sunrise.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0002/merc4_m10_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Southwest Mercury",
+    "url": "https://apod.nasa.gov/apod/image/0302/merc4_m10.jpg"
+},
+{
+    "date": "2003-02-17",
+    "explanation": "The above sky map tells us the universe is 13.7 billion years old -- but how? At first look, one only sees the microwave glow of gas from our Milky Way Galaxy, coded red, and a spotty pattern of microwaves emitted from the early universe, coded in gray.  The gray cosmic microwave background is light that used to bounce around randomly but came directly to us when the expanding universe became cool enough for nearly transparent atoms to form.  A close inspection of the spots reveals a slightly preferred angular distance between them.  One expects such a pattern to be generated by sound emanating from slightly over-dense regions of the early universe.  Sound waves will take time to generate such a pattern, and the present age of the universe can then be directly extrapolated.  The above universe age is estimated to be accurate to better than 0.2 billion years.  The above map was taken by the WMAP satellite orbiting the Sun at the L2 point, just outside the orbit of the Earth.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/galaxy_wmap_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Universe Age from Microwave Background",
+    "url": "https://apod.nasa.gov/apod/image/0302/galaxy_wmap.jpg"
+},
+{
+    "date": "2003-02-18",
+    "explanation": "First imaged by the Mariner 9 spacecraft, Valles Marineris, the grand canyon of Mars, is a system of enormous depressions called chasmata that stretch some 4,000 kilometers along the Martian equator. Looking north over the canyon's central regions, Candor chasma lies in the foreground of this spectacular view with the steep walls of Ophir chasma near the top. Surface collapse and landslides are seen to be part of the complex geologic history of these dramatic features but recent high resolution images have also revealed layered deposits within the canyon system. This picture represents a mosaic of images recorded in 1978 from Martian orbit by the Viking 1 and 2 spacecraft. The full width of the picture covers about 800 kilometers.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/chasmata_viking_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Candor and Ophir Chasmata",
+    "url": "https://apod.nasa.gov/apod/image/0302/chasmata_viking_full.jpg"
+},
+{
+    "copyright": "Randall HuletRice U.",
+    "date": "2003-02-19",
+    "explanation": "Why doesn't matter just bunch up?  The same principle that keeps neutron stars and white dwarf stars from imploding also keeps people from imploding and makes normal matter mostly empty space.  The observed reason is known as the Pauli Exclusion Principle.  The principle states that identical fermions -- one type of fundamental matter -- cannot be in the same place at the same time and with the same orientation.  The other type of matter, bosons, do not have this property, as demonstrated clearly by recently created Bose-Einstein condensates.  Recently, the Pauli Exclusion Principle was demonstrated graphically in the above picture of clouds of two isotopes of lithium -- the left cloud composed of bosons while the right cloud is composed of fermions.  As temperature drops, the bosons bunch together, while the fermions better keep their distance.  The reason why the Pauli Exclusion Principle is true and the physical limits of the principle are still unknown.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/fermiexclusion_hulet.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Pauli Exclusion Principle: Why You Don't Implode",
+    "url": "https://apod.nasa.gov/apod/image/0302/fermiexclusion_hulet.jpg"
+},
+{
+    "date": "2003-02-20",
+    "explanation": "A cold wind blows from the central star of the Boomerang Nebula. Seen here in a detailed false-color image recorded in 1998 by the Hubble Space Telescope, the nebula lies about 5,000 light-years away towards the grand southern constellation of Centaurus. The symmetric cloud appears to have been created by a high-speed wind of gas and dust blowing from an aging central star at speeds of nearly 600,000 kilometers per hour. This rapid expansion has cooled molecules in the nebular gas to about one degree above absolute zero - colder than even the cosmic background radiation - making it the coldest region observed in the distant Universe. Shining with light from the central star reflected by dust, the frigid Boomerang Nebula is believed to be a star or stellar system evolving toward the planetary nebula phase.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/boomerangneb_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Cold Wind from the  Boomerang Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0302/boomerangneb_hst.jpg"
+},
+{
+    "date": "2003-02-21",
+    "explanation": "Tantalizing images of gullies on Mars have offered striking evidence for recent flows of liquid water. But Mars is too cold and its atmosphere too thin for liquid water to exist on the surface. Still a new and compelling explanation for gullies carved by liquid water was inspired by this recently released image from the Mars Odyssey spacecraft. Pictured is a section of what is likely a snow covered crater in the Martian southern hemisphere. North is at the top and the scene, illuminated from the left, is about 16 kilometers wide. Patches of smooth snow pack remain along the northern crater wall, while structures resembling the famous Martian gullies appear to be emerging as the snow cover gradually disappears, and are exposed along the crater's western (left) wall. Melting snow, running underneath the snow pack and down the crater walls would be protected from the extreme surface conditions, remaining liquid and eroding the gullies over time. Could life exist in a liquid water environment beneath the Martian snow?",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/snowmars_odyssey_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Melting Snow and the Gullies of Mars",
+    "url": "https://apod.nasa.gov/apod/image/0302/snowmars_odyssey.jpg"
+},
+{
+    "date": "2003-02-22",
+    "explanation": "This delightfully detailed false-color image of Saturn was taken in January 1998 by the orbiting Hubble Space Telescope. The picture is a combination of three images from Hubble's NICMOS instrument and shows the lovely ringed planet in reflected infrared sunlight. Different colors indicated varying heights and compositions of cloud layers generally thought to consist of ammonia ice crystals. The eye-catching rings cast a shadow on Saturn's upper hemisphere. The bright stripe seen within the left portion of the shadow is infrared sunlight streaming through the large gap in the rings known as the Cassini Division. Two of Saturn's many moons have also put in an appearance, Tethys just beyond the planet's disk at the upper right, and Dione at the lower left. Presently, Saturn shines brightly in evening skies as a pale yellow \"star\" near the constellation Orion.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/saturn98_nicmos_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Infrared Saturn",
+    "url": "https://apod.nasa.gov/apod/image/0302/saturn98_nicmos_c1.jpg"
+},
+{
+    "date": "2003-02-23",
+    "explanation": "A huge eruptive prominence is seen moving out from our Sun in this condensed half-hour time-lapse sequence.  Ten Earths could easily fit in the \"claw\" of this seemingly solar monster.  This large prominence, though, is significant not only for its size, but its shape.  The twisted figure eight shape indicates that a complex  magnetic field threads through the emerging solar particles.  Recent evidence of differential rotation inside the Sun might help account for the surface explosion.  The sequence was taken early in the year 2000 by the Sun-orbiting SOHO satellite.  Although large prominences and energetic Coronal Mass Ejections (CMEs) are relatively rare, they are occurred more frequently near Solar Maximum, the time of peak sunspot and solar activity in the eleven-year solar cycle.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0004/prom1743_eit_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Twisted Solar Eruptive Prominence",
+    "url": "https://apod.nasa.gov/apod/image/0302/promanim4_eit.gif"
+},
+{
+    "date": "2003-02-24",
+    "explanation": "As Comet NEAT flared last week, the Sun roared.  Just as the comet swooped inside the orbit of Mercury and developed a long and flowing tail of gas and dust, the Sun emitted a huge Coronal Mass Ejection (CME).  Neither the fortuitous hot ball of solar gas nor the intense glare of sunlight appeared to disrupt the comet's nucleus.  The action was too close to the Sun to be easily visible by humans, but the orbiting Sun-pointing SOHO satellite had a clear view of the celestial daredevil show.  The above image was taken on February 18 when the comet was so bright it created an artificial horizontal streak on the camera image.  During the encounter, Comet NEAT, official designation (C/2002 V1), brightened to second magnitude.  An opaque disk blocked the Sun's image.  The now-outbound comet remains bright but will surely fade as it moves away from the Sun.   Nevertheless, Comet NEAT will likely be visible with binoculars to southern hemisphere observers for the next month.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/neatcme_soho_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet Neat Passes an Erupting Sun",
+    "url": "https://apod.nasa.gov/apod/image/0302/neatcme_soho.jpg"
+},
+{
+    "copyright": "John P. Gleason",
+    "date": "2003-02-25",
+    "explanation": "The Great Nebula in Orion, an immense, nearby starbirth region, is probably the most famous of all astronomical nebulas.  Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away.  In the above deep image, faint wisps and sheets of dust and gas are particularly evident.  The Great Nebula in Orion can be found with the unaided eye just below and to the left of the easily identifiable belt of three stars in the popular constellation Orion.  In addition to housing a bright open cluster of stars known as the Trapezium, the Orion Nebula contains many stellar nurseries.   These nurseries contain hydrogen gas, hot young stars, proplyds, and stellar jets spewing material at high speeds.  Also known as M42, the Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/m42_gleason_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M42: Wisps of the Orion Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0302/m42_gleason.jpg"
+},
+{
+    "copyright": "Peggy Peterson",
+    "date": "2003-02-26",
+    "explanation": "What's happening over the horizon?  Although the scene may appear somehow supernatural, nothing more unusual is occurring than a setting Sun and some well placed clouds.  Pictured above are anticrepuscular rays.  To understand them, start by picturing common crepuscular rays that are seen any time that sunlight pours though scattered clouds.  Now although sunlight indeed travels along  straight lines, the projections of these lines onto the spherical sky are great circles.  Therefore, the crepuscular rays from a setting (or rising) sun will appear to re-converge on the other side of the sky.  At the anti-solar point 180 degrees around from the Sun, they are referred to as anticrepuscular rays. While enjoying the sunset after dinner near Horseshoe Canyon in Utah, the photographer chanced to find that an even more spectacular sight was occurring in the other direction just over the canyon -- a particularly vivid set of anticrepuscular rays.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/antihorse_peterson_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Anticrepuscular Rays Over Horseshoe Canyon",
+    "url": "https://apod.nasa.gov/apod/image/0302/antihorse_peterson.jpg"
+},
+{
+    "date": "2003-02-27",
+    "explanation": "It's no wonder Jupiter is a favorite target for even modest earthbound telescopes. The most massive planet in the solar system with four of the largest moons also boasts the famous Great Red Spot, a giant hurricane-like storm system over three hundred years old. Recorded on December 15, 2002 between 7:19 and 8:40 UT, over a thousand digital images were processed and stacked to create this spectacular 21 frame animation of the Jovian system. South is up and as the Great Red Spot tracks across the face of Jupiter, innermost Galilean moon Io enters the scene at the far right. Io occults (passes in front of) the edge of the more sedately orbiting Ganymede with Io's shadow moving quickly across the gas giant's cloud tops, just below the Red Spot. While the moon Callisto is outside the field of view, its large, dark shadow is also visible crossing the Jovian disk at the upper left. Viewed from Earth, the orbits of the Galilean moons presently lie nearly edge-on, offering many chances to observe similar dances of Jupiter's moons.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/JupmoonAnimation_higgins.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "When Moons and Shadows Dance",
+    "url": "https://apod.nasa.gov/apod/image/0302/JupmoonAnimation_higgins_r10.gif"
+},
+{
+    "copyright": "Russell Croman",
+    "date": "2003-02-28",
+    "explanation": "Glowing hydrogen gas fills this gorgeously detailed sky view centered on the variable star S Mon in the faint but fanciful constellation Monoceros, the Unicorn. A star forming region (NGC 2264), the complex jumble of cosmic gas and dust is about 2,700 light-years distant and mixes reddish emission nebulae excited by energetic light from newborn stars with dark interstellar dust clouds. Where the otherwise obscuring dust clouds lie close to stars they also reflect starlight, forming blue reflection nebulae. The wide vista spans about 1.5 degrees or nearly 3 full moons, covering 70 light-years at the distance of NGC 2264. Its cast of cosmic characters includes the Cone Nebula (far left), the Fox Fur Nebula, whose convoluted pelt lies just below S Mon, and the Christmas Tree star cluster. The triangular Christmas Tree cluster appears sideways here, with its apex at the Cone Nebula and its broader base centered on S Mon.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0302/ngc2264_croman_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Fox Fur, the Unicorn, and a Christmas Tree",
+    "url": "https://apod.nasa.gov/apod/image/0302/ngc2264_croman_c3.jpg"
+},
+{
+    "date": "2003-03-01",
+    "explanation": "Get out your red/blue glasses and float next to asteroid 433 Eros, 170 million kilometers away! Orbiting the Sun once every 1.8 earth-years, asteroid Eros is a diminutive 40 x 14 x 14 kilometer world of undulating horizons, craters, boulders and valleys. Its unsettling scale and bizarre shape are emphasized in this picture - a mosaic of images from the NEAR Shoemaker spacecraft processed to yield a stereo anaglyphic view.  Along with dramatic chiaroscuro, NEAR's 3-D imaging provided important measurements of the asteroid's landforms and structures, and clues to the origin of this city-sized chunk of solar system. The smallest features visible here are about 30 meters across. After spending a year in orbit around Eros, the historic Near Shoemaker spacecraft made the first ever landing on an asteroid's surface February 12, 2001.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/stereoeros_near.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Stereo Eros",
+    "url": "https://apod.nasa.gov/apod/image/0303/stereoeros_near.jpg"
+},
+{
+    "date": "2003-03-02",
+    "explanation": "Start with the constellation of Orion.  Near Orion's belt is a fuzzy area known as the Great Nebula of Orion or M42.  In this nebula is a bright star cluster known as the Trapezium, shown above.  New stellar systems are forming there in gigantic globs of gas and dust known as Proplyds.  Looking closely at the above picture also reveals that gas and dust surrounding some of the dimmer stars appears to form structures that point away from the brighter stars.  The above false color image was made by combining several exposures from the orbiting Hubble Space Telescope.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/orionprop_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "In the Center of the Trapezium",
+    "url": "https://apod.nasa.gov/apod/image/0303/orionprop_hst.jpg"
+},
+{
+    "copyright": "Lynette Cook",
+    "date": "2003-03-03",
+    "explanation": "How will our universe end?  Recent speculation now includes a pervasive growing field of mysterious repulsive energy that rips virtually everything apart.  Although the universe started with a Big Bang, analysis of recent cosmological measurements allows a possibility that it will end with a Big Rip.  As soon as few billion years from now, the controversial scenario holds, dark energy will grow to such a magnitude that our own Galaxy will no longer be able to hold itself together.  After that, stars, planets, and then even atoms might not be able to withstand the expansive internal force.  Previously, speculation on the ultimate fate of the universe centered on either a re-collapsing Big Crunch or a Big Chill.  Although the universe's fate is still a puzzle, piecing it together will likely follow from an increased understanding of the nature of dark matter and dark energy.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/puzzle_cook.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Will the Universe End in a Big Rip?",
+    "url": "https://apod.nasa.gov/apod/image/0303/puzzle_cook_big.jpg"
+},
+{
+    "date": "2003-03-04",
+    "explanation": "The center of the Lagoon Nebula is busy with the awesome spectacle of star formation.  Visible in the lower left, at least two long funnel-shaped clouds, each roughly half a light-year long, have been formed by extreme stellar winds and intense energetic starlight.  The tremendously bright nearby star, Hershel 36, lights the area.  Vast walls of dust hide and redden other hot young stars.  As energy from these stars pours into the cool dust and gas, large temperature differences in adjoining regions can be created generating shearing winds which may cause the funnels.  This picture, spanning about 5 light years, was taken in 1995 by the orbiting Hubble Space Telescope.  The Lagoon Nebula, also known as M8, lies about 5000 light years distant toward the constellation of Sagittarius.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/lagoon_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "In the Center of the Lagoon Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0303/lagoon_hst.jpg"
+},
+{
+    "date": "2003-03-05",
+    "explanation": "Where do people live on Planet Earth?  Although people inhabit every continent, the highest population densities occur in Asia.   Sparsely inhabited regions occur on virtually every continent, however, including the Sahara Desert in Africa, the Great White North of North America, the outback of Australia, the Amazon of South America, and the Himalayan Mountains of Asia.  The above color-coded map was produced from populations estimates made for 1994, when the world population was about 5.5 billion.  Current estimates place the world population at about 6.3 billion.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/peopleearth94_usda_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Where People Live on Planet Earth",
+    "url": "https://apod.nasa.gov/apod/image/0303/peopleearth94_usda.jpg"
+},
+{
+    "copyright": "Noel Munford",
+    "date": "2003-03-06",
+    "explanation": "After last month's dramatic swoop past the Sun, Comet NEAT (C/2002 V1) appeared as a naked-eye comet, emerging from the evening twilight in planet Earth's southern skies. On March 1st, New Zealand photographer Noel Munford captured this telephoto view of the outbound comet close to the southwestern horizon against the faint stars of the constellation Sculptor. He reports that the picture is a good representation of the comet's visual appearance on that date and estimates the impressive tail to be five or six degrees long. Discovered last November as part of the Near-Earth Asteroid Tracking program, there was some speculation that this comet would not survive its close encounter with the Sun. However, Comet NEAT is now returning to the outer solar system, diving southward and fading fast.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/neat_munford_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet NEAT in Southern Skies",
+    "url": "https://apod.nasa.gov/apod/image/0303/neat_munford_c1.jpg"
+},
+{
+    "copyright": "Dan Heller",
+    "date": "2003-03-07",
+    "explanation": "The night had no moon, but the stars were out. And camped at 16,000 feet on Mt. Kilimanjaro, photographer Dan Heller recorded this marvelous 3 1/2 hour long exposure. Here the landscape is lit mostly by the stars. Flashlights give the tents an erie internal radiance while the greenish glow from the distant city lights of Moshi, Tanzania filter through the clouds below. The view from this famous equatorial African mountain is toward the south, putting the South Celestial Pole close to the horizon on the far left, near the center of the graceful concentric star trail arcs. In the thin air and clear dark skies, even the ghostly Milky Way left a faint triangular glow as it swept across the middle of the dreamlike scene.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/kilistars_heller_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Star Trails of Kilimanjaro",
+    "url": "https://apod.nasa.gov/apod/image/0303/kilistars_heller_c1.jpg"
+},
+{
+    "date": "2003-03-08",
+    "explanation": "Nearly 400 years ago astronomer Johannes Kepler observed comet tails blown by a solar breeze and suggested that vessels might likewise navigate through space using appropriately fashioned sails. It is now widely recognized that sunlight does indeed produce a force which moves comet tails and a large, reflective sail could be a practical means of propelling a spacecraft. In fact, the illustration above represents one concept explored by NASA centers to develop an interstellar probe pushed along by sunlight reflected from an ultrathin sail. Nearly half a kilometer wide, the delicate solar sail would be unfurled in space. Continuous pressure from sunlight would ultimately accelerate the craft to speeds about five times higher than possible with conventional rockets -- without requiring any fuel! If launched in 2010 such a probe could overtake Voyager 1, the most distant spacecraft bound for interstellar space, in 2018 going as far in eight years as the Voyager will have journeyed in 41 years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/solarsail_msfc_m.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Solar Sail",
+    "url": "https://apod.nasa.gov/apod/image/0303/solarsail_msfc.jpg"
+},
+{
+    "date": "2003-03-09",
+    "explanation": "Tomorrow's picture: Big Pinwheel  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Technical Rep.: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & NASA SEU Edu. Forum & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0108/jupitercrescent_cassini_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Farewell Jupiter",
+    "url": "https://apod.nasa.gov/apod/image/0108/jupitercrescent_cassini.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2003-03-10",
+    "explanation": "Why do many galaxies appear as spirals?  A striking example is M101, shown above, whose relatively close distance of about 22 million light years allow it to be studied in some detail.  Recent evidence indicates that a close gravitational interaction with a neighboring galaxy created waves of high mass and condensed gas which continue to orbit the galaxy center.  These waves compress existing gas and cause star formation.  One result is that M101, also called the Pinwheel Galaxy, has several extremely bright star-forming regions (called HII regions) spread across its spiral arms.  M101 is so large that its immense gravity distorts smaller nearby galaxies.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/m101_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M101: The Pinwheel Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0303/m101_cfht.jpg"
+},
+{
+    "copyright": "Arne Danielsen",
+    "date": "2003-03-11",
+    "explanation": "Why would clouds appear to be different colors?  A relatively rare phenomenon known as iridescent clouds can show unusual colors vividly or a whole spectrum of colors simultaneously.  These clouds are formed of small water droplets of nearly uniform size.  When the Sun is in the right position and mostly hidden by thick clouds, these thinner clouds significantly diffract sunlight in a nearly coherent manner, with different colors being deflected by different amounts.  Therefore, different colors will come to the observer from slightly different directions.  Many clouds start with uniform regions that could show iridescence but quickly become too thick, too mixed, or too far from the Sun to exhibit striking colors. Pictured above, iridescent clouds were photographed over Norway two months ago.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/IridescentCloud_danielsen_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Iridescent Clouds",
+    "url": "https://apod.nasa.gov/apod/image/0303/IridescentCloud_danielsen.jpg"
+},
+{
+    "date": "2003-03-12",
+    "explanation": "The far side of the Moon is rough and filled with craters.  By comparison, the near side of the Moon, the side we always see, is relatively smooth.  Since the Moon is rotation locked to always point the same side toward Earth, humanity has only glimpsed the lunar farside recently -- last century.  The light highlands of the far side are older than the dark Maria of the near side.  A thinner crust on the near side that allowed for more dark lava flows is thought to be the cause of differences between the two sides.  The cause for the crust thickness differences is still being researched, however.  The large impact basin pictured above is Crater 308.  It spans about 30 kilometers and was photographed by crew of Apollo 11 as they circled the Moon in 1969.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/lunarfarside_apollo11_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Lunar Farside from Apollo 11",
+    "url": "https://apod.nasa.gov/apod/image/0303/lunarfarside_apollo11.jpg"
+},
+{
+    "date": "2003-03-13",
+    "explanation": "Gazing out over the mountaintops from the Wyoming InfraRed Observatory (WIRO), astronomers recently recorded this bizarre looking image of the solar system's ruling planet, gas giant Jupiter. The false-color picture is a composite of images taken to test a sophisticated digital camera operating at liquid helium temperatures and sensitive to wavelengths about three times longer than visible red light. At those infrared wavelengths (near 2.1 microns) the molecular hydrogen and methane gas in Jupiter's dense lower atmosphere strongly absorb sunlight, so the normally bright, banded planet looks very dark. But particles and haze over the equator and poles rise above the absorbing layers into Jupiter's stratosphere and reflect the infrared sunlight. Also clearly extending into the Jovian stratosphere is the famous Great Red Spot seen here in yellow just under the equatorial band at the right. North is up in this view and Jupiter's rapid 10 hour rotation will soon carry the Great Red Spot behind the planet's right limb.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/jupiter_wiro8_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "WIRO at Jupiter",
+    "url": "https://apod.nasa.gov/apod/image/0303/jupiter_wiro8_full.jpg"
+},
+{
+    "date": "2003-03-14",
+    "explanation": "Large, massive stars end their furious lives in spectacular supernova explosions -- but small, low mass stars may encounter a similar fate. In fact, instead of simply cooling off and quietly fading away, some white dwarf stars in binary star systems are thought to draw enough mass from their companions to become unstable, triggering a nuclear detonation. The resulting standard candle stellar explosion is classified as a Type Ia supernova and perhaps the best example yet of the aftermath is this expanding cloud of shocked stellar debris, DEM L71, in the nearby Large Magellanic Cloud. The sharp false-color x-ray image from the orbiting Chandra Observatory shows the predicted bright edges of the outer blast wave shock region and the x-ray glow of an inner region of reverse shock heated gas. Based on the Chandra data, estimates for the composition and total mass of expanding gas strongly suggest that this is all that remains of a white dwarf star. Light from this small star's self-destructive explosion would have first reached Earth several thousand years ago.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/deml71_cxc_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "DEM L71: When Small Stars Explode",
+    "url": "https://apod.nasa.gov/apod/image/0303/deml71_cxc_c1.jpg"
+},
+{
+    "date": "2003-03-15",
+    "explanation": "Is it art? In November of 1969, Apollo 12 astronaut-photographer Charles \"Pete\" Conrad recorded this masterpiece while documenting colleague Alan Bean's lunar soil collection activities on the Oceanus Procellarum. The image is dramatic and stark. Bean is faceless. The harsh environment of the Moon's Ocean of Storms is echoed in his helmet's perfectly composed reflection of Conrad and the lunar horizon. Works of photojournalists originally intent on recording the human condition on planet Earth, such as Lewis W. Hine's images from New York City in the early 20th century, or Margaret Bourke-White's magazine photography are widely regarded as art. Similarly many documentary astronomy and space images can be appreciated for their artistic and esthetic appeal.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/bean_conrad_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Apollo 12: Self-Portrait",
+    "url": "https://apod.nasa.gov/apod/image/0303/bean_conrad.jpg"
+},
+{
+    "date": "2003-03-16",
+    "explanation": "NGC 253 is not only one of the brightest spiral galaxies visible, it is also one of the dustiest.  Discovered in 1783 by Caroline Herschel in the constellation of Sculptor, NGC 253 lies only about ten million light-years distant.  NGC 253 is the largest member of the Sculptor Group of Galaxies, the nearest group to our own  Local Group of Galaxies.  The dense dark dust accompanies a high star formation rate, giving NGC 253 the designation of starburst galaxy.  Visible in the above photograph from the Hubble Space Telescope is the active central nucleus, also known to be a bright source of X-rays and gamma rays.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/ngc253c_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 253: The Sculptor Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0303/ngc253c_hst.jpg"
+},
+{
+    "date": "2003-03-17",
+    "explanation": "Suddenly, in the year 1006 AD, a new star appeared in the sky.  Over the course of just a few days, the rogue star became brighter than the planet Venus.  The star, likely the talk of everyone who could see it, was recorded by people who lived in areas now known as China, Egypt, Iraq, Italy, Japan, and Switzerland.  The celestial newcomer, now known to be a supernova, took months to fade.  Modern observations have been used to measure the speed of the still-expanding shock wave, allowing a better estimate of its distance and hence a better estimate of the true brightness of the supernova.  It turns out SN 1006 likely achieved an apparent visual magnitude of -7.5, making it the brightest supernova on record.  The shock wave was imaged in 1998 from CTIO (left panel), and then subtracted from a similar image taken in 1986 (right panel), highlighting the relative expansion.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/sn1006_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "SN 1006: History's Brightest Supernova",
+    "url": "https://apod.nasa.gov/apod/image/0303/sn1006_noao.jpg"
+},
+{
+    "date": "2003-03-18",
+    "explanation": "The ominous, dark shapes haunting the left side of the Sun are coronal holes -- low density regions extending above the surface where the solar magnetic field opens freely into interplanetary space. Studied extensively from space since the 1960s in ultraviolet and x-ray light, coronal holes are known to be the source of the high-speed solar wind, atoms and electrons which flow outward along the open magnetic field lines. During periods of low activity, coronal holes typically cover regions just above the Sun's poles. These coronal holes, however, have just moved into view near the Sun's equator, and particles escaping them have already caused notable aurora here on Earth. Coronal holes like this one may last for a few solar rotations before the magnetic fields shift and change configurations. Shown in false-color, this picture of the Sun on March 9 was made in extreme ultraviolet light by the EIT instrument on board the space-based SOHO observatory.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/holes_soho_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Coronal Holes on the Sun",
+    "url": "https://apod.nasa.gov/apod/image/0303/holes_soho.jpg"
+},
+{
+    "date": "2003-03-19",
+    "explanation": "Seventeenth century astronomer Giovanni Domenico Cassini was an astute observer of Jupiter's Great Red Spot. So it seems only fitting that his namesake, the Cassini spacecraft, has enabled detailed observations of another planet-sized blemish -- Jupiter's Great Dark Spot. Unlike the Red Spot, the Great Dark Spot lies near Jupiter's north pole and seems to appear and disappear over periods of months rather than persisting for hundreds of years. Seen at ultraviolet wavelengths, the dark feature resides in the Jovian stratosphere confined by pole-encircling winds, analogous to planet Earth's antarctic ozone hole. This image of the Dark Spot is a single frame from a movie created with data recorded during the spacecraft's year 2000 flyby of Jupiter. Projected to show Jupiter's north polar region, no data are available for the blank central area, while the Great Dark Spot lies above and just left of center. The white circle marks 60 degrees latitude and the blue contour outlines a persistent Jovian auroral zone which may be related to the formation of the Great Dark Spot.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/jupspot_cassini_frame58.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Jupiter's Great Dark Spot",
+    "url": "https://apod.nasa.gov/apod/image/0303/jupspot_cassini_c1.jpg"
+},
+{
+    "copyright": "Anthony Ayiomamitis",
+    "date": "2003-03-20",
+    "explanation": "Astronomically speaking, at the Equinox on March 21, 0100 UT (March 20, 8:00 PM ET) the season changes. For this Equinox the Sun rises due east as it crosses the celestial equator heading north. In celebration, consider this spectacular sunrise analemma! An analemma is the figure-8 loop you get when you mark the position of the Sun at the same time each day throughout the year. In this remarkable case, 38 separate exposures (and 1 foreground exposure) were recorded on a single piece of film between January 12 and December 21, 2002 at 0600 UT.  The tilt of planet Earth's axis and the variation in speed as it moves around its elliptical orbit combine to produce the predictable analemma curve. The top and bottom of the figure-8 correspond to the Solstices -- the Northern and Southern limits of the Sun's sky motion. The two Equinoxes find the Sun at points along the anelemma curve exactly half way between the Solstices. Here, the analemma's Southern portion is partly hidden by mountains. In the foreground lie the stone ruins of the Tholos at the ancient site of Delphi, Greece.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/analemma0600UT_ayiomamitis_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Sunrise Analemma",
+    "url": "https://apod.nasa.gov/apod/image/0303/analemma0600UT_ayiomamitis_c2.jpg"
+},
+{
+    "copyright": "Lauri Kangas",
+    "date": "2003-03-21",
+    "explanation": "Photographed on March 13th from Caledon, Ontario, Canada, a bright Moon was surrounded by this lovely halo. Planet Jupiter and stars Procyon, Castor, and Pollux also appear within the circle of lunar light. Castor and Pollux, twins in Greek Mythology, are appropriately bright stars of the constellation Gemini while Procyon is the brightest star in Canis Minor. The circular halo is produced by six-sided ice crystals in thin high-altitude clouds, which refract the moonlight and give the halo a characteristic radius of 22 degrees. For persistent skygazers such apparitions are relatively easy to see when the Moon and Sun illuminate planet Earth's skies.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/moonhalo_kangas_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Stars and Planets in the Halo of the Moon",
+    "url": "https://apod.nasa.gov/apod/image/0303/moonhalo_kangas_labelc1.jpg"
+},
+{
+    "date": "2003-03-22",
+    "explanation": "cept for the rings of Saturn, the Ring Nebula (M57) is probably the most famous celestial band. This planetary nebula's simple, graceful appearance is thought to be due to perspective -- our view from planet Earth looking straight into what is actually a barrel-shaped cloud of gas shrugged off by a dying central star. Astronomers of the Hubble Heritage Project produced this strikingly sharp image from Hubble Space Telescope observations using natural appearing colors to indicate the temperature of the stellar gas shroud. Hot blue gas near the energizing central star gives way to progressively cooler green and yellow gas at greater distances with the coolest red gas along the outer boundary. Dark, elongated structures can also be seen near the nebula's edge. The Ring Nebula is about one light-year across and 2,000 light-years away in the northern constellation Lyra.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/m57ring_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M57: The Ring Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0303/m57ring_hst.jpg"
+},
+{
+    "date": "2003-03-23",
+    "explanation": "The closest star system to the Sun is the Alpha Centauri system.  Of the three stars in the system, the dimmest -- called Proxima Centauri -- is actually the nearest star.  The bright stars Alpha Centauri A and B form a close binary as they are separated by only 23 times the Earth- Sun distance - slightly greater than the distance between Uranus and the Sun.  In the above picture, the brightness of the stars overwhelm the photograph causing an illusion of great size, even though the stars are really just small points of light.  The Alpha Centauri system is not visible in much of the northern hemisphere.  Alpha Centauri A, also known as Rigil Kentaurus, is the brightest star in the constellation of Centaurus and is the fourth brightest star in the night sky.  Sirius is the brightest even thought it is more than twice as far away.  By an exciting coincidence, Alpha Centauri A is the same type of star as our Sun, causing many to speculate that it might contain planets that harbor life.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/alphacen_eso_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Alpha Centauri: The Closest Star System",
+    "url": "https://apod.nasa.gov/apod/image/0303/alphacen_eso.jpg"
+},
+{
+    "copyright": "The Living Earth, Inc.",
+    "date": "2003-03-24",
+    "explanation": "No single spacecraft or astronaut took this picture.  It is a digital composite of archived images taken by several Earth-orbiting satellites and ocean-faring ships.  Similar images can be digitally stitched together for any Earth location by John Walker's Earth and Moon Viewer website.  Specifically, the daytime land images were taken by the MODIS instrument on NASA's Terra satellite, while the nighttime images were taken by the DMSP satellites.  This image is different from what an astronaut would see for reasons including a complete lack of clouds and an unrealistic exaggeration of lights and contrasts.  The image has become both an internet wave in that it continues to circulate as an attachment to digital correspondence, and a modern urban legend.  Another image like that is Earth at Night.  The reason for the image's continued popularity might be simple: it is really cool looking.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/europesunset_livingearth_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Digital Sunset Over Europe and Africa",
+    "url": "https://apod.nasa.gov/apod/image/0303/europesunset_livingearth.jpg"
+},
+{
+    "date": "2003-03-25",
+    "explanation": "Why would a gamma ray burst fade so slowly?  This behavior, recorded last October, is considered a new clue into the cause of gamma-ray bursts, the most powerful explosions known in the universe.  The burst, first detected by the orbiting HETE satellite and later tracked by numerous ground-based telescopes, showed an unusually slow and tumultuous decay in visible light.  Speculations on the cause of the unusual light curve include a blast wave striking a windy circumburst medium, a blast wave energetically refreshed by a faster outgoing shock, and non-uniformity in a fast moving jet.  Pictured above is the massive Wolf-Rayet star WR124, a star itself undergoing a slow explosion by producing a very powerful but tumultuous wind.  Popular candidate progenitor sources for GRBs include supernova or hypernova explosions from massive stars, possibly ones with similarities to Wolf-Rayet stars.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/wr124_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Slow Explosion",
+    "url": "https://apod.nasa.gov/apod/image/0303/wr124_hst.jpg"
+},
+{
+    "copyright": "Mark Meyer",
+    "date": "2003-03-26",
+    "explanation": "Is that a cloud or a flying saucer?  Both, although it is surely not an alien spacecraft.  Lenticular clouds can be shaped like a saucer, and can fly in the sense that, like most clouds, they are composed of small water droplets that float on air.  Lenticular clouds are typically formed by high winds over rugged terrain and are particularly apparent when few other clouds are in the sky.  Lenticular clouds can take on particularly strange, layered shapes.  Above, a couple stopped their car near Yellowstone National Park in Wyoming, USA to photograph this lenticular cloud behind picturesque windmills.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/lenticular_meyer_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Lenticular Cloud Over Wyoming",
+    "url": "https://apod.nasa.gov/apod/image/0303/lenticular_meyer.jpg"
+},
+{
+    "date": "2003-03-27",
+    "explanation": "Tomorrow's picture: How bright was that supernova?  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Web Site Statements, Warnings, and Disclaimers NASA Official: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/v838mon_hst_fulldec.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Light Echoes from V838 Mon",
+    "url": "https://apod.nasa.gov/apod/image/0303/v838mon_hst_dec.jpg"
+},
+{
+    "copyright": "Tun� Tezel",
+    "date": "2003-03-28",
+    "explanation": "Tomorrow's picture: The Shadow  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Web Site Statements, Warnings, and Disclaimers NASA Official: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/sn1006_tezel_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "1006 AD: Supernova in the Sky",
+    "url": "https://apod.nasa.gov/apod/image/0303/sn1006_tezel.jpg"
+},
+{
+    "date": "2003-03-29",
+    "explanation": "Tomorrow's picture: Before Telescopes  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Web Site Statements, Warnings, and Disclaimers NASA Official: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/shadowphobos3_mgs_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Shadow of Phobos",
+    "url": "https://apod.nasa.gov/apod/image/0303/shadowphobos3_mgs.jpg"
+},
+{
+    "copyright": "Judy Tobin",
+    "date": "2003-03-30",
+    "explanation": "Did observatories exist before telescopes?  One example that still stands today is the Beijing Ancient Observatory in China. Starting in the 1400s astronomers erected large instruments here to enable them to measure star and planet positions with increasing accuracy.   Pre-telescopic observatories throughout the world date back to before recorded history, providing measurements that helped to determine when to plant crops, how to navigate ships, and when religious ceremonies should occur.  It is interesting to compare the above picture to one taken in 1895.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/beijing_tobin.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Beijing Ancient Observatory",
+    "url": "https://apod.nasa.gov/apod/image/0303/beijing_tobin_big.jpg"
+},
+{
+    "copyright": "Stromboli online",
+    "date": "2003-03-31",
+    "explanation": "Mt. Etna has been erupting for hundreds of thousands of years.  Located in Sicily, Italy, the volcano produces lava fountains over one kilometer high.  Mt. Etna is not only one of the most active volcanoes on Earth, it is one of the largest, measuring over 50 kilometers at its base and rising nearly 3 kilometers high.  Pictured in 2001 May, the tops of two lava plumes are visible near the center of the frame, while hot lava flowing down the volcano is visible on the left.   This panoramic shot also includes the city lights of Calabria and Taormina on the left, and Catania on the right.  The Earth's rotation is discernable on this long duration image as star trails.  Orange Mars can be seen rising just below the star Antares far in the distance.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0303/etna_fulle_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mt. Etna Lava Plumes",
+    "url": "https://apod.nasa.gov/apod/image/0303/etna_fulle.jpg"
+},
+{
+    "date": "2003-04-01",
+    "explanation": "A new constellation has taken hold of the sky, much to the surprise of many sky gazers.  The constellation of Ollie the Owl has suddenly started dominating the southern hemisphere, as shown above.  The constellation is taking the place of Wrinkles the Rhinoceros, who was unexpectedly voted off the sky by the other constellations.  Happy April Fools day from the folks at APOD!  Pictured above, a bird was photographed taking the Tololo All Sky Camera (TASCA) as a perch, a situation that would be even funnier if the bird's talons hadn't scratched the plastic enclosing dome.  TASCA continues to monitor the entire night sky as visible from the Cerro Tololo Inter-american Observatory located in Chile.  Given the unusual vantage point, one guess is that the bird is a Great Horned Owl, although it is hoped that a properly under-schooled ornithologist can e-mail Dr. Schwarz with the bird's true species.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/bird_tasca_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A New Constellation Takes Hold",
+    "url": "https://apod.nasa.gov/apod/image/0304/bird_tasca.jpg"
+},
+{
+    "date": "2003-04-02",
+    "explanation": "What caused this outburst of V838 Mon?  For reasons unknown, star V838 Mon's outer surface suddenly greatly expanded with the result that it became the brightest star in the entire Milky Way Galaxy.  Then, just as suddenly, it faded.  A stellar flash like this has never been seen before -- supernovas and novas expel matter out into space.  Although the V838 Mon flash appears to expel material into space, what is seen in the above four-frame movie is actually an outwardly moving light echo of the bright flash.  The actual time-span of the movie is 8 months during 2002.  In a light echo, light from the flash is reflected by successively more distant rings in the complex array of ambient interstellar dust that already surrounded the star.  V838 Mon lies about 20,000 light years away toward the constellation of Monoceros, while the largest light echo above spans about six light years in diameter.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/v838movie_hst_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "V838 Light Echo: The Movie",
+    "url": "https://apod.nasa.gov/apod/image/0304/v838movie_hst.gif"
+},
+{
+    "copyright": "Tun� Tezel",
+    "date": "2003-04-03",
+    "explanation": "If you can find planet Jupiter in tonight's sky, then you can also find M44, popularly known as the Beehive star cluster. In fact, with a pair of binoculars most casual skygazers should find it easy to zero in on this celestial scene. It should be easy because after sunset Jupiter presently rules the night as the brightest \"star\" overhead. Now near the stationary part of its wandering path through the heavens, Jupiter will obligingly linger for a while at a spot only a degree or so southeast of M44 in the relatively faint constellation Cancer. Seen here in a photograph from March 28, Jupiter (lower left) is strongly overexposed with the stars of M44 swarming above and to the right.  The picture approximately corresponds to the view when looking through a typical pair of binoculars. Jupiter is about 30 light-minutes from our fair planet while M44, one of the closest star clusters, is around 600 light-years away.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/jupM44_tezel_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Jupiter in the Hive",
+    "url": "https://apod.nasa.gov/apod/image/0304/jupM44_tezel_c1.jpg"
+},
+{
+    "copyright": "Axel Mellinger",
+    "date": "2003-04-04",
+    "explanation": "At first, the bright stars of the large asterism known as the (northern) Winter Hexagon might be hard to pick out in this gorgeous deep sky mosaic from December 2002. But placing your cursor over the picture will reveal the hexagon's outlines and the bright clusters and nebulae along a stunning portion of the Milky Way opposite the galactic center. The celestial highlights include M42 (aka the Great Nebula of Orion), Orion's Horsehead nebula, the Rosette and Cone nebulae, and nearby star clusters M45 (Pleiades) and Gemini's own M35. For now, this hexagon is sinking low in western evening skies.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/hexagon_mellinger_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Clusters and Nebulae of the Hexagon",
+    "url": "https://apod.nasa.gov/apod/image/0304/hexagon80_mellinger.jpg"
+},
+{
+    "date": "2003-04-05",
+    "explanation": "Since Saturn's axis is tilted as it orbits the Sun, Saturn has seasons, like those of planet Earth ... but Saturn's seasons last for over seven years. So what season is it on Saturn now? Orbiting the equator, the tilt of the rings of Saturn provides quite a graphic seasonal display. In fact, this month, Saturn's rings will reach their most \"open\" angle after appearing nearly edge on in the mid-1990s. The ringed planet is also well placed in evening skies providing a grand view as summer comes to Saturn's southern hemisphere and winter to the north. The Hubble Space Telescope took the above sequence of images about a year apart, starting on the left in 1996 and ending on the right in 2000.  Although they look solid, Saturn's Rings are likely less than 50 meters thick and consist of individually orbiting bits of ice and rock ranging in size from grains of sand to barn-sized boulders.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/saturnseasons_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Seasons of Saturn",
+    "url": "https://apod.nasa.gov/apod/image/0304/saturnseasons_hst.jpg"
+},
+{
+    "date": "2003-04-06",
+    "explanation": "This moon is doomed.  Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These Martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more distant reaches of the Solar System. In this 1978 Viking 1 orbiter image, the largest moon, Phobos, is indeed seen to be a heavily cratered asteroid-like object. About 17 miles across, Phobos really zips through the Martian sky. Actually rising above Mars' western horizon and setting in the east, it completes an orbit in less than 8 hours. But Phobos orbits so close to Mars, (about 5,800 kilometers above the surface compared to 400,000 kilometers for our Moon) that gravitational tidal forces are dragging it down. In 100 million years or so it will likely crash into the surface or be shattered by stress caused by the relentless tidal forces, the debris forming a ring around Mars.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0108/phobos_vik1_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Phobos: Doomed Moon of Mars",
+    "url": "https://apod.nasa.gov/apod/image/0108/phobos_vik1_r1.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2003-04-07",
+    "explanation": "NGC 281 is a busy workshop of star formation.  Prominent features include a small open cluster of stars, a diffuse red-glowing emission nebula, large lanes of obscuring  gas and dust, and dense knots of dust and gas in which stars may still be forming.  The open cluster of stars IC 1590 visible around the center has formed only in the last few million years.  The brightest member of this cluster is actually a multiple-star system shining light that helps ionize the nebula's gas, causing the red glow visible throughout.  The lanes of dust visible below the center are likely homes of future star formation.  Particularly striking in the above photograph are the dark Bok globules visible against the bright nebula.  Stars are surely forming there right now.  The entire NGC 281 system lies about 10 thousand light years distant.   Have you seen today's: Earth Science Picture of the Day?",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/ngc281_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 281: Cluster, Clouds, and Globules",
+    "url": "https://apod.nasa.gov/apod/image/0304/ngc281_cfht.jpg"
+},
+{
+    "date": "2003-04-08",
+    "explanation": "What do auroras look like from space?  From the ground, auroras dance high above clouds, frequently causing spectacular displays.  The International Space Station (ISS) orbits just at the same height as many auroras, though.  Therefore, sometimes it flies over them, but also sometimes it flies right through.  The auroral electron and proton streams are too thin to be a danger to the ISS, just as clouds pose little danger to airplanes.  ISS Science Officer Don Pettit captured a green aurora, pictured above in a digitally sharpened image.  From orbit, Dr. Pettit reports, changing auroras can appear to crawl around like giant green amoebas.  Far below, on planet Earth, the Manicouagan Impact Crater can be seen in northern Canada.   Have you seen today's: Space Station Science Picture of the Day?",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/spaceaurora_iss_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Aurora From Space",
+    "url": "https://apod.nasa.gov/apod/image/0304/spaceaurora_iss.jpg"
+},
+{
+    "date": "2003-04-09",
+    "explanation": "Where is the center of the unusual Egg Nebula?  Like a baby chick pecking its way out of an egg, the star in the center of the Egg Nebula is casting away shells of gas and dust as it slowly transforms itself into a white dwarf star.  The Egg Nebula is a rapidly evolving pre-planetary nebula spanning about one light year toward the constellation of Cygnus. Thick dust, though, blocks the center star from view, while the dust shells further out reflect light from this star.  Light vibrating in the plane defined by each dust grain, the central star, and the observer is preferentially reflected, causing an effect known as polarization.  Measuring the orientation of the polarized light for the Egg Nebula gives clues to location of the hidden source.  The above image taken by the Advanced Camera for Surveys on the Hubble Space Telescope is false-color coded to highlight the orientation of polarization.    Have you seen this week's: HEASARC Picture of the Week?",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/egg_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Egg Nebula in Polarized Light",
+    "url": "https://apod.nasa.gov/apod/image/0304/egg_hst.jpg"
+},
+{
+    "date": "2003-04-10",
+    "explanation": "Blossoming in nearby galaxy the Large Magellanic Cloud (LMC), this gorgeous nebula is energized by radiation and winds from a massive star whose surface temperature approaches 100,000 degrees. The composite color image from the European Southern Observatory's Melipal telescope resolves details in the energetic nebula, with emission from helium atoms in blue hues, oxygen atoms in green, and hydrogen atoms in red.  While emission nebulae generally show the familiar red light from ionized hydrogen atoms - hydrogen atoms with their electrons stripped away - ionized helium atoms are tracers of even higher energy interactions. The intriguing filaments of helium emission make this and other recently studied emission nebulae most exceptional. A Wolf-Rayet star, the massive star powering this nebula, created a cosmic bubble with stellar winds in the early stages of its life. Part of the bubble is still apparent as the large arc in the lower portion of the image. The area pictured is about 150 light-years across.   Have you seen today's: THEMIS Image of Mars?",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/bat99-2_eso_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Energized Nebula in the LMC",
+    "url": "https://apod.nasa.gov/apod/image/0304/bat99-2_eso_c1.jpg"
+},
+{
+    "date": "2003-04-11",
+    "explanation": "Do you recognize this intriguing globular cluster of stars? It's actually the constellation of city lights surrounding London, England, planet Earth, as recorded with a digital camera from the International Space Station. Taken in February 2003, north is toward the top and slightly left in this nighttime view. The encircling \"London Orbital\" highway by-pass, the M25 (... but not Messier 25), is easiest to pick out south of the city. Even farther south are the lights of Gatwick airport and just inside the western (left hand) stretch of the Orbital is Heathrow. The darkened Thames river estuary fans out to the city's east. In particular, two small \"dark nebulae\" - Hyde Park and Regents Park - stand out slightly west of the densely packed lights at the city's core.   Have you seen this: NASA Image of the Day?",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/london_iss_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "London at Night",
+    "url": "https://apod.nasa.gov/apod/image/0304/london_iss_c1.jpg"
+},
+{
+    "copyright": "Juan Carlos Casado",
+    "date": "2003-04-12",
+    "explanation": "Have you ever seen the planet Mercury?  Because Mercury orbits so close to the Sun, it never wanders far from the Sun in Earth's sky. If trailing the Sun, Mercury will be visible low on the horizon for only a short while after sunset. If leading the Sun, Mercury will be visible only shortly before sunrise. So at certain times of the year an informed skygazer with a little determination can usually pick Mercury out from a site with an unobscured horizon. Above, a lot of determination has been combined with a little digital trickery to show Mercury's successive positions during March of 2000.  Each picture was taken from the same location in Spain when the Sun itself was 10 degrees below the horizon and superposed on the single most photogenic sunset.  By the middle of this month, Mercury will again be well placed for viewing above the western horizon at sunset, but by the end of April it will have faded and dropped into the twilight. On May 7th, Mercury will cross the Sun's disk.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/mercurysky_casado_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mercury on the Horizon",
+    "url": "https://apod.nasa.gov/apod/image/0304/mercurysky_casado_c1.jpg"
+},
+{
+    "date": "2003-04-13",
+    "explanation": "Many spiral galaxies have bars across their centers.  Even our own Milky Way Galaxy is  thought to have a bar, but perhaps not so prominent as the one in NGC 1365, shown above.  The persistence and motion of the bar imply relatively massive spiral arms.  The placements of bright young blue stars and dark dust lanes also indicate a strong rotating density wave of star formation.  NGC 1365 is a member of the Fornax Cluster of Galaxies. Because NGC 1365 is relatively nearby, simultaneous measurements of its speed and distance are possible, which help astronomers estimate how fast our universe is expanding.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/ngc1365_vlt_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 1365: A Nearby Barred Spiral Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0304/ngc1365_vlt.jpg"
+},
+{
+    "date": "2003-04-14",
+    "explanation": "New evidence has emerged that a mysterious type of explosion known as a gamma ray burst is indeed connected to a supernova of the type visible in the above image.  Two weeks ago, the orbiting HETE satellite detected gamma-ray burst GRB030329.  The extremely bright burst was found hours later to have an extremely bright afterglow in visible light, and soon set the record for the closest measured distance at redshift 0.17.  The afterglow brightness allows unprecedented coverage of its evolution.  Just this week, as many astronomers suspected would happen, the afterglow began to appear as a fading Type II Supernova.  Type II Supernovas might not appear coincident with gamma-ray bursts, however, when the gamma-ray beam goes in another direction.  The above spiral galaxy, NGC 3184, was home to a Type II Supernova in 1999 at the position of the arrow.  Astronomers are currently pressing hard to find the host galaxy for GRB030329.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/ngc3184_kelly_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Gamma Ray Burst - Supernova Connection",
+    "url": "https://apod.nasa.gov/apod/image/0304/ngc3184_kelly.jpg"
+},
+{
+    "copyright": "T. A. Rector",
+    "date": "2003-04-15",
+    "explanation": "What caused the Crescent Nebula?  Looking like an emerging space cocoon, the Crescent Nebula, visible on the right, was created by the brightest star in its center.  A leading progenitor hypothesis has the Crescent Nebula beginning to form about 250,000 years ago.  At that time, the massive central star had evolved to become a Wolf-Rayet star (WR 136), shedding its outer envelope in a strong stellar wind, ejecting the equivalent of our Sun's mass every 10,000 years.  This wind impacted surrounding gas left over from a previous phase, compacting it into a series of complex shells, and lighting it up.  The Crescent Nebula, also known as NGC 6888, lies about 4,700 light-years away in the constellation of Cygnus.  Star WR 136 will probably undergo a supernova explosion sometime in the next million years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/crescent_kpno_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Crescent Nebula Star Field",
+    "url": "https://apod.nasa.gov/apod/image/0304/crescent_kpno.jpg"
+},
+{
+    "copyright": "Stromboli online",
+    "date": "2003-04-16",
+    "explanation": "Mt. Etna erupted spectacularly in 2001 June.  Pictured above, the volcano was photographed expelling bubbles of hot magma, some of which measured over one meter across.  One reason planetary geologists study Earth's Mt. Etna is because of its likely similarity to volcanoes on Mars.  Mt. Etna, a basalt volcano, is composed of material similar to Mars, and produces similar lava channels.  Located in Sicily, Italy, Mt. Etna is not only one of the most active volcanoes on Earth, it is one of the largest, measuring over 50 kilometers at its base and rising nearly 3 kilometers high.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/etnabubbles_fulle_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Magma Bubbles from Mt. Etna",
+    "url": "https://apod.nasa.gov/apod/image/0304/etnabubbles_fulle.jpg"
+},
+{
+    "date": "2003-04-17",
+    "explanation": "Close to the Great Bear (Ursa Major) and surrounded by the stars of the Hunting Dogs (Canes Venatici), this celestial nebula was discovered in 1781 by the metric French astronomer Pierre Mechain and later added to the catalog of his friend and colleague Charles Messier as M106. Modern deep telescopic views reveal it to be an island universe -- a spiral galaxy around 30 thousand light-years across located only about 21 million light-years beyond the stars of the Milky Way. Youthful blue star clusters and reddish stellar nurseries trace the striking spiral arms of M106. Seen so clearly in this beautiful image, the galaxy's bright core is also visible across the spectrum from radio to x-rays, making M106 a nearby example of the Seyfert class of active galaxies. The bright core of a Seyfert galaxy is believed to be powered by matter falling into a massive central black hole.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/m106_block_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M106 in Canes Venatici",
+    "url": "https://apod.nasa.gov/apod/image/0304/m106_block_c1.jpg"
+},
+{
+    "date": "2003-04-18",
+    "explanation": "Lofted over the Sun on looping magnetic fields, large solar prominences are composed of relatively cool, dense plasma. When seen against the brilliant solar disk they appear as dark filaments, but these enormous magnetic structures are bright themselves when viewed against the blackness of space as they arc above the Sun's edge. In a rare visual treat, these two solar prominences arising from the Sun's southern (lower) hemisphere were captured in extreme ultraviolet light by the EIT camera on board the space-based SOlar and Heliospheric Observatory (SOHO) on March 21. For scale, the pair of plasma loops stretch above the Sun to a height of about twenty times the diameter of planet Earth. In a matter of hours, these prominences apparently erupted away from the Sun's surface and may have been associated with a flare and coronal mass ejection.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/doubleprom_soho_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Double Eruptive Prominences",
+    "url": "https://apod.nasa.gov/apod/image/0304/doubleprom_soho_c2.jpg"
+},
+{
+    "date": "2003-04-19",
+    "explanation": "Centaurus, the Centaur, is one of the most striking constellations in the southern sky. The lovely Milky Way flows through this large constellation whose celestial wonders also include the closest star to the sun, Alpha Centauri, the largest globular star cluster in our galaxy, Omega Centauri, and the closest active galaxy, Centaurus A. Embraced by tightly wound spiral arms of bright blue star clusters, this gorgeous galaxy - cataloged as ESO 269-57 - also falls within Centaurus' borders. Seen behind a veil of foreground stars which lie within our own galaxy, this face-on spiral galaxy is about 150 million light-years away and 200,000 light-years across. The brighter foreground stars are marked by diffraction spikes caused by the telescope and yellow vertical stripes due to saturated digital camera pixels in the above Very Large Telescope image from the European Southern Observatory. Tantalizing wisps of more distant, faint galaxies are visible in the background.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/eso269_vlt_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Spiral Galaxy In Centaurus",
+    "url": "https://apod.nasa.gov/apod/image/0304/eso269_vlt.jpg"
+},
+{
+    "copyright": "John Gleason",
+    "date": "2003-04-20",
+    "explanation": "Because the Gum Nebula is the closest supernova remnant, it is actually hard to see.  Spanning 40 degrees across the sky, the nebula is so large and faint it is easily lost in the din of a bright and complex background.  The Gum Nebula, highlighted nicely in the above wide angle photograph, is so close that we are much nearer the front edge than the back edge, each measuring 450 and 1500  light years respectively.  The complex nebula lies in the direction of the constellations of Puppis and Vela.  Oddly, much remains unknown about the Gum Nebula, including the timing and even number of supernova explosions that formed it.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/gum_gleason_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Gum Nebula Supernova Remnant",
+    "url": "https://apod.nasa.gov/apod/image/0304/gum_gleason.jpg"
+},
+{
+    "copyright": "Sarah McKay",
+    "date": "2003-04-21",
+    "explanation": "Tomorrow's picture: North Mars  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Web Site Statements, Warnings, and Disclaimers NASA Official: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/moonhalo_mccay_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Halo Around the Moon",
+    "url": "https://apod.nasa.gov/apod/image/0304/moonhalo_mccay.jpg"
+},
+{
+    "date": "2003-04-22",
+    "explanation": "Vast canyons, towering volcanoes, sprawling fields of ice, deep craters, and high clouds can all be seen in this image of the Solar System's fourth planet: Mars.  The orbiting robot Mars Global Surveyor spacecraft took the above mosaic of images as springtime dawned in Northern Mars in 2002 May.  Sprawled across the image bottom is Valles Marinaris, a canyon three times the length of Earth's Grand Canyon, and four times as deep.  On the left are several volcanoes including Olympus Mons, a volcano three times higher than Earth's Mt. Everest.  At the top is the North Polar Cap made of thawing water and carbon-dioxide based ice.  Swirling white clouds and circular impact craters are also visible around Mars.  Two rovers will be launched to Mars this summer and should arrive in 2004 January.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/marsnorth_msss_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Springtime on Mars",
+    "url": "https://apod.nasa.gov/apod/image/0304/marsnorth_msss.jpg"
+},
+{
+    "date": "2003-04-23",
+    "explanation": "Some 2,000 light-years across, NGC 1705 is small as galaxies go, similar to our Milky Way's own satellite galaxies, the Magellanic Clouds. At a much larger distance of 17 million light-years, the stars of NGC 1705 are still easily resolved in this beautiful image constructed from data taken in 1999 and 2000 with the Hubble Space Telescope. Most of the younger, hot, blue stars in the galaxy are seen to be concentrated in a large central star cluster with the older, cooler, red stars more evenly distributed. Possibly 13 billion years old, NGC 1705 could well have been forming stars through out its lifetime while light from its most recent burst of star formation reached Earth only 30 million years ago. This gradually evolving dwarf irregular galaxy lacks organized structures like spiral arms and is thought to be a nearby analog to the first galaxies to form in the early Universe.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/ngc1705_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Stars of NGC 1705",
+    "url": "https://apod.nasa.gov/apod/image/0304/ngc1705_hst_c1.jpg"
+},
+{
+    "date": "2003-04-24",
+    "explanation": "No sudden, sharp boundary marks the passage of day into night in this gorgeous view of ocean and clouds over our fair planet Earth. Instead, the shadow line or terminator is diffuse and shows the gradual transition to darkness we experience as twilight. With the Sun illuminating the scene from the right, the cloud tops reflect gently reddened sunlight filtered through the dusty troposphere, the lowest layer of the planet's nurturing atmosphere. A clear high altitude layer, visible along the dayside's upper edge, scatters blue sunlight and fades into the blackness of space. This picture actually is a single digital photograph taken in June of 2001 from the International Space Station orbiting at an altitude of 211 nautical miles.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/earthterminator_iss002_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Earth at Twilight",
+    "url": "https://apod.nasa.gov/apod/image/0304/earthterminator_iss002_c1.jpg"
+},
+{
+    "date": "2003-04-25",
+    "explanation": "Sculpted by stellar winds and radiation, these fantastic, undulating shapes lie within the stellar nursery known as M17, the Omega Nebula, some 5,500 light-years away in the nebula-rich constellation Sagittarius. The lumpy features in the dense cold gas and dust are illuminated by stars off the upper left of the image and may themselves represent sites of future star formation. Colors in the fog of surrounding hotter material indicate M17's chemical make up. The predominately green glow corresponds to abundant hydrogen, with trace sulfur and oxygen atoms contributing red and blue hues. The picture spans about 3 light-years and was released to celebrate the thirteenth year of the Hubble Space Telescope's cosmic voyage of exploration.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/m17close_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M17: A Hubble Close-Up",
+    "url": "https://apod.nasa.gov/apod/image/0304/m17close_hst_c1.jpg"
+},
+{
+    "date": "2003-04-26",
+    "explanation": "This reconstructed digital portrait of our planet is reminiscent of the Apollo-era pictures of the \"big blue marble\" Earth from space. To create it, researchers at Goddard Space Flight Center's Laboratory for Atmospheres combined data from a Geostationary Operational Environmental Satellite (GOES), the Sea-viewing Wide Field-of-view Sensor (SeaWiFS), and the Polar Orbiting Environmental Satellites (POES) with a USGS elevation model of Earth's topography. Stunningly detailed, the planet's western hemisphere is cast so that heavy vegetation is green and sparse vegetation is yellow, while the heights of mountains and depths of valleys have been exaggerated by 50 times to make vertical relief visible.  Hurricane Linda is the dramatic storm off North America's west coast. And what about the Moon? The lunar image was reconstructed from GOES data and artistically rescaled for this visualization.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/bluemarble2k_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Big Blue Marble Earth",
+    "url": "https://apod.nasa.gov/apod/image/0304/bluemarble2k.jpg"
+},
+{
+    "date": "2003-04-27",
+    "explanation": "If you could look at Venus with radar eyes - this is what you might see. This computer reconstruction of the surface of Venus was created from data from the Magellan spacecraft.  Magellan orbited Venus and used radar to map our neighboring planet's surface between 1990 and 1994. Magellan found many interesting surface features, including the large circular domes, typically 25-kilometers across, that are depicted above.  Volcanism is thought to have created the domes, although the precise mechanism remains unknown.  Venus' surface is so hot and hostile that no surface probe has lasted more than a few minutes.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0003/venus4_mag_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Venus' Once Molten Surface",
+    "url": "https://apod.nasa.gov/apod/image/0003/venus4_mag.jpg"
+},
+{
+    "date": "2003-04-28",
+    "explanation": "It takes a big rocket to go into space.  Last weekend, this huge Russian rocket was launched toward Earth-orbiting International Space Station (ISS), carrying two astronauts who will make up the new Expedition 7 crew.  Seen here during rollout at the Baikonur Cosmodrome, the rocket's white top is actually a Soyuz TMA-2, the most recent version of the longest serving type of human spacecraft.  The base is a Russian R7 rocket, originally developed as a prototype Intercontinental Ballistic Missile in 1957.  The rocket spans the width of a football field and has a fueled mass of about half a million kilograms.  Russian rockets like this will be primary transportation system to the ISS while NASA studies the underlying reasons behind the recent tragic break-up of the Space Shuttle Columbia.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/tma2_nasa_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Rollout of a Soyuz TMA-2 Aboard an R7 Rocket",
+    "url": "https://apod.nasa.gov/apod/image/0304/tma2_nasa.jpg"
+},
+{
+    "copyright": "MegaPrime CameraCanada-France-Hawaii Telescope",
+    "date": "2003-04-29",
+    "explanation": "In the heart of the Rosette Nebula lies a bright open cluster of stars that lights up the nebula.  The stars of NGC 2244 formed from the surrounding gas only a few million years ago.  This just-released image taken by the CFHT's new MegaPrime camera shows the region in unprecedented detail.  Although the emission nebula is dominated by red hydrogen light, the above image has exaggerated the effect of green light emitted primarily by small amounts of oxygen. A hot wind of particles streams away from the cluster stars and contributes to an already complex menagerie of gas and dust filaments while slowly evacuating the cluster center.  The Rosette Nebula's center measures about 50 light-years across, lies about 4500 light-years away, and is visible with binoculars towards the constellation of Monoceros.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/rosette_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "In the Center of the Rosette Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0304/rosette_cfht.jpg"
+},
+{
+    "copyright": "J. KoermerPlymouth State College",
+    "date": "2003-04-30",
+    "explanation": "Why does this cloud look so strange?  Actually, pictured above are several clouds all stacked up into one striking lenticular cloud.  Normally, air moves much more horizontally than it does vertically.  Sometimes, however, such as when wind comes off of a mountain or a hill, relatively strong vertical oscillations take place as the air stabilizes.  The dry air at the top of an oscillation may be quite stratified in moisture content, and hence forms clouds at each layer where the air saturates with moisture. The result can be a lenticular cloud with a strongly layered appearance.  The above picture was taken in 1999 over Plymouth, New Hampshire, USA.  The same lenticular cloud also looks strange when photographed from 30 kilometers away.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0304/lenticular_rufo_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Lenticular Cloud Over New Hampshire",
+    "url": "https://apod.nasa.gov/apod/image/0304/lenticular_rufo.jpg"
+},
+{
+    "date": "2003-05-01",
+    "explanation": "The center of well-studied active galaxy Centaurus A is hidden from the view of optical telescopes by a cosmic jumble of stars, gas, and dust. But both radio and x-ray telescopes can trace the remarkable jet of high-energy particles streaming from the galaxy's core. With Cen A's central region at the lower right, this composite false-color image shows the radio emission in red and x-rays in blue over the inner 4,000 light-years of the jet. One of the most detailed images of its kind, the picture shows how the x-ray and radio emitting sites are related along the jet, providing a road map to understanding the energetic stream. Extracting its energy from a supermassive black hole at the galaxy's center, the jet is confined to a relatively narrow angle and seems to produce most of its x-rays (bluer colors) at the upper left, farther from the core, where the jet begins to collide with Centaurus A's denser gas.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/cenajet_cxcnrao_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Energetic Jet from Centaurus A",
+    "url": "https://apod.nasa.gov/apod/image/0305/cenajet_cxcnrao_c1.jpg"
+},
+{
+    "date": "2003-05-02",
+    "explanation": "Come December 2003 - January 2004, an armada of five new invaders from Earth should arrive on the shores of the Red Planet -- the Japanese ( ISAS) Nozomi orbiter, the European Space Agency's Mars Express orbiter carrying the Beagle 2 lander, and NASA's own two Mars Exploration Rovers. While Nozomi began its interplanetary voyage in 1998, the other spacecraft are scheduled for launch windows beginning this June. Clearly, earthdwellers remain intensely curious about Mars and the tantalizing possibility of past or present martian life, with these robotic missions focussing on investigating the planet's atmosphere and the search for water. This mosaic of over 100 Viking 1 orbiter images of Mars was recorded in 1980 and is projected to show the perspective seen from an approaching spacecraft at a distance of 2,000 kilometers. Exceptional views of Mars will be possible from earthbound telescopes in August and September.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/marsglobe5_viking_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Five to Mars",
+    "url": "https://apod.nasa.gov/apod/image/0305/marsglobe5_viking_c1.jpg"
+},
+{
+    "date": "2003-05-03",
+    "explanation": "The star cluster at lower right, cataloged as Hodge 301, is a denizen of the Tarantula Nebula. An evocative nebula in the southern sky, the sprawling cosmic Tarantula is an energetic star forming region some 168,000 light-years distant in our neighboring galaxy the Large Magellanic Cloud. The stars within Hodge 301 formed together tens of millions of years ago and as the massive ones quickly exhaust their nuclear fuel they explode. In fact, the giant stars of Hodge 301 are rapidly approaching this violent final phase of stellar evolution - known as a supernova. These supernova blasts send material and shock waves back into the nebular gas to create the Tarantula's glowing filaments also visible in this Hubble Space Telescope Heritage image. But these spectacular stellar death explosions signal star birth as well, as the blast waves condense gas and dust to ultimately form the next generation of stars inside the Tarantula Nebula.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/hodge301_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Denizen of the Tarantula Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0305/hodge301_hst_c2.jpg"
+},
+{
+    "date": "2003-05-04",
+    "explanation": "Many people have heard a sonic boom, but few have seen one. When an airplane travels at a speed faster than sound, density waves of sound emitted by the plane cannot precede the plane, and so accumulate in a cone behind the plane.  When this shock wave passes, a listener hears all at once the sound emitted over a longer period: a sonic boom.  As a plane accelerates to just break the sound barrier, however, an unusual cloud might form.  The origin of this cloud is still debated.  A leading theory is that a drop in air pressure at the plane described by the Prandtl-Glauert Singularity occurs so that moist air condenses there to form water droplets.  Above, an F/A-18 Hornet was  photographed just as it broke the sound barrier.  Large meteors and the space shuttle frequently produce audible sonic booms before they are slowed below sound speed by the Earth's atmosphere.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0102/sonicboomplane_navy_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Sonic Boom",
+    "url": "https://apod.nasa.gov/apod/image/0102/sonicboomplane_navy.jpg"
+},
+{
+    "date": "2003-05-05",
+    "explanation": "In NGC 1275, one galaxy is slicing through another.  The disk of the dusty spiral galaxy near the image center is cutting through a large elliptical galaxy, visible predominantly on the lower left.  Galaxies can change significantly during a collision like this, with gravitational tides distorting each galaxy and gas clouds being compressed and lighting up with new star formation.  Galaxy collisions occur in slow motion to the human eye, with a single pass taking as much as 100 million years.  NGC 1275 is a member of the Perseus cluster of galaxies that lies about 230 million light years away toward the constellation of Perseus.  Each galaxy spans about 50,000 light years across.  The above picture is a composite of images taken by the Hubble Space Telescope in 1995 and 2001.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/ngc1275_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 1275: A Galactic Collision",
+    "url": "https://apod.nasa.gov/apod/image/0305/ngc1275_hst.jpg"
+},
+{
+    "copyright": "Ivan and Colby Navarro",
+    "date": "2003-05-06",
+    "explanation": "If you wait long enough, a piece of outer space itself will come right to you.  As Colby Navarro worked innocently on the computer, a rock from space crashed through the roof, struck the printer, banged off the wall, and came to rest near the filing cabinet.  This occurred around midnight on March 26 in Park Forest, Illinois, USA, near Chicago.  The meteorite, measuring about 10 cm across, was one of several that fell near Chicago that day as part of a tremendous fireball.  Pictured above is the resulting hole in the ceiling, while the inset image shows the wall dent and the meteorite itself.  Although the vast majority of meteors is much smaller and burn up in the Earth's atmosphere, the average homeowner should expect to repair direct meteor damage every hundred million years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/chicagofall_navarro.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Chicago Meteorite Fall",
+    "url": "https://apod.nasa.gov/apod/image/0305/chicagofall_navarro.jpg"
+},
+{
+    "date": "2003-05-07",
+    "explanation": "Look up from Earth's South Pole, and this stellar starscape is what you might see.  Alternatively, this patch of sky is also visible from many southern locations as well as the orbiting International Space Station, where the above image was recently recorded.  To the left of the photograph's center are the four stars that mark the boundaries of the famous Southern Cross.  The band of stars, dust, and gas crossing the middle of the photograph is part our Milky Way Galaxy.  At the lower left is the dark Coal Sack Nebula, and the bright nebula on the far right is the Carina Nebula.  The Southern Cross is such a famous constellation that it is depicted on the national flag of Australia.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/southernsky_iss_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Southern Sky from the International Space Station",
+    "url": "https://apod.nasa.gov/apod/image/0305/southernsky_iss.jpg"
+},
+{
+    "date": "2003-05-08",
+    "explanation": "Can you spot the planet? The diminutive disk of Mercury, the solar system's innermost planet, spent about five hours crossing in front of the enormous solar disk yesterday (Wednesday, May 7th), as viewed from the general vicinity of planet Earth. The Sun was above the horizon during the entire transit for observers in Europe, Africa, Asia, or Australia, and the horizon was certainly no problem for the sun-staring SOHO spacecraft. Seen as a dark spot, Mercury progresses from left to right (top panel to bottom) in these four images from SOHO's extreme ultraviolet camera. The panels' false-colors correspond to different wavelengths in the extreme ultraviolet which highlight regions above the Sun's visible surface. This is the first of 14 transits of Mercury which will occur during the 21st century, but the next similar event will be a transit of Venus in June of 2004. Need help spotting Mercury? Just click on the picture.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/merctrans_sohoeit_4panlab.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mercury Spotting",
+    "url": "https://apod.nasa.gov/apod/image/0305/merctrans_sohoeit_4pan.jpg"
+},
+{
+    "copyright": "Tom Laskowski",
+    "date": "2003-05-09",
+    "explanation": "A stunning telescopic image of the International Space Station crossing in front of an eight day old Moon, this picture was captured on April 11th. But while Wednesday's leisurely transit of Mercury across the Sun entertained observers all over the dayside of planet Earth, the audience for this lunar transit was more restricted. Like other satellites in low Earth orbit, the space station moves quickly through the sky. Glinting in the sunlight near sunset and sunrise, its path strongly depends on the observer's longitude and latitude. So, well-placed astronomer Tom Laskowski tracked the orbiting space station from a site near South Bend, Indiana, USA and recorded a digital movie of the fleeting, dramatic event. This single frame from the movie has been enhanced to bring out detail in the space station. Seen below the lunar terminator at the lower left, the International Space Station appears here at a distance of just over 400 kilometers, with the Moon nearly 400,000 kilometers away.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/isstrans_laskowski.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "International Space Station in Transit",
+    "url": "https://apod.nasa.gov/apod/image/0305/isstrans_laskowski.jpg"
+},
+{
+    "date": "2003-05-10",
+    "explanation": "Will our Sun look like this one day?  The Helix Nebula is the closest example of a planetary nebula created at the end of the life of a Sun-like star.  The outer gasses of the star expelled into space appear from our vantage point as if we are looking down a helix.  The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce.  The Helix Nebula, given a technical designation of NGC 7293, lies about 650 light-years away towards the constellation of Aquarius and spans about 2.5 light-years.  The above picture is a composite of newly released images from the ACS instrument on the Hubble Space Telescope and wide-angle images from the Mosaic Camera on the WIYN 0.9-m Telescope at Kitt Peak National Observatory.  A close-up of the inner edge of the Helix Nebula shows complex gas knots of unknown origin.   News: Today is Astronomy Day!",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/helix03_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 7293: The Helix Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0305/helix03_hst.jpg"
+},
+{
+    "date": "2003-05-11",
+    "explanation": "M83 is one of the closest and brightest spiral galaxies on the sky. Visible with binoculars in the constellation of Hydra, majestic spiral arms have prompted its nickname as the Southern Pinwheel. Although discovered 250 years ago, only much later was it appreciated that  M83 was not a nearby gas cloud, but a barred spiral galaxy much like our own Milky Way Galaxy.  M83, pictured above in a photograph from a Very Large Telescope, is a prominent member of a group of galaxies that includes Centaurus A and NGC 5253, all of which lie about 15 million light years distant.  To date, six supernova explosions have been recorded in M83.  An intriguing double circumnuclear ring has been discovered at the center of M83.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/m83_vlt_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M83: The Southern Pinwheel Galaxy from VLT",
+    "url": "https://apod.nasa.gov/apod/image/0305/m83_vlt.jpg"
+},
+{
+    "copyright": "T. A. Rector",
+    "date": "2003-05-12",
+    "explanation": "Strange shapes and textures can be found in neighborhood of the Cone Nebula. The unusual shapes originate from fine interstellar dust reacting in complex ways with the energetic light and hot gas being expelled by the young stars.  The brightest star on the right of the above picture is S Mon, while the region just above it has been nicknamed the Fox Fur Nebula for its color and structure.  The blue glow directly surrounding S Mon results from reflection, where neighboring dust reflects light from the bright star.  The orange glow that encompasses the whole region results not only from dust reflection but also emission from hydrogen gas ionized by starlight. S Mon is part of a young open cluster of stars named NGC 2264, located about 2500 light years away toward the constellation of Monoceros.   The origin of the mysterious geometric Cone Nebula, visible on the far left, remains a mystery.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/coneregion_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "In the Vicinity of the Cone Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0305/coneregion_noao.jpg"
+},
+{
+    "copyright": "Thierry Legault",
+    "date": "2003-05-13",
+    "explanation": "How big is the Sun?  The Sun is not only larger than any planet, it is larger than all of the planets put together.  The Sun accounts for about 99.9 percent of all the mass in its Solar System.  Merely stating the Sun's diameter is about 1,400,000 kilometers does not do it justice.  Last week a chance to gain visual size perspective occurred when planet Mercury made a rare crossing in front to Sun.  Mercury, a planet over a third of the diameter of our Earth, is the dark dot on the upper right.  In comparison to the Sun, Mercury is so small it is initially hard to spot.  Also visible on the Sun are dark circular sunspots, bright plages, and dark elongated prominences -- many of which are larger than Mercury.  The above contrast-enhanced picture was captured last week from France.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/mercurysun_legault_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mercury Transits the Sun",
+    "url": "https://apod.nasa.gov/apod/image/0305/mercurysun_legault.jpg"
+},
+{
+    "date": "2003-05-14",
+    "explanation": "If you could look down on the North Pole of Venus what would you see?  The Magellan probe that orbited Venus from 1990 to 1994 was able to peer through the thick Venusian clouds and build up the above image by emitting and re-detecting cloud-penetrating radar.  Visible as the bright patch below central North is Venus' highest mountain Maxwell Montes.  Other notable features include numerous mountains, coronas, impact craters, tessera, ridges, and lava flows.  Although the size and mass of Venus are similar to the Earth, its thick carbon-dioxide atmosphere has trapped heat so efficiently that surface temperature usually exceeds 700 kelvins, hot enough to melt lead.  News: Are you ready for tomorrow's lunar eclipse? Times | Webcast | Photo Tips",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/northvenus_magellan_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The North Pole of Venus",
+    "url": "https://apod.nasa.gov/apod/image/0305/northvenus_magellan.jpg"
+},
+{
+    "copyright": "Doug Murray",
+    "date": "2003-05-15",
+    "explanation": "No special filters - or even a telescope - are required to enjoy a leisurely lunar eclipse. In fact, watched from all over the night side of planet Earth, these regular celestial performances have entertained many casual skygazers. Still, this eye-catching picture of a lunar eclipse may look unfamiliar. To make it, astrophotographer Doug Murray set his camera on a tripod and locked the shutter open during the total lunar eclipse of January 2000. The resulting image records the trail of the Moon sliding through the night, steadily progressing toward the total eclipse phase as seen from Florida, USA. Haunting red hues of diminished moonlight, common during the total phase of a lunar eclipse, are evident at the far right, along the slimmer portion of the trail. At least part of tonight's lunar eclipse will be visible in clear night skies over the Americas, Europe, and Africa. The eclipse should last over three hours from start to finish, with about 53 minutes of totality.  Lunar eclipse: Times | Webcast | Photo Tips",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/moonslide_murray_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Moon Slide Slim",
+    "url": "https://apod.nasa.gov/apod/image/0305/moonslide_murray_c2.jpg"
+},
+{
+    "copyright": "Brian Lula",
+    "date": "2003-05-16",
+    "explanation": "This colorful telescopic view towards the northern constellation Lyra reveals dim outer regions around M57, popularly known as the Ring Nebula. While modern astronomers still refer to M57 as a planetary nebula, at one light-year across M57 is not a planet but the gaseous shroud of a dying sun-like star. Roughly the same apparent size as M57, the fainter, often overlooked barred spiral galaxy IC1296 is at the lower right and would have been referred to in the early 20th century as a spiral nebula. By chance the pair are in the same field of view, and while they appear to have similar sizes they are actually very far apart. M57 lies at a distance of a mere 2,000 light-years, well within our own Milky Way galaxy. Extragalactic IC1296 is more like 200,000,000 light-years distant or about 100,000 times farther away. Since they appear roughly similar in size, spiral nebula IC1296 must also be about 100,000 times larger than planetary nebula M57.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/nebulae_lula_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Tale of Two Nebulae",
+    "url": "https://apod.nasa.gov/apod/image/0305/nebulae_lula_c1.jpg"
+},
+{
+    "date": "2003-05-17",
+    "explanation": "In low Earth orbit there is not enough atmosphere to diffuse and scatter sunlight, so shadows are black and the sky is dark - even when the Sun shines.  The harsh lighting produced this dramatic effect as mission specialist Gregory Harbaugh photographed colleague Joseph Tanner during their second spacewalk to service the Hubble Space Telescope in February 1997. The aft section of the Space Shuttle Discovery is visible in the background with the Sun hanging over a delicate crescent of the Earth's limb. A checklist is attached to Tanner's left arm, and Harbaugh's reflection is just visible in Tanner's visor.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/sunview_sts82_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Dark Sky, Bright Sun",
+    "url": "https://apod.nasa.gov/apod/image/0305/sunview_sts82_c1.jpg"
+},
+{
+    "copyright": "E. Winfreeet al.Caltech",
+    "date": "2003-05-18",
+    "explanation": "Is this image worth a thousand words?  According to the Holographic Principle, the most information you can get from this image is about 3 x 1065 bits for a normal sized computer monitor.  The Holographic Principle, yet unproven, states that there is a maximum amount of information content held by regions adjacent to any surface.  Therefore, counter-intuitively, the information content inside a room depends not on the volume of the room but on the area of the bounding walls.  The principle derives from the idea that the  Planck length, the length scale where quantum mechanics begins to dominate classical gravity, is one side of an area that can hold only about one bit of information.  The limit was first postulated by physicist Gerard 't Hooft in 1993.  It can arise from generalizations from seemingly distant speculation that the information held by a black hole is determined not by its enclosed volume but by the surface area of its event horizon.  The term \"holographic\" arises from a hologram analogy where three-dimension images are created by projecting light though a flat screen.  Beware, other people looking at the above image may not claim to see 3 x 1065 bits -- they might claim to see a teapot.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0204/teapotsirds_winfree_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Holographic Principle",
+    "url": "https://apod.nasa.gov/apod/image/0204/teapotsirds_winfree.gif"
+},
+{
+    "date": "2003-05-19",
+    "explanation": "What can you learn from looking into the depths of space?  In an effort to find out true ages of stars in neighboring Andromeda galaxy's halo, astronomers stared into the galaxy giant with the new Advanced Camera for Surveys through the Hubble Space Telescope.  The resulting exposure of over three days, shown above, is the deepest exposure in visible light ever taken, although shorter in duration than the multi-wavelength effort toward the Hubble Deep Field.  The final image illuminated not only Andromeda (M31) but the distant universe.  Andromeda's halo stars turned out to be have a wider range of ages than our Milky Way's halo stars, likely indicating more encounters with small neighboring galaxies.  Visible on the above left is one of Andromeda's globular star clusters, while literally thousands of background galaxies are seen in the distance universe, far beyond M31.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/m31halo_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Andromeda Deep Field",
+    "url": "https://apod.nasa.gov/apod/image/0305/m31halo_hst.jpg"
+},
+{
+    "date": "2003-05-20",
+    "explanation": "What did the first quasars look like?  The nearest quasars are now known to be supermassive black holes in the centers of galaxies.  Gas and dust that falls toward a quasar glows brightly, sometimes outglowing the entire home galaxy.  The quasars that formed in the first billion years of the universe are more mysterious, though, with even the nature of the surrounding gas still unknown.  Above, an artist's impression shows a primordial quasar as it might have been, surrounded by sheets of gas, dust, stars, and early star clusters.  Exacting observations of three distant quasars now indicate emission of very specific colors of the element iron.  These Hubble Space Telescope observations, which bolster recent results from the WMAP mission, indicate that a whole complete cycle of stars was born, created this iron, and died within the first few hundred million years of the universe.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/firstqsos_esa.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Primordial Quasar",
+    "url": "https://apod.nasa.gov/apod/image/0305/firstqsos_esa.jpg"
+},
+{
+    "copyright": "Evad Damast",
+    "date": "2003-05-21",
+    "explanation": "When the Moon rose over San Francisco's Golden Gate Bridge on May 15, both bridge and Moon were in already in Earth's shadow. Of course, the bridge is in the Earth's shadow nightly, while the Moon only has that opportunity about twice a year, during a lunar eclipse. And even though in western North America the total phase of the lunar eclipse began before moonrise, many in areas with clear skies came out to enjoy the spectacle. For this eclipse, skygazers reported a darker than normal, copper-colored Moon during totality. The dramatic color is evident in this multiple exposure of the reddened Moon rising, taken by astrophotographer Evad Damast. Damast viewed the eclipse from the Marin Headlands north and west of the famous bridge, looking back toward the bay and the city lights.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/eclipse_5_15_03lg_damast.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Copper Moon, Golden Gate",
+    "url": "https://apod.nasa.gov/apod/image/0305/eclipse_5_15_2003_damast_c1.jpg"
+},
+{
+    "copyright": "Sebastien Gauthier",
+    "date": "2003-05-22",
+    "explanation": "After watching this month's lunar eclipse, amateur astronomer Sebastien Gauthier carefully composed this montage of telescopic images of the Moon sliding through planet Earth's shadow. While the deepest part of the total eclipse corresponds to the central exposure, the play of light across the lunar surface nicely demonstrates that the planet's shadow is not uniformly dark as it extends into space. In fact, lunar maria and montes are still visible in the dimmed, reddened sunlight scattered into the cone-shaped shadow region, or umbra, by Earth's atmosphere. For this eclipse, the Moon's trajectory took it North of the umbra's darker core, seen here cast over the Moon's cratered southern highlands. Gauthier's telescope and camera equipment were set up near the Trois-Rivieres College Champlain Observatory in Quebec, Canada.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/umbramontage_sebastien_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Eclipsed Moon Montage",
+    "url": "https://apod.nasa.gov/apod/image/0305/umbramontage_sebastien_c1.jpg"
+},
+{
+    "copyright": "Jay Ouellet",
+    "date": "2003-05-23",
+    "explanation": "Half-shadowed by the Earth, the Moon takes on a remarkable appearance against a field of stars in this intriguing telephoto picture recorded during a partial phase of last week's lunar eclipse. The picture is not a composite, but it has been digitally enhanced to bring out features covering a large range in brightness. On the Moon itself, surface details are visible in both the bright uneclipsed portion in direct sunlight, and the very much dimmer copper-colored, eclipsed region. Also much fainter than the Moon's sunlit surface, the background star field, along with the unusual lighting, seems to contribute to an eerie \"3D\" perception of the lunar orb. Canadian astrophotographer Jay Ouellet took the picture from l'Observatoire de la Decouverte in Val Belair, a suburb of Quebec City, where about 200 skygazers gathered to enjoy the celestial exposition.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/03may15eclipse_ouellet_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Eclipsed Moon and Stars",
+    "url": "https://apod.nasa.gov/apod/image/0305/03may15eclipse_ouellet_c1.jpg"
+},
+{
+    "date": "2003-05-24",
+    "explanation": "If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe of about 100 billion stars, 30 million light-years away toward the constellation Pisces, NGC 628 or M74 presents a gorgeous face-on view to earthbound astronomers. Classified as an Sc galaxy, the grand design of M74's graceful spiral arms traced by bright blue star clusters and dark cosmic dust lanes, is similar in many respects to our own home galaxy, the Milky Way. Recorded with a 28 million pixel detector array, this impressive image celebrated first light for the Gemini Multi-Object Spectrograph (GMOS), a state-of-the-art instrument operational at the 8-meter Gemini North telescope. The Gemini North Observatory gazes into the skies above Mauna Kea, Hawaii, USA, while its twin observatory, Gemini South, operates from Cerro Pach�n in central Chile.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/m74_gemini_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M74: The Perfect Spiral",
+    "url": "https://apod.nasa.gov/apod/image/0305/m74_gemini.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2003-05-25",
+    "explanation": "NGC 253 is a normal spiral galaxy seen here almost sideways.  It is the largest member of the Sculptor Group of Galaxies, the nearest group to our own Local Group of Galaxies.  NGC 253, pictured above, appears visually as one of the brightest spirals on the sky, and is easily visible in southern hemisphere with a good pair of binoculars.  The type Sc galaxy is about 10 million light years distant.  NGC 253 is considered a starburst galaxy because of high star formation rates and dense dust clouds in its nucleus.  The energetic nuclear region is seen to glow in X-ray and gamma-ray light.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/ngc253_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Spiral Galaxy NGC 253 Almost Sideways",
+    "url": "https://apod.nasa.gov/apod/image/0305/ngc253_cfht.jpg"
+},
+{
+    "date": "2003-05-26",
+    "explanation": "What does Earth look like from Mars?  The first image of Earth from the red planet was captured earlier this month by the camera onboard the Mars Global Surveyor spacecraft currently orbiting Mars.  Features visible on Earth include the Pacific Ocean, clouds, much of South America, and part of North America.  Earth's Moon is visible on the upper right, with the crater Tycho brightening the lower part.  Previously, Earth has been imaged from the Moon and spacecraft across the Solar System.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/earthmoon_mgs_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Earth and Moon from Mars",
+    "url": "https://apod.nasa.gov/apod/image/0305/earthmoon_mgs.jpg"
+},
+{
+    "copyright": "Dominique Dierick",
+    "date": "2003-05-27",
+    "explanation": "rlier this month, the planet Mercury crossed the face of the Sun, as seen from Earth.  Because the plane of Mercury's orbit is not exactly coincident with the plane of Earth's orbit, Mercury usually appears to pass over or under the Sun.  The above time-lapse sequence, superimposed on a single frame, was taken from a balcony in Belgium on May 7 and shows the entire transit.  The solar crossing lasted over five hours, so that the above 23 images were taken roughly 15 minutes apart.  The north pole of the Sun, the Earth, Mercury's orbit, although all different, all occur in directions slightly above the left of the image. Near the center and on the far right, sunspots are visible.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/mercurytransit_dierick_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Mercury Transit Sequence",
+    "url": "https://apod.nasa.gov/apod/image/0305/mercurytransit_dierick.jpg"
+},
+{
+    "date": "2003-05-28",
+    "explanation": "A supernova explosion, a massive star's inevitable and spectacular demise, blasts back into space debris enriched in the heavy elements forged in its stellar core. Incorporated into future stars and planets, these are the elements ultimately necessary for life. Seen here in a false-color x-ray image, supernova remnant SNR 0103-72.6 is revealed to be just such an expanding debris cloud in neighboring galaxy, the Small Magellanic Cloud. Judging from the measured size of the expanding outer ring of shock-heated gas, about 150 light-years, light from the original supernova explosion would have first reached Earth about 10,000 years ago. Hundreds of supernova remnants have been identified as much sought after astronomical laboratories for studying the cycle of element synthesis and enrichment, but the x-ray data also show that the hot gas at the center of this particular supernova remnant is exceptionally rich in neon and oxygen.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/snr0103_chandra_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "SNR 0103-72.6: Oxygen Supply",
+    "url": "https://apod.nasa.gov/apod/image/0305/snr0103_chandra_c2.jpg"
+},
+{
+    "copyright": "Peter WasilewskiGoddard Space Flight Center",
+    "date": "2003-05-29",
+    "explanation": "Scientific images of cosmic dust clouds or even frozen water can be esthetic too. In fact, this picture of thin layers of forming ice crystals uses a scientific understanding of light's wave properties solely for artistic purposes. Titled \"Illume\", the picture was created by astrophysicist Peter Wasilewski. To make the picture, the crystals were illuminated by light shining through a polarizing filter -- a filter that restricts the otherwise randomly oriented light waves to vibrate in only one direction.  While passing through the ice, different colors of the polarized light are then refracted and reflected along slightly different paths by the delicate crystalline layers. Viewing the scene with a second polarizing filter brings out the wondrous display of structure and color. Painting with \"light, the laws of physics, and an attitude\" Wasilewski has created a series of these evocative ice images that he refers to as Frozen Vision or Frizion.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/illume_wasilewski_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Frizion Illume",
+    "url": "https://apod.nasa.gov/apod/image/0305/illume_wasilewski_full.jpg"
+},
+{
+    "copyright": "Skyscapes",
+    "date": "2003-05-30",
+    "explanation": "rly on Saturday, May 31 (UT) the new Moon will once again slide across the Sun's fiery disk, and once again an annular solar eclipse will be the result -- since the Moon's apparent diameter will be a little too small to completely cover the Sun. But this time celestial geometry has conspired to produce a broad D-shaped region for viewing the annular phase that extends into the far northern hemisphere, rather than creating a thin track racing across land and sea. The characteristic ring of fire will be visible from northern Scotland, Iceland, and parts of Greenland. Otherwise a partial eclipse will be more widely visible as across Europe, along with parts of Asia and North America, the Moon will appear to take a \"bite\" out of the Sun. While the northerly observers might certainly expect a dramatic view, it will probably not look quite like this one, recorded with a foreground of palm trees during a 1992 annular eclipse. Want to watch Saturday's eclipse on the web? Check out the planned webcasts from Astronet.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/RingOfFire_mammana.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Ring of Fire Revisited",
+    "url": "https://apod.nasa.gov/apod/image/0305/RingOfFire_mammana.jpg"
+},
+{
+    "date": "2003-05-31",
+    "explanation": "This is NGC 1818, a youthful, glittering cluster of 20,000 stars residing in the Large Magellanic Cloud, 180,000 light-years away. Pick a star. Any star. Astronomers might pick the unassuming bluish-white one (circled) which appears to be a hot newly formed white dwarf star. What makes it so interesting? The standard astronomical wisdom suggests that stars over 5 times as massive as the sun rapidly exhaust their nuclear fuel and end their lives in a spectacular supernova explosion. With less than this critical mass they evolve into red giants, pass through a relatively peaceful planetary nebula phase, and calmly fade away as white dwarf stars like this one. Except that as a member of the NGC 1818 cluster, this new white dwarf would have evolved from a red giant star over 7.6 times as massive as the sun -- which should have exploded! Its discovery will likely force astronomers to revise the limiting mass estimate for supernovae upward.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/ngc1818_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 1818: Pick A Star",
+    "url": "https://apod.nasa.gov/apod/image/0305/ngc1818_hst_c1.jpg"
+},
+{
+    "date": "2003-06-01",
+    "explanation": "In the center of a swirling whirlpool of hot gas is likely a beast that has never been seen directly: a black hole.  Studies of the bright light emitted by the swirling gas frequently indicate not only that a black hole is present, but also likely attributes.  The gas surrounding GRO J1655-40, for example, has been found to display an unusual flickering at a rate of 450 times a second.  Given a previous mass estimate for the central object of seven times the mass of our Sun, the rate of the fast flickering can be explained by a black hole that is rotating very rapidly.  What physical mechanisms actually cause the flickering -- and a slower quasi-periodic oscillation (QPO) -- in  accretion disks surrounding black holes and neutron stars remains a topic of much research.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/blackholestorm_chandra_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "GRO J1655-40: Evidence for a Spinning Black Hole",
+    "url": "https://apod.nasa.gov/apod/image/0306/blackholestorm_chandra.jpg"
+},
+{
+    "date": "2003-06-02",
+    "explanation": "Fogs of clouds and dust covered parts of southern Mars during last Martian winter.  Giant volcanoes, such as Ascraeus Mons, the central circular feature near the top of the image, were surrounded by large water clouds.  Slightly southwest, Pavonis Mons and Arisa Mons also peeked above their water clouds.  The rough terrain below center is Labyrinthus Noctis, a maze of deep troughs running over 200 kilometers long.   Directly south, a large white dust storm fogs Syria Planum, a large plateau.  This image mosaic was taken by the Mars Global Surveyor spacecraft currently orbiting Mars.  Soon, five more Earth-launched spacecraft should arrive at the Red Planet, named for the Roman god of war.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0305/syriastorm_mgs_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Fogs of Mars",
+    "url": "https://apod.nasa.gov/apod/image/0305/syriastorm_mgs.jpg"
+},
+{
+    "copyright": "Juan Carlos Casado",
+    "date": "2003-06-03",
+    "explanation": "What's behind the Moon? Each month, our Moon passes in front of -- and outshines -- many an interesting star field.  Exceptions occur during a new Moon and during a total eclipse.  In the background of a new Moon is usually the Sun, an even brighter orb that even more easily outshines everything behind it, except during a total solar eclipse.  Even the longest total solar eclipse lasts just a few minutes, while the Sun's corona still remains bright.  During a total lunar eclipse, however, the full Moon dims and a majestic star field may present itself for an hour or more.  Such was the case during the middle of last month, when a rare glimpse of an eclipsed Moon superposed in front of the disk of our home Milky Way Galaxy was captured.  Although fully in the Earth's shadow, the eclipsed Moon is still the brightest object on the right.  The above image was captured during sub-zero weather from the Teide 2003 expedition to Mirador del Pico Viejo, a mountain in the Canary Islands, Spain, off the northwest coast of Africa.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/milkymoon_casado_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Milky Way Behind an Eclipsed Moon",
+    "url": "https://apod.nasa.gov/apod/image/0306/milkymoon_casado.jpg"
+},
+{
+    "copyright": "Olivier\nMeeckersGroupe Astronomie\nde Spa",
+    "date": "2003-06-04",
+    "explanation": "The Sun and Moon rose together over much of Europe on the morning of May 31st with the first solar eclipse of 2003 already in progress. And while sightings of the full annular phase of the eclipse were restricted to far northern regions, early morning risers were still treated to inspiring views of two celestial bodies which are most important to life on planet Earth. Following the dawn's spectacle from Charneux, Belgium, astrophotographer Olivier Meeckers recorded this evocative image of the partially eclipsed Sun rising above a primeval apparition of mists and trees. Last month was indeed a rewarding one for eclipse watchers as May's full Moon and (second) new Moon lined up for their respective lunar and solar eclipses. November 2003 will also host both a total lunar and total solar eclipse.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/EclipseSoleil1_meeckers_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Eclipse in the Mist",
+    "url": "https://apod.nasa.gov/apod/image/0306/EclipseSoleil1_meeckers_c1.jpg"
+},
+{
+    "copyright": "Hans Coeckelberghs",
+    "date": "2003-06-05",
+    "explanation": "If the Moon's apparent diameter is not quite large enough to cover the Sun during a solar eclipse, an annular eclipse can be the result -- a spectacle of silhouetted Moon surrounded by a solar \"ring of fire\". Just such a view was possible for observers in the far northern hemisphere as the new Moon slid across the solar disk on May 31st. Still, for astronomical adventurers at Cape Wrath on the northwestern coast of Scotland, the eastern sky was cloudy on eclipse day. But fortunately the Sun became visible a few minutes prior to the annular phase and determined astronomer Hans Coeckelberghs was able to capture this dramatic telescopic image of the eclipsed Sun's ring of fire looming through a reddened, cloud-streaked sky. Not to be outdone by the north, the far southern hemisphere will host the next solar eclipse, with the path of totality racing across Antarctica on November 23rd.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/Eclips310503_coeckelberghs_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Ring of Fire from Cape Wrath",
+    "url": "https://apod.nasa.gov/apod/image/0306/Eclips310503_coeckelberghs_c1.jpg"
+},
+{
+    "copyright": "Thilo Kranz",
+    "date": "2003-06-06",
+    "explanation": "Anticipating the celestial shadow play of a solar eclipse, sky gazers across Germany watched the Sun rise on May 31. In Bonn, astrophotographer Thilo Kranz had set up his small refractor telescope and camera on the Kennedy Bridge across the Rhein river to get a good view to the northeast. The timing of this eclipse must have seemed ideal for a local balloon flight too, as hot air balloonists also favor early morning hours with usually calm surface winds. Kranz and colleagues had noticed a balloon drifting in the hazy sky near the horizon and speculated about viewing the eclipse from on board. But when the eclipsed Sun finally emerged into view they were delighted to see the lighter-than-air craft make the occasion a very special show from their own vantage point. In fact, in the central panel of this montage of Kranz's telescopic eclipse images, the silhouetted balloon reminds the APOD editors of a remarkably well-fed exclamation mark!",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/SoFiMontage2_kranz.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Sun, Moon, Hot Air Balloon",
+    "url": "https://apod.nasa.gov/apod/image/0306/sunmoonballoon2_kranz.jpg"
+},
+{
+    "date": "2003-06-07",
+    "explanation": "How did spiral galaxy ESO 510-13 get bent out of shape? The disks of many spirals are thin and flat, but not solid. Spiral disks are loose conglomerations of billions of stars and diffuse gas all gravitationally orbiting a galaxy center. A flat disk is thought to be created by sticky collisions of large gas clouds early in the galaxy's formation.  Warped disks are not uncommon, though, and even our own Milky Way Galaxy is thought to have a small warp.  The causes of spiral warps are still being investigated, but some warps are thought to result from interactions or even collisions between galaxies.  ESO 510-13 is about 150 million light years away and about 100,000 light years across.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/eso510_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Warped Spiral Galaxy ESO 510-13",
+    "url": "https://apod.nasa.gov/apod/image/0306/eso510_hst_c1.jpg"
+},
+{
+    "copyright": "Calvin J. Hamilton",
+    "date": "2003-06-08",
+    "explanation": "Rhea is the second largest moon of Saturn, behind Titan, and the largest without an atmosphere.  It is composed mostly of water ice, but has a small rocky core.  Rhea's rotation and orbit are locked together (just like Earth's Moon) so that one side always faces Saturn.  A consequence of this is that one side always leads the other.  Rhea's leading surface is much more heavily cratered than its trailing surface.  The above photograph was taken with the Voyager 1 spacecraft in 1980.  NASA's Cassini spacecraft is currently on route to Saturn and will arrive in 2004.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/rhea2_vg1_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Rhea: Saturn's Second Largest Moon",
+    "url": "https://apod.nasa.gov/apod/image/0306/rhea2_vg1.jpg"
+},
+{
+    "date": "2003-06-09",
+    "explanation": "At 500,000 kilometers per hour, a supernova shockwave plows through interstellar space. This shockwave is known as the Pencil Nebula, or NGC 2736, and is part of the Vela supernova remnant, an expanding shell of a star that exploded about 11,000 years ago.  Initially the shockwave was moving at millions of kilometers per hour, but the weight of all the gas it has swept up has slowed it considerably.  Pictured above, the shockwave moves from left to right, as can be discerned by the lack of gas on the left.  The above region spans nearly a light year across, a small part of the 100+ light-year span of the entire Vela supernova remnant.  The Hubble Space Telscope ACS captured the above image last October.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/pencil_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Pencil Nebula Supernova Shockwave",
+    "url": "https://apod.nasa.gov/apod/image/0306/pencil_hst.jpg"
+},
+{
+    "copyright": "Ralf KaehlerZIBTom AbelPenn. State\nSimulation: Tom Abel \n(Penn. State), \nGreg Bryan \n(Oxford) & \nMike Norman \n(UCSD)\n",
+    "date": "2003-06-10",
+    "explanation": "What became of the first stars?  No known stars appear to be composed of truly primordial gas -- all of the stars around us have too many heavy elements.  Our own Sun is thought to be a third generation star, with many second-generation stars seen in globular clusters.   This year, however, significant progress is being made on solving this perennial astronomical mystery.   Analyses of recent WMAP satellite images of the cosmic microwave background indicate that this primordial light was ionized by a first generation of stars that came and went only 200 million years after the Big Bang.  Additionally computer codes are now more-accurately tracking the likely creation and evolution of first stars in the early universe.  Pictured above at a scale of one light-month, a computer-generated model resolves the scale of the first stars, indicating clean cocoons that condensed into stars always over 30 times the mass of our Sun.  Stars like this quickly fused pristine gas into heavier elements and then exploded, seeding the universe with elements that would become part of the stars we know and, ultimately, ourselves.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/firststar_abel_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Zooming in on the First Stars",
+    "url": "https://apod.nasa.gov/apod/image/0306/firststar_abel.jpg"
+},
+{
+    "copyright": "S. MaddoxNottingham U.et al., \nAPM SurveyAstrophys. Dept. Oxford U.",
+    "date": "2003-06-11",
+    "explanation": "Our universe is filled with galaxies.  Galaxies -- huge conglomerations of stars, gas, dust -- and mysterious dark matter are the basic building blocks of the large-scale universe.   Although distant galaxies move away from each other as the universe expands, gravity attracts neighboring galaxies to each other, forming galaxy groups, clusters of galaxies, and even larger expansive filaments.  Some of these structures are visible on one of the most comprehensive maps of the sky ever made in galaxies: the APM galaxy survey map completed in the early 1990s.  Over 2 million galaxies are depicted above in a region 100 degrees across centered toward our Milky Way Galaxy's south pole.  Bright regions indicate more galaxies, while bluer colors denote larger average galaxies.  Dark ellipses have been cut away where bright local stars dominate the sky.  Many scientific discoveries resulted from analyses of the map data, including that the universe was surprisingly complex on large scales.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/galaxies2_apm_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Two Million Galaxies",
+    "url": "https://apod.nasa.gov/apod/image/0306/galaxies2_apm.jpg"
+},
+{
+    "date": "2003-06-12",
+    "explanation": "The formation of a black hole from the collapsing core of a massive star is thought to be heralded by a spectacular supernova explosion. Such an extremely energetic collapse is also a leading explanation for the mysterious cosmic gamma-ray bursts. But researchers now suggest that the Milky Way's most famous black hole, Cygnus X-1, was born when a massive star collapsed -- without any supernova explosion at all. Their dynamical evidence is summarized in this color image of a gorgeous region in Cygnus, showing Cyg X-1 and a cluster of massive stars (yellow circles) known as Cygnus OB3. Arrows compare the measured direction and speed of Cyg X-1 and the average direction and speed of the massive stars of Cyg OB3. The similar motions indicate that Cyg X-1's progenitor star was itself a cluster member and that its path was not altered at all when it became a black hole. In contrast, if Cyg X-1 were born in a violent supernova it would have likely received a fierce kick, changing its course. If not a supernova, could the formation of the Cyg X-1 black hole have produced a dark gamma-ray burst in the Milky Way?",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/CygX1_mirabel_labfull.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Cyg X-1: Can Black Holes Form in the Dark?",
+    "url": "https://apod.nasa.gov/apod/image/0306/CygX1_mirabel_labc2.jpg"
+},
+{
+    "date": "2003-06-13",
+    "explanation": "In the 1960s spring came to the southern hemisphere of Neptune, the Solar System's outermost gas giant planet. Of course, since Neptune orbits the Sun once every 165 earth-years, it's still springtime for southern Neptune, where each season lasts over four decades. Astronomers have found that in recent years Neptune has been getting brighter, as illustrated in this Hubble Space Telescope image made in 2002. Compared to Hubble pictures taken as early as 1996, the 2002 image shows a dramatic increase in reflective white cloud bands in Neptune's southern hemisphere. Neptune's equator is tilted 29 degrees from the plane of its orbit, about the same as Earth's 23.5 degree tilt, and Neptune's weather seems to be dramatically responding to the similar relative seasonal increase in sunlight -- even though sunlight is 900 times less intense for the distant gas giant than for planet Earth. Meanwhile, summer is really just around the corner, coming to Neptune's southern hemisphere in 2005.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/nep2002_hst1pan_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Neptune: Still Springtime After All These Years",
+    "url": "https://apod.nasa.gov/apod/image/0306/nep2002_hst1pan_c2.jpg"
+},
+{
+    "date": "2003-06-14",
+    "explanation": "What do the Owl, the Cat's Eye, the Ghost of Jupiter, and Saturn have in common? They're all planetary nebulae of course, glowing gaseous shrouds shed by dying sun-like stars as they run out of nuclear fuel. Beautiful to look at, the symmetric, planet-like shapes of these cosmic clouds, typically 1,000 times the size of our solar system, evoke their popular names. Flipping through digital pictures made by participants in the Kitt Peak National Observatory Visitor Center's Advanced Observing Program, astronomer Adam Block created this delightful animation. Ten different planetary nebula images are presented, each registered on the central star. In order, their catalog designations are NGC 1535, NGC 3242 (Ghost of Jupiter), NGC 6543 (Cat's Eye), NGC 7009 (Saturn Nebula), NGC 2438, NGC 6772, Abell 39, NGC 7139, NGC 6781, and M97 (Owl Nebula). This glorious final phase in the life of a star lasts only about 10,000 years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/pn_block.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Planetary Nebula Show",
+    "url": "https://apod.nasa.gov/apod/image/0306/pn_block.gif"
+},
+{
+    "copyright": "Pekka ParviainenPolar Image",
+    "date": "2003-06-15",
+    "explanation": "Sometimes it's night on the ground but day in the air.  As the Earth rotates to eclipse the Sun, sunset rises up from the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above.  Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark.  Pictured above, a network of noctilucent clouds casts a colorful but eerie glow visible above the dark.  Although noctilucent clouds are thought to be composed of small ice-coated particles, much remains unknown about them. Recent evidence indicates that at least some noctilucent clouds result from freezing water exhaust from Space Shuttles.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/noctilucent_pp_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Noctilucent Clouds",
+    "url": "https://apod.nasa.gov/apod/image/0306/noctilucent_pp.jpg"
+},
+{
+    "copyright": "Elana KestrelDreamcircle",
+    "date": "2003-06-16",
+    "explanation": "The first APOD appeared eight years ago today, on 1995 June 16.  To date, we estimate that APOD has now served over 100 million space-related images.  We again thank our readers and NASA for their continued support, but ask that any potentially congratulatory e-mail go to the folks who created the great pictures -- many times with considerable effort -- that APOD has been fortunate enough to feature over the past year.  Many can be contacted by following links found in the credit line under the image.  Some of these images are featured in the above spectacular collage submitted by an enthusiastic APOD reader well skilled in digital image manipulation.  She challenges fellow APODees to find in the collage her favorite ex-member of the musical group Tangerine Dream.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/starcollage_dreamcircle.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "APOD Turns Eight",
+    "url": "https://apod.nasa.gov/apod/image/0306/starcollage_dreamcircle.jpg"
+},
+{
+    "date": "2003-06-17",
+    "explanation": "It's the bubble versus the cloud.  NGC 7635, the Bubble Nebula, is being pushed out by the stellar wind of massive central star BD+602522.  Next door, though, lives a giant molecular cloud, visible above to the lower right.  At this place in space, an irresistible force meets an immovable object in an interesting way.  The cloud is able to contain the expansion of the bubble gas, but gets blasted by the hot radiation from the bubble's central star.  The radiation heats up dense regions of the molecular cloud causing it to glow.  The Bubble Nebula, pictured above as a color negative to help bring up contrast, is about 10 light-years across and part of a much larger complex of stars and shells.  The Bubble Nebula can be seen with a small telescope towards the constellation of Cassiopeia.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/ngc7635_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Bubble Nebula from NOAO",
+    "url": "https://apod.nasa.gov/apod/image/0306/ngc7635_noao.jpg"
+},
+{
+    "copyright": "Peter Wienerroither",
+    "date": "2003-06-18",
+    "explanation": "Tomorrow's picture: moon maiden  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Web Site Statements, Warnings, and Disclaimers NASA Official: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/eclipse3_wienerroither_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Clouds and the Moon Move to Block the Sun",
+    "url": "https://apod.nasa.gov/apod/image/0306/eclipse3_wienerroither.jpg"
+},
+{
+    "copyright": "D. Whitehouse",
+    "date": "2003-06-19",
+    "explanation": "Along the northwestern reaches of the lunar near side, the Sinus Iridum or Bay of Rainbows appropriately lies at the edge of the Moon's smooth, dark Sea of Rains (Mare Imbrium). In this sketch of the lunar surface around the Bay of Rainbows, the sun shines from the left, illuminating the arcing wall of the lava-floored bay. The bay's Cape Heraclides, seen here at the top of the sunlit arc, has been historically depicted as a moon maiden whose hair streams behind her as she gazes sunward across the bay. In the original Moon race - the race to map the Moon - this moon maiden first appeared in telescope-based drawings of the lunar surface by astronomer Giovanni Cassini in 1679. Still gazing across the lunar bay, the moon maiden inspired this drawing by modern day astronomer, Lucy Whitehouse. Done when she was 14, her sketch of the intriguing feature was made from the countryside in northern England, aided by a telescope equipped with a digital imaging eyepiece and a small television screen.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/LucyMoonweb_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Moon Maiden",
+    "url": "https://apod.nasa.gov/apod/image/0306/LucyMoonweb_c2.jpg"
+},
+{
+    "copyright": "Gary Stevens",
+    "date": "2003-06-20",
+    "explanation": "Dark nebulae snake across a gorgeous expanse of stars in this wide-field view toward the pronounceable constellation Ophiucus and the center of our Milky Way Galaxy. In fact, the central S-shape seen here is well known as the Snake Nebula. It is also listed as Barnard 72 (B72), one of 182 dark markings of the sky cataloged in the early 20th century by astronomer E. E. Barnard. Unlike bright emission nebulae and star clusters, Barnard's nebulae are interstellar dark clouds of obscuring gas and dust. Their shapes are visible in cosmic silhouette only because they lie in the foreground along the line of sight to rich star fields and glowing stellar nurseries near the plane of our Galaxy. Many of Barnard's dark nebulae are themselves likely sites of future star formation. Barnard 72 is a few light years across and about 650 light years away.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/b72neb_stevens_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Snake in the Dark",
+    "url": "https://apod.nasa.gov/apod/image/0306/b72neb_stevens_c1.jpg"
+},
+{
+    "date": "2003-06-21",
+    "explanation": "The Earth's northern hemisphere is outlined as a sunlit crescent in this dramatic view from orbit, recorded near local midnight by the Geostationary Operational Environmental Satellite (GOES-8) on June 22, 1996. That date was two days after the Solstice, by astronomical reckoning, the first day of summer in the north and winter in the southern hemisphere. Today's scheduled geocentric astronomical event is again the northern hemisphere's summer Solstice, with the Sun reaching its northernmost declination at 19 hours 10 minutes Universal Time. That makes today also the longest day of the year in the north, with the arctic regions near the top of the picture experiencing 24 hours of daylight. Looking south along the Earth's limb, atmospheric scattering of sunlight causes the limb to be visible beyond areas directly illuminated by the sun.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/crescentearth_goes8_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Crescent Earth at Midnight",
+    "url": "https://apod.nasa.gov/apod/image/0306/crescentearth_goes8_c3.jpg"
+},
+{
+    "date": "2003-06-22",
+    "explanation": "In the center of star-forming region 30 Doradus lies a huge cluster of the largest, hottest, most massive stars known.  These stars and part of the surrounding nebula are captured here in this gorgeous visible-light Hubble Space Telescope image. Gas and dust clouds in 30 Doradus, also known as the Tarantula Nebula, have been sculpted into elongated shapes by powerful winds and ultraviolet radiation from these hot cluster stars. Insets in the picture represent corresponding views from the Hubble's infrared camera where each square measures 15.5 light-years across. Penetrating the obscuring dust, these infrared images themselves offer detailed pictures of star formation within the nebula's collapsing clouds, revealing the presence of newborn massive stars. The 30 Doradus Nebula lies within a neighboring galaxy, the Large Magellanic Cloud, located a mere 170,000 light-years away.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/30dor_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Massive Stars of 30 Doradus",
+    "url": "https://apod.nasa.gov/apod/image/0306/30dor_hst.jpg"
+},
+{
+    "date": "2003-06-23",
+    "explanation": "A large sphere beneath Japan has helped verify humanity's understanding of the inner workings of the Sun.  The KamLAND sphere, shown above during construction in 2001, fails to detect fundamental particles called anti-neutrinos that are known to be emitted by nearby nuclear reactors around Japan.  This triumphant failure can best be explained by neutrinos oscillating between different types.  KamLAND's results bolster previous neutrino oscillation claims including that from the Sudbury detector, a similar large sphere beneath Canada designed to detect all types of neutrinos from the Sun.  Thus, leading astrophysicists now consider the long standing solar neutrino deficit problem as finally solved.  A new mystery that replaces it is to find a new Standard Model for particle physics that fully explains neutrino oscillations.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/interior_kamland_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "KamLAND Verifies the Sun",
+    "url": "https://apod.nasa.gov/apod/image/0306/interior_kamland.jpg"
+},
+{
+    "date": "2003-06-24",
+    "explanation": "How smooth is the Sun?  The new Swedish 1-m Solar Telescope, deployed in the Canary Islands only last year, allows imaging of objects less than 100-km across on the Sun's surface.  When pointed toward the Sun's edge, surface objects now begin to block each other, indicating true three-dimensional information.  Close inspection of the image reveals much vertical information, including spectacular light-bridges rising nearly 500-km above the floor of sunspots near the top of the image.  Also visible in the above false-color image are hundreds of bubbling granules, each about 1000-km across, and small bright regions known as faculas.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/sun3d_sst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Sun's Surface in 3D",
+    "url": "https://apod.nasa.gov/apod/image/0306/sun3d_sst.jpg"
+},
+{
+    "date": "2003-06-25",
+    "explanation": "This tantalizing view of galaxies scattered near and far is part of the Hubble Space Telescope's contribution to the GOODS - the Great Observatories Origins Deep Survey project. The GOODS' goal is to study galaxy formation and evolution over an unprecedent wide range of cosmic distances, therefore spanning time from the present to the early Universe. Joined by the Chandra X-ray Observatory and soon by the anticipated Space Infrared Telescope Facility along with major ground-based observatories, the project expands greatly on the past Hubble Deep Fields of regions in the northern constellation of Ursa Major and southern constellation Tucana. Across the electromagnetic spectrum, a sample of large nearby galaxies, like the interacting pair at the lower left above, will be compared with distant younger galaxies in a search for clues to the origins of these lighthouses of the cosmos. Preliminary results of the project confirm that the birth rate of stars was higher in the past and that galaxies have indeed been constructed from the \"bottom up\", growing from mergers and accretion of small infant galaxies to their present day forms.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/goods_hstacs_f1.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Galaxies in the GOODS",
+    "url": "https://apod.nasa.gov/apod/image/0306/goods_hstacs_c3.jpg"
+},
+{
+    "copyright": "Skyscapes",
+    "date": "2003-06-26",
+    "explanation": "On planet Earth, an analemma is the figure-8 loop you get when you mark the position of the Sun at the same time each day throughout the year. But similarly marking the position of the Sun in the Martian sky would produce the simpler, stretched pear shape in this digital illustration, based on the Mars Pathfinder project's famous Presidential Panorama view from the surface. The simulation shows the late afternoon Sun that would have been seen from the Sagan Memorial Station once every 30 Martian days (sols) beginning on Sol 24 (July 29, 1997). Slightly less bright, the simulated Sun is only about two thirds the size as seen from Earth, while the Martian dust, responsible for the reddish sky of Mars, also scatters some blue light around the solar disk. Astronomer Dennis Mammana offers the illustration to mark the hopeful beginning of an exciting new era of robotic exploration of the Red Planet, with two new Mars missions now enroute and one preparing to launch.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/marsalemma_mammana_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Martian Analemma",
+    "url": "https://apod.nasa.gov/apod/image/0306/marsalemma_mammana_c1.jpg"
+},
+{
+    "date": "2003-06-27",
+    "explanation": "Slung below its equally innovative mothership dubbed White Knight, SpaceShipOne rides above planet Earth, photographed during a recent flight test. SpaceShipOne was designed and built by cutting-edge aeronautical engineer Burt Rutan and his company Scaled Composites to compete for the X Prize. The 10 million dollar X prize is open to private companies and requires the successful launch of a spaceship which carries three people on short sub-orbital flights to an altitude of 100 kilometers -- a scenario similar to the early manned spaceflights of NASA's Mercury Program. Unlike more conventional rocket flights to space, SpaceShipOne will first be carried to an altitude of 50,000 feet by the twin turbojet White Knight and then released before igniting its own hybrid solid fuel rocket engine. After the climb to space, the craft will convert to a stable high drag configuration for re-entry, ultimately landing like a conventional glider at light plane speeds.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/ssone_cap_car.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "SpaceShipOne",
+    "url": "https://apod.nasa.gov/apod/image/0306/ssone_scaled_c1topcarry.jpg"
+},
+{
+    "copyright": "Michael\nCole",
+    "date": "2003-06-28",
+    "explanation": "A telescopic tour of the constellation Sagittarius offers the many bright clusters and nebulae of dimensioned space in a starscape surrounding the galactic center. This gorgeous color deep-sky photograph visits two such lovely sights, cataloged by the 18th century cosmic tourist Charles Messier as M8 and M20. M20 (upper left), the Trifid Nebula, presents a striking contrast in red/blue colors and dark dust lanes. Just below and to the right is the expansive, alluring red glow of M8, the Lagoon Nebula. Both nebulae are a few thousand light-years distant but at the far right, the dominant celestial beacon is a \"local\" source, the planet Mars. Just passing through Sagittarius and strongly overexposed in this picture, the Red Planet was a short 4 light-minutes away. Now headed for its closest approach to planet Earth in recorded history, Mars rises in the east southeast by midnight shining brightly at about -1.4 magnitude. Urban imager Michael Cole recorded this photograph at 3:00 AM on May 20th, 2001 in clear skies over Camp Hancock, Oregon, USA.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/m8m20mars_cole_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Messiers and Mars",
+    "url": "https://apod.nasa.gov/apod/image/0306/m8m20mars_cole.jpg"
+},
+{
+    "copyright": "Nigel Sharp",
+    "date": "2003-06-29",
+    "explanation": "It is still not known why the Sun's light is missing some colors.  Shown above are all the visible colors of the Sun, produced by passing the Sun's light through a prism-like device.  The above spectrum was created at the McMath-Pierce Solar Observatory and shows, first off, that although our yellow-appearing Sun emits light of nearly every color, it does indeed appear brightest in yellow-green light.  The dark patches in the above spectrum arise from gas at or above the Sun's surface absorbing sunlight emitted below.  Since different types of gas absorb different colors of light, it is possible to determine what gasses compose the Sun.  Helium, for example, was first discovered in 1870 on a solar spectrum and only later found here on Earth.  Today, the majority of spectral absorption lines have been identified - but not all.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0008/solarspectrum_noao.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Solar Spectrum",
+    "url": "https://apod.nasa.gov/apod/image/0008/solarspectrum_noao.jpg"
+},
+{
+    "date": "2003-06-30",
+    "explanation": "This dense cloud of gas and dust is being deleted.  Likely, within a few million years, the intense light from bright stars will have boiled it away completely.  Stars not yet formed in the molecular cloud's interior will then stop growing.  The cloud has broken off of part of the greater Carina Nebula, a star forming region about 8000 light years away.  Newly formed stars are visible nearby, their images reddened by blue light being preferentially scattered by the pervasive dust. This unusually-colored image spans about two light years and was taken by the orbiting Hubble Space Telescope in 1999.  This Carina sub-cloud is particularly striking partly because its clear definition stimulates the human imagination (e.g. it could be perceived as a superhero flying through a cloud, arm up, with a saved person in tow below).",
+    "hdurl": "https://apod.nasa.gov/apod/image/0306/carina_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Disappearing Clouds in Carina",
+    "url": "https://apod.nasa.gov/apod/image/0306/carina_hst.jpg"
+},
+{
+    "date": "2003-07-01",
+    "explanation": "Why is Phobos so dark?  Phobos, the largest and innermost of two Martian moons, is the darkest moon in the entire Solar System.  Its unusual orbit and color indicate that it may be a captured asteroid composed of a mixture of ice and dark rock.  The above picture was captured recently by the robot spacecraft Mars Global Surveyor (MGS) orbiting Mars.  Phobos is a heavily cratered and barren moon, with its largest crater located on the far side.  From MGS images like this, Phobos has been determined to be covered by perhaps a meter of loose dust.  Phobos orbits so close to Mars that from some places it would appear to rise and set twice a day, but from other places it would not be visible at all.  Phobos' orbit around Mars is continually decaying -- it will likely break up with pieces crashing to the Martian surface in about 50 million years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/phobos_mgs_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Martian Moon Phobos from MGS",
+    "url": "https://apod.nasa.gov/apod/image/0307/phobos_mgs.jpg"
+},
+{
+    "copyright": "Chris Cook",
+    "date": "2003-07-02",
+    "explanation": "Active pillars of colorful aurora were captured dancing over a serenely smooth and nearly colorless Cape Cod Bay last month.   North is straight ahead so that the town lights near the center originate from Provincetown, Massachusetts, USA.  The unusual red colors in the aurora slightly reflect off the ocean inlet.  Several familiar constellations are visible in the sky, including the famous stellar W of Cassiopeia on the far right.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/auroracape_cook_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Aurora Over Cape Cod",
+    "url": "https://apod.nasa.gov/apod/image/0307/auroracape_cook.jpg"
+},
+{
+    "date": "2003-07-03",
+    "explanation": "The Vela pulsar is a neutron star born over 10,000 years ago in a massive supernova explosion. Above, false-color x-ray images from the Chandra Observatory reveal details of this remnant pulsar's x-ray bright nebula along with emission from a spectacular jet of high-energy particles. In this time-lapse series of pictures, the jet seems to dance around very much like an out-of-control firehose, shooting along the pulsar's direction of motion (toward the top right corner) to a length of about half a light-year while whipping back and forth at about half the speed of light. Highly magnetized and spinning over 10 times a second, the Vela pulsar is thought of as a cosmic high-voltage generator, powering the x-ray nebula and dynamic cosmic jet. A mere 800 light-years away the pulsar itself is located near the lower left corner in the four panels.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/velaxrayjet_cxo_4full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Vela Pulsar's Dynamic Jet",
+    "url": "https://apod.nasa.gov/apod/image/0307/velaxrayjet_cxo_4c1.jpg"
+},
+{
+    "date": "2003-07-04",
+    "explanation": "Scattered debris from a cosmic supernova explosion lights up the sky in this gorgeous composited image based on data from the Hubble Space Telescope. Cataloged as N49, these glowing filaments of shocked gas span about 30 light-years in our neighboring galaxy, the Large Magellanic Cloud. Light from the original exploding star reached Earth thousands of years ago, but N49 also marks the location of another energetic outburst -- an extremely intense blast of gamma-rays detected by satellites on March 5, 1979. That date was the beginning of an exciting journey in astrophysics which led researchers to the understanding of an exotic new class of stars. The source of the \"March 5th Event\" is now attributed to a magnetar - a highly magnetized, spinning neutron star also born in the ancient stellar explosion which created supernova remnant N49. The magnetar hurtles through the supernova debris cloud at over 1,200 kilometers per second.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/n49_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "N49's Cosmic Blast",
+    "url": "https://apod.nasa.gov/apod/image/0307/n49_hst_c2.jpg"
+},
+{
+    "date": "2003-07-05",
+    "explanation": "Its core hidden from optical view by a thick lane of dust, the giant elliptical galaxy Centaurus A was among the first objects observed by the orbiting Chandra X-ray Observatory. Astronomers were not disappointed, as Centaurus A's appearance in x-rays makes its classification as an active galaxy easy to appreciate. Perhaps the most striking feature of this Chandra false-color x-ray view is the jet, 30,000 light-years long. Blasting toward the upper left corner of the picture, the jet seems to arise from the galaxy's bright central x-ray source -- suspected of harboring a black hole with a million or so times the mass of the Sun. Centaurus A is also seen to be teeming with other individual x-ray sources and a pervasive, diffuse x-ray glow. Most of these individual sources are likely to be neutron stars or solar mass black holes accreting material from their less exotic binary companion stars. The diffuse high-energy glow represents gas throughout the galaxy heated to temperatures of millions of degrees C. At 11 million light-years distant in the constellation Centaurus, Centaurus A (NGC 5128) is the closest active galaxy.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/cena_cxo_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Centaurus A: X-Rays from an Active Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0307/cena_cxo_g1.jpg"
+},
+{
+    "copyright": "E. L. WrightUCLA",
+    "date": "2003-07-06",
+    "explanation": "Our universe is a very dusty place.  Dust usually shows its presence by blocking out light emitted from stars or nebulae behind it, sometimes creating the illusion of a horse's head or a sombrero hat.  But nobody really knows what a typical interstellar dust grain looks like.  By studying how dust absorbs, emits, and reflects light, astronomers do know that interstellar dust is much different than the cell and lint based dust found around a typical house.  Interstellar dust grains are composed mostly of carbon, silicon, and oxygen and are usually less than about 1/1000 of a millimeter across.  Recent work indicates that most dust grains are not spherical.  The above picture shows the result of a fractal adhesion model for dust grains involving random conglomerates of spherical compounds of different properties, here artificially highlighted by different colors.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/fractaldust_elw_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Fractal Interstellar Dust Up-Close",
+    "url": "https://apod.nasa.gov/apod/image/0307/fractaldust_elw.gif"
+},
+{
+    "copyright": "AstroMeeting",
+    "date": "2003-07-07",
+    "explanation": "Dramatic prominences can sometimes be seen looming just beyond the edge of the sun.  A solar prominence is a cloud of solar gas held just above the surface by the Sun's magnetic field.  The Earth would easily fit below the prominence on the left.  A quiescent prominence typically lasts about a month, and may erupt in a Coronal Mass Ejection (CME) expelling hot gas into the Solar System.  Although very hot, prominences typically appear dark when viewed against the Sun, since they are slightly cooler than the surface.  The above image in false color was taken on June 1 from Stuttgart, Germany with an amateur telescope and camera.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/sunedge_seip_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "At the Edge of the Sun",
+    "url": "https://apod.nasa.gov/apod/image/0307/sunedge_seip.jpg"
+},
+{
+    "copyright": "Allan SauterScripps",
+    "date": "2003-07-08",
+    "explanation": "Nobody suspected that this volcano would erupt.  Mt. Anatahan has not erupted in recorded history.  Nevertheless, on May 10, the small volcano in the Northern Mariana Islands of the western Pacific Ocean shot ash 10,000 meters into the air.  Explosions from Mt. Anatahan continued every few minutes for two days. The airborne ash was so bad that some flights were cancelled from downwind Guam. Although meter-sized rocks were catapulted through the air, nobody was hurt, as a seismology team that coincidentally installed detectors on the island a few days before had already left.  Fortunately, the team was not too far away to get the above picture.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/anatahanboom_sauter_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mt. Anatahan Erupts",
+    "url": "https://apod.nasa.gov/apod/image/0307/anatahanboom_sauter.jpg"
+},
+{
+    "copyright": "PPARC",
+    "date": "2003-07-09",
+    "explanation": "Astronomers have discovered a planetary system more similar to our own Solar System than any known previously.  The bright star HD70642, visible with binoculars toward the constellation of Puppis, was already known to be a star like our Sun.  Now a planet with twice Jupiter's mass has been discovered in a nearly circular orbit at approximately half the orbital distance of Jupiter. Such an orbit allows the possibility of habitable Earth-type planets orbiting further in, a possibility not likely with all previously discovered planetary systems with massive planets occupying disruptive closer elliptical orbits. The above illustration indicates what the HD70642 planetary system might look like from a hypothetical moon orbiting the newly discovered planet.  At only 90 light years distant, extremely faint early radio broadcasts from Earth are now passing this planetary system.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/hd70642_pparc_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "HD70642: A Star with Similar Planets",
+    "url": "https://apod.nasa.gov/apod/image/0307/hd70642_pparc.jpg"
+},
+{
+    "date": "2003-07-10",
+    "explanation": "Almost on cue, as Mars nears its closest approach to planet Earth in recorded history, ominous seasonal dust storms are beginning to kick up. Observers worry that the activity may presage the development of a planet wide dust storm, frustrating attempts to view Mars in the coming months, a situation similar to the Red Planet's uncooperative behavior in 2001. In this example, recorded in mid-May by the Mars Global Surveyor spacecraft camera, a dust storm the size of a continent sweeps north and east (toward the upper right) across Mars' northern Acidalia Planitia. Meanwhile, interplanetary robotic explorers Mars Express/ Beagle 2, Nozomi, and the twin Mars Exploration Rovers Opportunity and Spirit, are all bound for Mars and should arrive by early January 2004.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/acidaliamars_mgs_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Dust Storm Over Northern Mars",
+    "url": "https://apod.nasa.gov/apod/image/0307/acidaliamars_mgs_c1.jpg"
+},
+{
+    "date": "2003-07-11",
+    "explanation": "At night, tilting a flashlight up under your chin hides the glowing bulb from the direct view of your friends. Light from the bulb still reflects from your face though, and can give you a startling appearance. Spiral Galaxy NGC 1068 may be playing a similar trick on a cosmic scale, hiding a central powerful source of x-rays -- likely a supermassive black hole -- from direct view. X-rays are still scattered into our line-of-sight though, by a dense torus of material surrounding the black hole. The scenario is supported by x-ray data from the Chandra Observatory combined with a Hubble Space Telescope optical image in this false-color composite picture. Optical data in red shows spiral structure across NGC 1068's inner 7 thousand light-years with the x-ray data overlaid in blue and green. A hot wind of gas streaming from the galaxy's core is seen as the broad swath of x-ray emission while material lit up by the hidden black hole source is within the central cloud of more intense x-rays. Also well known as M77, NGC 1068 lies a mere 50 million light-years away toward the constellation Cetus.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/ngc1068_cxohst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 1068 and the X-Ray Flashlight",
+    "url": "https://apod.nasa.gov/apod/image/0307/ngc1068_cxohst_c1.jpg"
+},
+{
+    "date": "2003-07-12",
+    "explanation": "If you had x-ray vision, the center regions of our Galaxy would not be hidden from view by the immense cosmic dust clouds opaque to visible light. Instead, the Milky Way toward Sagittarius might look something like this stunning mosaic of images from the orbiting Chandra Observatory. Pleasing to look at, the gorgeous false-color representation of the x-ray data shows high energy x-rays in blue, medium energies in green, and low energies in red. Hundreds of white dwarf stars, neutron stars, and black holes immersed in a fog of multimillion-degree gas are included in the x-ray vista. Within the white patch at the image center lies the Galaxy's central supermassive black hole. Chandra's sharp x-ray vision will likely lead to a new appreciation of our Milky Way's most active neighborhood and has already indicated that the hot gas itself may have a temperature of a mere 10 million degrees Celsius instead of 100 million degrees as previously thought. The full mosaic is composed of 30 separate images and covers a 900 by 400 light-year swath at the galactic center.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/gcenter_cxcrgb_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "X-Ray Milky Way",
+    "url": "https://apod.nasa.gov/apod/image/0307/gcenter_cxcrgb_c1.jpg"
+},
+{
+    "copyright": "Nigel Sharp",
+    "date": "2003-07-13",
+    "explanation": "One of the most identifiable nebulae in the sky, the Horsehead Nebula in Orion, is part of a large, dark,  molecular cloud.  Also known as Barnard 33, the unusual shape was first discovered on a photographic plate in the late 1800s.  The red glow originates from hydrogen gas predominantly behind the nebula, ionized by the nearby bright star Sigma Orionis.  The darkness of the Horsehead is caused mostly by thick dust, although the lower part of the Horsehead's neck casts a shadow to the left.  Streams of gas leaving the nebula are funneled by a strong magnetic field.  Bright spots in the Horsehead Nebula's base are young stars just in the process of forming.  Light takes about 1500 years to reach us from the Horsehead Nebula.   The above image was taken with the 0.9-meter telescope at  Kitt Peak National Observatory.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0112/horsehead_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Horsehead Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0112/horsehead_noao.jpg"
+},
+{
+    "date": "2003-07-14",
+    "explanation": "Thousands of satellites orbit the Earth.  Costing billions of dollars, this swarm of high altitude robots is now vital to communication, orientation, and imaging both Earth and space.  One common type of orbit is geostationary where a satellite will appear to hover above one point on Earth's equator.  Geostationary orbits are very high up -- over five times the radius of the Earth -- and possible only because the satellite orbital period is exactly one day.  It is usually cheaper to place a satellite in low Earth orbit, around 500 kilometers, just high enough to avoid the effect of Earth's atmosphere.  The above animated sequence starts by showing the halo of Earth's satellites, including the ring at geostationary, and finishes by zooming in on the only one currently hosting humans: the International Space Station.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/earthsat_fu_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Satellites that Surround Earth",
+    "url": "https://apod.nasa.gov/apod/image/0307/earthsat_fu.gif"
+},
+{
+    "copyright": "Wally Pacholka",
+    "date": "2003-07-15",
+    "explanation": "Mars is heading for its closest encounter with Earth in over 50,000 years. Although Mars and Earth continue in their normal orbits around the Sun, about every two years Earth and Mars are on the same part of their orbit as seen from the Sun.  When this happens again in late August, Mars will be almost as near to the Sun as it ever gets, while simultaneously Earth will be almost as far from the Sun as it ever gets.  This means that now is a great time to launch your space probe to Mars.  Alternatively, these next few months are a great time to see a bright red Mars from your backyard.  Mars is so close that global features should be visible even through a small telescope.  Look for Mars to rise about 11 pm and to remain the brightest red object in the sky until sunrise.  Mars will rise increasingly earlier until its closest approach in late August.  Mars was captured above rising through the Arch Rock in Valley of Fire State Park, Nevada, USA.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/marsarch_pacholka_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mars Rising Through Arch Rock",
+    "url": "https://apod.nasa.gov/apod/image/0307/marsarch_pacholka.jpg"
+},
+{
+    "date": "2003-07-16",
+    "explanation": "When earthdweller Patrick Vantuyne wondered what his home planet's single large moon would look like if viewed from Mars on July 17, he availed himself of the JPL Solar System Simulator. Of course, when viewed from Earth on that date (tomorrow), the gibbous Moon will pass tantalizingly close to Mars for observers in North, Central, and South America and will actually pass in front of (occult) the Red Planet for some locations, including much of Florida. Vantuyne's efforts were rewarded with this remarkable simulated view of the crescent Moon against the background of a darkened Earth. From the martian vantage point, the lunar orb is seen just below the tip of the Florida peninsula at 8:05 GMT. Observers on planet Earth who want to watch the corresponding Moon/Mars show in tomorrow's predawn sky should note the viewing times for selected cities.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/marsview_jplsss.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mars' Simulated View",
+    "url": "https://apod.nasa.gov/apod/image/0307/marsview_jplsss.jpg"
+},
+{
+    "copyright": "Bernd Flach-WilkenVolker Wendel",
+    "date": "2003-07-17",
+    "explanation": "As soon as we find out whose cat did this . . .  Nebulae are as famous for being identified with familiar shapes as perhaps cats are for getting into trouble.  No cat, though, could have created the vast Cat's Paw Nebula visible in Scorpius.  At 5500 light years distant, Cat's Paw is an emission nebula with a red color that originates from an abundance of ionized hydrogen atoms.  Alternatively known as the Bear Claw Nebula or  NGC 6334, stars nearly ten times the mass of our Sun have been born there in only the past few million years. Pictured above, the Cat's Paw nebula was photographed during an astrophotography expedition to Namibia.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/catspaw_wendel_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Cat's Paw Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0307/catspaw_wendel.jpg"
+},
+{
+    "date": "2003-07-18",
+    "explanation": "A planet, a white dwarf, and a neutron star orbit each other in the giant globular star cluster M4, some 5,600 light-years away. The most visible member of the trio is the white dwarf star, indicated above in an image from the Hubble Space Telescope, while the neutron star is detected at radio frequencies as a pulsar. A third body was known to be present in the pulsar/white dwarf system and a detailed analysis of the Hubble data has indicated it is indeed a planet with about 2.5 times the mass of Jupiter. In such a system, the planet is likely to be about 13 billion years old.  Compared to our solar system's tender 4.5 billion years and other identified planets of nearby stars, this truly ancient world is by far the oldest planet known, almost as old as the Universe itself. Its discovery as part of an evolved cosmic trio suggests that planet formation spans the age of the Universe and that this newly discovered planet is likely only one of many formed in the crowded environs of globular star clusters.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/amigo3_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Planet, the White Dwarf, and the Neutron Star",
+    "url": "https://apod.nasa.gov/apod/image/0307/amigo3_hst_c1.jpg"
+},
+{
+    "date": "2003-07-19",
+    "explanation": "Far beyond the local group of galaxies lies NGC 3621, some 22 million light-years away. Found in the serpentine southern constellation Hydra, the loose spiral arms of this gorgeous island universe are loaded with luminous young star clusters and dark dust lanes. Still, for earthbound astronomers NGC 3621 is not just another pretty face-on spiral galaxy. Some of its brighter stars have been used as standard candles to establish important estimates of extragalactic distances and the scale of the Universe. This color picture was constructed from astronomical image data recorded with the Very Large Telescope Antu, at Paranal Observatory in Chile.  At the original resolution, individual, hot supergiant stars can be identified and studied across NGC 3621.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/ngc3621_bresolin_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 3621: Far Beyond the Local Group",
+    "url": "https://apod.nasa.gov/apod/image/0307/ngc3621_bresolin_c2.jpg"
+},
+{
+    "date": "2003-07-20",
+    "explanation": "Space travel entered the age of the ion drive in 1998 with the launch of Deep Space 1, a NASA mission designed primarily to test new technologies.  Although the ion drive on Deep Space 1 provided acceleration much smaller than we feel toward Earth, it gradually gave the spacecraft the speed it needed to travel across our Solar System.  The propulsion drive worked by ionizing xenon atoms with power provided by large panels that collect sunlight.  As these ions were expelled by a strong electric field out the back, the spacecraft slowly gained speed.  Pictured above, hot blue ions emerge from a prototype drive that was successfully tested at JPL in 1997.  Deep Space 1 successfully zoomed past asteroid 9969 Braille in July 1999 and then Comet Borrelly in September 2001, then obtaining the most detailed photograph ever taken of a comet nucleus. The spacecraft was retired in December 2001",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/ion_jpl_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "An Ion Drive for Deep Space 1",
+    "url": "https://apod.nasa.gov/apod/image/0307/ion_jpl.jpg"
+},
+{
+    "copyright": "Gary Stevens",
+    "date": "2003-07-21",
+    "explanation": "Why does this starfield photograph resemble an impressionistic painting?  The effect is created not by digital trickery but by large amounts of interstellar dust.  Dust, minute globs rich in carbon and similar in size to cigarette smoke, frequently starts in the outer atmospheres of large, cool, young stars. The dust is dispersed as the star dies and grows as things stick to it in the interstellar medium.  Dense dust clouds are opaque to visible light and can completely hide background stars.  For less dense clouds, the capacity of dust to preferentially reflect blue starlight becomes important, effectively blooming the stars blue light out and marking the surrounding dust.  Nebular gas emissions, typically brightest in red light, can combine to form areas seemingly created on an artist's canvas.  Photographed above is roughly one square degree of the nebula IC 4603 near the bright star Antares toward the constellation of Ophiuchus.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/ic4603_stevens_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "IC 4603: Reflection Nebula in Ophiuchius",
+    "url": "https://apod.nasa.gov/apod/image/0307/ic4603_stevens.jpg"
+},
+{
+    "date": "2003-07-22",
+    "explanation": "Large storms on Earth can spawn unusual, small, violent clouds known as tornadoes.  Tornado clouds swirl as fast as hundreds of kilometers per hour and, when they touch down, can destroy nearly everything in their long, narrow path.  Many tornadoes last only a few minutes, but the largest and most dangerous can endure for hours.  The above image, although somewhat unfocussed, appears to show a dropping funnel cloud interacting with a light pole.  If so, and this interpretation is controversial, this photograph would be one of the few indicating a clear distance to the funnel cloud.  The pictured tornado occurred in 1981 in Dallas, Texas, USA.  Tornadoes occur all over Earth but are most commonly found over parts of central North America during spring.  Much about tornadoes remains under study, including predicting when they will occur.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/tornado_noaa_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Tornado on Planet Earth",
+    "url": "https://apod.nasa.gov/apod/image/0307/tornado_noaa.jpg"
+},
+{
+    "date": "2003-07-23",
+    "explanation": "Why do some places on Earth have higher gravity than others?  Sometimes the reason is unknown. To help better understand the Earth's surface, slight distance changes between a pair of identically orbiting satellites named GRACE have been used to create the best ever map of Earth's gravitational field.  High points on this map, also colored red, indicate areas where gravity is slightly stronger than usual, while in blue areas gravity is slightly weaker. Many bumps and valleys on the map can be attributed to surface features, such as the North Mid-Atlantic Ridge and the Himalayan Mountains, but others cannot, and so might relate to unusually high or low sub-surface densities.  Maps like this also help calibrate changes in the Earth's surface including variable ocean currents and the melting of glaciers.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/gravityearth2_grace.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "GRACE Maps the Gravity of Earth",
+    "url": "https://apod.nasa.gov/apod/image/0307/gravityearth2_grace_big.gif"
+},
+{
+    "copyright": "Clay Center Observatory",
+    "date": "2003-07-24",
+    "explanation": "What was that bright \"star\" near the Moon last week? Mars of course, as the Red Planet wandered near the waning gibbous Moon early last Thursday morning, passing behind the lunar orb when viewed from some locations in South and Central America, the Caribbean, and Florida. The Clay Center Observatory expedition to Bonita Springs, Florida produced this evocative picture of Mars grazing the Moon's dark edge by digitally stacking and processing a series of telescopic images of the event.  With the cratered Moon in the foreground, the bright planet Mars seems alarmingly close, its global scale features and white south polar cap easily visible. Already impressive, the apparent size of the martian disk will continue to grow in the coming weeks, until, on August 27, Mars reaches its closest approach to planet Earth in over 50,000 years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/moonmars_dantowitz_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mars at the Moon's Edge",
+    "url": "https://apod.nasa.gov/apod/image/0307/moonmars_dantowitz_c1.jpg"
+},
+{
+    "copyright": "Robert Gendler",
+    "date": "2003-07-25",
+    "explanation": "In 1764, French astronomer Charles Messier sighted this gorgeous cosmic cloud which he described as an oval nebula without stars. Cataloged as M27, it is now popularly known as the Dumbbell Nebula, not for its substandard academic performance but for the elongated shape, like a bar with weights on each end, which first caught Messier's eye.  This deep image of the bright planetary nebula does reveal the Dumbell's central star though, and an array of foreground and background stars toward the sly constellation Vulpecula. The picture is a composite that includes 8 hours of exposure through a filter designed to record only the light of hydrogen atoms, tracing the intricate details of the nebula's faint outer halo which spans light-years. Thought to be an example of the fate awaiting our own Sun 5 billion years hence, the Dumbbell Nebula is about 1,200 light-years away.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/m27ha_gendler_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Dumbbell Nebula Halo",
+    "url": "https://apod.nasa.gov/apod/image/0307/m27ha_gendler_c1.jpg"
+},
+{
+    "date": "2003-07-26",
+    "explanation": "This might resemble a fried egg you've had for breakfast, but it's actually much larger. In fact, ringed by blue-tinted star forming regions and faintly visible spiral arms, the yolk-yellow center of this face-on spiral galaxy, NGC 7742, is about 3,000 light-years across. About 72 million light-years away in the constellation Pegasus, NGC 7742 is known to be a Seyfert galaxy - a type of active spiral galaxy with a center or nucleus which is very bright at visible wavelengths. Across the spectrum, the tremendous brightness of Seyferts can change over periods of just days to months and galaxies like NGC 7742 are suspected of harboring massive black holes at their cores. This beautiful color picture is courtesy of the Hubble Space Telescope Heritage Project.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/ngc7742_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Spiral Galaxy NGC 7742",
+    "url": "https://apod.nasa.gov/apod/image/0307/ngc7742_hst.jpg"
+},
+{
+    "copyright": "A. Oksanen2.6 meter Nordic Optical Telescope",
+    "date": "2003-07-27",
+    "explanation": "Our Milky Way Galaxy is not alone.  It is part of a gathering of about 50 galaxies known as the Local Group.  Members include the Great Andromeda Galaxy (M31), M32, M33, the Large Magellanic Cloud, the Small Magellanic Cloud, Dwingeloo 1, several small irregular galaxies, and many dwarf elliptical and dwarf spheroidal galaxies.  Pictured above is the Aquarius Dwarf, a faint dwarf irregular galaxy over 3 million light years away.  An earlier APOD erroneously identified the above image as the Sagittarius Dwarf.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/aqudwarf_not.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Aquarius Dwarf",
+    "url": "https://apod.nasa.gov/apod/image/0307/aqudwarf_not_big.jpg"
+},
+{
+    "date": "2003-07-28",
+    "explanation": "Next stop: Mars.  Last month the first of two missions to Mars was launched from Cape Canaveral, Florida, USA above a Boeing Delta II rocket. Pictured above, solid fuel boosters are seen falling away as light from residual exhaust is reflected by the soaring rocket. The Mars Exploration Rover dubbed Spirit is expected to arrive at the red planet this coming January.  Upon arriving, parachutes will deploy to slow the spacecraft and surrounding airbags will inflate.  The balloon-like package will then bounce around the surface a dozen times or more before coming to a stop.  The airbags will then deflate, the spacecraft will right itself, and the Spirit rover will prepare to roll onto Mars.  The robotic Spirit is expected to cover as much as 40 meters per day, much more than Sojourner, its 1997 predecessor.  Spirit will search for evidence of ancient Martian water, from which implications might be drawn about the possibility of ancient Martian life. A second rover named Opportunity was successfully launched on July 7 and will arrive at Mars a few weeks later.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/spirit_ee.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Launch of the Spirit Rover Toward Mars",
+    "url": "https://apod.nasa.gov/apod/image/0307/spirit_ee_big.jpg"
+},
+{
+    "copyright": "Ralph Encarnacion",
+    "date": "2003-07-29",
+    "explanation": "ven a quiet Sun is a busy place.  The above image, taken in a single color of light called Hydrogen Alpha, records a great amount of detail of the simmering surface of our parent star.  The gradual darkening towards the Sun's edge, called limb darkening, is caused by increased absorption of relatively cool solar gas.  Further over the edge, a giant prominence is visible, while a different prominence can be seen in silhouette as the dark streak near the image center.  Two active areas of the Sun are marked by bright plages.  The above amateur photograph of the Sun was taken just last month through a small telescope and a standard digital camera.  In contrast, there are times when our Sun appears much more active.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/orangesun_encarnacion.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Orange Sun Simmering",
+    "url": "https://apod.nasa.gov/apod/image/0307/orangesun_encarnacion_big.jpg"
+},
+{
+    "date": "2003-07-30",
+    "explanation": "What causes the unusual white color on some Martian mountains?  The answer can be guessed by noticing that the bright areas disappear as springtime takes hold in the south of Mars: dry ice.  Dry carbon dioxide ice sublimates directly to gas from its frozen state.  The frosty mountains, named Charitum Montes, have been covered with carbon dioxide ice over the Martian winter.  The serene scene pictured above is not a photograph, but rather a computationally constructed digital illusion resulting from the fusion of two color images from the Mars Orbital Camera and topographic data from the Mars Orbiter Laser Altimeter.  Both instruments operate from the Mars Global Surveyor robot spacecraft currently orbiting Mars.  The red planet continues to grow larger in terrestrial skies as Earth and Mars move closer to their recent-record closest approach on August 27.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/frostymnts_mgs_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Frosty Mountains on Mars",
+    "url": "https://apod.nasa.gov/apod/image/0307/frostymnts_mgs.jpg"
+},
+{
+    "date": "2003-07-31",
+    "explanation": "Posing for this cosmic family photo are the galaxies of HCG (Hickson Compact Group) 87, about four hundred million light-years distant toward the amphibious constellation Capricornus. The large edge-on spiral near picture center, the fuzzy elliptical galaxy immediately to its right, and the spiral near the top of the image are identified members of the group, while the small spiral galaxy in the middle is likely a more distant background galaxy. In any event, a careful examination of the deep image reveals other galaxies which certainly lie far beyond HCG 87. While not exactly locked in a group hug, the HCG 87 galaxies are interacting gravitationally, influencing their fellow group members' structure and evolution. This new image is from an instrument undergoing commissioning on the Gemini Observatory's South Telescope at Cerro Pachon, Chile. It compares favorably with views of this photogenic galaxy group recorded by the Hubble Space Telescope.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0307/hcg87_gmoss_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Galaxy Group HCG 87",
+    "url": "https://apod.nasa.gov/apod/image/0307/hcg87_gmoss_c1.jpg"
+},
+{
+    "copyright": "Petteri Kankaro",
+    "date": "2003-08-01",
+    "explanation": "In this serene view, the moons of Earth along with the bright planet Mars shine above the city of Turku near the southwestern tip of Finland. Of course Earth's large natural satellite, the Moon, at a distance of 400,000 kilometers, is by far the brightest object in this sky. But growing brighter and closer by the hour, Mars appears as the impressively bright \"star\" at the right, about 64 million kilometers from Turku. Streaking across the twilight sky between the two celestial beacons, Earth's largest artificial moon, the International Space Station, orbits about 400 kilometers above the planet's surface. To capture the moment, amateur astronomer Petteri Kankaro used a digital camera and combined exposures beginning at 23:34 Universal Time on July 17th.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/issmoonmars_kankaro_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Moons and Bright Mars",
+    "url": "https://apod.nasa.gov/apod/image/0308/issmoonmars_kankaro_c1.jpg"
+},
+{
+    "copyright": "Rick Scott",
+    "date": "2003-08-02",
+    "explanation": "On August 13, 2002, while counting Perseid meteors under dark, early morning Arizona skies, Rick Scott set out to photograph their fleeting but fiery trails. The equipment he used included a telephoto lens and fast color film. After 21 pictures he'd caught only two meteors, but luckily this was one of them. Tracking the sky, his ten minute long exposure shows a field of many stars in our own Milky Way galaxy, most too faint to be seen by the unaided eye. Flashing from lower left to upper right, the bright meteor would have been an easy eyeful though, as friction with Earth's atmosphere vaporized the hurtling grain of cosmic sand, a piece of dust from Comet Swift-Tuttle. Just above and left of center, well beyond the stars of the Milky Way, lies the island universe known as M31 or the Andromeda galaxy. The visible meteor trail begins about 100 kilometers above Earth's surface, one of the closest celestial objects seen in the sky. In contrast, Andromeda, about 2 million light-years away, is the most distant object easily visible to the naked-eye.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/perseidM31_rscott_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Island Universe, Cosmic Sand",
+    "url": "https://apod.nasa.gov/apod/image/0308/perseidM31_rscott.jpg"
+},
+{
+    "date": "2003-08-03",
+    "explanation": "Scientists are melting holes in the bottom of the world.  In fact, several holes have been melted near the South Pole, and they are now being used as astronomical observatories.  Astronomers with the Antarctic Muon and Neutrino Detector Array (AMANDA) lower into each vertical lake a string knotted with basketball-sized light detectors.  The water in each hole soon refreezes.  The detectors are sensitive to blue light emitted in the surrounding clear ice. Such light is expected from ice collisions with high-energy neutrinos emitted by objects or explosions out in the universe.  The above picture was taken looking down into the deep abyss.  Instruments were lowered down past 2000 meters.  Analyses of data from the AMANDA II detectors have recently been used to create the first map of the high-energy neutrino sky.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/abyss_amanda_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Ice Fishing for Cosmic Neutrinos",
+    "url": "https://apod.nasa.gov/apod/image/0308/abyss_amanda.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2003-08-04",
+    "explanation": "The Virgo Cluster of Galaxies is the closest cluster of galaxies to our Milky Way Galaxy.  The Virgo Cluster is so close that it spans more than 5 degrees on the sky - about 10 times the angle made by a full Moon.  It contains over 100 galaxies of many types - including spiral, elliptical, and irregular galaxies.  The Virgo Cluster is so massive that it is noticeably pulling our Galaxy toward it.  The cluster contains not only galaxies filled with stars but also gas so hot it glows in X-rays.  Motions of galaxies in and around clusters indicate that they contain more dark matter than any visible matter we can see.  Pictured above, the center of the Virgo cluster might appear to some as a human face, and includes bright Messier galaxies M86 at the top, M84 on the far right, NGC 4388 at the bottom, and NGC 4387 in the middle.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/virgocenter_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "In the Center of the Virgo Cluster",
+    "url": "https://apod.nasa.gov/apod/image/0308/virgocenter_cfht.jpg"
+},
+{
+    "date": "2003-08-05",
+    "explanation": "How does a space shuttle that landed in California get back to Florida for its next launch?  The answer is by ferry.  NASA operates two commercial Boeing 747 airplanes modified to carry a space shuttle on their backs.  Designated officially as Shuttle Carrier Aircraft or SCA, the 747s were made for commercial flights but bolstered by NASA with several struts, stabilizers, and electronic monitors.  Spanning about 70 meters in length, the two aircraft's combined mass is nearly 150,000 kilograms.  Pictured above, the space shuttle Atlantis is shown being ferried back to NASA Kennedy Space Center in Florida in September 1998.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/shuttle747_nasa_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Shuttle Ferry",
+    "url": "https://apod.nasa.gov/apod/image/0308/shuttle747_nasa.jpg"
+},
+{
+    "date": "2003-08-06",
+    "explanation": "Why is peculiar galaxy Centaurus A so dusty?  Dramatic dust lanes that run across the galaxy's center mark Cen A.  These dust lanes are so thick they almost completely obscure the galaxy's center in visible light.  This is particularly unusual as Cen A's red stars and round shape are characteristic of a giant elliptical galaxy, a galaxy type usually low in dark dust.  Cen A, also known as NGC 5128, is also unusual compared to an average elliptical galaxy because it contains a higher proportion of young blue stars and is a very strong source of radio emission.  Evidence indicates that Cen A is likely the result of the collision of two normal galaxies.  During the collision, many young stars were formed, but details of the creation of Cen A's unusual dust belts are still being researched.  Cen A lies only 13 million light years away, making it the closest active galaxy.  Cen A spans 60,000 light years and can be seen with binoculars toward the constellation of Centaurus.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/cena_eso_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Dusty Galaxy Centaurus A",
+    "url": "https://apod.nasa.gov/apod/image/0308/cena_eso.jpg"
+},
+{
+    "copyright": "2003\nJPL NASA Solar System Ambassador",
+    "date": "2003-08-07",
+    "explanation": "What's wrong with this picture? The summer night sky is clear, and moonlight illuminates the dome of the Hale 200-inch Telescope at Palomar Observatory, northeast of San Diego, California, USA. The familiar stars of the Teapot asterism in the constellation Sagittarius shine above the dome and to the right. In fact, the only thing wrong with the picture is that the observatory dome's two massive shutters are closed tight ... on a clear night. This extremely unusual situation is a precaution prompted by the presence of airborne ash and smoke from wildfires in the area on July 17 which could have damaged the historic mirror's aluminum coating. Amateur astronomer Greg Redfern notes that this year has been a particularly bad one for observatories and wildfires, with the Mt. Stromlo Australian Observatory disaster and fires also threatening telescopes on Mount Lemmon near Tucson, Arizona.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/palomar200_redfern_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Palomar at Night",
+    "url": "https://apod.nasa.gov/apod/image/0308/palomar200_redfern_c2.jpg"
+},
+{
+    "date": "2003-08-08",
+    "explanation": "In our neck of the Galaxy stars are too far apart to be in danger of colliding, but in the dense cores of globular star clusters star collisions may be relatively common. In fact, researchers have evidence that the closely spaced blue stars near the center of the above image taken by the orbiting Hubble Space Telescope were formed when stars directly collided. Pictured is the central region of NGC 6397, a globular cluster about 6,000 light-years distant, whose stars all formed at about the same time. NGC 6397's massive stars have long since evolved off the main sequence, exhausting their central supplies of nuclear fuel. This should leave the cluster with only old low mass stars; faint red main sequence stars and brighter blue and red giants. However, spectroscopic data show that the indicated stars, descriptively dubbed blue stragglers, are clearly main sequence stars which are too blue and too massive to still be there. Suggestively the stragglers appear to be two and occasionally three times as massive as the lower mass cluster stars otherwise present, supporting evidence for their formation from two and even three star collisions.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/ngc6397b_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Blue Stragglers in NGC 6397",
+    "url": "https://apod.nasa.gov/apod/image/0308/ngc6397b_hst.jpg"
+},
+{
+    "copyright": "Jimmy WestlakeColorado Mountain College",
+    "date": "2003-08-09",
+    "explanation": "Just after the Moon set but before the Sun rose in the early morning hours of 2000 August 12, meteors pelted the Earth from the direction of the constellation  Perseus, while ions pelted the Earth from the Sun.  The meteors were expected as sub-sand grains long left behind by Comet Swift-Tuttle annually create the Perseids Meteor Shower.  The aurorae were unexpected, however, as electrons, protons, and heavier ions raced out from a large Coronal Mass Ejection that had occurred just days before on the Sun.  In the foreground is Hahn's Peak, an extinct volcano in Colorado, USA. The Perseid meteor shower peaks this year over the next few days, with as much as one bright meteor per minute visible from some locations.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0008/perseidaurora_westlake_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Perseid Aurora",
+    "url": "https://apod.nasa.gov/apod/image/0008/perseidaurora_westlake.jpg"
+},
+{
+    "copyright": "Ant�nio Cidad�o",
+    "date": "2003-08-10",
+    "explanation": "Our Moon's appearance changes nightly.  This time-lapse sequence shows what our Moon looks like during a lunation, a complete lunar cycle.  As the Moon orbits the Earth, the half illuminated by the Sun first becomes increasingly visible, then decreasingly visible.  The Moon always keeps the same face toward the Earth.  The Moon's apparent size changes slightly, though, and a slight wobble called a libration is discernable as it progresses along its elliptical orbit. During the cycle, sunlight reflects from the Moon at different angles, and so illuminates different features differently.  A full lunation takes about 29.5 days, just under a month (moon-th).",
+    "hdurl": "https://apod.nasa.gov/apod/image/9911/lunation_ajc.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Lunation",
+    "url": "https://apod.nasa.gov/apod/image/9911/lunation_ajc_big.gif"
+},
+{
+    "copyright": "Russell Croman",
+    "date": "2003-08-11",
+    "explanation": "In the depths of the dark clouds of dust and molecular gas known as M17, stars continue to form.  Also known as the Omega Nebula and Horseshoe Nebula, the darkness of M17's  molecular clouds results from background starlight being absorbed by thick filaments of carbon-based smoke-sized dust.  As bright massive stars form, they produce intense and energetic light that slowly boils away the dark shroud.  Colors in the above image were picked to highlight specific elements that emit nebular light: red indicates emission from sulfur, green from hydrogen, and blue from oxygen.  The Swan Nebula is visible with binoculars towards the constellation of Sagittarius, lies 5000 light-years away, and spans 20 light-years across.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/m17_croman_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Elements of the Swan Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0308/m17_croman.jpg"
+},
+{
+    "date": "2003-08-12",
+    "explanation": "Stephan's Quintet is a picturesque but clearly troubled grouping of galaxies about 300 million light-years away toward the high-flying constellation Pegasus. Spanning over 200,000 light-years at that distance, this composite false-color image illustrates the powerful nature of this multiple galaxy collision, showing x-ray data from the Chandra Observatory in blue superposed on optical data in yellow. The x-rays from the central blue cloud running vertically through the image are produced by gas heated to millions of degrees by an energetic shock on a cosmic scale. The shock was likely the result of the interstellar gas in the large spiral galaxy, seen immediately to the right of the cloud, colliding with the quintet's tenuous intergalactic gas as this galaxy plunged through group's central regions. In fact, over billions of years, repeated passages of the group galaxies through the hot intergalactic gas should progressively strip them of their own star forming material. In this view, the large spiral galaxy just seen peeking above the bottom edge is an unrelated foreground galaxy a mere 35 million light-years distant.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/stephan_xray_opt.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "X-Rays from Stephan's Quintet",
+    "url": "https://apod.nasa.gov/apod/image/0308/stephan_xray_opt.jpg"
+},
+{
+    "copyright": "Wally Pacholka",
+    "date": "2003-08-13",
+    "explanation": "Have you seen Mars lately?  As Earth and Mars near their closest approach in nearly 60,000 years on August 27, the red planet has begun to appear dramatically bright and show interesting details through telescopes and binoculars.  Although not yet visible at sunset, Mars can be seen rising increasingly earlier in the evening.  Once above the horizon, Mars is easy to spot, as it sports a distinct orange-red hue and it is the brightest object in the sky after the Sun, the nearby Moon, and Venus. After Earth overtakes Mars in their respective solar orbits, Mars will be visible right from sunset, although its historic brightness will then begin to fade.  Pictured above, Mars was captured rising in the south east next to Poodle Rock in Valley of Fire State Park, Nevada, USA.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/poodlemars_pacholka_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mars Rising Behind Poodle Rock",
+    "url": "https://apod.nasa.gov/apod/image/0308/poodlemars_pacholka.jpg"
+},
+{
+    "date": "2003-08-14",
+    "explanation": "The total mass within giant galaxy cluster CL0025+1654, about 4.5 billion light-years away, produces a cosmic gravitational lens -- bending light as predicted by Einstein's theory of gravity and forming detectable images of even more distant background galaxies. Of course, the total cluster mass is the sum of the galaxies themselves, seen as ordinary luminous matter, plus the cluster's invisible dark matter whose nature remains unknown. But by analyzing the distribution of luminous matter and the properties of the gravitational lensing due to total cluster mass, researchers have solved the problem of tracing the dark matter layout. Their resulting map shows the otherwise invisible dark matter in blue, and the positions of the cluster galaxies in yellow. The work, based on extensive Hubble Space Telescope observations, reveals that the cluster's dark matter is not evenly distributed, but follows the clumps of luminous matter closely.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/cl0024_hstcomp_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Dark Matter Map",
+    "url": "https://apod.nasa.gov/apod/image/0308/cl0024_hstcomp_c2.jpg"
+},
+{
+    "date": "2003-08-15",
+    "explanation": "High-resolution imaging of an area in the Schiaparelli Basin of Mars on June 3 by the MGS Mars Orbiter camera produced this stunning example of layered formations within an old impact crater. On planet Earth, such structures would be seen in sedimentary rock -- material deposited at the bottom of ancient lakes or oceans and then subsequently weathered away to reveal the layers. With the Sun shining from the left, the central layer appears to stand above the others within the 2.3 kilometer wide crater. The crater could well have been filled with water in Mars' distant past, perhaps resting at the bottom of a lake filling the Schiaparelli impact basin. Still, such layers might also have been formed by material settling out of the windy martian atmosphere. As satellites continue to examine the martian surface from orbit, NASA's Spirit and Opportunity spacecraft will attempt to land on on Mars early next year to further explore the tantalizing history of water on the Red Planet.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/schiaparellibasincrater_mgs_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Sedimentary Mars",
+    "url": "https://apod.nasa.gov/apod/image/0308/schiaparellibasincrater_mgs_c1.jpg"
+},
+{
+    "date": "2003-08-16",
+    "explanation": "Rich star fields and glowing hydrogen gas silhouette dense, opaque clouds of interstellar gas and dust in this Hubble Space Telescope close-up of IC 2944, a bright star forming region in Centaurus, 5,900 light-years away. The largest of these dark globules, first spotted by South African astronomer A. D. Thackeray in 1950, is likely two separate but overlapping clouds, each more than one light-year wide. Combined the clouds contain material equivalent to about 15 times the mass of the Sun, but will they actually collapse to form massive stars? Along with other data, the sharp Hubble images indicate that Thackeray's globules are fractured and churning as a result of intense ultraviolet radiation from young, hot stars already energizing and heating the bright emission nebula. These and similar dark globules known to be associated with other star forming regions may ultimately be dissipated by their hostile environment -- like cosmic lumps of butter in a hot frying pan.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/ic2944glob2_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Thackeray's Globules",
+    "url": "https://apod.nasa.gov/apod/image/0308/ic2944glob2_hst.jpg"
+},
+{
+    "date": "2003-08-17",
+    "explanation": "What could you see approaching Saturn aboard an interplanetary cruise ship? Your view would likely resemble this subtly shaded image of the gorgeous ringed gas giant. Processed by the Hubble Heritage project, the picture intentionally avoids overemphasizing color contrasts and presents a natural looking Saturn with cloud bands, storms, nearly edge-on rings, and the small round shadow of the moon Enceladus near the center of the planet's disk. Of course, seats were not available on the only ship currently en route, the Cassini spacecraft. Cassini flew by Jupiter at the turn of the millennium and is scheduled to arrive at Saturn in the year 2004. After an extended cruise to a world 1,400 million kilometers from the Sun, Cassini will tour the Saturnian system, conducting a remote, robotic exploration with software and instruments designed by denizens of planet Earth.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/saturn_herhst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Natural Saturn On The Cassini Cruise",
+    "url": "https://apod.nasa.gov/apod/image/0308/saturn_herhst.jpg"
+},
+{
+    "copyright": "Bill Rosen",
+    "date": "2003-08-18",
+    "explanation": "Last Thursday, millions of people had an unexpectedly good view of a dark night sky.  Usually, the reflection of city lights off of local air impurities makes it hard for casual observers to see more than a handful of stars from a bright urban area.  A large power outage in northeast North America, however, dimmed most city lights and brought unfamiliar celestial wonders to many who looked up.  The unexpected starscape was perhaps a small perk in the face of hardships endured by many during the black out.  Prominent in the above four-image digital montage are two of the few celestial wonders that can be seen even above the usual glare of city light pollution: the Moon and Mars.  Both appear on the far left, with Mars to the upper right of the Moon.  Scrolling right will show how eerily dark New York City appeared from across the Hudson River in New Jersey at about 10 pm on 2003 August 14.  Visible lights are mostly attributable to cars, local power generators, flashlights, and candles.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/nymoonmars2_rosen_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Bright Lights, Dark City",
+    "url": "https://apod.nasa.gov/apod/image/0308/nymoonmars2_rosen.jpg"
+},
+{
+    "copyright": "Francisco A. Rodriguez RamirezAstroEduca",
+    "date": "2003-08-19",
+    "explanation": "How does Mars appear through a small telescope?  Viewed with the unaided eye or through a small telescope, possibly the most striking part of Mars' appearance is its red color.  The color derives from rust, iron oxide, which composes perhaps 10% of the Martian soil.  The oxygen that rusts the surface iron on Mars originates predominantly from carbon dioxide gas, which composes 95% of the Martian atmosphere.  Mars nears its closest approach with Earth in nearly 60 millennia on August 27, the red planet continues to appear larger, brighter, and a good target for sky enthusiasts.  Pictured above, Mars was captured from the Canary Islands of Spain during three days in three different orientations earlier this month.  Visible through the small telescope are white polar caps of water and carbon-dioxide ice, light red areas rich in lightly colored craters, and dark red areas dominated by relatively smooth lowlands.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/marssequence_farr.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mars Through a Small Telescope",
+    "url": "https://apod.nasa.gov/apod/image/0308/marssequence_farr_big.jpg"
+},
+{
+    "copyright": "Chris Cook",
+    "date": "2003-08-20",
+    "explanation": "Several unusual strands of darkness are prominent toward the constellation of Aquila.  This particular dark nebula is known as the E Nebula, for its evocative shape, or B142 and B143, for its position(s) on a list of such nebula compiled by Barnard.  The E Nebula spans roughly the angle of a full Moon and lies about 2000 light years distant.  The nebula can be seen with binoculars and is particularly visible during the summer months in Earth's northern hemisphere.  Other names for dark nebula include absorption nebula, as they efficiently absorb visible light emitted behind them, and molecular clouds, as they frequently attain temperatures low enough so that several different types of stable molecules can exist.  The low temperatures of these interstellar clouds facilitate the formation of dense knots of gas that may then collapse into bright stars.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/eneb_cook_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The E Nebula in Aquila",
+    "url": "https://apod.nasa.gov/apod/image/0308/eneb_cook.jpg"
+},
+{
+    "date": "2003-08-21",
+    "explanation": "About 5,000 light-years away, toward the constellation Sagittarius and the center of our galaxy, lies the bright star forming region cataloged as M17. In visible light, M17's bowed and hollowed-out appearance has resulted in many popular names like the Horseshoe, Swan, Omega, and Lobster nebula. But what has sculpted this glowing gas cloud? This Chandra Observatory image of x-rays from M17 provides a clue. Many massive young stars are responsible for the pink central region of the false-color x-ray picture, their colliding stellar winds producing the multimillion degree gas cloud which extends ten or so light-years to the left. When compared with visible light images, this x-ray hot cloud is partly surrounded by the nebula's cooler gas. In fact, having carved out a central cavity the hot gas seems to be flowing out of the horseshoe shape like champagne from an uncorked bottle ... suggesting yet another name for star forming region M17.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/m17_cxc_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "X-Rays from M17",
+    "url": "https://apod.nasa.gov/apod/image/0308/m17_cxc_c1.jpg"
+},
+{
+    "copyright": "Steve Mandel",
+    "date": "2003-08-22",
+    "explanation": "As the Sun sets, the Earth's shadow rises up from the east. The subtle beauty of this daily apparition is often overlooked in favor of the brighter, more colorful western horizon. But while gazing toward a nearly full rising Moon on August 9, astronomer Steve Mandel admired the shadow rise from his driveway near Soquel, California, USA. His view looks east from the northern tip of Monterey Bay toward Fremont Peak, the highest point in the small mountain range on the horizon. The Earth's rising shadow is cast through the dense atmosphere and is seen in his picture as the dark blue band along the horizon, bounded above by a pinkish purple glow or antitwilight arch. Also known as the Belt of Venus, the arch's lovely color is due to backscattering of reddened light from the setting Sun.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/shadowrise_mandel_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Shadow Rise",
+    "url": "https://apod.nasa.gov/apod/image/0308/shadowrise_mandel_c1.jpg"
+},
+{
+    "date": "2003-08-23",
+    "explanation": "The Tarantula Nebula is more than 1,000 light-years across - a giant emission nebula within our neighboring galaxy the Large Magellanic Cloud. Inside this cosmic arachnid lies a central young cluster of massive stars, cataloged as R136, whose intense radiation and strong winds have helped energize the nebular glow and shape the spidery filaments. In this impressive color mosaic of images from the Wide-Field Imager camera on ESO's 2.2 meter telescope at La Silla Observatory, other young star clusters can be seen still within the nebula's grasp. Also notable among the denizens of the Tarantula zone are several dark clouds invading the nebula's outer limits as well as the dense cluster of stars NGC 2100 at the extreme left edge of the picture. The small but expanding remnant of supernova 1987a, the closest supernova in modern history, lies just off the lower right corner of the field. The rich mosaic's field of view covers an area on the sky about the size of the full moon in the southern constellation Dorado.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/tarantula_esowfi_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Tarantula Zone",
+    "url": "https://apod.nasa.gov/apod/image/0308/tarantula_esowfi.jpg"
+},
+{
+    "date": "2003-08-24",
+    "explanation": "The largest canyon in the Solar System cuts a wide swath across the face of Mars.  Named Valles Marineris, the grand valley extends over 3,000 kilometers long, spans as much as 600 kilometers across, and delves as much as 8 kilometers deep.  By comparison, the Earth's Grand Canyon in Arizona, USA is 800 kilometers long, 30 kilometers across, and 1.8 kilometers deep.  The origin of the Valles Marineris remains unknown, although a leading hypothesis holds that it started as a crack billions of years ago as the planet cooled.  Recently, several geologic processes have been identified in the canyon.  The above mosaic was  created from over 100 images of Mars taken by Viking Orbiters in the 1970s.   News: Mars closest in over 50,000 years on Wednesday",
+    "hdurl": "https://apod.nasa.gov/apod/image/0208/marsglobe_viking_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Valles Marineris: The Grand Canyon of Mars",
+    "url": "https://apod.nasa.gov/apod/image/0208/marsglobe_viking.jpg"
+},
+{
+    "copyright": "Astropix.com",
+    "date": "2003-08-25",
+    "explanation": "Many of the stars in our home Milky Way Galaxy appear together as a dim band on the sky that passes nearly over the Earth's north and south poles.  Pictured above is the part of our Galaxy that passes closest over the north pole.  Placing your cursor over the image will bring up the names of several constellations and bright stars.  The diffuse white Galaxy glow is created by billions of stars, while red patches are large emission nebulas, usually marking areas where bright stars have recently formed.  In the north, all of the lights visible at night and all lights that created this image were emitted within the past few thousand years from within the Milky Way Galaxy -- except one.  On the upper right is a small faint patch designated M31, the Andromeda Galaxy.  M31 is a spiral galaxy similar to our Milky Way but so distant it emits the oldest light distinguishable by the unaided eye -- light that takes over two million years to reach us.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/northmilkyway_lodriguss_plain.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Northern Milky Way",
+    "url": "https://apod.nasa.gov/apod/image/0308/northmilkyway_lodriguss_plain.jpg"
+},
+{
+    "date": "2003-08-26",
+    "explanation": "Mars won't look this good.  Tonight and over the next few days, when Mars is at its closest approach to Earth in nearly 60,000 years, you might get your best view ever of our planetary neighbor.  Please, though, don't expect to see this much structure, or expect to see Mars rotate so much in so brief a period.  The above 20-frame movie was created from 1000 frames of a backyard webcam that were meticulously aligned, added, and digitally sequenced.   Pictured, Mars appears to rotate in a time-lapse sequence, with each frame separated by 30 minutes of real time.  In reality, one full Martian rotation -- a Martian day -- is only about 40 minutes longer than an Earth day.  For those with access to a small telescope, here is how mars will really look.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/marsmovie_anderson.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Earth Webcam Catches Mars Rotation",
+    "url": "https://apod.nasa.gov/apod/image/0308/marsmovie_anderson_big.gif"
+},
+{
+    "date": "2003-08-27",
+    "explanation": "At about 10 am Universal Time today, Mars and Earth will pass closer than in nearly 60,000 years.  Mars, noticeably red, will be the brightest object in the eastern sky just after sunset.  Tonight and through much of this week, many communities around the world are running a public Mars Watch 2003 campaign, where local telescopes will zoom in on the red planet.  Pictured above is an image of Mars taken just last night from the Hubble Space Telescope in orbit around the Earth. This image is the most detailed view of Mars ever taken from Earth. Visible features include the south polar cap in white at the image bottom, circular Huygens crater just to the right of the image center, Hellas Impact Basin - the large light circular feature at the lower right, planet-wide light highlands dominated by many smaller craters and large sweeping dark areas dominated by relatively smooth lowlands.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/bigmars_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Big Mars from Hubble",
+    "url": "https://apod.nasa.gov/apod/image/0308/bigmars_hst.jpg"
+},
+{
+    "copyright": "Wally Pacholka",
+    "date": "2003-08-28",
+    "explanation": "Yesterday, at about 10 am Universal Time, Mars and Earth passed closer than in nearly 60,000 years.  Mars, noticeably red, remains the brightest object in the eastern sky just after sunset.  The best views of Mars, however, will continue to be from the robot spacecraft currently orbiting Mars: the Mars Global Surveyor and the Mars Odyssey.  The current pass sparked the launching of four new spacecraft toward Mars, some of which will deploy landers early next year and likely return even more spectacular views of our planetary neighbor.  Pictured above, Mars was photographed rising in the southeast behind Elephant Rock in the Valley of Fire State Park, Nevada, USA.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/elephantmars_pacholka_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mars Rising Behind Elephant Rock",
+    "url": "https://apod.nasa.gov/apod/image/0308/elephantmars_pacholka.jpg"
+},
+{
+    "date": "2003-08-29",
+    "explanation": "ven if the Moon really were made of green cheese it probably wouldn't look this bizarre. Still, this mosaic of 53 images was recorded by the Jupiter-bound Galileo spacecraft as it passed near our own large natural satellite in 1992. The pictures were recorded through three spectral filters and combined in an exaggerated false-color scheme to explore the composition of the lunar surface as changes in mineral content produce subtle color differences in reflected light. Familiar to earthdwellers, the lunar near side is on the left, but the space-based view looks down on the Moon's north pole located in the upper half of the image near the shadow line. Blue to orange shades indicate volcanic lava flows. The dark blue Mare Tranquillitatis at the lower left is richer in titanium bearing minerals than the green and orange maria above it. Near the bottom of the image and to the right of Tranquillitatis is the dark oval-shaped Mare Crisium surrounded by shocking pink colors indicating material of the lunar highlands.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/PIA00131_colormoon_gal_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Mineral Moon",
+    "url": "https://apod.nasa.gov/apod/image/0308/PIA00131_colormoon_gal_c1.jpg"
+},
+{
+    "date": "2003-08-30",
+    "explanation": "For billions of years, massive stars in our Milky Way Galaxy have lived spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After a few million years, the enriched material is blasted back into interstellar space where star formation begins anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the explosion which created this supernova remnant was probably first seen in planet Earth's sky just over 300 years ago, although it took that light more than 10,000 years to reach us. In this gorgeous Hubble Space Telescope image of cooling filaments and knots in the Cas A remnant, light from specific elements has been color coded to help astronomers understand the recycling of our galaxy's star stuff. For instance, red regions are dominated by emission from sulfur atoms while blue shades correspond to oxygen.  The area shown is about 10 light-years across.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/casA_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Recycling Cassiopeia A",
+    "url": "https://apod.nasa.gov/apod/image/0308/casA_hst.jpg"
+},
+{
+    "copyright": "Roddy Mackenzie",
+    "date": "2003-08-31",
+    "explanation": "What would it be like to stand atop the tallest mountain on Earth?  To see a full panoramic vista from there, scroll right.  Visible are snow peaked mountains near and far, tremendous cliffs, distant plateaus, the tops of clouds, and a dark blue sky.  Mt. Everest stands 8.85 kilometers above sea level, roughly the maximum height reached by international airplane flights, but much less than the 300 kilometers achieved by a space shuttle.  Hundreds of people have tried and failed to climb the behemoth by foot, a feat first accomplished successfully in 1953.  About 1000 people have now made it to the summit.  Roddy Mackenzie, who climbed the mountain in 1989, captured the above image. Mt. Everest lies in the Himalayan mountains in the country of Nepal.  In the native language of Nepal, the mountain's name is \"Sagarmatha\" which means \"forehead of the sky.\"",
+    "hdurl": "https://apod.nasa.gov/apod/image/0207/everest_mackenzie.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The View from Everest",
+    "url": "https://apod.nasa.gov/apod/image/0207/everest_mackenzie.jpg"
+},
+{
+    "copyright": "Adam BlockNOAOAURANSF",
+    "date": "2003-09-01",
+    "explanation": "The beautiful Trifid Nebula (aka M20), a photogenic study in cosmic contrasts, lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid alone illustrates three basic types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark absorption nebulae where dense dust clouds appear in silhouette. The bright emission nebula on the right, separated into three parts by obscuring dust lanes, lends the nebula its popular name. Many details are apparent in this gorgeous high-resolution image of the Trifid. For example, light-year long pillars and jets sculpted by newborn stars - visible here in the upper right-hand corner of the emission nebula - appear in Hubble Space Telescope close-up images of the region.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0308/m20castano_block_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Beautiful Trifid",
+    "url": "https://apod.nasa.gov/apod/image/0308/m20castano_block_c1.jpg"
+},
+{
+    "copyright": "Mark StrongeEAAS",
+    "date": "2003-09-02",
+    "explanation": "Is that really another world?  Thousands of people the world over lined up last week to see Mars through a telescope as the red planet and Earth passed unusually close together in their orbits around the Sun. Reviews of Mars were mixed, with some people disappointed that Mars still appeared somewhat blurry.  Veteran sky gazers appeared somewhat surprised by the popularity of the phenomenon, as it seemed to many that Mars was not very much brighter than it frequently appears, and the event held little promise for real discovery.  Most observers, though, appeared quietly pleased to take advantage of a unique opportunity and see such an uncommon sight.  Many were awed by the simple enormity of being able to see the face of a completely different world with their own eyes. Pictured above, a youngster peered toward Mars last week at an East Antrim Astronomical Society star party at the Big Collin Picnic Area north of Belfast, Northern Ireland, UK.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/marshorizon_stronge_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Contemplating Mars",
+    "url": "https://apod.nasa.gov/apod/image/0309/marshorizon_stronge.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2003-09-03",
+    "explanation": "About 8000 years ago, a star in our Galaxy exploded.  Ancient humans might have noticed the supernova as a temporary star, but modern humans can see the expanding shell of gas even today.  Pictured above, part of the shell of IC 443 is seen to be composed of complex filaments, some of which are impacting an existing molecular cloud.  Here emission from shock-excited molecular hydrogen is allowing astronomers to study how fast moving supernova gas affects star formation in the cloud.  Additionally, astronomers theorize that the impact accelerates some particles to velocities near the speed of light.  Supernova remnant IC 443 is also known to shine brightly also in infrared and X-ray light.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/ic443_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Galactic Supernova Remnant IC 443",
+    "url": "https://apod.nasa.gov/apod/image/0309/ic443_cfht.jpg"
+},
+{
+    "date": "2003-09-04",
+    "explanation": "The Crab Pulsar, a city-sized, magnetized neutron star spinning 30 times a second, lies at the center of this composite image of the inner region of the well-known Crab Nebula. The spectacular picture combines optical data (red) from the Hubble Space Telescope and x-ray images (blue) from the Chandra Observatory, also used in the popular Crab Pulsar movies. Like a cosmic dynamo the pulsar powers the x-ray and optical emission from the nebula, accelerating charged particles and producing the eerie, glowing x-ray jets. Ring-like structures are x-ray emitting regions where the high energy particles slam into the nebular material. The innermost ring is about a light-year across. With more mass than the Sun and the density of an atomic nucleus, the spinning pulsar is the collapsed core of a massive star that exploded, while the nebula is the expanding remnant of the star's outer layers. The supernova explosion was witnessed in the year 1054.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/crab_xrayopt_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Composite Crab",
+    "url": "https://apod.nasa.gov/apod/image/0309/crab_xrayopt_c2.jpg"
+},
+{
+    "copyright": "Ben Cooper",
+    "date": "2003-09-05",
+    "explanation": "Streaking skyward, a Boeing Delta 2-Heavy rocket carries NASA's Space InfraRed Telescope Facility (SIRTF) aloft during the early morning hours of August 25th. The dramatic scene was recorded in a time exposure from the pier in Jetty Park at the northern end of Cocoa Beach, Florida, about 2.5 miles from the Cape Canaveral launch site. SIRTF (sounds like \"sir tiff\") will explore the distant Universe in infrared light as the fourth and final satellite observatory in NASA's Great Observatories Program. The three other large astrophysics satellites were designed for higher energies in the electromagnetic spectrum, with the Hubble Space Telescope operating near visible wavelengths, the Compton Gamma Ray Observatory instruments sensitive to gamma rays, and the Chandra Observatory detecting cosmic x-rays. SIRTF has been launched into an Earth-trailing solar orbit to reduce its exposure to infrared radiation from our fair planet. Cooled by an on board supply of liquid helium, SIRTF's infrared detectors will operate at near absolute zero temperatures. Presently, SIRTF's systems are undergoing a 90-day check out.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/SIRTFstreak_cooper.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "SIRTF Streak",
+    "url": "https://apod.nasa.gov/apod/image/0309/SIRTFstreak_cooper.jpg"
+},
+{
+    "date": "2003-09-06",
+    "explanation": "Slice Jupiter from pole to pole, peel back its outer layers of clouds, stretch them onto a flat surface ... and for all your trouble you'd end up with something that looks a lot like this. Scrolling right will reveal the full picture, a color mosaic of Jupiter from the Cassini spacecraft. The mosaic is actually a single frame from a fourteen frame movie constructed from image data recorded by Cassini during its leisurely flyby of the solar system's largest planet in late 2000. The engaging movie approximates Jupiter's cloud motions over 24 jovian rotations. To make it, a series of observations covering Jupiter's complete circumference 60 degrees north and south of the equator were combined in an animated cylindrical projection map of the planet. As in the familiar rectangular-shaped wall maps of the Earth's surface, the relative sizes and shapes of features are correct near the equator but become progressively more distorted approaching the polar regions. In the Cassini movie, which also features guest appearances by moons Io and Europa, the smallest cloud structures visible at the equator are about 600 kilometers across.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/jupiterpeel_cassini_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Jupiter Unpeeled",
+    "url": "https://apod.nasa.gov/apod/image/0309/jupiterpeel_cassini.jpg"
+},
+{
+    "date": "2003-09-07",
+    "explanation": "The center of our Galaxy is a busy place. In visible light, much of the  Galactic Center is obscured by opaque dust.  In infrared light, however, dust glows more and obscures less, allowing nearly one million stars to be recorded in the above photograph.  The Galactic Center itself appears on the right and is located about 30,000 light years away towards the constellation of Sagittarius.  The Galactic Plane of our Milky Way Galaxy, the plane in which the Sun orbits, is identifiable by the dark diagonal dust lane.  The absorbing dust grains are created in the atmospheres of cool red-giant stars and grow in molecular clouds.  The region directly surrounding the Galactic Center glows brightly in radio and high-energy radiation, and is thought to house a large black hole.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0107/gcenter_2mass_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Galactic Center in Infrared",
+    "url": "https://apod.nasa.gov/apod/image/0107/gcenter_2mass.jpg"
+},
+{
+    "copyright": "Richard Crisp",
+    "date": "2003-09-08",
+    "explanation": "The large majestic Lagoon Nebula is home for many young stars and hot gas.  Spanning 100 light years across while lying only about 5000 light years distant, the Lagoon Nebulae is so big and bright that it can be seen without a telescope toward the constellation of Sagittarius.  Many bright stars are visible from NGC 6530, an open cluster that formed in the nebula only several million years ago. The greater nebula, also known as M8 and NGC 6523, is named \"Lagoon\" for the band of dust seen to the left of the open cluster's center.  A bright knot of gas and dust in the nebula's center is known as the Hourglass Nebula.  The above picture is a digitally sharpened composite of exposures taken in specific colors of light emitted by sulfur (red), hydrogen (green), and oxygen (blue). Star formation continues in the Lagoon Nebula as witnessed by the many globules that exist there.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/m8_crisp_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Stars and Dust of the Lagoon Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0309/m8_crisp.jpg"
+},
+{
+    "date": "2003-09-09",
+    "explanation": "Where will Gemini take us tonight? It is dusk and Gemini North, one of the largest telescopes on planet Earth, prepares to peer into the distant universe.  Gemini's flexible 8.1-mirror has taken already effectively taken humanity to distant stars, nebulas, galaxies, and quasars, telling us about the geometry, composition, and evolution of our universe. The above picture is actually a composite of over 40 images taken while the Gemini dome rotated, later adding an image of the star field taken from the same location. The Gemini dome is not transparent -- it only appears so because it rotated during the exposures of this image. The constellations of Scorpius and Sagittarius can be seen above the dome, as well as the sweeping band of our Milky Way Galaxy, including the direction toward the Galactic center. Gemini North's twin, Gemini South, resides in Cerro Pachn, Chile.  This night, 2003 August 19, Gemini North took us only into the outer Solar System, observing Pluto in an effort to better determine the composition of its thin atmosphere.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/mwsky_gemini_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Gemini Sky",
+    "url": "https://apod.nasa.gov/apod/image/0309/mwsky_gemini.jpg"
+},
+{
+    "copyright": "Dominic Cantin",
+    "date": "2003-09-10",
+    "explanation": "Aurorae usually occur high above the clouds.  The auroral glow is created when fast-moving charged particles from the Earth's magnetosphere impact air molecules high in the Earth's atmosphere.  An oxygen molecule, for example, will emit a green light when reacquiring an electron lost during a collision.  The lowest part of an aurora will typically occur at 100 kilometers and up, while most clouds usually exist only below about 10 kilometers.  The relative heights of clouds and auroras are shown clearly in the above picture taken last month from near Quebec City, Canada. The most likely time to see an aurora is around midnight.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/auroraclouds_cantin_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Aurora Over Clouds",
+    "url": "https://apod.nasa.gov/apod/image/0309/auroraclouds_cantin.jpg"
+},
+{
+    "date": "2003-09-11",
+    "explanation": "Similar in size and grand design to our own Milky Way, spiral galaxy NGC 3370 lies about 100 million light-years away toward the constellation Leo. Recorded here in exquisite detail by the Hubble Space Telescope's Advanced Camera for Surveys, the big, beautiful face-on spiral does steal the show, but the sharp image also reveals an impressive array of background galaxies in the field, strewn across the more distant Universe. Looking within NGC 3370, the image data has proved sharp enough to study individual pulsating stars known as Cepheids which can be used to accurately determine this galaxy's distance. NGC 3370 was chosen for this study because in 1994 the spiral galaxy was also home to a well studied stellar explosion -- a type Ia supernova. Combining the known distance to this standard candle supernova, based on the Cepheid measurements, with observations of supernovae at even greater distances, can reveal the size and expansion rate of the Universe itself.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/ngc3370_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 3370: A Sharper View",
+    "url": "https://apod.nasa.gov/apod/image/0309/ngc3370_hst_c1.jpg"
+},
+{
+    "date": "2003-09-12",
+    "explanation": "A truly enormous collection of thousands of galaxies, the Perseus Cluster - like other large galaxy clusters - is filled with hot, x-ray emitting gas. The x-ray hot gas (not the individual galaxies) appears in the left panel above, a false color image from the Chandra Observatory. The bright central source flanked by two dark cavities is the cluster's supermassive black hole. At right, the panel shows the x-ray image data specially processed to enhance contrasts and reveals a strikingly regular pattern of pressure waves rippling through the hot gas.  In other words, sound waves, likely generated by bursts of activity from the black hole, are ringing through the Perseus Galaxy Cluster. Astronomers infer that these previously unknown sound waves are a source of energy which keeps the cluster gas so hot. So what note is the Perseus Cluster playing? Estimates of the distance between the wave peaks and sound speed in the cluster gas suggests the cosmic note is about 57 octaves below B-flat above middle C.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/perseus_cxc2pan_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Note on the Perseus Cluster",
+    "url": "https://apod.nasa.gov/apod/image/0309/perseus_cxc2pan_c1.jpg"
+},
+{
+    "date": "2003-09-13",
+    "explanation": "It's the dim star, not the bright one, near the center of NGC 3132 that created this odd but beautiful planetary nebula.  Nicknamed the Eight-Burst Nebula and the Southern Ring Nebula, the glowing gas originated in the outer layers of a star like our Sun.  In this representative color picture, the hot blue pool of light seen surrounding this  binary system is energized by the hot surface of the faint star.  Although photographed to explore unusual symmetries, it's the asymmetries that help make this planetary nebula so intriguing.  Neither the unusual shape of the surrounding cooler shell nor the structure and placements of the cool filamentary dust lanes running across NGC 3132 are well understood.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/ngc3132_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 3132: The Eight Burst Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0309/ngc3132_hst.jpg"
+},
+{
+    "date": "2003-09-14",
+    "explanation": "The Crab Nebula, filled with mysterious filaments, is the result of a star that was seen to explode in 1054 AD.  This spectacular supernova explosion was recorded by Chinese and (quite probably) Anasazi Indian astronomers.  The filaments are mysterious because they appear to have less mass than expelled in the original supernova and higher speed than expected from a free explosion. In the above picture taken recently from a Very Large Telescope, the color indicates what is happening to the electrons in differentparts of the Crab Nebula. Red indicates the electrons are recombining with protons to form neutral hydrogen, while blue indicates the electrons are whirling around the magnetic field of the inner nebula.  In the nebula's very center lies a pulsar: a neutron star rotating, in this case, 30 times a second.",
+    "hdurl": "https://apod.nasa.gov/apod/image/9911/crab_vlt_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Crab Nebula from VLT",
+    "url": "https://apod.nasa.gov/apod/image/9911/crab_vlt.jpg"
+},
+{
+    "copyright": "S. Kafka",
+    "date": "2003-09-15",
+    "explanation": "This huge ball of stars predates our Sun.  Long before humankind evolved, before dinosaurs roamed, and even before our Earth existed, ancient globs of stars condensed and orbited a young Milky Way Galaxy.  Of the 200 or so globular clusters that survive today, M3 is one of the largest and brightest, easily visible in the Northern hemisphere with binoculars.  M3 contains about half a million stars, most of which are old and red.  Light takes about 100,000 years to reach us from M3, which spans about 150 light years.  The above picture is a composite of blue and red images.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/m3_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Globular Cluster M3",
+    "url": "https://apod.nasa.gov/apod/image/0309/m3_noao.jpg"
+},
+{
+    "date": "2003-09-16",
+    "explanation": "Where will Hurricane Isabel go?  One of the stronger storm systems of modern times appears headed for one the more populated seaboards on planet Earth -- the east coast of the USA.  Hurricane Isabel, pictured yesteday as it passed east of the Bahamas, has flirted with category 5 status, the most powerful hurricane category. Hurricanes are huge swirling storms with cloud systems typically larger than a state.  Tropical cyclones, called hurricanes in Earth's Western Hemisphere and typhoons in the Eastern Hemisphere, get their immense energy from warm evaporated ocean water.  As this water vapor cools and condenses, it heats the air, lowers pressure and hence causes cooler air to come swooshing in.  Winds can reach over 250 kilometers per hour and become very dangerous.  Much remains unknown about cyclones, including how they are formed and the exact path they will take.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/isabel2_terra_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Hurricane Isabel Approaches",
+    "url": "https://apod.nasa.gov/apod/image/0309/isabel2_terra.jpg"
+},
+{
+    "copyright": "2MASST. H. Jarrett",
+    "date": "2003-09-17",
+    "explanation": "Are the nearest galaxies distributed randomly? A plot of over one million of the brightest \"extended sources\" detected by the Two Micron All Sky Survey (2MASS) shows that they are not.  The vast majority of these infrared extended sources are galaxies.  Visible above is an incredible tapestry of structure that provides limits on how the universe formed and evolved.  Many galaxies are gravitationally bound together to form clusters, which themselves are loosely bound into superclusters, which in turn are sometimes seen to align over even larger scale structures.  In contrast, very bright stars inside our own Milky Way Galaxy cause the vertical blue sash.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/galaxysky_2mass_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The 2MASS Galaxy Sky",
+    "url": "https://apod.nasa.gov/apod/image/0309/galaxysky_2mass.jpg"
+},
+{
+    "date": "2003-09-18",
+    "explanation": "These three views of Saturn were recorded by the Hubble Space Telescope on March 7th of this year, as the southern hemisphere of the solar system's most gorgeous planet reached its maximum 27 degree tilt toward Earth. The images used to construct the false-color pictures were made through a combination of filters covering the electromagnetic spectrum from ultraviolet (top), to visible (middle) and infrared (bottom) wavelengths highlighting different features in the Saturnian atmospheric bands and rings. Well known for its bright ring system and large, mysterious moon Titan, gas giant Saturn is also a planet with a dynamic atmosphere and high-speed winds. In fact, in the 1980s, Voyager spacecraft measured equatorial winds of over 1,000 miles per hour. Giant storm systems, comparable in size to planet Earth itself, have been seen erupting in Saturn's cloud tops.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/saturn3_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Saturn by Three",
+    "url": "https://apod.nasa.gov/apod/image/0309/saturn3_hst_c1.jpg"
+},
+{
+    "date": "2003-09-19",
+    "explanation": "Launched in 1989 and looping through the jovian system since late 1995, the voyage of NASA's Galileo spacecraft will soon come to an end. The spacecraft has been targeted to plunge directly into Jupiter this Sunday, September 21st, at about 30 miles per second. Its components will be vaporized in the gas giant's outer atmosphere. While Galileo's long voyage of exploration has resulted in a spectacular scientific legacy, the spacecraft's ultimate fate is related to perhaps its most tantalizing discovery -- strong evidence for a liquid ocean beneath the frozen surface of Jupiter's moon Europa. Galileo is now almost completely out of fuel for maneuvers, so this intentional collision with Jupiter will prevent any unintentional future collision with Europa and the possibility of contaminating the jovian moon with microbes from Earth hardy enough to survive in interplanetary space. Color image data from the Galileo mission recorded between 1995 and 1998 was used to create this depiction of Europa's cracked and icy surface. The inset shows dark reddish, disrupted regions dubbed Thera and Thrace.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/europa1_gal_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Galileo's Europa",
+    "url": "https://apod.nasa.gov/apod/image/0309/europa1_gal_c1.jpg"
+},
+{
+    "date": "2003-09-20",
+    "explanation": "Bright sunlight glints and long dark shadows dramatize this image of the lunar surface taken by Apollo 11 astronaut Neil Armstrong, the first to walk on the Moon. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin unfurling a long sheet of foil also known as the Solar Wind Collector. Exposed facing the Sun, the foil trapped atoms streaming outward in the solar wind, ultimately catching a sample of material from the Sun itself. Along with moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/aldrinswc_apollo11_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Apollo 11: Catching Some Sun",
+    "url": "https://apod.nasa.gov/apod/image/0309/aldrinswc_apollo11.jpg"
+},
+{
+    "copyright": "T. A. Rector",
+    "date": "2003-09-21",
+    "explanation": "From afar, the whole thing looks like an Eagle.  A closer look at the Eagle Nebula, however, shows the bright region is actually a window into the center of a larger dark shell of dust.  Through this window, a brightly-lit workshop appears where a whole open cluster of stars is being formed.  In this cavity tall pillars and round globules of dark dust and cold molecular gas remain where stars are still forming.  Already visible are several young bright blue stars whose light and winds are burning away and pushing back the remaining filaments and walls of gas and dust.  The Eagle emission nebula, tagged M16, lies about 6500 light years away, spans about 20 light-years, and is visible with binoculars toward the constellation of  Serpens.  The above picture combines three specific emitted colors and was taken with the 0.9-meter telescope on Kitt Peak, Arizona, USA.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0206/eagle_kp09_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Inside the Eagle Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0206/eagle_kp09.jpg"
+},
+{
+    "date": "2003-09-22",
+    "explanation": "Next stop: Mars.  Two months ago, the second of two missions to Mars was launched from Cape Canaveral, Florida, USA above a Boeing Delta II rocket. The Mars Exploration Rover dubbed Opportunity is expected to arrive at the red planet this coming January.  Pictured above, an attached RocketCam (TM) captures Opportunity separating from lower booster stages and rocketing off toward Mars. Upon arriving, parachutes will deploy to slow the spacecraft and surrounding airbags will inflate.  The balloon-like package will then bounce around the surface a dozen times or more before coming to a stop.  The airbags will then deflate, the spacecraft will right itself, and the Opportunity rover will prepare to roll onto Mars.  A first rover named Spirit was successfully launched on June 10 and will arrive at Mars a few weeks earlier.  The robots Spirit and Opportunity are expected to cover as much as 40 metres per day, much more than Sojourner, their 1997 predecessor.  Spirit and Opportunity will search for evidence of ancient Martian water, from which implications might be drawn about the possibility of ancient Martian life.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/launchmerb_ecliptic_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Opportunity Rockets Toward Mars",
+    "url": "https://apod.nasa.gov/apod/image/0309/launchmerb_ecliptic.gif"
+},
+{
+    "date": "2003-09-23",
+    "explanation": "Today is the autumnal equinox -- should eggs be able to stand on end?  This long-standing myth loses much of its mystique after a demonstration that eggs can be made to stand on end during any day of the year.  Pictured above, Dr. Phil Plait (Sonoma St. U.) acting as the Bad Astronomer balanced three raw eggs on end in late October 1998.  Later, more modestly, his wife balanced five more.  The little-appreciated fact that most eggshells have small bumps on them makes this seemingly impossible task achievable.  Although, during an equinox, every place on Earth experiences an equal length day and night (12 hours each), this fact has no practical effect on egg stability.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/eggs_plait_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Egging On the Autumnal Equinox",
+    "url": "https://apod.nasa.gov/apod/image/0309/eggs_plait.jpg"
+},
+{
+    "copyright": "Robert Gendler",
+    "date": "2003-09-24",
+    "explanation": "The small constellation Triangulum in the northern sky harbors this magnificent face-on spiral galaxy, M33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33's diameter spans over 50,000 light-years, making it third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 lies very close to the Andromeda Galaxy and observers in these two galaxies would likely have spectacular views of each other's grand spiral star systems. As for the view from planet Earth, this sharp 27 frame mosaic of M33 nicely shows off blue star clusters and pinkish star forming regions which trace the galaxy's loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region seen here, visible along an arm arcing above and to the right of the galaxy center. Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/M33colormosaic5LL_gendler_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M33: Spiral Galaxy in Triangulum",
+    "url": "https://apod.nasa.gov/apod/image/0309/M33colormosaic5LL_gendler_c1.jpg"
+},
+{
+    "date": "2003-09-25",
+    "explanation": "Uncomfortably close hurricane Isabel (left) and 30 million light-year distant galaxy M51 actually don't have much in common. For starters, Isabel was hundreds of miles across, while M51 (the Whirlpool Galaxy) spans about 50,000 light-years making them vastly dissimilar in scale, not to mention the extremely different physical interactions which control their formation and evolution. But they do look amazingly alike, both exhibiting the shape of a simple and beautiful mathematical curve known as a logarithmic spiral, a spiral whose separation grows in a geometric way with increasing distance from the center. Also known as the equiangular spiral, growth spiral, and Bernoulli's spiral or spira mirabilis, this curve's rich properties have fascinated mathematicians since its discovery by 17th century philosopher Descartes. Intriguingly, this abstract shape is much more abundant in nature than suggested by the striking visual comparison above. Logarithmic spirals also describe, for example, the arrangement of sunflower seeds, the shapes of nautilus shells, and ... cauliflower.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/m51-isabel_lula_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Logarithmic Spirals Isabel and M51",
+    "url": "https://apod.nasa.gov/apod/image/0309/m51-isabel_lula_c2.jpg"
+},
+{
+    "copyright": "StarryScapes",
+    "date": "2003-09-26",
+    "explanation": "These ghostly filaments of interstellar gas are just a small part of the expansive Veil Nebula, seen against a rich field of background stars in the long-necked constellation Cygnus. Also known as the Cygnus Loop, the Veil Nebula is a supernova remnant, the expanding debris cloud created by a stellar explosion whose light first reached planet Earth from 5,000 to 10,000 years ago. About 1,400 light-years away, the entire nebula now appears to span over 3 degrees on the sky, nearly 6 times the apparent size of the full moon, but is faint and can be difficult to see in small telescopes. The region captured in this beautiful, deep, color image is located at the southern tip of the Veil's eastern crescent. It covers about 10 light-years at the distance of the Veil and is cataloged as IC1340.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/ic1340_tan_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "IC1340 in the Eastern Veil",
+    "url": "https://apod.nasa.gov/apod/image/0309/ic1340_tan_c1.jpg"
+},
+{
+    "date": "2003-09-27",
+    "explanation": "\"Safe!\" In September 1967 (during regular season play), the Surveyor 5 lander actually slid several feet while making a successful soft landing on the Moon's Mare Tranquillitatis. Equipped with television cameras and soil sampling experiments, the US Surveyor spacecraft were intended to determine if the lunar surface at chosen locations was safe for the planned Apollo landings. Surveyor 5 touched down on the inside edge of a small crater inclined at about 20 degrees. Its footpad slipped and dug the trench visible in the picture. Covered with dusty lunar soil, the footpad is about 20 inches in diameter.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/moonslide_surveyor5_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Surveyor Slides",
+    "url": "https://apod.nasa.gov/apod/image/0309/moonslide_surveyor5.jpg"
+},
+{
+    "copyright": "John P. GleasonSteve Mandel",
+    "date": "2003-09-28",
+    "explanation": "The disk of our Milky Way Galaxy is home to hot nebulae, cold dust, and billions of stars.   The red nebulae visible in the above contrast-enhanced picture are primarily emission nebulae, glowing clouds of hydrogen gas heated by nearby, bright, young stars.  The blue nebulae are primarily reflection nebulae, clouds of gas and fine dust reflecting the light of nearby bright stars.  Perhaps the most striking, though, are the areas of darkness, including the Pipe Nebula visible on the image top left.  These are lanes of thick dust, many times containing relatively cold molecular clouds of gas.  Dust is so plentiful that it obscures the Galactic Center in visible light, hiding its true direction until discovered early last century.  The diffuse glow comes from billions of older, fainter stars like our Sun, which are typically much older than any of the nebulae.  Most of the mass of our Galaxy remains in a form currently unknown.",
+    "hdurl": "https://apod.nasa.gov/apod/image/9909/mw7b_gleason_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Our Galaxy in Stars, Gas, and Dust",
+    "url": "https://apod.nasa.gov/apod/image/9909/mw7b_gleason.jpg"
+},
+{
+    "copyright": "Calvin HallAlaska's Aurora",
+    "date": "2003-09-29",
+    "explanation": "Tomorrow's picture: Through the Milky Way  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Web Site Statements, Warnings, and Disclaimers NASA Official: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/aurorachugach_hall_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Aurora Over the Chugach Mountains",
+    "url": "https://apod.nasa.gov/apod/image/0309/aurorachugach_hall.jpg"
+},
+{
+    "copyright": "David Martinez-DelgadoMPIAIAC",
+    "date": "2003-09-30",
+    "explanation": "Is our Milky Way Galaxy out to lunch?  Recent wide field images and analyses now indicate that our home galaxy is actually still in the process of devouring its closest satellite neighbor.  This unfortunate neighbor, the Sagittarius Dwarf galaxy, is now seen to be part of a larger Sagittarius Tidal Stream, a loose filament of stars, gas, and possibly dark matter that entangles the Milky Way.  An artist's depiction of the stream is shown above.  Speculation also holds that the Sagittarius Dwarf was once pulled through the Milky Way disk very close to our Sun's current location.  An important resulting realization is that galaxies contain a jumble of clumps and filaments of both dim and dark matter.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0309/sag_dmd_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Sagittarius Dwarf Tidal Stream",
+    "url": "https://apod.nasa.gov/apod/image/0309/sag_dmd.jpg"
+},
+{
+    "copyright": "Jon Burnett",
+    "date": "2003-10-01",
+    "explanation": "Jon Burnett, a teenager from South Wales, UK, was photographing some friends skateboarding last week when the sky did something very strange.  By diverting his camera, he was able to document this rare sky event and capture one of the more spectacular sky images yet recorded.  Roughly four minutes later, he took another picture of the dispersing trail.  What is it? Experts disagree. The first guess was a sofa-sized rock that exploded as a daytime fireball, but perhaps a better hypothesis is an unusual airplane contrail reflecting the setting Sun. Bright fireballs occur over someplace on Earth nearly every day.  A separate bolide, likely even more dramatic, struck India only a few days ago.   Editor's note: The APOD text was updated on Oct. 1.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/fireball_burnett_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "An Unusual Event Over South Wales",
+    "url": "https://apod.nasa.gov/apod/image/0310/fireball_burnett.jpg"
+},
+{
+    "copyright": "Dean Jacobsen",
+    "date": "2003-10-02",
+    "explanation": "The 1970s are often overlooked. In particular, the beautiful grouping of reflection nebulae NGC 1977, NGC 1975, and NGC 1973 in Orion are often overlooked in favor of the substantial stellar nursery better known as the Orion Nebula. Found along the sword of Orion just north of the bright Orion Nebula complex, these nebulae are also associated with Orion's giant molecular cloud which lies about 1,500 light-years away, but are dominated by the characteristic blue color of interstellar dust reflecting light from hot young stars. In this sharp color image a portion of the Orion Nebula appears along the bottom border with the cluster of reflection nebulae at picture center. NGC 1977 stretches across the field just below center, separated from NGC 1973 (above right) and NGC 1975 (above left) by dark regions laced with faint red emission from hydrogen atoms. Taken together, the dark regions suggest to many the shape of a running man.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/ngc1970s_jacobsen_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Reflections on the 1970s",
+    "url": "https://apod.nasa.gov/apod/image/0310/ngc1970s_jacobsen_c1.jpg"
+},
+{
+    "date": "2003-10-03",
+    "explanation": "While this may not be the most esthetic image of Comet Halley that you have ever seen, it is likely the most unique. The tiny cluster of pixels circled is the famous comet along its orbit over 4 billion (4,000,000,000) kilometers or 28 AU from the Sun -- a record distance for a comet observation. Its last passage through our neck of the woods in 1986, Comet Halley presently cruises through the dim reaches of the outer solar system, almost as far away as outermost gas giant Neptune, and shows no sign of activity. Captured in March, this negative image is a composite of digital exposures made with three of ESO's Very Large Telescopes. The exposures are registered on the moving comet, so the picture shows background stars and galaxies as elongated smudges. An earth-orbiting satellite appears as a dark streak at the top. Comet Halley is clearly extremely faint here, but large earthbound telescopes will be able to follow it as it grows fainter still, reaching the most distant point in its orbit, more than 5 billion kilometers (35 AU) from the Sun, in 2023.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/coldhalley_vlt_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Cold Comet Halley",
+    "url": "https://apod.nasa.gov/apod/image/0310/coldhalley_vlt_c1.jpg"
+},
+{
+    "date": "2003-10-04",
+    "explanation": "This x-ray image of the Moon was made by the orbiting ROSAT (Röntgensatellit) Observatory in 1990. In this digital picture, pixel brightness corresponds to x-ray intensity. Consider the image in three parts: the bright hemisphere of the x-ray moon, the darker half of the moon, and the x-ray sky background. The bright lunar hemisphere shines in x-rays because it scatters x-rays emitted by the sun. The background sky has an x-ray glow in part due to the myriad of distant, powerful active galaxies, unresolved in the ROSAT picture but recently detected in Chandra Observatory x-ray images. But why isn't the dark half of the moon completely dark? New Chandra results also suggest that a few x-rays only seem to come from the shadowed lunar hemisphere. Instead, they originate in Earth's geocorona or extended atmosphere which surrounds the orbiting x-ray observatories.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/rosat_moon_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "X-Ray Moon",
+    "url": "https://apod.nasa.gov/apod/image/0310/rosat_moon.jpg"
+},
+{
+    "date": "2003-10-05",
+    "explanation": "Apollo 12 was the second mission to land humans on the Moon. The landing site was picked to be near the location of Surveyor 3, a robot spacecraft that had landed on the Moon three years earlier. In the above photograph, taken by lunar module pilot Alan Bean, mission commander Pete Conrad jiggles the Surveyor spacecraft to see how firmly it is situated. The lunar module is visible in the distance.  Apollo 12 brought back many photographs and moon rocks.  Among the milestones achieved by Apollo 12 was the deployment of the Apollo Lunar Surface Experiments Package, which carried out many experiments including one that measured the solar wind.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/surveyor3_ap12c_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Apollo 12 Visits Surveyor 3",
+    "url": "https://apod.nasa.gov/apod/image/0310/surveyor3_ap12c.jpg"
+},
+{
+    "date": "2003-10-06",
+    "explanation": "As expected, the ozone hole near Earth's South Pole is back again this year. This year's hole, being slightly larger than North America, is larger than last year but short of the record set on 2000 September 10. Ozone is important because it shields us from damaging ultraviolet sunlight.  Ozone is vulnerable, though, to CFCs and halons being released into the atmosphere.  International efforts to reduce the use of these damaging chemicals appear to be having a positive effect on their atmospheric abundance.  The relatively large size of the ozone hole this year, however, is attributed partly to colder than normal air in the surrounding stratosphere.  The above picture of the ozone hole was taken on September 11 by  TOMS on board the orbiting Earth Probe satellite.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/ozone030911_toms_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Near Record Ozone Hole in 2003",
+    "url": "https://apod.nasa.gov/apod/image/0310/ozone030911_toms.jpg"
+},
+{
+    "copyright": "Canada-France-Hawaii Telescope",
+    "date": "2003-10-07",
+    "explanation": "Tomorrow's picture: Galaxy Hat  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Web Site Statements, Warnings, and Disclaimers NASA Official: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/horsehead_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Colorful Horsehead Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0310/horsehead_cfht.jpg"
+},
+{
+    "date": "2003-10-08",
+    "explanation": "Why does the Sombrero Galaxy look like a hat?  Reasons include the Sombrero's unusually large and extended central bulge of stars, and dark prominent dust lanes that appear in a disk that we see nearly edge-on.  Billions of old stars cause the diffuse glow of the extended central bulge.  Close inspection of the bulge in the above photograph shows many points of light that are actually globular clusters. M104's spectacular dust rings harbor many younger and brighter stars, and show intricate details astronomers don't yet fully understand.  The very center of the Sombrero glows across the electromagnetic spectrum, and is thought to house a large black hole.  Fifty million-year-old light from the Sombrero Galaxy can be seen with a small telescope towards the constellation of Virgo.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/sombrero_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Sombrero Galaxy from HST",
+    "url": "https://apod.nasa.gov/apod/image/0310/sombrero_hst.jpg"
+},
+{
+    "date": "2003-10-09",
+    "explanation": "This view of gas giant Jupiter, made from data recorded at the Very Large Array radio observatory near Socorro, New Mexico, may not look too familiar. In fact, there is no sign of a bright, round planet striped with cloud bands, sporting a Great Red Spot. Instead, the radio waves mapped in this false-color image are produced by energetic electrons trapped within Jupiter's intense magnetic field. The radio emitting region extends far beyond Jupiter's cloud tops, to over twice the visible radius of the planet, and surrounds Jupiter like an oversized version of Earth's Van Allen radiation belt. While it glows strongly at radio wavelengths, Jupiter's radiation belt is invisible in the more familiar optical and infrared views which show the Jovian cloud tops and atmospheric features in reflected sunlight.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/jupiter_vla_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Radio Jupiter",
+    "url": "https://apod.nasa.gov/apod/image/0310/jupiter_vla_c1.jpg"
+},
+{
+    "date": "2003-10-10",
+    "explanation": "A spectacular bridge of stars and gas stretches for nearly 250,000 light-years and joins this famous peculiar pair of galaxies cataloged as Arp 295. The cosmic bridge between the galaxies and the long tail extending below and right of picture center are strong evidence that these two immense star systems have passed close to each other in the past, allowing violent tides induced by mutual gravity to create the eye-catching plumes of stellar material. While such interactions are drawn out over billions of years, repeated close passages should ultimately result in the merger of this pair of galaxies into a larger single galaxy of stars. Although this scenario does look peculiar, galactic mergers are thought to be common, with Arp 295 representing an early stage of this inevitable process. The Arp 295 pair are the largest of a loose grouping of galaxies about 270 million light-years distant toward the constellation Aquarius. This deep color image of the region was recorded in September using the USNO 1 meter telescope near Flagstaff, Arizona.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/arp295_kelly_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Peculiar Arp 295",
+    "url": "https://apod.nasa.gov/apod/image/0310/arp295_kelly_c1.jpg"
+},
+{
+    "copyright": "Shay Stephens",
+    "date": "2003-10-11",
+    "explanation": "Is the Moon larger when near the horizon?  No -- as shown above, the Moon appears to be very nearly the same size no matter its location on the sky.  Oddly, the cause or causes for the common Moon Illusion are still being debated. Two leading explanations both hinge on the illusion that foreground objects make a horizon Moon seem farther in the distance.  The historically most popular explanation then holds that the mind interprets more distant objects as wider, while a more recent explanation adds that the distance illusion may actually make the eye focus differently.  Either way, the angular diameter of the Moon is always about 0.5 degrees.  In the above time-lapse sequence taken near the end of 2001, the Moon was briefly re-imaged every 2.5 minutes, with the last exposure of longer duration to bring up a magnificent panorama of the city of Seattle.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/seattlemoon_stephens_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Moonrise Over Seattle",
+    "url": "https://apod.nasa.gov/apod/image/0310/seattlemoon_stephens.jpg"
+},
+{
+    "copyright": "INAOEPAURANOAONSF",
+    "date": "2003-10-12",
+    "explanation": "Almost every object in the above photograph is a galaxy.  The Coma Cluster of Galaxies pictured above is one of the densest clusters known - it contains thousands of galaxies.  Each of these galaxies houses billions of stars - just as our own Milky Way Galaxy does.  Although nearby when compared to most other clusters, light from the Coma Cluster still takes hundreds of millions of years to reach us.  In fact, the Coma Cluster is so big it takes light millions of years just to go from one side to the other!  Most galaxies in Coma and other clusters are  ellipticals, while most galaxies outside of clusters are spirals.  The nature of Coma's X-ray emission is still being investigated.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0008/coma_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Coma Cluster of Galaxies",
+    "url": "https://apod.nasa.gov/apod/image/0008/coma_noao.jpg"
+},
+{
+    "date": "2003-10-13",
+    "explanation": "What's happening to the Pelican Nebula?  The light from young energetic stars is slowly transforming the Pelican's cold gas to hot gas, with the advancing boundary between the two known as an ionization front.  Most of these bright stars lie off the top of the image, but part of the bright ionization front crosses on the upper right. Particularly dense and intricate filaments of cold gas are visible along the front.  Millions of years from now this nebula might no longer be known as the Pelican, as the balance and placement of stars and gas will leave something that appears completely different.  The above image was taken with the Mayall 4-meter telescope at Kitt Peak National Observatory in Arizona, USA.  The large circular artifact below the image center is not real. The nebula, also known as IC 5070, spans about 30 light years and lies about 1800 light years away toward the constellation of Cygnus.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/pelican_noao_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Pelican Nebula Ionization Front",
+    "url": "https://apod.nasa.gov/apod/image/0310/pelican_noao.jpg"
+},
+{
+    "copyright": "Ute EsserU. Heidelberg",
+    "date": "2003-10-14",
+    "explanation": "Before the sun rose over the mountains, iridescent colors danced across the sky.  The unexpected light show was caused by a batch of iridescent clouds, and captured on film in early September in Arolla, Wallis, Switzerland.  The peak in the foreground of the above image is Aiguille de la Tsa.  Iridescent clouds contain patches of water droplets of nearly identical size that can therefore diffract sunlight in a nearly uniform manner.   Different colors will be deflected by different amounts and so come to the observer from slightly different directions.  Iridescent clouds are best seen outside the glare of the direct Sun although they can occasionally be seen to encircle the Sun.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/iridescent_esser_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Iridescent Clouds Over Aiguille de la Tsa",
+    "url": "https://apod.nasa.gov/apod/image/0310/iridescent_esser.jpg"
+},
+{
+    "copyright": "LONEOSLowell Observatory",
+    "date": "2003-10-15",
+    "explanation": "Why didn't we see it?  An undetected asteroid zipped past the Earth undetected last month in the closest near miss yet recorded -- within a quarter of the distance to the Moon.  Such a close call is actually quite common -- what was new was that we did see it, although the detection occurred hours after it happened. In fact, a rock this size strikes the Earth roughly once a year and smaller rocks strike the Earth daily.  The global danger from the bus-sized space rock was minimal. Robert Cash of Minor Planet Research Inc. discovered asteroid  2003 SQ222 in data from the sky-scanning Lowell Observatory Near Earth Object Search (LONEOS). Pictured above is the discovery image sequence of SQ222, shown stretched vertically to be more easily viewable. Objects like SQ222 are hard to detect because they are so faint and move so fast.  An ability to scan the sky to detect, catalog, and analyze such objects has been increasing notably in recent years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/sq222_loneos_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Space Rock SQ222 Noticed After Pass",
+    "url": "https://apod.nasa.gov/apod/image/0310/sq222_loneos.gif"
+},
+{
+    "date": "2003-10-16",
+    "explanation": "NGC 6888, also known as the Crescent Nebula, is a cosmic bubble of interstellar gas about 25 light-years across. Created by winds from the bright, massive star seen near the center of this composite image, the shocked filaments of gas glowing at optical wavelengths are represented in green and yellowish hues. X-ray image data from a portion of the nebula viewed by the Chandra Observatory is overlaid in blue. Such isolated stellar wind bubbles are not usually seen to produce energetic x-rays, which require heating gas to a million degrees celsius. Still, NGC 6888 seems to have accomplished this as slow moving winds from the central star's initial transition to a red supergiant were overtaken and rammed by faster winds driven by the intense radiation from the star's exposed inner layers. Burning fuel at a prodigious rate and near the end of its stellar life, NGC 6888's central star should ultimately go out with a bang, creating a supernova explosion in 100,000 years or so. NGC 6888 is about 5,000 light-years close, toward the constellation Cygnus.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/ngc6888_comp_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 6888: X-Rays in the Wind",
+    "url": "https://apod.nasa.gov/apod/image/0310/ngc6888_comp_c1.jpg"
+},
+{
+    "copyright": "Judy W. Ross,",
+    "date": "2003-10-17",
+    "explanation": "Tomorrow's picture: moon shot  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Web Site Statements, Warnings, and Disclaimers NASA Official: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/quiltlarge_ross_bright.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Astronomy Quilt of the Week",
+    "url": "https://apod.nasa.gov/apod/image/0310/quiltsmall_ross_c2.jpg"
+},
+{
+    "date": "2003-10-18",
+    "explanation": "In 1865 Jules Verne predicted the invention of a space capsule that could carry people. In his science fiction story \"From the Earth to the Moon\", he outlined his vision of a cannon in Florida so powerful that it could shoot a \"Projectile-Vehicle\" carrying three adventurers to the Moon. Over 100 years later, NASA, guided by  Wernher Von Braun's vision, produced the Saturn V rocket. From a spaceport in Florida, this rocket turned Verne's fiction into fact, launching 9 Apollo Lunar missions and allowing 12 astronauts to walk on the Moon. Pictured is the last moon shot, Apollo 17, awaiting its December 1972 night launch. Spotlights play on the rocket and launch pad at dusk. Humans have not walked on on the lunar surface since.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/ap17ksc_72pc589_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Last Moon Shot",
+    "url": "https://apod.nasa.gov/apod/image/0310/ap17ksc_72pc589_c1.jpg"
+},
+{
+    "copyright": "Jean-Charles Cuillandre",
+    "date": "2003-10-19",
+    "explanation": "Is there a monster in IC 1396?  Known to some as the Elephant's Trunk Nebula, parts of gas and dust clouds of this star formation region may appear to take on foreboding forms, some nearly human.  The only real monster here, however, is a bright young star too far from Earth to hurt us.  Energetic light from this star is eating away the dust of the dark cometary globule near the top of the above image.  Jets and winds of particles emitted from this star are also pushing away ambient gas and dust.  Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a much larger region on the sky than shown here, with an apparent width of more than 10 full moons.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0203/ic1396_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "An Unusual Globule in IC 1396",
+    "url": "https://apod.nasa.gov/apod/image/0203/ic1396_cfht.jpg"
+},
+{
+    "copyright": "D. BanfieldP. D. NicholsonCornellPalomar Obs.JPLNASA",
+    "date": "2003-10-20",
+    "explanation": "How's the weather on Neptune?  Tracking major weather patterns on the Solar System's outermost gas giant can help in the understanding of global weather patterns here on Earth.  Each summer for the past five years, Neptune has been imaged and major weather patterns studied.  The latest picture, taken on September 15, is shown above in false color.  Visible in pink near Neptune's lower right is a new storm dubbed Annabelle that is several times larger than her terrestrial sister Isabel, a concurrent storm system that occurred here on Earth.  Although Isabel lasted a few weeks, no one knows how long Annabelle will endure.  On the upper right is Neptune's largest moon Triton, an unusual moon that sports volcanoes that spew ice.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/neptune_palomar_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Neptune and Triton from Palomar",
+    "url": "https://apod.nasa.gov/apod/image/0310/neptune_palomar.jpg"
+},
+{
+    "copyright": "Christine Churchill",
+    "date": "2003-10-21",
+    "explanation": "Although you've surely seen it, you might not have noticed it.  During a cloudless twilight, just before sunrise or after sunset, part of the atmosphere above the horizon appears slightly off-color, slightly pink.  Called the Belt of Venus, this off-color band between the dark eclipsed sky and the blue sky can be seen in nearly every direction including that opposite the Sun.  Straight above, blue sky is normal sunlight reflecting off the atmosphere.  In the Belt of Venus, however, the atmosphere reflects light from the setting (or rising) Sun which appears more red.  The Belt of Venus can be seen from any location with a clear horizon.  Pictured above, the Belt of Venus was photographed above morning fog in the Valley of the Moon, a famous wine-producing region in northern California, USA. The belt is frequently caught by accident in other photographs.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/beltofvenus_churchill_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Belt of Venus over the Valley of the Moon",
+    "url": "https://apod.nasa.gov/apod/image/0310/beltofvenus_churchill.jpg"
+},
+{
+    "copyright": "Richard PowellDigitized Sky SurveyPalomar ObservatorySTScI",
+    "date": "2003-10-22",
+    "explanation": "Is the heart and soul of our Galaxy located in Cassiopeia?  Possibly not, but that is where two bright emission nebulas nicknamed Heart and Soul can be found.  The Heart Nebula, officially dubbed IC 1805 and visible above on the right, has a shape reminiscent of a classical heart symbol.  Both nebulas shine brightly in the red light of energized hydrogen.  Several young open clusters of stars populate the image and are visible above in blue, including the nebula centers.  Light takes about 6,000 years to reach us from these nebulas, which together span roughly 300 light years.  Studies of stars and clusters like those found in the Heart and Soul Nebulas have focussed on how massive stars form and how they affect their environment.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/heartandsoul_dss_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Heart and Soul Nebulas",
+    "url": "https://apod.nasa.gov/apod/image/0310/heartandsoul_dss.jpg"
+},
+{
+    "copyright": "Galaxy Images",
+    "date": "2003-10-23",
+    "explanation": "Looking toward the constellation Cygnus, a stunning and complex region of nebulae strewn along the plane of our Milky Way galaxy is revealed in this unique wide-angle sky view. Recorded with a filter designed to transmit light emitted by hydrogen atoms, the image emphasizes cosmic gas clouds in a 34 by 23 degree field centered on the well known Northern Cross asterism. Bright, hot, supergiant star Deneb (the top of the cross) and popular celestial sights such as the North America and Pelican emission regions, the IC 1318 \"butterfly\", and the Crescent and Veil nebulae can be identified by placing your cursor over the image. Silhouetted by the glowing interstellar clouds and crowded star fields, the dark Northern Coal Sack is also visible, part of a series of obscuring dust clouds forming the Great Rift in the Milky Way. These Cygnus nebulosities are all located about 2,000 light-years away. Along with the Sun, they lie within the Orion spiral arm of our galaxy.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/cygnusha_mandel_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Cygnus Nebulosities",
+    "url": "https://apod.nasa.gov/apod/image/0310/cygnusha_mandel_c3.jpg"
+},
+{
+    "copyright": "Panther Observatory",
+    "date": "2003-10-24",
+    "explanation": "This year's record close approach of Mars inspired many to enjoy telescopic views of the red planet. But while Mars was so bright it was hard to miss, spotting Mars' two diminutive moons was still a good test for observers with modest sized instruments. Mars' moons were discovered in August of 1877 by Asaph Hall at the US Naval Observatory using the large 26-inch Alvan Clark refractor. Recorded on this August 22nd, innermost moon Phobos and outermost moon Deimos are seen here against the planet's glare in a digital composite image. The picture consists of of a long exposure capturing the faint, city-sized moons and overexposing the planetary disk, combined with a well exposed image of the red planet, revealing dark markings on the surface and the white south polar cap. The images were taken by astronomer Johannes Schedler using an 11-inch Schmidt-Cassegrain telescope at his observatory in southeastern Austria. (Editor's note: For help finding Mars' moons, just put your cursor over the image.)",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/marsmoons_schedler_220803b.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mars Moons",
+    "url": "https://apod.nasa.gov/apod/image/0310/marsmoons_schedler_220803labeled.jpg"
+},
+{
+    "copyright": "Gunther\nGroenez",
+    "date": "2003-10-25",
+    "explanation": "Awash in a sea of plasma and anchored in magnetic fields, sunspots are planet-sized, dark islands in the solar photosphere, the bright surface of the Sun. Before the enlightened(!) age of cameras, solar observers created detailed drawings of sunspots as they changed and progressed across the visible solar disk. But contemporary observers also regularly use this time-honored method of monitoring sunspots. In this sketch from March 6th 2001, astronomer Gunther Groenez has faithfully recorded the intriguing shapes and shades of major visible sunspot groups and labeled them according to their NOAA active region number. Solar north is up and east to the right. Groenez' technical equipment includes H and 2H pencil leads for the sunspot umbra (dark) and penumbra (light) areas respectively. Want to draw sunspots too? Now's your chance as two large sunspot groups are presently making their way across the solar disk. Activity associated with these large sunspots may trigger aurora in the coming days.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/sundraw_groenez_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Islands in the Photosphere",
+    "url": "https://apod.nasa.gov/apod/image/0310/sundraw_groenez.jpg"
+},
+{
+    "date": "2003-10-26",
+    "explanation": "Newborn stars are forming in the Eagle Nebula.  This image, taken with the Hubble Space Telescope in 1995, shows evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust.  The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars.  At each pillars' end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense  EGGs exposed.  The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0111/pillars4_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "M16: Stars from Eagle's EGGs",
+    "url": "https://apod.nasa.gov/apod/image/0111/pillars4_hst.jpg"
+},
+{
+    "copyright": "Juan Carlos Casado",
+    "date": "2003-10-27",
+    "explanation": "Two unusually large sunspot groups are now crossing the face of the Sun.  Each group, roughly the size of Jupiter, is unusual not only for its size but because it is appearing over three years after solar maximum, the peak of solar surface activity.  Sunspot group 10484 appears near the image center, while sunspot group 10486 is just coming over the left limb of the Sun.  The active region associated with Sunspot 484 (the shorter nickname) has already jettisoned a large coronal mass ejection (CME) of particles out into the Solar System.  When striking Earth, radiation of this sort has the power to interrupt normal satellite operations while simultaneously providing beautiful auroras.  Rotating with the Sun, sunspots 484 and 486 will take about 30 days to make one complete circle, slowly evolving in size and shape during this time.  After using extreme care never to look directly at the Sun, the above image was created by holding a digital camera up to a small telescope.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/sunspot484_casado_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Large Sunspot Groups 10484 and 10486",
+    "url": "https://apod.nasa.gov/apod/image/0310/sunspot484_casado.jpg"
+},
+{
+    "date": "2003-10-28",
+    "explanation": "The latest map of the cosmos again indicates that dark matter and dark energy dominate our universe.  The Sloan Digital Sky Survey (SDSS) is on its way to measuring the distances to over one million galaxies.  Galaxies first identified on 2D images, like the one shown above on the right, have their distances measured to create the 3D map.  The SDSS currently reports 3D information for over 200,000 galaxies, now rivaling the 3D galaxy-count of the Two-Degree Field sky map.  The latest SDSS map, shown above on the left, could only show the galaxy distribution it does if the universe was composed and evolved a certain way.  After trying to match many candidate universes to it, the Cinderella universe that best fits the above map has 5% atoms, 25% dark matter, and 70% dark energy.  Such a universe was previously postulated because its rapid recent expansion can explain why distant supernovas are so dim, and its early evolution can explain the spot distribution on the very distant cosmic microwave background.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/galaxies_sdss_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The SDSS 3D Universe Map",
+    "url": "https://apod.nasa.gov/apod/image/0310/galaxies_sdss.jpg"
+},
+{
+    "date": "2003-10-29",
+    "explanation": "Yesterday, our Sun produced one of the most powerful solar flares in recorded history.  Seen across the electromagnetic spectrum, the Sun briefly became over 100 times brighter in X-rays than normal.  Over the next few days, as energetic particles emitted from these regions strike the Earth, satellite communications might be affected and auroras might develop.  The flare and resulting CME, emitted from giant sunspot group 10486, was captured above as it happened by the by the LASCO instrument aboard the Sun-orbiting SOHO satellite. The disk of the Sun is covered to accentuate surrounding areas.  The time-lapse movie shows the tremendous explosion in frames separated in real time by about 30 minutes each.  The frames appear progressively noisier as protons from the flare begin to strike the detector.  The SOHO satellite has been put in a temporary safe mode to avoid damage from the solar particle storm.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/xflare_soho.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Powerful Solar Flare",
+    "url": "https://apod.nasa.gov/apod/image/0310/xflare_soho_big.gif"
+},
+{
+    "copyright": "Jimmy WestlakeColorado\nMountain College",
+    "date": "2003-10-30",
+    "explanation": "Vivid auroral displays were triggered by a cloud of high energy particles and magnetic fields from the Sun that collided with planet Earth's magnetosphere yesterday, October 29, at about 06:30 Universal Time. The collision was anticipated, following an intense solar flare and coronal mass ejection detected on October 28, and many anxious skywatchers were rewarded with an enjoyable light show. While aurorae don't normally haunt skies in the southern United States, they were reported from locations in Missouri, Texas, New Mexico, and California in the early morning hours. Near Yampa, Colorado astronomer Jimmy Westlake also spent early yesterday morning enjoying the stormy space weather. He was impressed by this colorful apparition of the northern lights -- produced by oxygen and nitrogen atoms excited by collisions with energetic particles from the magnetosphere and returning to lower energy states, at altitudes of 100 kilometers or more. Brighter stars shine through the extreme high-altitude glow which shows much lower clouds and the distant horizon in silhouette.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/aurora031029b_westlake_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Aurora in Colorado Skies",
+    "url": "https://apod.nasa.gov/apod/image/0310/aurora031029b_westlake_c1.jpg"
+},
+{
+    "copyright": "T. CrednerAlltheSky.com",
+    "date": "2003-10-31",
+    "explanation": "It was a dark and stormy night. But on August 29th the red planet Mars, near its closest approach to Earth in almost 60,000 years, shone brightly in the sky against a background of stars in the constellation Aquarius. In the foreground of this scary view, huge thunder clouds are lit by lightning strokes from within. Mars, of course, has nothing to do with storms on Earth, though both have the power to excite the imagination and wonder of Earthdwellers. And who knows what luminous sights you might see if you go out tonight? Have a safe and Happy Halloween!",
+    "hdurl": "https://apod.nasa.gov/apod/image/0310/marsflashb_allthesky_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Dark and Stormy Night",
+    "url": "https://apod.nasa.gov/apod/image/0310/marsflashb_allthesky_c1.jpg"
+},
+{
+    "date": "2003-11-01",
+    "explanation": "The Cat's Eye Nebula (NGC 6543) is one of the best known planetary nebulae in the sky. Its haunting symmetries are seen in the very central region of this stunning false-color picture, processed to reveal the enormous but extremely faint halo of gaseous material, over three light-years across, which surrounds the brighter, familiar planetary nebula. Made with data from the Nordic Optical Telescope in the Canary Islands, the composite picture shows emission from nitrogen atoms as red and oxygen atoms as green and blue shades. Planetary nebulae have long been appreciated as a final phase in the life of a sun-like star. Only much more recently however, have some planetaries been found to have halos like this one, likely formed of material shrugged off during earlier active episodes in the star's evolution. While the planetary nebula phase is thought to last for around 10,000 years, astronomers estimate the age of the outer filamentary portions of this halo to be 50,000 to 90,000 years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/n6543_ing_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Halo of the Cat's Eye",
+    "url": "https://apod.nasa.gov/apod/image/0311/n6543_ing_c.jpg"
+},
+{
+    "copyright": "K. StrassmeierU. WienCoude Feed TelescopeAURANOAONSF",
+    "date": "2003-11-02",
+    "explanation": "What could cause a star to have such a large spot?  Our Sun itself frequently has sunspots, relatively cool dark magnetic depressions that move across its surface.  HD 12545, however, exhibits the largest starspots yet observed.  Doppler imaging - the use of slight changes in color caused by the rotation of the star - was used to create this false-color image.  The vertical bar on the right gives a temperature scale in kelvins. This giant, binary, RS CVn star, also known as XX Trianguli, is visible with binoculars in the constellation of Triangulum.  The starspot is thought to be caused by large magnetic fields that inhibit hot matter from flowing to the surface.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/hd12545_noao.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Giant Starspot on HD 12545",
+    "url": "https://apod.nasa.gov/apod/image/0311/hd12545_noao_big.jpg"
+},
+{
+    "date": "2003-11-03",
+    "explanation": "What do stars look like just before they explode?  To find out, astronomers are taking detailed images of nearby galaxies now, before any supernova is visible.  Hopefully, a star in one of the hundreds of high resolution galaxy images  will explode in the coming years.  If so, archival images like that taken above by the Hubble Space Telescope can be inspected to find what the star looked like originally.  This information is likely important for better understanding of how and why supernovas occur, as well as why some supernovas appear brighter than others.  Pictured above, beautiful spiral galaxy NGC 3982 displays numerous spiral arms filled with bright stars, blue star clusters, and dark dust lanes.  NGC 3982, which spans about 30,000 light years, lies about 60 million light years from Earth and can be seen with a small telescope toward the constellation of Ursa Major.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/ngc3982_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Spiral Galaxy NGC 3982 Before Supernova",
+    "url": "https://apod.nasa.gov/apod/image/0311/ngc3982_hst.jpg"
+},
+{
+    "copyright": "Lance TaylorEdmonton RASC",
+    "date": "2003-11-04",
+    "explanation": "Northern and southern locales saw many a beautiful aurora over the last week, as particles from several large solar flares impacted the Earth.  Many reported unusually red auroras, although colors across the spectrum were also seen.  Power grids and orbiting satellites braced for the onslaught, but little lasting damage was reported.  Pictured above, the Clover Bar Power Plant was photographed from the banks of the North Saskatchewan River in Edmonton, Alberta, Canada.  A small pond in the foreground reflects predominantly green aurora light far in the distance.  Two days ago, again unexpectedly, another  large solar flare occurred from sunspot group 10486, the site of other recent major flares.  This unusually active solar region is now rotating to the far side of the Sun.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/aurora1_taylor_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Aurora Over Edmonton",
+    "url": "https://apod.nasa.gov/apod/image/0311/aurora1_taylor.jpg"
+},
+{
+    "date": "2003-11-05",
+    "explanation": "While chasing the spectrum of a mysterious arc in a cluster of galaxies within the obscure northerly constellation Lynx, astronomers have stumbled upon the most massive and distant star-forming region ever discovered. The notably red \"Lynx arc\" lies right of center in this color image of the galaxy cluster, a composite of Hubble Space Telescope and ground-based data. While the galaxy cluster lies about 5 billion light-years distant, spectroscopic studies show that the arc itself is actually a distorted image of an even more distant but enormous star-forming region. The image is formed as the closer galaxy cluster's gravity bends light like a magnifying lens, an effect explained by Einstein's theory of gravity. In fact, the monster star-forming region is nearly 12 billion light-years away and about a million times brighter than the more familiar stellar nursery, the Orion Nebula. Estimates are that the star-forming region seen as the Lynx arc contains about a million massive, hot stars, compared to the four stars which power the Orion Nebula's glow.  Stars within the Lynx arc are more than twice as hot as the Orion Nebula's central stars and were formed when the Universe was a mere 2 billion years old. Still, astronomers believe that the first stars were formed at even earlier times.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/lynx_hst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Lynx Arc",
+    "url": "https://apod.nasa.gov/apod/image/0311/lynx_hst_c3.jpg"
+},
+{
+    "date": "2003-11-06",
+    "explanation": "Almost out of view from our fair planet, rotating around the Sun's western edge, giant sunspot region AR 10486 lashed out with another intense solar flare followed by a large coronal mass ejection (CME) on Tuesday, November 4th at about 1950 Universal Time. The flare itself is seen here at the lower right in an extreme ultraviolet image from the sun-staring SOHO spacecraft's EIT camera. Saturating the EIT camera pixels and detectors on other satellites, this giant X-class flare was among the most powerful ever recorded since the 1970s, the third such historic blast from AR 10486 within the last two weeks. While energetic particle radiation from the flare did cause substantial radio interference, the associated CME is not expected to trigger extremely widespread aurorae as it glances off the magnetosphere, unlike the direct hits from last week's CMEs. Say farewell to the mighty AR 10486, for now. For the next two weeks, the sunspot region will be on the Sun's far side.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/nov4flare_eit195_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Flare Well AR 10486",
+    "url": "https://apod.nasa.gov/apod/image/0311/nov4flare_eit195_c1.jpg"
+},
+{
+    "copyright": "Larry Koehn",
+    "date": "2003-11-07",
+    "explanation": "The Moon slides through the Earth's shadow this Saturday night / Sunday morning (November 8/9) giving skygazers in the Americas, Europe, Africa, and western Asia a chance to enjoy a total lunar eclipse. As lunar eclipses go, this will be a brief one though, with the total phase lasting only about 25 minutes. The orientation and relative size of the Earth's shadow and the Moon's trajectory are illustrated in this thoughtful animation showing the full Moon moving up from the lower right, entering the penumbra or outer portion of the shadow region, and then passing well below the center of the darker inner shadow region or umbra. The total eclipse phase begins at 1:06 Universal Time, November 9 (8:06pm EST Nov. 8) when the Moon is completely within the umbra. While the off-center passage guarantees a short total phase, it also makes it likely that this November's eclipsed Moon will be dramatically visible and colorful with a brighter rim along the southern edge.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/112003lunareclipse_koehn.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "November's Lunar Eclipse",
+    "url": "https://apod.nasa.gov/apod/image/0311/112003lunareclipse_koehn.gif"
+},
+{
+    "date": "2003-11-08",
+    "explanation": "The total lunar eclipse of September 1996 disappointed many observers in North America who were cursed with cloudy skies. However, the Midcourse Space Experiment (MSX) satellite had a spectacular view from Earth orbit and SPIRIT III, an on board infrared telescope, was used to repeatedly image the moon during the eclipse. Above is one of the images taken during the 70 minute totality, the Moon completely immersed in the Earth's shadow. Infrared light has wavelengths longer than visible light - humans can not see it but feel it as heat. The bright spots correspond to the warm areas on the lunar surface, dark areas are cooler. The brightest spot below and left of center is the crater Tycho, the dark region at the upper right is the Mare Crisium. The series of SPIRIT III images allow the determination of cooling rates for geologically different areas, exploring the physical properties of the Moon's surface.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/lunarecl_msx_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Eclipsed Moon in Infrared",
+    "url": "https://apod.nasa.gov/apod/image/0311/lunarecl_msx_c1.jpg"
+},
+{
+    "date": "2003-11-09",
+    "explanation": "Buzz Aldrin, Apollo 11 Lunar Module pilot and the second human to walk on the Moon, described the lunar landscape as \"a magnificent desolation\". Dramatic pictures from the Apollo missions to the lunar surface testify to this apt turn of phrase. Near the Apollo 17 landing site, Family Mountain (center background) and the edge of South Massif (left) frame the lunarscape in this photo of astronaut Harrison Schmitt working alongside the lunar roving vehicle. Schmitt and fellow astronaut Eugene Cernan were the last to walk on this magnificent desolation.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0012/lunarscape_apollo17_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Apollo 17 Lunarscape: A Magnificent Desolation",
+    "url": "https://apod.nasa.gov/apod/image/0012/lunarscape_apollo17.jpg"
+},
+{
+    "copyright": "Mark GarlickSpace-art",
+    "date": "2003-11-10",
+    "explanation": "How can two stars create such a strange and intricate structure?  Most stars are members of multiple-star systems.  Some stars are members of close binary systems where material from one star swirls around the other in an accretion disk.  Only a handful of stars, however, are members of an intermediate polar, a system featuring a white dwarf star with a magnetic field that significantly pushes out the inner accretion disk, only allowing material to fall down its magnetic poles.  Shown above is an artist's depiction of an intermediate polar system, also known as a DQ Hercules system.  The foreground white dwarf is so close to the normal star that it strips away its outer atmosphere.  As the white dwarf spins, the columns of infalling gas rotate with it.  The name intermediate polar derives from observations of emitted light polarized at a level intermediate to non-disk binary systems known as polars.  Intermediate polars are a type of cataclysmic variable star system.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/ipolar_garlick.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "An Intermediate Polar Binary System",
+    "url": "https://apod.nasa.gov/apod/image/0311/ipolar_garlick.jpg"
+},
+{
+    "copyright": "David Cortner",
+    "date": "2003-11-11",
+    "explanation": "Happily, skies over Connelly's Springs, North Carolina, USA were not mostly cloudy, as forecast, on the evening of November 8. In fact they were mostly clear early on, allowing photographer David Cortner to record the evening's scheduled celestial entertainment, a total lunar eclipse. Cortner took telescopic pictures of the Moon every eight minutes as it entered partial eclipse around 6:30pm EST and progressed through the reddish total eclipse phase while rising higher in the sky. Near the end of the eclipse he also recorded a wide-angle view in a long exposure, bringing out the thickening clouds and a landscape silhouetted by still partially eclipsed moonlight. Later, the telescopic views were carefully combined along the Moon's trail through the wide-angle image to create this dramatic composite eclipse sequence.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/200311eclipse_cortner_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Eclipsed Moonlight from Connelly's Springs",
+    "url": "https://apod.nasa.gov/apod/image/0311/200311eclipse_cortner_c1.jpg"
+},
+{
+    "copyright": "Tom RuenRoy A. GallantHSTNASA\n",
+    "date": "2003-11-12",
+    "explanation": "Does Mars have canals?  A hot debate topic of the late 1800s, several prominent astronomers including Percival Lowell not only claimed to see an extensive system of long straight canals on Mars, but used them to indicate that intelligent life exists there.  The relatively close opposition of 1894 was used to make drawings like the one digitally re-scaled on the above left.  The above map was originally prepared by Eugene Antoniadi and redrawn by Lowell Hess for the book Exploring Mars, by Roy A. Gallant. In more modern times, the latest Mars opposition has allowed the Hubble Space Telescope to capture a picture of similar orientation.  Comparison of the two images shows that large features were impressively recorded, but that an extensive system of long and straight canals just does not exist.  Satellites orbiting Mars have now shown conclusively that the red planet does indeed have surface features similar to canals, but that these are usually smaller, curved, and less extensive than that previously claimed.  Real canyon systems like Noctis Labyrinthus are most likely cracks caused by surface stress.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/marscanalhubble_ruen_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Mars Then and Now",
+    "url": "https://apod.nasa.gov/apod/image/0311/marscanalhubble_ruen.jpg"
+},
+{
+    "copyright": "Dave Ewoldt",
+    "date": "2003-11-13",
+    "explanation": "Nestled in the central US, the state of Oklahoma is noted for its gorgeous prairie skies and wide-open spaces, but not for frequent visitations of the northern lights. Still, following the intense solar activity late last month, aurora did come sweeping down the Oklahoma plains and skywatcher Dave Ewoldt managed to catch up with this photogenic apparition 40 miles northwest of Oklahoma City at about 3am CST on October 29. Anticipating aurora sightings, Ewoldt had spent the evening photographing nighttime views of small towns in the area while keeping an eye toward the north. He reports, \"I was just about ready to call it a night when the show started. When it did, it was like someone turned on a lightswitch. I wish it would have lasted longer... [it] seemed like it was completely done in about 25 minutes.\" Watery reflections of the colorful show highlight the foreground in the stunning image while stars of the Big Dipper and the northern sky shine behind the dazzling Oklahoma auroral display.  Skywatchers' note: First of two Leonid meteor shower peaks tonight.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/auroraOK_ewoldt_f1.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Aurora Oklahoma",
+    "url": "https://apod.nasa.gov/apod/image/0311/auroraOK_ewoldt_c1.jpg"
+},
+{
+    "date": "2003-11-14",
+    "explanation": "very day is a cloudy day on Jupiter, the Solar System's reigning gas giant. And swirling cloud tops are all you see in this stunningly detailed true color image, a portion of a large digital mosaic portrait of Jupiter recorded from the Cassini spacecraft during its Jovian flyby in December 2000. The smallest features visible are about 60 kilometers across. Jupiter's composition is dominated by hydrogen and the clouds contain hydrogen compounds like ammonia, hydrogen sulfide, and even water. A truly giant planet, Jupiter's diameter is over 11 times the diameter of Earth and the smallest storms visible in the Cassini Jupiter portrait are similar in size to large terrestrial hurricanes. Now traveling beyond Jupiter, the Cassini spacecraft is scheduled to reach the Saturnian system in July of 2004.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/jupiterp_cassini_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Jupiter Portrait",
+    "url": "https://apod.nasa.gov/apod/image/0311/jupiterp_cassini_c1.jpg"
+},
+{
+    "date": "2003-11-15",
+    "explanation": "This arcing, graceful structure is actually a bow shock about half a light-year across, created as the wind from young star LL Orionis collides with the Orion Nebula flow. Adrift in Orion's stellar nursery and still in its formative years, variable star LL Orionis produces a wind more energetic than the wind from our own middle-aged sun. As the fast stellar wind runs into slow moving gas a shock front is formed, analogous to the bow wave of a boat moving through water or a plane traveling at supersonic speed. The slower gas is flowing away from the Orion Nebula's hot central star cluster, the Trapezium, located off the lower right hand edge of the picture. In three dimensions, LL Ori's wrap-around shock front is shaped like a bowl that appears brightest when viewed along the \"bottom\" edge. The complex stellar nursery in Orion shows a myriad of similar fluid shapes associated with star formation, including the bow shock surrounding a faint star at the upper right. Part of a mosaic covering the Great Nebula in Orion, this composite color image was recorded in 1995 by the Hubble Space Telescope.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/llori_hstheritage_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "LL Orionis: When Cosmic Winds Collide",
+    "url": "https://apod.nasa.gov/apod/image/0311/llori_hstheritage.jpg"
+},
+{
+    "copyright": "Juraj TothComenius U. BratislavaModra Observatory",
+    "date": "2003-11-16",
+    "explanation": "Is Leo leaking? Leo, the famous sky constellation visible on the left of the above all-sky photograph, appears to be the source of all the meteors seen in 1998's Leonids Meteor Shower.  That Leonids point back to Leo is not a surprise - it is the reason that this November meteor shower is called the Leonids.  Sand-sized debris expelled from Comet Tempel-Tuttle follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation Leo.  Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Leo.  Over 150 meteors can be seen in the above four-hour effort.  The Leonids Meteor Shower of 2003 is expected to have two peaks, the first three days ago and the second a long-duration peak covering much of November 19.  Although visible meteor rates might approach one per minute, they are predicted to be much less than in the previous few years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/9812/leonids100_am_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Leonids from Leo",
+    "url": "https://apod.nasa.gov/apod/image/9812/leonids100_am.jpg"
+},
+{
+    "copyright": "R. IbataStrasbourg ObservatoryULP2MASSNASA",
+    "date": "2003-11-17",
+    "explanation": "What is the closest galaxy to the Milky Way?  The new answer to this old question is the Canis Major dwarf galaxy.  For many years astronomers thought the Large Magellan Cloud (LMC) was closest, but its title was supplanted in 1994 by the Sagittarius dwarf galaxy.  Recent measurements indicate that the Canis Major dwarf is only 42,000 light years from the Galactic center, about three quarters of the distance to the Sagittarius dwarf and a quarter of the distance to the LMC.  The discovery was made in data from the 2MASS-sky survey, where infrared light allows a better view through our optically opaque Galactic plane.  The labeled illustration above shows the location of the newly discovered Canis Major dwarf and its associated tidal stream of material in relation to our Milky Way Galaxy.  The Canis Major dwarf and other satellite galaxies are slowly being gravitationally ripped apart as they travel around and through our Galaxy.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/canisgalaxy_2mass_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Canis Major Dwarf: A New Closest Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0311/canisgalaxy_2mass.jpg"
+},
+{
+    "copyright": "Wally Pacholka",
+    "date": "2003-11-18",
+    "explanation": "One year ago today an impressive meteor shower graced the skies of Earth.  Pictured above from last year, at least six bright meteors are visible in only part of the sky above Indian Cove campground in California, USA, during a four-minute exposure.  The 2002 Leonids packed a double punch with planet Earth plunging through two dense clouds of meteroids, dusty debris left by the passage of Comet Tempel-Tuttle.  This year, unfortunately, the main peak of the Leonids Meteor Shower is not expected to be so impressive, with the Earth passing though parts of meteoroid clouds predicted to be much less dense.  The main peak of the 2003 Leonids is predicted for tomorrow where some locations might see a bright meteor every minute.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/leonids2002_pacholka_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Leonids Over Indian Cove",
+    "url": "https://apod.nasa.gov/apod/image/0311/leonids2002_pacholka.jpg"
+},
+{
+    "copyright": "M. J. PadgettU. GlasgowRoyal Society",
+    "date": "2003-11-19",
+    "explanation": "Light is more complicated than we thought.  When astronomers measure light, they are usually concerned with its direction, energy, and spin polarization (sometimes).  Recently, however, it has been more broadly realized that photons can also have orbital angular momentum (OAM), an attribute classically analogous to the Earth orbiting the Sun as well as spinning on its axis.  Pictured above, the wave-front of a photon with OAM is shown to be twisted, in contrast to the flat plane of zero OAM light. Light with OAM might be used to increase the information content of communication or to discern specific types of astronomical sources. Passing through a common lens, light without OAM focuses to a point, whereas light with OAM focuses to a ring.  Most light bouncing around the cosmos, however, is expected to have so little (or zero) OAM that the created ring is too small to measure.  Even given other promising methods for measurement, exploiting OAM for astronomical discovery might be as much an issue of observational practicality as theoretical possibility.   APOD Update: APOD mirror now on-line from Poland with archive in Polish.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/photontwist_ug_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Light Can Twist as Well as Spin",
+    "url": "https://apod.nasa.gov/apod/image/0311/photontwist_ug.jpg"
+},
+{
+    "date": "2003-11-20",
+    "explanation": "Launched in 1977, Voyager 1 is now about 12 light-hours or 90 astronomical units (AU)",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/bubble_voyager_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Voyager at 90 AU",
+    "url": "https://apod.nasa.gov/apod/image/0311/bubble_voyager_lab1.jpg"
+},
+{
+    "copyright": "Markus Strassfeld",
+    "date": "2003-11-21",
+    "explanation": "November's lunar eclipse was one of the shortest in recent years and also one of the brightest -- demonstrating that the Earth's shadow is not completely dark. The eclipsed Moon remained easily visible during totality, reflecting reddened light filtering on to its surface from all the sunsets and sunrises, as seen from the lunar perspective, around the edges of a silhouetted Earth. Hoping to view the celestial shadow play from the Earth's night side near Cologne, Germany, about 400,000 kilometers from the lunar surface, amateur astronomer Markus Strassfeld packed a digital camera and telescope and drove about 10 kilometers outside the city to escape the bright city lights. Fortunately, the sky cleared about an hour before the eclipse began and he was able to record this sharp image of sunsets illuminating the totally eclipsed Moon. Young ray crater Tycho, about 85 kilometers across, stands out near the Moon's brighter southern edge.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/le031109_strassfeld_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Sunset Moonlight",
+    "url": "https://apod.nasa.gov/apod/image/0311/le031109_strassfeld_c1.jpg"
+},
+{
+    "copyright": "www.MrEclipse.com",
+    "date": "2003-11-22",
+    "explanation": "This composite image was made from 22 separate pictures of the Moon and Sun all taken from Chisamba, Zambia during the total phase of the 2001 June 21 solar eclipse. The multiple exposures were digitally processed and combined to simultaneously show a wealth of detail which no single camera exposure or naked-eye observation could easily reveal. Most striking are the incredible flowing streamers of the Sun's outer atmosphere or solar corona, notoriously difficult to see except when the new Moon blocks the bright solar disk. Features on the darkened near side of the Moon can also be made out, illuminated by sunlight reflected from a full Earth. A giant solar prominence seems to hang just beyond the Moon's eastern (left) edge while about one diameter farther east of the eclipsed Sun is the relatively faint (4th magnitude) star 1 Geminorum. The still active Sun will be totally eclipsed by the Moon tomorrow, but the path of the total eclipse will mostly cross the relatively inaccessible continent of Antarctica.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/tse2001cmp_espenak_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Moon AND Sun",
+    "url": "https://apod.nasa.gov/apod/image/0311/tse2001cmp_espenak_c1.jpg"
+},
+{
+    "copyright": "FOCASSubaru 8.2-m TelescopeNAOJ",
+    "date": "2003-11-23",
+    "explanation": "What's lighting up the Cigar Galaxy?  M82, as this irregular galaxy is also known, was stirred up by a recent pass near large  spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas, however.  Recent evidence indicates that this gas is being driven out by the combined emerging particle winds of many stars, together creating a galactic \"superwind.\"  The above recently released photograph from the new Subaru Telescope highlights the specific color of red light strongly emitted by ionized hydrogen gas, showing detailed filaments of this gas.  The filaments extend for over 10,000 light years.  The 12-million light-year distant Cigar Galaxy is the brightest galaxy in the sky in infrared light, and can be seen in visible light with a small telescope towards the constellation of Ursa Major.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/m82_subaru_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Superwind from the Cigar Galaxy",
+    "url": "https://apod.nasa.gov/apod/image/0311/m82_subaru.jpg"
+},
+{
+    "copyright": "Robert Gendler",
+    "date": "2003-11-24",
+    "explanation": "Rippling dust and gas lanes give the Flaming Star Nebula its name.  The red and purple colors of the nebula are present in different regions and are created by different processes.  The bright star AE Aurigae, visible toward the image right, is so hot it is blue, emitting light so energetic it knocks electrons away from surrounding gas.  When a proton recaptures an electron, red light is frequently emitted. The purple region's color is a mix of this red light and blue light emitted by AE Aurigae but reflected to us by surrounding dust. The two regions are referred to as emission nebula and reflection nebula, respectively.  Pictured above, the Flaming Star Nebula, officially known as IC 405, lies about 1500 light years distant, spans about 5 light years, and is visible with a small telescope toward the constellation of Auriga.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/ic405_gendler_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "IC 405: The Flaming Star Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0311/ic405_gendler.jpg"
+},
+{
+    "date": "2003-11-25",
+    "explanation": "The 2003 Leonids Meteor Shower contained relatively few meteors.  As expected and unlike the last few years, the Earth just did not pass through any dense particle streams left over by the Sun-orbiting Comet Tempel-Tuttle.  Preliminary reports had the peak meteor rates only as high as about one relatively faint meteor a minute even from good locations at good times.  Pictured above is one of the brighter Leonids of 2003, caught by one of the continuously operating night sky web cameras (CONCAMs) of the global Night Sky Live project.  The fisheye image shows the night sky from horizon to horizon above Mauna Kea, Hawaii, USA.  The image is annotated with several bright stars and planets.  Note that this meteor, as do all Leonids, appears to emanate from the constellation Leo, labeled on the upper left.  Although the peak of the Leonids this year was on November 19, this meteor flashed through the sky the next night.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/leonid2003_nsl.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Late Leonid from a Sparse Shower",
+    "url": "https://apod.nasa.gov/apod/image/0311/leonid2003_nsl.jpg"
+},
+{
+    "date": "2003-11-26",
+    "explanation": "How do violent stars affect their surroundings?  To help find out, astronomers pointed the Hubble Space Telescope to the regions surrounding Eta Carina, a star showing signs that it may explode sometime in the next million years.  The nearby nebulosity, shown above, is home to streams of hot gas, pools of cool gas, knots of dark globules, and pillars of dense dusty interstellar matter likely forming young stars.  The above image explores about three light-years, a region size intermediate to the Eta Carina cocoon, which spans only about one-half of a light year, and the Great Nebula in Carina, which spans over 300 light years.  In April of 1843 Eta Car briefly became second only to Sirius as the brightest star in planet Earth's night sky, even though at a distance of about 7,500 light-years, it is about 800 times farther away.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/carina2_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Turbulent Neighborhood of Eta Carina",
+    "url": "https://apod.nasa.gov/apod/image/0311/carina2_hst.jpg"
+},
+{
+    "date": "2003-11-27",
+    "explanation": "The long shadow of the Moon fell across the continent of Antarctica on November 23rd, during the second solar eclipse of 2003. In this view from orbit, based on data from the MODIS instrument on board the Earth observing Aqua satellite, the Moon's shadow stretches for almost 500 kilometers. Recorded between 23:15 and 23:20 Universal Time, the shadow was cast by a lunar disk silhouetted by the Sun hanging only about 15 degrees above the antarctic horizon. Observers within the central dark portion of the oval-shaped shadow could view the totally eclipsed sun. Shadows of mountains and clouds are also visible over the Norwegian named Queen Maud Land, Antarctica with the South Pole just beyond the lower right corner of the image.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/tse031123_modis_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Long Shadow of the Moon",
+    "url": "https://apod.nasa.gov/apod/image/0311/tse031123_modis_c1.jpg"
+},
+{
+    "date": "2003-11-28",
+    "explanation": "A false-color x-ray image inset at upper left reveals emission from a cosmic jet of high-energy particles, 100,000 light-years in length, emerging from quasar GB1508+5714. An estimated 12 billion (12,000,000,000) light-years away, this appears to be the most distant energetic jet in the known Universe. Astrophysical jets of many sizes seem to be produced in a range of environments where significant accretion, or infalling matter is thought to arrange itself in a disk, from contracting star-forming clouds to supermassive black holes in active galactic nuclei. Here, as depicted in the illustration, the accretion disk is thought to surround a supermassive black hole, accelerating particles to near the speed of light in two jets at right angles to the disk itself. In the case of this quasar, the jet tilted towards us is visible in x-rays as the particles collide with low energy photons from the cosmic background radiation. The collisions boost the photons to higher x-ray energies and scatter some of them in our direction.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/gb1508_xray_illustration.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Most Distant X-Ray Jet",
+    "url": "https://apod.nasa.gov/apod/image/0311/gb1508_xray_illustration90.jpg"
+},
+{
+    "date": "2003-11-29",
+    "explanation": "Hurtling through space a mere 3,000 miles above the Martian surface, the diminutive moon Phobos (below and left of center) was imaged against the backdrop of a large shield volcano by the Viking 2 Orbiter in 1977. This dramatic picture looks down from the Orbiter's viewpoint about 8,000 miles above the volcano, Ascraeus Mons. Phobos itself is 5,000 miles below the Orbiter. North is toward the top with the Sun illuminating the scene from the South (black dots are reference marks). For scale, Ascraeus Mons is about 200 miles across at its base while asteroid sized Phobos is about 15 miles in diameter. In this spectacular moon-planet image, volcanic calderas (craters) are visible at the summit of Ascraeus Mons -- while impact craters on the sunlit side of Phobos' surface can also be seen!",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/phobosmars_viking2_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Phobos Over Mars",
+    "url": "https://apod.nasa.gov/apod/image/0311/phobosmars_viking2.jpg"
+},
+{
+    "date": "2003-11-30",
+    "explanation": "This image is part of the first color panoramic view from Venus.  A TV camera on the Soviet Venera 13 lander that parachuted to the surface on 1982 March 1 transmitted it.  Venus' clouds are composed of sulfuric acid droplets while its surface temperature is about 482 degrees Celsius at an atmospheric pressure of 92 times that of sea-level on Earth.  Despite these harsh conditions, the Venera 13 lander survived long enough to send back a series of images and perform an analysis of the Venusian soil.  Part of the lander itself is visible in the lower right portion of the image.  An earlier Soviet Venus lander, Venera 7 (1970), was the first spacecraft to return data from the surface of another planet.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0311/venus_venera13_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Venus Landing",
+    "url": "https://apod.nasa.gov/apod/image/0311/venus_venera13.jpg"
+},
+{
+    "copyright": "Peter MichaudGemini Obs.",
+    "date": "2003-12-01",
+    "explanation": "Can a cloud do that?  Actually, pictured above are several clouds all stacked up into one striking lenticular cloud.  Normally, air moves much more horizontally than it does vertically.  Sometimes, however, such as when wind comes off of a mountain or a hill, relatively strong vertical oscillations take place as the air stabilizes.  The dry air at the top of an oscillation may be quite stratified in moisture content, and hence forms  clouds at each layer where the air saturates with moisture. The result can be a lenticular cloud with a strongly layered appearance. The above picture was taken last week near Mauna Kea, Hawaii, USA.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/lenticular_hawaii_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Lenticular Cloud Over Hawai'i",
+    "url": "https://apod.nasa.gov/apod/image/0312/lenticular_hawaii.jpg"
+},
+{
+    "copyright": "Michael FulbrightMSFAstro.net",
+    "date": "2003-12-02",
+    "explanation": "Most star clusters are singularly impressive.  Open clusters NGC 869 and NGC 884, however, are doubly impressive.  Also known as \"h and chi Persei\", this unusual double cluster, shown above, is bright enough to be seen from a dark location without even binoculars.  Although their discovery surely predates written history, the Greek astronomer Hipparchus notably cataloged the \"double cluster\".  The clusters are over 7000 light years distant toward the constellation of Perseus, but are separated by only hundreds of light years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/doublecluster_fulbright_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 869 & NGC 884: A Double Open Cluster",
+    "url": "https://apod.nasa.gov/apod/image/0312/doublecluster_fulbright.jpg"
+},
+{
+    "copyright": "Michael ConnelleyU. Hawaii",
+    "date": "2003-12-03",
+    "explanation": "How can the Moon rise through a mountain?  It cannot -- what was photographed here is a moonrise through the shadow of a large volcano.  The volcano is Mauna Kea, Hawai'i, USA, a frequent spot for spectacular photographs since it is arguably the premier observing location on planet Earth. The Sun has just set in the opposite direction, behind the camera. Additionally, the Moon has just passed full phase -- were it precisely at full phase it would rise, possibly eclipsed, at the very peak of the shadow. Refraction of moonlight through the Earth's atmosphere makes the Moon appear slightly oval.  Cinder cones from old volcanic eruptions are visible in the foreground. Cloud tops below Mauna Kea's summit have unusually flat tops, indicating a decrease in air moisture that frequently keeps the air unusually dry, another attribute of this stellar observing site.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/moonrisemk_connelley_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Moonrise Through Mauna Kea's Shadow",
+    "url": "https://apod.nasa.gov/apod/image/0312/moonrisemk_connelley.jpg"
+},
+{
+    "copyright": "Dan DurdaSwRI",
+    "date": "2003-12-04",
+    "explanation": "Headed for the first close-up exploration of the Pluto-Charon system and the icy denizens of the Kuiper belt, NASA's New Horizons spacecraft is pictured here in an artist's vision of the robot probe outward bound. The dramatic scene depicts the 465 kilogram spacecraft about one year after a planned 2006 launch, following a flyby of gas giant Jupiter. While the Jupiter flyby will be used as a gravity assist maneuver to save fuel and cut travel time to the outer reaches of the Solar System, it will also provide an opportunity to test instruments and study the giant planet, its moons, and magnetic fields. The Sun is seen from eight hundred million kilometers away, with inner planets Earth, Venus, and Mercury aligned on the left. A dim crescent of outermost Galilean moon Callisto, orbiting Jupiter just inside of the spacecraft's trajectory, appears to the upper right of the fading Sun. Left of Jupiter itself is Europa and in the distant background are the faint, unresolved stars and dust clouds of the Milky Way. New Horizons' planned arrival at Pluto-Charon is in the summer of 2015.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/NHatJupiter2_durda_fullg2.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "New Horizons at Jupiter",
+    "url": "https://apod.nasa.gov/apod/image/0312/NHatJupiter2_durda_c1.jpg"
+},
+{
+    "date": "2003-12-05",
+    "explanation": "Variable star V838 Monocerotis startled astronomers in January of 2002, undergoing a dramatic outburst like no other variable star known. Followed closely by ground-based instruments and the Hubble Space Telescope over the following months, it was soon realized that the quickly evolving dusty nebula surrounding V838 Mon was in fact made visible by \"light echoes\" from the outburst. Remarkably, as light from the outburst plays across layers of pre-existing circumstellar material, it gives the surrounding nebulosity the illusion of expanding \"faster than light\". Though the nebula's visible appearance changes dramatically over a period of months, it is actually at least 6 light years in diameter. A good astrophysical explanation for V838 Mon's outbursting behavior is still unknown but astronomers continue to follow the mystery star. This gorgeous image, based on data recorded on October 21 with the US Naval Observatory's 1.55 meter telescope, adopts the color scheme used in previous Hubble images for easy comparison.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/v838lar3_kelly_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Startling Star V838 Mon",
+    "url": "https://apod.nasa.gov/apod/image/0312/v838lar3_kelly_c1.jpg"
+},
+{
+    "copyright": "Tim Feresten",
+    "date": "2003-12-06",
+    "explanation": "Walk through these doors and up the stairs to begin your journey along a line from Jaipur, India toward the North Celestial Pole. Such cosmic alignments abound in marvelous Indian observatories where the architecture itself allows astronomical measurements. The structures were built in Jaipur and other cities in the eighteenth century by the Maharaja Jai Singh II (1686-1743). Rising about 90 feet high, this stairway actually forms a shadow caster or gnomon, part of what is still perhaps the largest sundial on planet Earth. Testaments to Jai Singh II's passion for astronomy, the design and large scale of his observatories' structures still provide impressively accurate measurements of shadows and sightings of celestial angles.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/02mantar_feresten.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Jaipur Observatory Sundial",
+    "url": "https://apod.nasa.gov/apod/image/0312/02mantar_feresten.jpg"
+},
+{
+    "date": "2003-12-07",
+    "explanation": "In 1787, astronomer William Herschel discovered  NGC 2392.  From the ground, NGC 2392 resembles a person's head surrounded by a parka hood.  In 2000, the Hubble Space Telescope imaged  NGC 2392.   From space, the nebula displays gas clouds so complex they are not fully understood.   NGC 2392 is clearly a planetary nebula, and the gas seen above composed the outer layers of a Sun-like star only 10,000 years ago.  The inner filaments visible above are being ejected by strong  wind of particles from the central star.  The outer disk contains unusual light-year long orange filaments.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/ngc2392_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 2392 Nebula from Hubble",
+    "url": "https://apod.nasa.gov/apod/image/0312/ngc2392_hst.jpg"
+},
+{
+    "copyright": "Fred Bruenjesmoonglow.net",
+    "date": "2003-12-08",
+    "explanation": "The Sun, the Moon, and two photographers all lined up last month in Antarctica during an unusual total eclipse of the Sun.  Even given the extreme location, a group of enthusiastic eclipse chasers ventured near the bottom of the world to experience the surreal momentary disappearance of the Sun behind the Moon.  One of the treasures collected was the above picture -- a composite of four separate images digitally combined to realistically simulate how the adaptive human eye saw the eclipse.  As the image was taken, both the Moon and the Sun peaked together over an Antarctic ridge.  In the sudden darkness, the magnificent corona of the Sun became visible around the Moon.  Quite by accident, another photographer was caught in one of the images checking his video camera.   Visible to his left are an equipment bag and a collapsible chair.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/antarcticeclipse_bruenjes.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "An Antarctic Total Solar Eclipse",
+    "url": "https://apod.nasa.gov/apod/image/0312/antarcticeclipse_bruenjes.jpg"
+},
+{
+    "date": "2003-12-09",
+    "explanation": "Stars are sometimes born in the midst of chaos.  About 3 million years ago in the nearby galaxy M33, a large cloud of gas spawned dense internal knots which gravitationally collapsed to form stars.  NGC 604 was so large, however, it could form enough stars to make a globular cluster.  Many young stars from this cloud are visible in the above image from the Hubble Space Telescope, along with what is left of the initial gas cloud.  Some stars were so massive they have already evolved and exploded in a supernova.  The brightest stars that are left emit light so energetic that they create one of the largest cloud of ionized hydrogen gas known, comparable to the Tarantula Nebula in our Milky Way's close neighbor, the Large Magellanic Cloud.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/ngc604_hst2_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "NGC 604: Giant Stellar Nursery",
+    "url": "https://apod.nasa.gov/apod/image/0312/ngc604_hst2.jpg"
+},
+{
+    "date": "2003-12-10",
+    "explanation": "Cassini, a robot spacecraft launched in 1997 by NASA, is close enough now to resolve many rings and moons of its destination planet: Saturn.  The spacecraft has now closed to within a single Earth-Sun separation from the ringed giant. Early last month, Cassini snapped the contrast-enhanced color composite pictured above.  Many features of Saturn's rings and cloud-tops now show considerable detail. When arriving at Saturn in July 2004, the Cassini orbiter will begin to circle and study the Saturnian system.  Several months later, a probe named Huygens will separate and attempt to land on the surface of Titan.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/saturnpreview_cassini_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Cassini Approaches Saturn",
+    "url": "https://apod.nasa.gov/apod/image/0312/saturnpreview_cassini.jpg"
+},
+{
+    "date": "2003-12-11",
+    "explanation": "From planet Earth, we view this strongly interacting pair of galaxies, cataloged as Arp 81, as they were only about 100 million years after their mutual closest approach. The havoc wreaked by gravity during their ominous encounter is detailed in this color composite image from the Hubble Space Telescope, showing twisted streams of gas and dust, a chaos of massive star formation, and a tidal tail stretching for 200 thousand light-years or so as it sweeps behind the cosmic wreckage. Also known as NGC 6622 (left) and NGC 6621, the galaxies are roughly equal in size but are destined to merge into one large galaxy in the distant future, making repeated approaches until they finally coalesce. Located in the constellation Draco, the galaxies are 280 million light-years away. The dark vertical band which seems to run through NGC 6621's location is a camera artifact.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/arp81_keel_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Arp 81: 100 Million Years Later",
+    "url": "https://apod.nasa.gov/apod/image/0312/arp81_keel_c2.jpg"
+},
+{
+    "copyright": "Frank Barrett",
+    "date": "2003-12-12",
+    "explanation": "The brilliant full Moon might not have looked quite like this to skygazers this week, but the image is a mosaic of 18 digital frames recorded on December 9th at 3:30 UT. At that time, the Moon was only about seven hours past its exact full phase or time of maximum illumination as viewed from Earth. Here, the pixel values corresponding to light and dark areas have been translated in reverse, or inverted, producing a false-color representation reminiscent of a black and white photographic negative. Normally bright rays from the large crater Tycho dominate the southern (bottom) features as easily followed dark lines emanating from the 85 kilometer diameter impact site. Normally dark lunar mare appear light and silvery. Traditionally, astronomical images recorded on photographic plates were directly examined in this negative color scheme, which can help the eye pick out faint details.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/InvertedFullMoon50_barrett_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Full Moondark",
+    "url": "https://apod.nasa.gov/apod/image/0312/InvertedFullMoon_barrett_c1.jpg"
+},
+{
+    "copyright": "Roger A. Hopkins",
+    "date": "2003-12-13",
+    "explanation": "Only a few stars can be found within ten light-years of our lonely Sun, situated near an outer spiral arm of the Milky Way galaxy. But if the Sun were found within one of our galaxy's star clusters, thousands of stars might occupy a similar space. What would the night sky look like in such a densely packed stellar neighborhood? When Roger Hopkins took this picture at the Montezuma National Wildlife Refuge in the Finger Lakes region of western New York, USA, he was struck by this same notion. Appropriately, he had photographed a flock of starlings against the backdrop of a serene sunset. He then manipulated the image so that the black bird silhouettes were changed to white. The final picture dramatically suggests the tantalizing spectacle of approaching night in crowded skies above a cluster star world.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/whitebirds640_rhopkins.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Flock of Stars",
+    "url": "https://apod.nasa.gov/apod/image/0312/whitebirds640_rhopkins.jpg"
+},
+{
+    "date": "2003-12-14",
+    "explanation": "Wouldn't it be fun if clouds were turtles?  Wouldn't it be fun if the laundry on the bedroom chair were a friendly  monster?  Wouldn't it be fun if rock mesas on Mars were faces or interplanetary monuments?  Clouds, though, are small water droplets, floating on air.  Laundry is cotton, wool, or plastic, woven into garments.  Famous Martian rock mesas known by names like the Face on Mars appear quite natural when seen more clearly, as the above recently released photo shows.  Is reality boring?  Nobody knows how clouds make lightning.  Nobody knows the geological history of Mars.  Nobody knows why the laundry on the bedroom chair smells like root beer.   Understanding reality brings more questions.  Mystery and adventure are never far behind.  Perhaps fun and discovery are  just beginning.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0105/face2001_mgs_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Close-up of the Face on Mars",
+    "url": "https://apod.nasa.gov/apod/image/0105/face2001_mgs.jpg"
+},
+{
+    "copyright": "Canada-France-Hawaii Telescope",
+    "date": "2003-12-15",
+    "explanation": "Open clusters of stars can be near or far, young or old, and diffuse or compact.  Open clusters may contain from 100 to 10,000 stars, all of which formed at nearly the same time.  Bright blue stars frequently distinguish younger open clusters.  M35, pictured above on the upper left, is relatively nearby at 2800 light years distant, relatively young at 150 million years old, and relatively diffuse, with about 2500 stars spread out over a volume 30 light years across.  An older and more compact open cluster, NGC 2158, is visible above on the lower right.  NGC 2158 is four times more distant that M35, over 10 times older, and much more compact as it contains many more stars in roughly the same volume of space.  NGC 2158's bright blue stars have self-destructed, leaving cluster light to be dominated by older and yellower stars.  Both clusters are visible toward the constellation of Gemini -- M35 with binoculars and NGC 2158 with a small telescope.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/m35_cfht_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Open Star Clusters M35 and NGC 2158",
+    "url": "https://apod.nasa.gov/apod/image/0312/m35_cfht.jpg"
+},
+{
+    "copyright": "Tunc Tezel",
+    "date": "2003-12-16",
+    "explanation": "Why would Mars appear to move backwards?  Most of the time, the apparent motion of Mars in Earth's sky is in one direction, slow but steady in front of the far distant stars.  About every two years, however, the Earth passes Mars as they orbit around the Sun.  During the most recent such pass in August, Mars loomed particularly large and bright.  Also during this time, Mars appeared to move backwards in the sky, a phenomenon called retrograde motion.  Pictured above is a series of images digitally stacked so that all of the stars images coincide.  Here, Mars appears to trace out a loop in the sky.  At the top of the loop, Earth passed Mars and the retrograde motion was the highest.  Retrograde motion can also be seen for other Solar System planets.  In fact, by coincidence, the dotted line to the right of the image center is Uranus doing the same thing.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/retrogrademars03_tezel_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Retrograde Mars",
+    "url": "https://apod.nasa.gov/apod/image/0312/retrogrademars03_tezel.jpg"
+},
+{
+    "date": "2003-12-17",
+    "explanation": "What are auroras made out of?  Triggered by solar activity, normal auroras are caused by collisions between fast-moving electrons and the oxygen and nitrogen in Earth's upper atmosphere. The electrons come from the magnetosphere, the region of space controlled by Earth's magnetic field.  As the excited oxygen and nitrogen molecules return to their low energy state, they emit light, seen as the auroral glow. Sometimes, however, auroras can be caused by collisions with heavier protons, causing a more energetic display with strong ultraviolet emission. In addition, protons can temporarily capture an electron and emit light for themselves. Such a proton aurora is seen above, recorded by the IMAGE satellite. A special feature is the bright spot near picture center, embedded in a ring of auroral emission around the north magnetic pole of planet Earth.  Most solar wind protons never reach the Earth to cause auroras because they are completely deflected away at a great distance by the Earth's magnetic field.  The bright spot in the auroral ring indicates a particularly deep crack in the Earth's magnetic field where protons were able to flow along a temporarily connected region between the Sun and the Earth, relatively undeflected, until they impacted the Earth's ionosphere.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/protonaurora_image.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Proton Aurora",
+    "url": "https://apod.nasa.gov/apod/image/0312/protonaurora_image_big.jpg"
+},
+{
+    "date": "2003-12-18",
+    "explanation": "Hurtling toward its destination, the high resolution camera on board ESA's Mars Express spacecraft recorded this tantalizing view of the Red Planet earlier this month on December 3rd. Seen from a distance of 5.5 million kilometers, features across part of Mars' western hemisphere are bathed in sunlight. The Martian night side is also prominent from the spacecraft's perspective, a view not possible for Earthbound telescopes. Launched on an interplanetary voyage of exploration in early June, Mars Express carries with it the Beagle 2 lander, scheduled to be released from Mars Express tomorrow, December 19th. Mars Express and Beagle 2 will then continue the journey separately, but both are scheduled to reach Mars on December 25th, with Mars Express entering an elliptical orbit and Beagle 2 descending to the Martian surface. Two more invaders from Earth, NASA's Mars Exploration Rovers, will arrive in January.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/mars5p5_esa_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Express to Mars",
+    "url": "https://apod.nasa.gov/apod/image/0312/mars5p5_esa_c1.jpg"
+},
+{
+    "date": "2003-12-19",
+    "explanation": "Spectacular first images from the newly christened Spitzer Space Telescope include this penetrating interior view of an otherwise opaque dark globule known as the Elephant's Trunk Nebula. Seen in a composite of infrared image data recorded by Spitzer's instruments, the intriguing region is embedded within the glowing emission nebula IC 1396 at a distance of 2,450 light-years toward the constellation Cepheus. Previously undiscovered protostars hidden by dust at optical wavelengths appear as bright reddish objects within the globule. Shown in false-color, winding filaments of infrared emission span about 12 light-years and are due to dust, molecular hydrogen gas, and complex molecules called polycyclic aromatic hydrocarbons or PAHs. The Spitzer Space Telescope was formerly known as the Space Infrared Telescope Facility (SIRTF) and is designed to explore the Universe at infrared wavelengths. Spitzer follows the Hubble Space Telescope, the Compton Gamma-ray Observatory, and the Chandra X-ray Observatory as the final element in NASA's space-borne Great Observatories Program.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/etrunkcomp_sst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Inside the Elephant's Trunk",
+    "url": "https://apod.nasa.gov/apod/image/0312/etrunkcomp_sst_c1.jpg"
+},
+{
+    "date": "2003-12-20",
+    "explanation": "An example of solar-powered flight, NASA's Helios aircraft flew almost one hundred years after the Wright brothers' historic flight on December 17, 1903. Pictured here at 10,000 feet in in skies northwest of Kauai, Hawaii in August 2001, the remotely piloted Helios is traveling at about 25 miles per hour. Essentially an ultralight flying wing with 14 electric motors, the aircraft was built by AeroVironment Inc. Covered with solar cells, Helios' impressive 247 foot wide wing exceeded the wing span and even overall length of a Boeing 747 jet airliner. Climbing during daylight hours, the prototype aircraft ultimately reached an altitude just short of 100,000 feet, breaking records for non-rocket powered flight. Helios was intended as a technology demonstrator, but in the extremely thin air 100,000 feet above Earth's surface, the flight of Helios also approached conditions for winged flight in the atmosphere of Mars.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/helios_cthomas_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Flight Of Helios",
+    "url": "https://apod.nasa.gov/apod/image/0312/helios_cthomas.jpg"
+},
+{
+    "date": "2003-12-21",
+    "explanation": "In a search for massive stars, the Hubble Space Telescope has peered into yet another spectacular region of star formation.  This nebula, known as N159, spans over 150 light-years and is located in the neighboring Large Magellanic Cloud galaxy, about 170,000 light years distant. Visible in the above picture are bright newborn stars, dark filaments of dust, and red-glowing hydrogen gas.  The aptly named Papillon Nebula (French for butterfly), is the unusual central compact cloud, highlighted in the inset.  Reasons for the bipolar shape of the Papillon Nebula are currently unknown, but might indicate the presence of unseen high-mass stars and a thick gaseous disk.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/n159_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "N159 and the Papillon Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0312/n159_hst.jpg"
+},
+{
+    "date": "2003-12-22",
+    "explanation": "Why does the Andromeda Galaxy have a giant ring? Viewed in ultraviolet light, the closest major galaxy to our Milky Way Galaxy looks more like a ring galaxy than a spiral.  The ring is highlighted beautifully in this newly released image mosaic of Andromeda (M31) taken by the GALaxy Evolution Explorer (GALEX), a satellite launched into Earth orbit in April. In the above image, ultraviolet colors have been digitally shifted to the visual.  Young blue stars dominate the image, indicating the star forming ring as well as other star forming regions even further from the galactic center. The origin of the huge 150,000-light year ring is unknown but likely related to gravitational interactions with small satellite galaxies that orbit near the galactic giant. M31 lies about three million light-years distant and is bright enough to be seen without binoculars toward the constellation of Andromeda.   News: Today is the December Solstice.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/m31_galex_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Andromeda Galaxy from GALEX",
+    "url": "https://apod.nasa.gov/apod/image/0312/m31_galex.jpg"
+},
+{
+    "copyright": "Michael Holloway",
+    "date": "2003-12-23",
+    "explanation": "It's back.  Every 3.3 years, Comet Encke swoops back into our inner Solar System.  First officially discovered in 1786, Comet Encke is on its 59 th documented return, making it one of the best-studied comets on the sky.   Mysteriously, Comet Encke should have been discovered millennia earlier, since it likely became bright enough to see unaided many times over the past few thousand years.  Comet Encke's elliptical trajectory reaches from outside the orbit of Mars to inside the orbit of Mercury.  It passed relatively close to the Earth on Nov. 17 and will reach its closest to the Sun on Dec 29.  Recent observations place Comet Encke as bright as visual magnitude six during early December, making it just on the verge of unaided human vision.  Pictured above, the diffuse smudge of periodic Comet Encke was imaged through a small telescope on November 29 from Arkansas, USA.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/encke_holloway_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Comet Encke Returns",
+    "url": "https://apod.nasa.gov/apod/image/0312/encke_holloway.jpg"
+},
+{
+    "date": "2003-12-24",
+    "explanation": "Why are some hills on Mars so layered?  The answer is still under investigation.  Clearly, dark windblown sand surrounds outcropping of light sedimentary rock across the floor of crater Arabia Terra.  The light rock clearly appears structured into many layers, the lowest of which is likely very old.  Although the dark sand forms dunes, rippled dunes of lighter colored sand are easier to see surrounding the stepped mesas.  Blown sand possibly itself eroded once-larger mesas into the layered hills.  Most of the layered shelves are wide enough to drive a truck around.  The above image, showing an area about 3 kilometers across, was taken in October by the Mars Global Surveyor spacecraft currently orbiting Mars.  Tomorrow, the first of three robot spacecraft from Earth is scheduled to arrive at the red planet.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/marshills_mgs_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Layered Hills on Mars",
+    "url": "https://apod.nasa.gov/apod/image/0312/marshills_mgs.jpg"
+},
+{
+    "copyright": "James W. YoungTable Mountain\nObservatory",
+    "date": "2003-12-25",
+    "explanation": "At Table Mountain Observatory, near Wrightwood California, USA on October 26, wild fires were approaching from the east. But looking toward the west just after sunset, astronomer James Young could still enjoy this comforting view of a young crescent Moon and brilliant Venus through the the fading twilight. Setting over the horizon of Mt. Baden-Powell, the thin crescent was only about 37 hours \"old\", or 37 hours after its exact New Moon phase. After disappearing from morning twilight in August, Venus was becoming prominent in its role in western skies as the evening star. A similar lovely pairing of thin crescent Moon and stunning evening star can be seen toward the west in today's evening twilight. Happy Holidays and Best Wishes from APOD!",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/venus37moon_young.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Venus and the 37 Hour Moon",
+    "url": "https://apod.nasa.gov/apod/image/0312/venus37moon_young.jpg"
+},
+{
+    "date": "2003-12-26",
+    "explanation": "High-speed outflows of molecular gas from a young stellar object glow in infrared light, revealing themselves in this recent false-color image from the Spitzer Space Telescope. Cataloged as HH (Herbig-Haro) 46/47 the infrared source is lodged within a dark nebula or Bok globule - near the lower right corner of the dark nebula in the optical inset - that is largely opaque when viewed in visible light. The energetic outflow features extend for nearly a light-year, burrowing into the dark interstellar material, and are attributed to early stages in the life of a sun-like star. They may well represent a phase of our own Sun's evolution which took place some 4.5 billion years ago, along with the formation of our solar system from a circumstellar disk. A tantalizing object to explore with Spitzer's infrared capabilities, this young star system is relatively nearby, located only some 1,140 light-years distant in the nautical constellation Vela.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/hh4647_sst_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Young Star, Dark Cloud",
+    "url": "https://apod.nasa.gov/apod/image/0312/hh4647_sst_c2.jpg"
+},
+{
+    "copyright": "Robert Gendler",
+    "date": "2003-12-27",
+    "explanation": "Perhaps the most famous star cluster on the sky, the Pleiades can be seen without binoculars from even the depths of a light-polluted city.  Also known as the Seven Sisters and M45, the Pleiades is one of the brightest and closest open clusters.   The Pleiades contains over 3000 stars, is about 400 light years away, and only 13 light years across.  Quite evident in the above photograph are the blue reflection nebulae that surround the brighter cluster stars.  Low mass, faint, brown dwarfs have also been found in the Pleiades. (Editors' note:  The prominent diffraction spikes were added to the image for aesthetic reasons, produced by kite string donated by Rob Gendler's kids and placed over the telescope dew shield.)",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/m45kite_gendler_full.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Pleiades Star Cluster",
+    "url": "https://apod.nasa.gov/apod/image/0312/m45kite_gendler_c1.jpg"
+},
+{
+    "date": "2003-12-28",
+    "explanation": "Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are being slowly eroded away by a hostile environment.  Visible in the above picture is the end of a huge gas and dust pillar in the Trifid Nebula, punctuated by a smaller pillar pointing up and an unusual jet pointing to the left.  The pink dots are newly formed low-mass stars. A star near the small pillar's end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the above picture to the upper right.  The jet extends nearly a light-year and would not be visible without external illumination.  As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0112/trifid_hst_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "Trifid Pillars & Jets",
+    "url": "https://apod.nasa.gov/apod/image/0112/trifid_hst.jpg"
+},
+{
+    "copyright": "Rick KrejciRicksAstro Astrophotography",
+    "date": "2003-12-29",
+    "explanation": "Tomorrow's picture: Tracks on Mars  < | Archive | Index | Search | Calendar | Glossary | Education | About APOD | >  Authors & editors: Robert Nemiroff (MTU) & Jerry Bonnell (USRA) NASA Web Site Statements, Warnings, and Disclaimers NASA Official: Jay Norris. Specific rights apply. A service of: LHEA at NASA / GSFC & Michigan Tech. U.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/witch_krejci_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "The Witch Head Nebula",
+    "url": "https://apod.nasa.gov/apod/image/0312/witch_krejci.jpg"
+},
+{
+    "date": "2003-12-30",
+    "explanation": "What caused the streaks in this Martian crater?  Since the above image shows streaks occurring both inside and outside the crater, they were surely created after the crater-causing impact.  Newly formed trails like these presented researchers with a tantalizing martian mystery but have now been identified as likely the work of miniature wind vortices known to occur on the red planet - martian dust devils. Another example of wind processes on an active Mars, dust devils had been detected passing near the Viking and Mars Pathfinder landers. Such spinning columns of rising air heated by the warm surface are common in dry and desert areas on planet Earth. Typically lasting only a few minutes, they becoming visible as they pick up loose dust. On Mars, dust devils can be up to 8 kilometers high and leave dark trails as they disturb the bright, reflective surface dust.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/craterdevil_mgs_big.gif",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Dust Devil Crater on Mars",
+    "url": "https://apod.nasa.gov/apod/image/0312/craterdevil_mgs.jpg"
+},
+{
+    "date": "2003-12-31",
+    "explanation": "This year, humanity learned that the universe is 13.7 billion years old.  Before this year, the universe's age was thought to be about 13 billion years, but really only constrained to be between about 12 billion and 15 billion years old.  The difference was made, primarily, by a small satellite named the Wilkinson Microwave Anisotropy Probe (WMAP) that had been collecting data in an unusual Earth orbit.  Pictured above is a sky map of the enabling data -- the complete cosmic microwave background divided into two hemispheres, in detail never before resolved, as recorded by the WMAP's first data release.  Besides universe age, new data and analyses of the spots on the cosmic microwave background bolstered existing indications that the universe is composed predominantly of a strange and mysterious type of dark energy (73 percent).  The remaining matter is only about 4 percent in familiar atoms, with the remaining 23 percent in a somewhat mysterious type of dark matter.  During the year, much cosmological research shifted from trying to find the parameters that define our universe to trying to use these parameters as a tool for understanding details of how our universe evolved.",
+    "hdurl": "https://apod.nasa.gov/apod/image/0312/globes_wmap_big.jpg",
+    "media_type": "image",
+    "service_version": "v1",
+    "title": "A Year of Resolving Cosmology",
+    "url": "https://apod.nasa.gov/apod/image/0312/globes_wmap.jpg"
+}
 ]

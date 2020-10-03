@@ -1,4 +1,4 @@
-const fotakus = require('./datos/2000')
+const fotakus = require('../datos/2001')
 
 const mongoose = require('mongoose');
 
