@@ -18,7 +18,10 @@ const fotosSchema = new mongoose.Schema({
 const Foto = mongoose.model("Fotos", fotosSchema);
 
 Foto.find(
-  { date: { $gt: new Date('2003-01-04') } },
+
+  // { date: "2001-10-01" },
+  // { date: { $gt: new Date('2000-12-28') } },
+  { date: { $gt: new Date('2000-01-01'), $lt: new Date('2000-02-04') } },
   function (err, item) {
     if (err) {
       console.log(err);
