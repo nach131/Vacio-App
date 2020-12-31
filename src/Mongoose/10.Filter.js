@@ -18,9 +18,9 @@ const fotosSchema = new mongoose.Schema({
 const Foto = mongoose.model("Fotos", fotosSchema);
 
 Foto.find(
-
+{},
   // Para que encuentre los registros entre fecha el type de Date tiene que ser Date en MongoDB No String
-  { date: "2000-10-01" },
+  // { date: "2000-10-01"},
   // { date: { $gt: new Date('2000-12-28') } },
   // { date: { $gt: new Date('2000-01-01'), $lt: new Date('2000-02-04') } },
   function (err, item) {
@@ -34,13 +34,4 @@ Foto.find(
 )
 
 
-//---------------------------------------
-// Buscar todo
-// Foto.find(function(err, items) {
-//   if (err) {
-//     console.log(err)
-//   } else {
-//     console.log(items)
-//   }
-// });
 
