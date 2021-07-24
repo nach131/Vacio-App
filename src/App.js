@@ -3,7 +3,10 @@ import './App.css';
 import { bounceInDown } from 'react-animations';
 import Radium, { StyleRoot } from 'radium';
 import { FaRocket } from 'react-icons/fa';
-import { BsFillEggFill,BsEgg } from "react-icons/bs";
+import { BsFillEggFill, BsEgg } from "react-icons/bs";
+import 'bootswatch/dist/slate/bootstrap.min.css'; // Added this :boom:
+import { Nav } from './utils/Nav'
+
 
 const styles = {
   bounceInDown: {
@@ -18,13 +21,13 @@ class App extends React.Component {
 
       <StyleRoot>
         <div className="test" >
-          <div  className="App">
+          <div className="App">
             <header className="App-header">
-            {/* <FaRocket className="App-logo"/> */}
-            <BsFillEggFill className="App-logo"/>
-            <BsEgg className="App-logo"/>
+              <Nav />
+              <FaRocket className="App-logo" />
+              {/* <BsFillEggFill className="App-logo"/> */}
+              {/* <BsEgg className="App-logo"/> */}
               <h1 style={styles.bounceInDown} >Quitado</h1>
-
             </header>
           </div>
         </div>
