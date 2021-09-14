@@ -1,36 +1,9 @@
-.App {
-display: flex;
-height:100vh;
-justify-content: center;
-align-items: center;
-flex-flow: row wrap;
-background-color: #282c34;
-
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+  font-size: 14px;
 }
 
-.box {
-  width: 200px;
-  height:200px;
-  margin: 10px;
-  transition: background-color 0.1s ease-in-out;
-}
-
-.inactive{
-  background-color: #9b59b6;
-}
-.active{
-  background-color: #3498db;
-}
-
-
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.ReactTable .rt-thead {
+  overflow-y: scroll;
 }
