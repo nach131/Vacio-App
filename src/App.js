@@ -1,34 +1,22 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
-import { bounceInDown } from 'react-animations';
-import Radium, { StyleRoot } from 'radium';
-import { FaRocket } from 'react-icons/fa';
-import { BsFillEggFill,BsEgg } from "react-icons/bs";
+import TablePage from './TablePage'
+import Table from './Table'
+import DatatablePage from './DatatablePage';
 
-const styles = {
-  bounceInDown: {
-    animation: 'x 1s',
-    animationName: Radium.keyframes(bounceInDown, 'bounceInDown')
-  }
-}
 
 class App extends React.Component {
-  render() {
+  render () {
     return (
 
-      <StyleRoot>
-        <div className="test" >
-          <div  className="App">
-            <header className="App-header">
-            {/* <FaRocket className="App-logo"/> */}
-            <BsFillEggFill className="App-logo"/>
-            <BsEgg className="App-logo"/>
-              <h1 style={styles.bounceInDown} >Quitado</h1>
-
-            </header>
-          </div>
+      <div className="container pt-5">
+        <div className="row">
+          <Table />
         </div>
-      </StyleRoot>
+        <TablePage />
+        <DatatablePage />
+      </div>
     );
   }
 }

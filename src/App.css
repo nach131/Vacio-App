@@ -37,3 +37,7 @@
     transform: rotate(360deg);
   }
 }
+td {
+/* color: red; */
+padding: 0.20rem !important;
+}
