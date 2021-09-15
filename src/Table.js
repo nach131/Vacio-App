@@ -10,7 +10,7 @@ class Table extends React.Component {
       <div className="container pt-5">
 
         <div className="row">
-
+          <h5>Tabla normal</h5>
           <table className="table table-striped table-hover">
             <thead>
               <tr>
