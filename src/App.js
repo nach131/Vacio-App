@@ -4,6 +4,7 @@ import './App.css';
 import TablePage from './TablePage'
 import Table from './Table'
 import DatatablePage from './DatatablePage';
+import TableArray from './TableArray';
 
 
 class App extends React.Component {
@@ -16,6 +17,7 @@ class App extends React.Component {
         </div>
         <TablePage />
         <DatatablePage />
+        <TableArray />
       </div>
     );
   }
