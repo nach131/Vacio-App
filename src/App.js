@@ -13,11 +13,11 @@ class App extends React.Component {
 
       <div className="container pt-5">
         <div className="row">
+          <TableArray />
           <Table />
         </div>
         <TablePage />
         <DatatablePage />
-        <TableArray />
       </div>
     );
   }
