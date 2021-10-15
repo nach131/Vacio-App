@@ -1,8 +1,7 @@
 import React from 'react'
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Checkbox from './Checkbox';
-import Circlebox from './Circlebox';
+import Lista from './Lista';
 
 function App () {
 
@@ -11,9 +10,7 @@ function App () {
     <div className="test" >
       <div className="App">
         <header className="App-header">
-          <Checkbox />
-          <br />
-          <Circlebox />
+          <Lista />
         </header>
       </div>
     </div>
