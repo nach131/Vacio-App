@@ -1,9 +1,7 @@
 import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Uno from './Uno.js'
-import Dos from './Dos.js'
-import Tres from './Tres.js'
+import Form from './Form'
 
 function App () {
 
@@ -11,9 +9,7 @@ function App () {
   return (
     <div className="App" >
       <header className="App-header">
-        {/* <Uno /> */}
-        {/* <Dos /> */}
-        <Tres />
+        <Form />
       </header>
     </div>
   );
