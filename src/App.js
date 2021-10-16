@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Form from './Form'
 
 function App () {
 
@@ -9,7 +8,6 @@ function App () {
   return (
     <div className="App" >
       <header className="App-header">
-        <Form />
       </header>
     </div>
   );
