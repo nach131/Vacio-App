@@ -1,0 +1,29 @@
+https://www.digitalocean.com/community/tutorials/how-to-use-font-awesome-5-with-react-es\
+
+
+Estilo sólido: fas
+Estilo regular: far
+Estilo ligero: fal
+Estilo duotono: fad
+
+basicos
+npm i -S @fortawesome/fontawesome-svg-core @fortawesome/react-fontawesome
+regulares
+
+# regular icons
+npm i -S @fortawesome/free-regular-svg-icons
+npm i -S @fortawesome/pro-regular-svg-icons
+
+Estos instalarán los iconos sólidos:
+# solid icons
+npm i -S @fortawesome/free-solid-svg-icons
+npm i -S @fortawesome/pro-solid-svg-icons
+
+# light icons
+npm i -S @fortawesome/pro-light-svg-icons
+
+# duotone icons
+npm i -S @fortawesome/pro-duotone-svg-icons
+
+# brand icons
+npm i -S @fortawesome/free-brands-svg-icons
