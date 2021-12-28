@@ -6,6 +6,8 @@ import 'bootswatch/dist/sandstone/bootstrap.min.css'
 import Menu from './components/Menu'
 import Form1 from './components/Form1'
 import Form2 from './components/Form2'
+import Datos from './components/Datos'
+import Frutas from './components/Frutas';
 
 
 class App extends React.Component {
@@ -16,13 +18,15 @@ class App extends React.Component {
 
         <div className="test" >
           <div className="App">
-            <header className="App-header">
-              <div className="container">
-                <Form1 />
-                <p>React Hook to persist</p>
-                <Form2 />
-              </div>
-            </header>
+            {/* <header className="App-header"> */}
+            <div className="container">
+              <Frutas className="mb-2" />
+              <Form1 />
+              <p className="blanco">React Hook to persist</p>
+              <Form2 />
+              {/* <Datos /> */}
+            </div>
+            {/* </header> */}
           </div>
         </div>
       </BrowserRouter>

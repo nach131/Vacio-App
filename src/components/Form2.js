@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useLocalStorage } from "../useLocalStorage";
+import { useLocalStorage } from "../hooks/useLocalStorageForm";
 
 const Form2 = () => {
 
@@ -11,7 +11,7 @@ const Form2 = () => {
   // const [checked, setChecked] = useState(false);
 
   return (
-    <form>
+    <form >
       <div className="form-group row">
         <input
           className="form-control"
