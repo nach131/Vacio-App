@@ -19,19 +19,30 @@ const Form1 = () => {
   }, [name])
 
   return (
-    <form className="pt-5">
-      <div className="input-group mb-3">
-        <input
-          className="form-control"
-          type="text"
-          value={name}
-          onChange={(e) => setName(e.target.value)}
-          placeholder="Full name"
-          aria-label="fullname"
-        />
-        <input className="btn btn-primary" type="submit" value="Submit"></input>
-      </div>
-    </form>
+    <>
+      {name ? (
+        <div className="pt-4">
+          El nombre es:<strong>{name}</strong>
+        </div>
+      ) : (
+        <></>
+      )
+      }
+
+      <form className="pt-3">
+        <div className="input-group mb-3">
+          <input
+            className="form-control"
+            type="text"
+            value={name}
+            onChange={(e) => setName(e.target.value)}
+            placeholder="Full name"
+            aria-label="fullname"
+          />
+          <input className="btn btn-primary" type="submit" value="Submit"></input>
+        </div>
+      </form>
+    </>
   );
 };
 export default Form1

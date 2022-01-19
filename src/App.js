@@ -9,6 +9,8 @@ import Form2 from './components/Form2'
 import Datos from './components/Datos'
 import Frutas from './components/Frutas';
 import Cryptos from './components/Cryptos';
+import FormAddArray from './components/FormAddArray';
+
 
 
 class App extends React.Component {
@@ -26,6 +28,7 @@ class App extends React.Component {
               {/* <p className="blanco">React Hook to persist</p> */}
               {/* <Form2 /> */}
               {/* <Datos /> */}
+              <FormAddArray />
               <Cryptos />
             </div>
             {/* </header> */}

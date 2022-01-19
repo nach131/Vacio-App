@@ -55,9 +55,9 @@ function Cryptos () {
         <div>
           <Card elevation="1">
             <p>
-              Welcome <strong>
+              Que pacha <strong>
                 userData.name
-              </strong>, choose your favorite
+              </strong>, eleguir las favoritas
               cryptos:
             </p>
             {cryptos.map((crypto) => {
@@ -86,8 +86,7 @@ function Cryptos () {
       ) : (
         <Card elevation="1">
           <p>
-            Welcome <strong>{userData.name}</strong>, your favorite cryptos
-            are:
+            Que pacha <strong>{userData.name}</strong>, Estas son tus cryptos faboritas:
           </p>
           {userData.favorites.map((crypto) => {
             return (
@@ -105,7 +104,7 @@ function Cryptos () {
           })}
           <Button
             intent="primary"
-            text="Change"
+            text="Eleguir"
             fill
             type="submit"
             onClick={() => setEditMode(true)}
