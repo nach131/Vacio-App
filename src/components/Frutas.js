@@ -33,6 +33,8 @@ function Frutas () {
   const onFruitChecked = (e, fruit) => {
     // Compruebe si la fruta existe en la lista actual de favoritos
     const index = userData.favorites.indexOf(fruit);
+    console.log(userData)
+    console.log(index)
     // Si la casilla de verificación está marcada y la fruta no es parte de las favoritas
     if (e.target.checked && index === -1) {
       setUserData((prevValues) => {

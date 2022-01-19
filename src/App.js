@@ -8,6 +8,7 @@ import Form1 from './components/Form1'
 import Form2 from './components/Form2'
 import Datos from './components/Datos'
 import Frutas from './components/Frutas';
+import Cryptos from './components/Cryptos';
 
 
 class App extends React.Component {
@@ -20,11 +21,12 @@ class App extends React.Component {
           <div className="App">
             {/* <header className="App-header"> */}
             <div className="container">
-              <Frutas className="mb-2" />
-              <Form1 />
-              <p className="blanco">React Hook to persist</p>
-              <Form2 />
+              {/* <Frutas className="mb-2" /> */}
+              {/* <Form1 /> */}
+              {/* <p className="blanco">React Hook to persist</p> */}
+              {/* <Form2 /> */}
               {/* <Datos /> */}
+              <Cryptos />
             </div>
             {/* </header> */}
           </div>
