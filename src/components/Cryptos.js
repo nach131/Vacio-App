@@ -1,4 +1,4 @@
-import '../fruit.css'
+// import '../fruit.css'
 import React, { useState } from 'react'
 
 import {

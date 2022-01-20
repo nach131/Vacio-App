@@ -7,26 +7,28 @@ import NavDropdown from 'react-bootstrap/NavDropdown'
 function Menu () {
   return (
     <>
-      <Navbar expand="lg" className="navbar navbar-expand-lg navbar-light bg-light">
+      <Navbar expand="lg" className="navbar navbar-expand-lg nnavbar-dark  bg-dark">
         <Navbar.Brand href="/">prueba</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
-            className="mr-auto my-2 my-lg-0 navbar-light bg-light"
+            className="mr-auto my-2 my-lg-0 navbar-dark bg-dark"
             style={{ maxHeight: '100px' }}
             navbarScroll
           >
-            <Nav.Link href="/scala">Scala</Nav.Link>
-            {/* <Nav.Link href="/cotizacion">Cotización</Nav.Link> */}
-            <Nav.Link href="/historia">Historial</Nav.Link>
-            <Nav.Link href="/control">Control</Nav.Link>
-            <Nav.Link href="/exchange">Exchange</Nav.Link>
-            <NavDropdown title="Smart Contracts" id="navbarScrollingDropdown">
+            <Nav.Link href="/Form1">Form1</Nav.Link>
+            <Nav.Link href="/Form2">Form2</Nav.Link>
+            <Nav.Link href="/Datos">Datos</Nav.Link>
+            <Nav.Link href="/Frutas">Frutas</Nav.Link>
+            <Nav.Link href="/FormAddArray">FormAddArray</Nav.Link>
+            <Nav.Link href="/FormAddDelToArray">FormAddDelToArray</Nav.Link>
+            <Nav.Link href="/CryptosCryptos">Cryptos</Nav.Link>
+            {/* <NavDropdown title="Smart Contracts" id="navbarScrollingDropdown">
               <NavDropdown.Item href="/smart">Add Smart Contracts</NavDropdown.Item>
               <NavDropdown.Item href="/smart_list">List Smart Contracts</NavDropdown.Item>
-              {/* <NavDropdown.Divider />
-            <NavDropdown.Item href="#action5">Something else here</NavDropdown.Item> */}
-            </NavDropdown>
+              <NavDropdown.Divider />
+            <NavDropdown.Item href="#action5">Something else here</NavDropdown.Item>
+            </NavDropdown> */}
             <Nav.Link href="/smartcontrol">Pruebas</Nav.Link>
           </Nav>
           {/* <Form className="d-flex">

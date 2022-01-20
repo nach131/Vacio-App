@@ -1,9 +1,10 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 
 import './App.css';
-// import 'bootswatch/dist/sandstone/bootstrap.min.css'
-import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootswatch/dist/sandstone/bootstrap.min.css'
+// import 'bootstrap/dist/css/bootstrap.min.css'
 
 import Menu from './components/Menu'
 import Form1 from './components/Form1'
@@ -20,22 +21,19 @@ class App extends React.Component {
   render () {
     return (
       <BrowserRouter>
-        {/* <Menu /> */}
-
-        <div className="test" >
+        <Menu />
+        <div className="App-header ">
           <div className="App">
-            {/* <header className="App-header"> */}
-            <div className="container">
-              {/* <Frutas className="mb-2" /> */}
-              {/* <Form1 /> */}
-              {/* <p className="blanco">React Hook to persist</p> */}
-              {/* <Form2 /> */}
-              {/* <Datos /> */}
-              {/* <FormAddArray /> */}
-              <FormAddDelToArray />
-              {/* <Cryptos /> */}
-            </div>
-            {/* </header> */}
+
+            <Routes>
+              <Route excact path="/Form1" element={<Form1 />} />
+              <Route excact path="/Form2" element={<Form2 />} />
+              <Route excact path="/Datos" element={<Datos />} />
+              <Route excact path="/Frutas" element={<Frutas />} />
+              <Route excact path="/FormAddArray" element={<FormAddArray />} />
+              <Route excact path="/FormAddDelToArray" element={<FormAddDelToArray />} />
+              <Route excact path="/Cryptos" element={<Cryptos />} />
+            </Routes>
           </div>
         </div>
       </BrowserRouter>
