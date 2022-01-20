@@ -2,7 +2,9 @@ import React from 'react';
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 
 import './App.css';
-import 'bootswatch/dist/sandstone/bootstrap.min.css'
+// import 'bootswatch/dist/sandstone/bootstrap.min.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
+
 import Menu from './components/Menu'
 import Form1 from './components/Form1'
 import Form2 from './components/Form2'
@@ -10,6 +12,7 @@ import Datos from './components/Datos'
 import Frutas from './components/Frutas';
 import Cryptos from './components/Cryptos';
 import FormAddArray from './components/FormAddArray';
+import FormAddDelToArray from './components/FormAddDelToArray';
 
 
 
@@ -28,8 +31,9 @@ class App extends React.Component {
               {/* <p className="blanco">React Hook to persist</p> */}
               {/* <Form2 /> */}
               {/* <Datos /> */}
-              <FormAddArray />
-              <Cryptos />
+              {/* <FormAddArray /> */}
+              <FormAddDelToArray />
+              {/* <Cryptos /> */}
             </div>
             {/* </header> */}
           </div>

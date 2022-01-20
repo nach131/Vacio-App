@@ -24,10 +24,15 @@ function FormAddArray () {
     // comprobamos que si ya existe
     const index = DataSymbol.indexOf(name)
 
-    if (index === -1)
+    if (index === -1) {
       setDataSymbol(prevValues => {
         return [...prevValues, name]
       })
+    } else {
+      console.log("existe")
+    }
+
+
 
   }
 

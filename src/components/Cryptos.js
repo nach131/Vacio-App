@@ -91,6 +91,7 @@ function Cryptos () {
           {userData.favorites.map((crypto) => {
             return (
               <Tag
+
                 key={crypto}
                 round
                 minimal
