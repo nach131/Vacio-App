@@ -7,7 +7,7 @@ import {
   Checkbox,
   Tag,
 } from "@blueprintjs/core";
-import useLocalStorage from "../hooks/useLocalStorage";
+import useLocalStorage from "../../hooks/useLocalStorage";
 
 const cryptos = [
   "BTC",
@@ -18,9 +18,9 @@ const cryptos = [
 ]
 
 
-function Cryptos () {
+function CryptosFabCheckedAddDelArray () {
 
-  const [userData, setUserData] = useLocalStorage("cryptos", { favorites: [] });
+  const [userData, setUserData] = useLocalStorage("cryptosTwo", { favorites: [] });
   const [editMode, setEditMode] = useState(false);
 
   const onCryptoChecked = (e, crypto) => {
@@ -118,5 +118,5 @@ function Cryptos () {
   )
 }
 
-export default Cryptos
+export default CryptosFabCheckedAddDelArray
 

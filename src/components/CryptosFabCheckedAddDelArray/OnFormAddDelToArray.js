@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import useLocalStorage from "../hooks/useLocalStorage";
+// import useLocalStorage from "../hooks/useLocalStorage";
 import {
   Button,
   Card,
@@ -8,38 +8,38 @@ import {
 } from 'react-bootstrap';
 
 
-function FormAddArray () {
+function OnFormAddDelToArray (DataSymbol) {
 
-  const [DataSymbol, setDataSymbol] = useLocalStorage("crypto", [
-    "LTC",
-    "ADA",
-    "DOT"]);
+  // const [DataSymbol, setDataSymbol] = useLocalStorage("crypto", [
+  //   "LTC",
+  //   "ADA",
+  //   "DOT"]);
 
   const [name, setName] = useState('')
 
-  const handleSubmint = e => {
-    e.preventDefault()
-    // comprobamos que si ya existe
-    const index = DataSymbol.indexOf(name)
+  // const handleSubmint = e => {
+  //   e.preventDefault()
+  //   // comprobamos que si ya existe
+  //   const index = DataSymbol.indexOf(name)
 
-    if (index === -1) {
-      setName("")
-      setDataSymbol(prevValues => {
-        return [...prevValues, name]
-      }
-      )
-    } else {
-      console.log("existe")
-    }
+  //   if (index === -1) {
+  //     setName("")
+  //     setDataSymbol(prevValues => {
+  //       return [...prevValues, name]
+  //     }
+  //     )
+  //   } else {
+  //     console.log("existe")
+  //   }
 
-  }
+  // }
 
-  const handleDelete = (symbol) => {
+  // const handleDelete = (symbol) => {
 
-    const delSymbol = DataSymbol.filter(elem => !symbol.includes(elem))
-    setDataSymbol(delSymbol)
+  //   const delSymbol = DataSymbol.filter(elem => !symbol.includes(elem))
+  //   setDataSymbol(delSymbol)
 
-  }
+  // }
 
   return (
     <>
@@ -60,7 +60,7 @@ function FormAddArray () {
                       className="btn-delete"
                       variant="outline-success"
                       size="sm"
-                      onClick={() => handleDelete(crypto)}
+                    // onClick={() => handleDelete(crypto)}
                     >
                       {crypto}
                     </Button>
@@ -77,7 +77,7 @@ function FormAddArray () {
         )}
 
         <Form
-          onSubmit={handleSubmint}
+          // onSubmit={handleSubmint}
           className="mx-3 pt-4"
         >
           <Form.Group className="mb-3" controlId="symbolCoin">
@@ -86,7 +86,7 @@ function FormAddArray () {
               type="symbolCoin"
               placeholder="Symbolo Coin"
               value={name}
-              onChange={(e) => setName(e.target.value.toUpperCase())}
+            // onChange={(e) => setName(e.target.value.toUpperCase())}
 
             />
           </Form.Group>
@@ -98,4 +98,4 @@ function FormAddArray () {
   )
 }
 
-export default FormAddArray
+export default OnFormAddDelToArray

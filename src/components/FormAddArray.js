@@ -17,7 +17,7 @@ function FormAddArray () {
     "ADA",
     "DOT"]);
 
-  const [name, setName] = useState()
+  const [name, setName] = useState('')
 
   const handleSubmint = e => {
     e.preventDefault()

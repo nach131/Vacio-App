@@ -2,12 +2,12 @@ import React from 'react'
 
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
-import NavDropdown from 'react-bootstrap/NavDropdown'
+// import NavDropdown from 'react-bootstrap/NavDropdown'
 
 function Menu () {
   return (
     <>
-      <Navbar expand="lg" className="navbar navbar-expand-lg nnavbar-dark  bg-dark">
+      <Navbar expand="lg" className="navbar navbar-expand-lg navbar-dark bg-dark">
         <Navbar.Brand href="/">prueba</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
@@ -22,14 +22,14 @@ function Menu () {
             <Nav.Link href="/Frutas">Frutas</Nav.Link>
             <Nav.Link href="/FormAddArray">FormAddArray</Nav.Link>
             <Nav.Link href="/FormAddDelToArray">FormAddDelToArray</Nav.Link>
-            <Nav.Link href="/CryptosCryptos">Cryptos</Nav.Link>
+            <Nav.Link href="/CryptosFabChecked">CryptosFabChecked</Nav.Link>
+            <Nav.Link href="/CryptosFabCheckedAddDelArray">CryptosFabCheckedAddDelArray</Nav.Link>
             {/* <NavDropdown title="Smart Contracts" id="navbarScrollingDropdown">
               <NavDropdown.Item href="/smart">Add Smart Contracts</NavDropdown.Item>
               <NavDropdown.Item href="/smart_list">List Smart Contracts</NavDropdown.Item>
               <NavDropdown.Divider />
             <NavDropdown.Item href="#action5">Something else here</NavDropdown.Item>
             </NavDropdown> */}
-            <Nav.Link href="/smartcontrol">Pruebas</Nav.Link>
           </Nav>
           {/* <Form className="d-flex">
           <FormControl

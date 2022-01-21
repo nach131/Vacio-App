@@ -4,9 +4,7 @@
   max-width: 400px;
 }
 
-.badge{
-  color: black!important;
-}
+
 .App-link {
   color: #61dafb;
 }
@@ -14,4 +12,9 @@
 .btn-delete:hover{
   background-color: #a72828!important;
   border-color: #a72828!important;
+}
+
+a.nav-link {
+  text-transform: capitalize!important;
+  text-decoration:none!important;
 }

@@ -11,9 +11,10 @@ import Form1 from './components/Form1'
 import Form2 from './components/Form2'
 import Datos from './components/Datos'
 import Frutas from './components/Frutas';
-import Cryptos from './components/Cryptos';
 import FormAddArray from './components/FormAddArray';
 import FormAddDelToArray from './components/FormAddDelToArray';
+import CryptosFabChecked from './components/CryptosFabChecked'
+import CryptosFabCheckedAddDelArray from './components/CryptosFabCheckedAddDelArray/index'
 
 
 
@@ -32,7 +33,8 @@ class App extends React.Component {
               <Route excact path="/Frutas" element={<Frutas />} />
               <Route excact path="/FormAddArray" element={<FormAddArray />} />
               <Route excact path="/FormAddDelToArray" element={<FormAddDelToArray />} />
-              <Route excact path="/Cryptos" element={<Cryptos />} />
+              <Route excact path="/CryptosFabChecked" element={<CryptosFabChecked />} />
+              <Route excact path="/CryptosFabCheckedAddDelArray" element={<CryptosFabCheckedAddDelArray />} />
             </Routes>
           </div>
         </div>
