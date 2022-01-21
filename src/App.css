@@ -37,3 +37,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+.label{
+  padding-right: 1rem;
+  cursor: pointer;
+}
+.rojo{
+  color: red!important;
+}
+.verde {
+  color: green;
+}
+.amarillo{
+  color:yellow
+}
+.azul{
+  color:rgba(19, 147, 221, 0.911)
+}
