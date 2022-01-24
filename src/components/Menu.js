@@ -16,14 +16,8 @@ function Menu () {
             style={{ maxHeight: '100px' }}
             navbarScroll
           >
-            <Nav.Link href="/Form1">Form1</Nav.Link>
-            <Nav.Link href="/Form2">Form2</Nav.Link>
-            <Nav.Link href="/Datos">Datos</Nav.Link>
-            <Nav.Link href="/Frutas">Frutas</Nav.Link>
-            <Nav.Link href="/FormAddArray">FormAddArray</Nav.Link>
-            <Nav.Link href="/FormAddDelToArray">FormAddDelToArray</Nav.Link>
-            <Nav.Link href="/CryptosFabChecked">CryptosFabChecked</Nav.Link>
-            <Nav.Link href="/CryptosFabCheckedAddDelArray">CryptosFabCheckedAddDelArray</Nav.Link>
+            <Nav.Link href="/login">login</Nav.Link>
+
             {/* <NavDropdown title="Smart Contracts" id="navbarScrollingDropdown">
               <NavDropdown.Item href="/smart">Add Smart Contracts</NavDropdown.Item>
               <NavDropdown.Item href="/smart_list">List Smart Contracts</NavDropdown.Item>
