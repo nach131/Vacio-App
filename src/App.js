@@ -17,7 +17,8 @@ class App extends React.Component {
         <div className="App-header ">
           <div className="App">
             <Routes>
-              <Route excact path="/login" component={Login} />
+              <Route excact path="/login" component={<Login />} />
+
             </Routes>
           </div>
         </div>
