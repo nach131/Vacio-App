@@ -8,6 +8,7 @@ import 'bootswatch/dist/sandstone/bootstrap.min.css'
 
 import Menu from './components/Menu'
 import Login from './components/Login'
+import Form2 from './components/Form2'
 
 class App extends React.Component {
   render () {
@@ -18,6 +19,7 @@ class App extends React.Component {
           <div className="App">
             <Routes>
               <Route excact path="/login" component={<Login />} />
+              <Route excact path="/form2" component={<Form2 />} />
 
             </Routes>
           </div>

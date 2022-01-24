@@ -1,8 +1,15 @@
 
 import React from 'react';
 
-function Login () {
-  return <div> nada</div>;
+const Login = () => {
+
+  return (
+    <div> nada</div>
+
+
+  )
 }
 
 export default Login;
+
+

@@ -17,6 +17,7 @@ function Menu () {
             navbarScroll
           >
             <Nav.Link href="/login">login</Nav.Link>
+            <Nav.Link href="/form2">Form2</Nav.Link>
 
             {/* <NavDropdown title="Smart Contracts" id="navbarScrollingDropdown">
               <NavDropdown.Item href="/smart">Add Smart Contracts</NavDropdown.Item>
