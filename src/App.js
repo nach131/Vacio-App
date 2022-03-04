@@ -1,22 +1,30 @@
 import React from 'react'
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import ScrollComponent from './ScrollComponent'
+import Main from './components/Main'
+import ScrollComponent from './components/ScrollComponent'
+import CustomHook from './components/CustomHook';
+import CustomHookEnCapsulado from './components/CustomHookEnCapsulado';
+
+
 function App () {
-
-
-
-
   return (
-    <div className="test" >
-      <div className="App">
-        <header className="App-header">
-          <h3>Infinite Scroll</h3>
-          <ScrollComponent />
-        </header>
-      </div>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <>
+          <Route path='/' element={<Main />} />
+          <Route path='/scrollcomponent' element={<ScrollComponent />} />
+          <Route path='/scrollcomponent' element={<ScrollComponent />} />
+          <Route path='/customhook' element={<CustomHook />} />
+          <Route path='/customhookencapsulado' element={<CustomHookEnCapsulado />} />
+
+        </>
+      </Routes>
+    </BrowserRouter>
   )
+
+
 }
 
 
