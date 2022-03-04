@@ -1,17 +1,8 @@
 import React, { useState } from 'react'
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Lista from './Lista';
 
 function App () {
-
-  const [item, setItem] = useState("nada pulsado")
-
-
-  const ItemClick = (item) => {
-    setItem(item)
-    // console.log(item)
-  }
 
 
 
@@ -19,14 +10,7 @@ function App () {
     <div className="test" >
       <div className="App">
         <header className="App-header">
-          <div class="alert alert-primary" role="alert">
-            {item}
-          </div>
-          <Lista
-            // pulsado={value => setItem(value)}
-            esto={value => setItem(value)}
-            otro={ItemClick}
-          />
+          <h3>Infinite Scroll</h3>
         </header>
       </div>
     </div>
