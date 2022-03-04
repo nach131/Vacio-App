@@ -1,8 +1,9 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
-
+import ScrollComponent from './ScrollComponent'
 function App () {
+
 
 
 
@@ -11,10 +12,14 @@ function App () {
       <div className="App">
         <header className="App-header">
           <h3>Infinite Scroll</h3>
+          <ScrollComponent />
         </header>
       </div>
     </div>
   )
 }
+
+
+
 
 export default App
