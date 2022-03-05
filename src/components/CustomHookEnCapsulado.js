@@ -11,7 +11,7 @@ export default function CustomHookEnCapsulado () {
             key={`img${i}`}
             src={el.download_url}
             style={{
-              width: '150px',
+              width: '350px',
               height: 'auto',
               marginBottom: '10px',
               borderRadius: '3px',
