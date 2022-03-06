@@ -6,6 +6,7 @@ import Main from './components/Main'
 import ScrollComponent from './components/ScrollComponent'
 import CustomHook from './components/CustomHook';
 import CustomHookEnCapsulado from './components/CustomHookEnCapsulado';
+import ScrollComponentEncapsulado from './components/ScrollComponentEncapsulado'
 
 
 function App () {
@@ -15,10 +16,9 @@ function App () {
         <>
           <Route path='/' element={<Main />} />
           <Route path='/scrollcomponent' element={<ScrollComponent />} />
-          <Route path='/scrollcomponent' element={<ScrollComponent />} />
           <Route path='/customhook' element={<CustomHook />} />
           <Route path='/customhookencapsulado' element={<CustomHookEnCapsulado />} />
-
+          <Route path='/scrollcomponentencapsulado' element={<ScrollComponentEncapsulado />} />
         </>
       </Routes>
     </BrowserRouter>

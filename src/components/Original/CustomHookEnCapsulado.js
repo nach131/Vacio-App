@@ -1,51 +1,29 @@
 import React, { useState, useEffect } from 'react'
-import { Container, Row, Col, Button, Card, Spinner } from 'react-bootstrap'
-
-function SpinnerRender () {
-  return (
-    <div>
-      <Spinner
-        as="span"
-        animation="border"
-        size="sm"
-        role="status"
-        aria-hidden="true"
-      />
-    </div>
-  )
-}
-
 
 export default function CustomHookEnCapsulado () {
   const [images, more] = useInfinitePicsum() // mi hook
 
   return (
-    <>
-      <Container>
-        <Row className="" >
-          {/* {Array.from({ length: 10 }).map((_, idx) => ( */}
-          {images.map((el, i) => (
-
-            <Col className="mt-3" md="auto" xl="4" key={`img${i}`}>
-              <Card style={{ width: '20rem' }}>
-                <Card.Img className="card-img" variant="top" src={el.download_url} />
-
-              </Card>
-            </Col>
-
-          ))}
-        </Row>
-      </Container>
-      <Col className="py-3 col-2 mx-auto ">
-        <Button
-          className="btn-block"
-          // size="lg"
-          onClick={more}
-          variant="secondary">
-          Mas imagenes
-        </Button>
-      </Col>
-    </>
+    <div className="App">
+      <div style={{ display: 'flex', flexDirection: 'column' }}>
+        {images.map((el, i) => (
+          <img
+            key={`img${i}`}
+            src={el.download_url}
+            style={{
+              width: '350px',
+              height: 'auto',
+              marginBottom: '10px',
+              borderRadius: '3px',
+            }}
+            alt=""
+          />
+        ))}
+      </div>
+      <button style={{ marginBottom: '100px' }} onClick={more}>
+        mas imagenes
+      </button>
+    </div>
   )
 }
 
@@ -67,7 +45,7 @@ const useInfinitePicsum = () => {
 
   // useEffect para ejecutar al principio la primera "pedida" de imágenes
   useEffect(() => {
-    (async () => {
+    ; (async () => {
       const picsum = await fetch_images(0)
       setImages(picsum)
     })()

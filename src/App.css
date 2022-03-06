@@ -2,6 +2,11 @@
   text-align: center;
   background-color: #282c34;
 }
+.ScrollInf{
+  text-align: center;
+  color: white;
+  background-color: #143067;
+}
 
 .App-logo {
   height: 40vmin;

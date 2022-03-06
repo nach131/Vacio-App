@@ -21,30 +21,34 @@ export default function CustomHookEnCapsulado () {
 
   return (
     <>
-      <Container>
-        <Row className="" >
-          {/* {Array.from({ length: 10 }).map((_, idx) => ( */}
-          {images.map((el, i) => (
+      <header className="ScrollInf">
+        <h2>ScrollComponentEncapsulado</h2>
+        <Container>
+          <Row className="" >
+            {/* {Array.from({ length: 10 }).map((_, idx) => ( */}
+            {images.map((el, i) => (
 
-            <Col className="mt-3" md="auto" xl="4" key={`img${i}`}>
-              <Card style={{ width: '20rem' }}>
-                <Card.Img className="card-img" variant="top" src={el.download_url} />
+              <Col className="mt-3" md="auto" xl="4" key={`img${i}`}>
+                <Card style={{ width: '20rem' }}>
+                  <Card.Img className="card-img" variant="top" src={el.download_url} />
 
-              </Card>
-            </Col>
+                </Card>
+              </Col>
 
-          ))}
-        </Row>
-      </Container>
-      <Col className="py-3 col-2 mx-auto ">
-        <Button
-          className="btn-block"
-          // size="lg"
-          onClick={more}
-          variant="secondary">
-          Mas imagenes
-        </Button>
-      </Col>
+            ))}
+          </Row>
+        </Container>
+        <Col className="py-3 col-2 mx-auto ">
+          <Button
+            className="btn-block"
+            // size="lg"
+            onClick={more}
+            variant="outline-light"
+          >
+            Mas imagenes
+          </Button>
+        </Col>
+      </header>
     </>
   )
 }

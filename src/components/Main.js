@@ -20,6 +20,9 @@ function Main () {
               <Link to={`/customhookencapsulado`}>
                 <Button className="mb-2 btn-block" variant="warning">CustomHookEnCapsulado </Button>
               </Link>
+              <Link to={`/scrollcomponentencapsulado`}>
+                <Button className="mb-2 btn-block" variant="info">ScrollComponentEncapsulado </Button>
+              </Link>
             </Card>
           </div>
 
