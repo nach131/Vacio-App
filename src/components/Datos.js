@@ -41,6 +41,7 @@ function Datos () {
 
   return (
     <div>
+      <h3>Filtrar</h3>
       <section>
         <form>
           <input

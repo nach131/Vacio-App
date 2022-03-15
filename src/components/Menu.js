@@ -18,6 +18,7 @@ function Menu () {
           >
             <Nav.Link href="/Form1">Form1</Nav.Link>
             <Nav.Link href="/Form2">Form2</Nav.Link>
+            <Nav.Link href="/Form3">Form3</Nav.Link>
             <Nav.Link href="/Datos">Datos</Nav.Link>
             <Nav.Link href="/Frutas">Frutas</Nav.Link>
             <Nav.Link href="/FormAddArray">FormAddArray</Nav.Link>
