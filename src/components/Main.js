@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, Card } from 'react-bootstrap'
+import { Button, Card, Col } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
 
 function Main () {
@@ -9,7 +9,8 @@ function Main () {
         <header className="App-header">
           <h3>Infinite Scroll</h3>
 
-          <div className="col-2">
+          <Col md="5" xl="3">
+
             <Card className="p-2" border="warning" bg="dark">
               <Link to={`/scrollcomponent`}>
                 <Button className="mb-2 btn-block" variant="primary">ScrollComponent </Button>
@@ -24,7 +25,7 @@ function Main () {
                 <Button className="mb-2 btn-block" variant="info">ScrollComponentEncapsulado </Button>
               </Link>
             </Card>
-          </div>
+          </Col>
 
         </header>
       </div>

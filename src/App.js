@@ -7,6 +7,7 @@ import ScrollComponent from './components/ScrollComponent'
 import CustomHook from './components/CustomHook';
 import CustomHookEnCapsulado from './components/CustomHookEnCapsulado';
 import ScrollComponentEncapsulado from './components/ScrollComponentEncapsulado'
+// import Observer from './components/Observer/Index';
 
 
 function App () {
@@ -19,6 +20,7 @@ function App () {
           <Route path='/customhook' element={<CustomHook />} />
           <Route path='/customhookencapsulado' element={<CustomHookEnCapsulado />} />
           <Route path='/scrollcomponentencapsulado' element={<ScrollComponentEncapsulado />} />
+          {/* <Route path='/observer' element={<Observer />} /> */}
         </>
       </Routes>
     </BrowserRouter>
