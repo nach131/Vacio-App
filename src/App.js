@@ -6,7 +6,7 @@ import './App.css';
 import 'bootswatch/dist/sandstone/bootstrap.min.css'
 // import 'bootstrap/dist/css/bootstrap.min.css'
 
-import Menu from './components/Menu'
+import Menu from './components/Layouts/Menu'
 import Form1 from './components/Form1'
 import Form2 from './components/Form2'
 import Form3 from './components/Form3'
