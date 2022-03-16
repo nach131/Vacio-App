@@ -1,6 +1,6 @@
 import React from 'react';
-import { Routes, Route, Outlet } from "react-router-dom";
-
+// import { Routes, Route, Outlet } from "react-router-dom";
+import { Link, Route, Switch } from "wouter";
 
 import './App.css';
 import 'bootswatch/dist/sandstone/bootstrap.min.css'
@@ -21,27 +21,25 @@ class App extends React.Component {
   render () {
     return (
       <>
-        {/* <BrowserRouter> */}
         <Menu />
         <div className="App-header ">
           <div className="App">
             <h5>Esto es aki</h5>
-            <Outlet />
-            <Routes>
-              <Route excact path="/Form1" element={<Form1 />} />
-              <Route excact path="/Form2" element={<Form2 />} />
-              <Route excact path="/Form3" element={<Form3 />} />
-              <Route excact path="/Datos" element={<Datos />} />
-              <Route excact path="/Frutas" element={<Frutas />} />
-              <Route excact path="/FormAddArray" element={<FormAddArray />} />
-              <Route excact path="/FormAddDelToArray" element={<FormAddDelToArray />} />
-              <Route excact path="/CryptosFabChecked" element={<CryptosFabChecked />} />
-              <Route excact path="/CryptosFabCheckedAddDelArray" element={<CryptosFabCheckedAddDelArray />} />
-            </Routes>
+
+            <Switch>
+              <Route path="/Form1" component={Form1} />
+              <Route path="/Form2" component={Form2} />
+              <Route path="/Form3" component={Form3} />
+              <Route path="/Datos" component={Datos} />
+              <Route path="/Frutas" component={Frutas} />
+              <Route path="/FormAddArray" component={FormAddArray} />
+              <Route path="/FormAddDelToArray" component={FormAddDelToArray} />
+              <Route path="/CryptosFabChecked" component={CryptosFabChecked} />
+              <Route path="/CryptosFabCheckedAddDelArray" component={CryptosFabCheckedAddDelArray} />
+            </Switch>
 
           </div>
         </div>
-        {/* </BrowserRouter> */}
       </>
 
     );
