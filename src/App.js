@@ -28,10 +28,9 @@ import CryptosFabCheckedAddDelArray from './components/CryptosFabCheckedAddDelAr
 function App () {
 
 
-  const [wallet, setWallet] = useState('')
+  const [wallet, setWallet] = useState(null)
 
   async function requestAccount () {
-    console.log("toma")
     // si existe Meta Mask Extension e
     if (window.ethereum) {
       console.log("Si esta instalada Meta Mask")
@@ -56,16 +55,24 @@ function App () {
       // await window.ethereum.request({ method: 'eth_requestAccounts' })
 
       const provider = new ethers.providers.Web3Provider(window.ethereum);
+
       console.log(provider)
     }
   }
 
   async function disconetWallet () {
 
-    await window.ethereum.request({
-      method: "eth_requestAccounts",
-      params: [{ eth_accounts: {} }]
-    })
+    if (window.ethereum && window.ethereum.isMetaMask) {
+      window.ethereum.on('accountsChanged', function (accounts) {
+        return () => window.ethereum.removeListener('accountsChanged', accounts);
+      });
+
+    }
+
+    // await window.ethereum.request({
+    //   method: "eth_requestAccounts",
+    //   params: [{ eth_accounts: {} }]
+    // })
   }
 
 
