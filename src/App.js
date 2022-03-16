@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route, Outlet } from "react-router-dom";
 
 
 import './App.css';
@@ -17,16 +17,16 @@ import FormAddDelToArray from './components/FormAddDelToArray';
 import CryptosFabChecked from './components/CryptosFabChecked'
 import CryptosFabCheckedAddDelArray from './components/CryptosFabCheckedAddDelArray/index'
 
-
-
 class App extends React.Component {
   render () {
     return (
-      <BrowserRouter>
+      <>
+        {/* <BrowserRouter> */}
         <Menu />
         <div className="App-header ">
           <div className="App">
-
+            <h5>Esto es aki</h5>
+            <Outlet />
             <Routes>
               <Route excact path="/Form1" element={<Form1 />} />
               <Route excact path="/Form2" element={<Form2 />} />
@@ -38,9 +38,11 @@ class App extends React.Component {
               <Route excact path="/CryptosFabChecked" element={<CryptosFabChecked />} />
               <Route excact path="/CryptosFabCheckedAddDelArray" element={<CryptosFabCheckedAddDelArray />} />
             </Routes>
+
           </div>
         </div>
-      </BrowserRouter>
+        {/* </BrowserRouter> */}
+      </>
 
     );
   }
