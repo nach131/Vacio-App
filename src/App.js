@@ -1,20 +1,14 @@
-import React, { useState } from 'react'
-
+import React from 'react'
 import { Routes, Route, Outlet } from "react-router-dom";
-import { ethers, Contract } from 'ethers';
-import {
-  Button,
-  Col,
-  Row
-
-} from 'react-bootstrap';
 
 
 import './App.css';
-import 'bootswatch/dist/sandstone/bootstrap.min.css'
-// import 'bootstrap/dist/css/bootstrap.min.css'
+
 
 import Menu from './components/Layouts/Menu'
+import WalletDos from './components/WalletDos'
+import WalletTres from './components/WalletTres'
+import Wallet from './components/Wallet'
 import Form1 from './components/Form1'
 import Form2 from './components/Form2'
 import Form3 from './components/Form3'
@@ -25,79 +19,23 @@ import FormAddDelToArray from './components/FormAddDelToArray';
 import CryptosFabChecked from './components/CryptosFabChecked'
 import CryptosFabCheckedAddDelArray from './components/CryptosFabCheckedAddDelArray/index'
 
+
 function App () {
-
-
-  const [wallet, setWallet] = useState(null)
-
-  async function requestAccount () {
-    // si existe Meta Mask Extension e
-    if (window.ethereum) {
-      console.log("Si esta instalada Meta Mask")
-      try {
-        const accounts = await window.ethereum.request({
-          method: "eth_requestAccounts",
-        })
-        console.log(accounts[0])
-        setWallet(accounts[0])
-      } catch (error) {
-        console.log(error)
-      }
-
-    } else {
-      console.log("no esta instalada")
-    }
-  }
-
-  async function connectWallet () {
-    if (typeof window.ethereum !== 'undefined') {
-      await requestAccount()
-      // await window.ethereum.request({ method: 'eth_requestAccounts' })
-
-      const provider = new ethers.providers.Web3Provider(window.ethereum);
-
-      console.log(provider)
-    }
-  }
-
-  async function disconetWallet () {
-
-    if (window.ethereum && window.ethereum.isMetaMask) {
-      window.ethereum.on('accountsChanged', function (accounts) {
-        return () => window.ethereum.removeListener('accountsChanged', accounts);
-      });
-
-    }
-
-    // await window.ethereum.request({
-    //   method: "eth_requestAccounts",
-    //   params: [{ eth_accounts: {} }]
-    // })
-  }
-
 
   return (
     <>
+
+
       {/* <BrowserRouter> */}
       <Menu />
       <div className="App-header ">
         <div className="App">
-          <Col xl={6} className="mx-auto mt-3">
-            <button
-              onClick={() => requestAccount()}
-              className="btn btn-success mb-3">requestAccount</button>
-            <button
-              onClick={() => connectWallet()}
-              className="btn btn-info mb-3">Conectar wallet</button>
-            <button
-              onClick={() => disconetWallet()}
-              className="btn btn-danger mb-3">Desconectar wallet</button>
-          </Col>
-          <h4>Wallet Address: {wallet}</h4>
-
-
           <Outlet />
-          <Routes>
+          <Routes  >
+            <Route excact path="/wallet" element={<Wallet />} />
+            <Route excact path="/walletdos" element={<WalletDos />} />
+            <Route excact path="/wallettres" element={<WalletTres />} />
+            <Route excact path="/" element={<Form1 />} />
             <Route excact path="/Form1" element={<Form1 />} />
             <Route excact path="/Form2" element={<Form2 />} />
             <Route excact path="/Form3" element={<Form3 />} />
@@ -112,6 +50,7 @@ function App () {
         </div>
       </div>
       {/* </BrowserRouter> */}
+
     </>
 
   );

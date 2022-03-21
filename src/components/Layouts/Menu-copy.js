@@ -92,7 +92,6 @@ function Menu () {
             <Nav.Link href="/Frutas">Frutas</Nav.Link>
             <Nav.Link href="/wallet">wallet</Nav.Link>
             <Nav.Link href="/walletdos">walletDos</Nav.Link>
-            <Nav.Link href="/wallettres">walletTres</Nav.Link>
             <Nav.Link href="/FormAddArray">FormAddArray</Nav.Link>
             <Nav.Link href="/FormAddDelToArray">FormAddDelToArray</Nav.Link>
             <Nav.Link href="/CryptosFabChecked">CryptosFabChecked</Nav.Link>

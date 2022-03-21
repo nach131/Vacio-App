@@ -1,5 +1,4 @@
-import React, { useRef, useState } from 'react'
-import useLocalStorage from "../hooks/useLocalStorage";
+import React, { useState } from 'react'
 
 function Form3 () {
   const [titulos, setTitulos] = useState([])

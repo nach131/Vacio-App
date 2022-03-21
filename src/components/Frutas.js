@@ -29,7 +29,7 @@ function Frutas () {
   const [editMode, setEditMode] = useState(
     userData === null || userData?.favorites?.length === 0
   );
-
+  console.log(userData)
   const onFruitChecked = (e, fruit) => {
     // Compruebe si la fruta existe en la lista actual de favoritos
     const index = userData.favorites.indexOf(fruit);
