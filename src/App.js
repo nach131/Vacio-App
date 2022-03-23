@@ -16,7 +16,7 @@ import FormAddArray from './components/FormAddArray';
 import FormAddDelToArray from './components/FormAddDelToArray';
 import CryptosFabChecked from './components/CryptosFabChecked'
 import CryptosFabCheckedAddDelArray from './components/CryptosFabCheckedAddDelArray/index'
-
+import Base from './components/Base'
 class App extends React.Component {
   render () {
     return (
@@ -25,8 +25,8 @@ class App extends React.Component {
         <Menu />
         <div className="App-header ">
           <div className="App">
-            <h5>Esto es aki</h5>
             <Outlet />
+            <Base />
             <Routes>
               <Route excact path="/Form1" element={<Form1 />} />
               <Route excact path="/Form2" element={<Form2 />} />
