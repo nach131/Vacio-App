@@ -8,7 +8,7 @@ function Menu () {
     <>
       <Navbar expand="lg" className="navbar navbar-expand-lg navbar-dark bg-dark">
         <Container>
-          <Navbar.Brand href="/">prueba</Navbar.Brand>
+          <Navbar.Brand as={Link} to="/">prueba</Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
             <Nav
