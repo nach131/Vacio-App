@@ -1,9 +1,33 @@
 import React from 'react'
 import { Outlet, Link } from "react-router-dom";
-import { Navbar, Container } from 'react-bootstrap'
+import { Navbar, Container, NavDropdown, Button, DropdownButton } from 'react-bootstrap'
 import Nav from 'react-bootstrap/Nav'
+import 'flag-icon-css/css/flag-icons.min.css'
+import 'bootstrap-icons/font/bootstrap-icons.css'
+
+import { FaThumbsUp } from 'react-icons/fa';
+import { FaGlobeAmericas } from "react-icons/fa";
 
 function Menu () {
+
+  const language = [
+    {
+      code: 'fr',
+      name: 'Français',
+      contry_code: 'fr'
+    },
+    {
+      code: 'en',
+      name: 'English',
+      contry_code: 'gb'
+    },
+    {
+      code: 'sp',
+      name: 'España',
+      contry_code: 'es'
+    }
+  ]
+
   return (
     <>
       <Navbar expand="lg" className="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -25,12 +49,19 @@ function Menu () {
               <Nav.Link as={Link} to="/FormAddDelToArray">FormAddDelToArray</Nav.Link>
               <Nav.Link as={Link} to="/CryptosFabChecked">CryptosFabChecked</Nav.Link>
               <Nav.Link as={Link} to="/CryptosFabCheckedAddDelArray">CryptosFabCheckedAddDelArray</Nav.Link>
-              {/* <NavDropdown title="Smart Contracts" id="navbarScrollingDropdown">
-              <NavDropdown.Item href="/smart">Add Smart Contracts</NavDropdown.Item>
-              <NavDropdown.Item href="/smart_list">List Smart Contracts</NavDropdown.Item>
-              <NavDropdown.Divider />
-            <NavDropdown.Item href="#action5">Something else here</NavDropdown.Item>
-            </NavDropdown> */}
+
+
+
+              <NavDropdown title={<FaGlobeAmericas size="20" />} id="navbarScrollingDropdown">
+                {language.map(({ code, name, contry_code }) => (
+                  <NavDropdown.Item key={code}>
+                    {/* <span className="flag-icon flag-icon-es mx-2" ></span> */}
+                    <span className={`flag-icon flag-icon-${contry_code} mx-2`} ></span>
+                    {name}
+                  </NavDropdown.Item>
+                ))}
+
+              </NavDropdown>
             </Nav>
             {/* <Form className="d-flex">
           <FormControl

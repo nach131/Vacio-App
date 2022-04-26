@@ -1,0 +1,7 @@
+{
+  "app_title": "Titre",
+  "language": "Idioma",
+  "welcome_to_react": "Bienvenido a React y react-i18next",
+  "days_sice_release": "hace ya {{number_of_days}} que useted hizo eso",
+  "pedo": "pedakooooo"
+}

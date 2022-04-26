@@ -3,6 +3,7 @@ import { Routes, Route, Outlet } from "react-router-dom";
 
 
 import './App.css';
+import 'bootstrap/dist/js/bootstrap.js'
 import 'bootswatch/dist/sandstone/bootstrap.min.css'
 // import 'bootstrap/dist/css/bootstrap.min.css'
 
