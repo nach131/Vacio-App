@@ -1,0 +1,17 @@
+{
+  "app_title": "Title",
+  "language": "Language",
+  "welcome_to_react": "Welcome to React and react-i18next",
+  "days_sice_release": "Long time {{number_of_days}} you do",
+  "inicio_carta": "A welcome letter is that document that is sent with the intention of welcoming in a friendly way a person or group of people who arrive for the first time at a job, a club or an institution. Similarly, many companies write welcome letters to new customers, as a way of thanking them for the trust taken by belonging to the new company.",
+  "frutas": {
+    "apple": "Apple",
+    "orange": "Orange",
+    "pear": "Pear",
+    "grapes": "Grapes",
+    "watermelon": "Watermelon",
+    "strawberry": "Strawberry",
+    "banana": "Banana"
+  },
+  "welcome_frutas": "Welcome , choose your favorite fruits"
+}

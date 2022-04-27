@@ -94,7 +94,7 @@ function Frutas () {
         (editMode ? (
           <Card elevation="1">
             <p>
-              {t("welcome_frutas", { userData.name })}
+              {t("welcome_frutas", `${userData.name}`)}
               {/* Welcome <strong>{userData.name}</strong>, choose your favorite
               fruits: */}
             </p>
@@ -123,8 +123,8 @@ function Frutas () {
         ) : (
           <Card elevation="1">
             <p>
-              Welcome <strong>{userData.name}</strong>, your favorite fruits
-              are:
+              {t("welcome_frutas", `${userData.name}`)}
+              {/* Welcome <strong>{userData.name}</strong>, your favorite fruits are: */}
             </p>
             {userData.favorites.map((fruit) => {
               return (

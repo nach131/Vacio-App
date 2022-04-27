@@ -1,0 +1,17 @@
+{
+  "app_title": "Título",
+  "language": "Idioma",
+  "welcome_to_react": "Bienvenido a React y react-i18next",
+  "days_sice_release": "hace ya {{number_of_days}} que useted hizo eso",
+  "inicio_carta": "Una carta de bienvenida es aquel  documento que se envía con intención de acoger de manera amistosa a una persona o grupo de personas que llegan por primera vez a un trabajo, a un club o a una institución. De igual manera, muchas empresas redactan cartas de bienvenida a los nuevos clientes, a modo de agradecimiento por la confianza tomada por pertenecer a la nueva compañía.",
+  "frutas": {
+    "apple": "Manzanas",
+    "orange": "Naranjas",
+    "pear": "Pera",
+    "grapes": "Uvas",
+    "watermelon": "Sandia",
+    "strawberry": "Fresas",
+    "banana": "Platano"
+  },
+  "welcome_frutas": "Bienvenido, {{userData.name}} elige tus frutas favoritas"
+}

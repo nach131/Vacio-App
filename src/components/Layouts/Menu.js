@@ -1,32 +1,48 @@
-import React from 'react'
+import React, { useEffect } from 'react'
+import i18n from "i18next";
+import { useTranslation } from "react-i18next";
+import cookies from 'js-cookie'
 import { Outlet, Link } from "react-router-dom";
 import { Navbar, Container, NavDropdown, Button, DropdownButton } from 'react-bootstrap'
 import Nav from 'react-bootstrap/Nav'
+
 import 'flag-icon-css/css/flag-icons.min.css'
 import 'bootstrap-icons/font/bootstrap-icons.css'
 
-import { FaThumbsUp } from 'react-icons/fa';
 import { FaGlobeAmericas } from "react-icons/fa";
 
-function Menu () {
+const language = [
+  {
+    code: 'fr',
+    name: 'Français',
+    contry_code: 'fr'
+  },
+  {
+    code: 'en',
+    name: 'English',
+    contry_code: 'gb'
+  },
+  {
+    code: 'sp',
+    name: 'Español',
+    contry_code: 'es'
+  },
+  {
+    code: 'de',
+    name: 'Deutschland',
+    contry_code: 'de'
+  }
+]
 
-  const language = [
-    {
-      code: 'fr',
-      name: 'Français',
-      contry_code: 'fr'
-    },
-    {
-      code: 'en',
-      name: 'English',
-      contry_code: 'gb'
-    },
-    {
-      code: 'sp',
-      name: 'España',
-      contry_code: 'es'
-    }
-  ]
+
+function Menu () {
+  const { t } = useTranslation();
+  const currentLenguageCode = cookies.get('i18next') || 'en'
+
+  useEffect(() => {
+
+
+  })
 
   return (
     <>
@@ -50,28 +66,24 @@ function Menu () {
               <Nav.Link as={Link} to="/CryptosFabChecked">CryptosFabChecked</Nav.Link>
               <Nav.Link as={Link} to="/CryptosFabCheckedAddDelArray">CryptosFabCheckedAddDelArray</Nav.Link>
 
-
-
               <NavDropdown title={<FaGlobeAmericas size="20" />} id="navbarScrollingDropdown">
+                <span className="dropdown-item-text">{t('language')}</span>
                 {language.map(({ code, name, contry_code }) => (
-                  <NavDropdown.Item key={code}>
-                    {/* <span className="flag-icon flag-icon-es mx-2" ></span> */}
-                    <span className={`flag-icon flag-icon-${contry_code} mx-2`} ></span>
+                  <NavDropdown.Item
+                    onClick={() => i18n.changeLanguage(code)}
+                    key={code}
+                    disabled={code === currentLenguageCode}
+                  >
+                    <span className={`flag-icon flag-icon-${contry_code} mx-2`}
+                      style={{ opacity: code === currentLenguageCode ? 0.3 : 1 }}
+                    ></span>
                     {name}
                   </NavDropdown.Item>
                 ))}
 
               </NavDropdown>
             </Nav>
-            {/* <Form className="d-flex">
-          <FormControl
-            type="search"
-            placeholder="Search"
-            className="mr-2"
-            aria-label="Search"
-          />
-          <Button variant="outline-success">Search</Button>
-        </Form> */}
+
           </Navbar.Collapse>
         </Container>
       </Navbar>

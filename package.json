@@ -15,6 +15,7 @@
     "i18next": "^21.6.16",
     "i18next-browser-languagedetector": "^6.1.4",
     "i18next-http-backend": "^1.4.0",
+    "js-cookie": "^3.0.1",
     "radium": "^0.26.0",
     "react": "^16.13.1",
     "react-animations": "^1.0.0",

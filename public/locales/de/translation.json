@@ -1,0 +1,17 @@
+{
+  "app_title": "Titel",
+  "language": "Sprache",
+  "welcome_to_react": "Willkommen zu React und react-i18next",
+  "days_sice_release": "Long time {{number_of_days}} you do",
+  "inicio_carta": "Ein Willkommensbrief ist ein Dokument, das mit der Absicht verschickt wird, eine Person oder Gruppe von Personen, die zum ersten Mal an einem Arbeitsplatz, in einem Verein oder in einer Institution ankommen, freundlich zu begrüßen. Ebenso schreiben viele Unternehmen Willkommensbriefe an neue Kunden, um ihnen für das Vertrauen zu danken, das ihnen die Zugehörigkeit zum neuen Unternehmen entgegengebracht hat.",
+  "frutas": {
+    "apple": "Äpfel",
+    "orange": "Orangen",
+    "pear": "Birne",
+    "grapes": "Trauben",
+    "watermelon": "Wassermelone",
+    "strawberry": "Erdbeeren",
+    "banana": "Banane"
+  },
+  "welcome_frutas": "Willkommen, wählen Sie Ihre Lieblingsfrüchte"
+}

@@ -1,0 +1,17 @@
+{
+  "app_title": "Titre",
+  "language": "Langue",
+  "welcome_to_react": "Bienvenue à React et react-i18next",
+  "days_sice_release": "Long time {{number_of_days}} you do",
+  "inicio_carta": "Une lettre de bienvenue est ce document qui est envoyé avec l'intention d'accueillir de manière amicale une personne ou un groupe de personnes qui arrivent pour la première fois à un travail, un club ou une institution. De même, de nombreuses entreprises écrivent des lettres de bienvenue aux nouveaux clients, en guise de remerciement pour la confiance accordée par l'appartenance à la nouvelle entreprise.",
+  "frutas": {
+    "apple": "Pommes",
+    "orange": "Oranges",
+    "pear": "Poire",
+    "grapes": "Raisins",
+    "watermelon": "Pastèque",
+    "strawberry": "Fraises",
+    "banana": "Banane"
+  },
+  "welcome_frutas": "Bienvenue, choisissez vos fruits préférés"
+}
