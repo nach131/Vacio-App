@@ -1,5 +1,6 @@
 import '../fruit.css'
 import React, { useState } from 'react'
+import { useTranslation } from "react-i18next";
 import {
   Button,
   Card,
@@ -10,17 +11,23 @@ import {
 } from "@blueprintjs/core";
 import useLocalStorage from "../hooks/useLocalStorage";
 
-const fruits = [
-  "Apple",
-  "Orange",
-  "Guava",
-  "Mango",
-  "Grapes",
-  "Kiwi",
-  "Strawberry",
-];
 
 function Frutas () {
+
+  const { t } = useTranslation();
+
+  const fruits = [
+    t("frutas.apple"),
+    t("frutas.orange"),
+    t("frutas.pear"),
+    t("frutas.grapes"),
+    t("frutas.watermelon"),
+    t("frutas.strawberry"),
+    t("frutas.banana"),
+  ];
+
+
+  console.log(t('frutas.apple'))
 
   const [name, setName] = useState("");
   const [userData, setUserData] = useLocalStorage("user", null);
@@ -87,8 +94,9 @@ function Frutas () {
         (editMode ? (
           <Card elevation="1">
             <p>
-              Welcome <strong>{userData.name}</strong>, choose your favorite
-              fruits:
+              {t("welcome_frutas", { userData.name })}
+              {/* Welcome <strong>{userData.name}</strong>, choose your favorite
+              fruits: */}
             </p>
             {fruits.map((fruit) => {
               return (
