@@ -1,0 +1,16 @@
+body,
+html {
+  height: 100%;
+}
+.dos {
+  background-image: url("../../images/ales-nesetril-Im7lZjxeLhg-unsplash.jpeg");
+  /* background-image: url("https://unsplash.com/photos/SQeNe3Xas4w"); */
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #000;
+}
+h2 {
+  color: white;
+}
