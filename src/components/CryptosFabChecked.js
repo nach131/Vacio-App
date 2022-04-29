@@ -51,8 +51,8 @@ function CryptosFabChecked () {
 
   return (
     <>
-      {editMode ? (
-        <div>
+      <div name='CryptosFabChecked' className="pt-5">
+        {editMode ? (
           <Card elevation="1">
             <p>
               Que pacha <strong>
@@ -82,36 +82,38 @@ function CryptosFabChecked () {
               onClick={() => setEditMode(false)}
             />
           </Card>
-        </div>
-      ) : (
-        <Card elevation="1">
-          <p>
-            Que pacha <strong>{userData.name}</strong>, Estas son tus cryptos faboritas:
-          </p>
-          {userData.favorites.map((crypto) => {
-            return (
-              <Tag
 
-                key={crypto}
-                round
-                minimal
-                large
-                intent="success"
-                className="space"
-              >
-                {crypto}
-              </Tag>
-            );
-          })}
-          <Button
-            intent="primary"
-            text="Eleguir"
-            fill
-            type="submit"
-            onClick={() => setEditMode(true)}
-          />
-        </Card>
-      )}
+        ) : (
+
+          <Card elevation="1">
+            <p>
+              Que pacha <strong>{userData.name}</strong>, Estas son tus cryptos faboritas:
+            </p>
+            {userData.favorites.map((crypto) => {
+              return (
+                <Tag
+
+                  key={crypto}
+                  round
+                  minimal
+                  large
+                  intent="success"
+                  className="space"
+                >
+                  {crypto}
+                </Tag>
+              );
+            })}
+            <Button
+              intent="primary"
+              text="Eleguir"
+              fill
+              type="submit"
+              onClick={() => setEditMode(true)}
+            />
+          </Card>
+        )}
+      </div>
     </>
 
 

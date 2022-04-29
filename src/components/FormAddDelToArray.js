@@ -43,56 +43,59 @@ function FormAddArray () {
 
   return (
     <>
-      <h5>Form add delete to Arry</h5>
-      <p>Bootstrap</p>
-      <Card className="pe-2 py-4" style={{ width: '25rem' }}>
+      <div name="FormAddDelToArray" className="pt-5">
 
-        {DataSymbol ? (
-          <>
-            <p>
-              Estas son las cryptos a listar
-            </p>
-            <div className="col">
-              {DataSymbol.map(crypto => {
-                return (
-                  <span className="px-1 pb-2" key={crypto}>
-                    <Button
-                      className="btn-delete"
-                      variant="outline-success"
-                      size="sm"
-                      onClick={() => handleDelete(crypto)}
-                    >
-                      {crypto}
-                    </Button>
-                  </span>
+        <h5>Form add delete to Arry</h5>
+        <p>Bootstrap</p>
+        <Card className="pe-2 py-4" style={{ width: '25rem' }}>
 
-                )
-              })}
-            </div>
-          </>
-        ) : (
-          <>
-            No hay criptos..?
-          </>
-        )}
+          {DataSymbol ? (
+            <>
+              <p>
+                Estas son las cryptos a listar
+              </p>
+              <div className="col">
+                {DataSymbol.map(crypto => {
+                  return (
+                    <span className="px-1 pb-2" key={crypto}>
+                      <Button
+                        className="btn-delete"
+                        variant="outline-success"
+                        size="sm"
+                        onClick={() => handleDelete(crypto)}
+                      >
+                        {crypto}
+                      </Button>
+                    </span>
 
-        <Form
-          onSubmit={handleSubmint}
-          className="mx-3 pt-4"
-        >
-          <Form.Group className="mb-3" controlId="symbolCoin">
-            <Form.Control
+                  )
+                })}
+              </div>
+            </>
+          ) : (
+            <>
+              No hay criptos..?
+            </>
+          )}
 
-              type="symbolCoin"
-              placeholder="Symbolo Coin"
-              value={name}
-              onChange={(e) => setName(e.target.value.toUpperCase())}
+          <Form
+            onSubmit={handleSubmint}
+            className="mx-3 pt-4"
+          >
+            <Form.Group className="mb-3" controlId="symbolCoin">
+              <Form.Control
 
-            />
-          </Form.Group>
-          <Button variant="success" type="submit">Guardar</Button>
-        </Form>
-      </Card>
+                type="symbolCoin"
+                placeholder="Symbolo Coin"
+                value={name}
+                onChange={(e) => setName(e.target.value.toUpperCase())}
+
+              />
+            </Form.Group>
+            <Button variant="success" type="submit">Guardar</Button>
+          </Form>
+        </Card>
+      </div>
 
     </>
   )

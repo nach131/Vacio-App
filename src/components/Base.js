@@ -3,7 +3,7 @@ import { useParams, useLocation } from "react-router-dom";
 
 import { useTranslation } from "react-i18next";
 
-
+import Container from 'react-bootstrap/Container'
 
 function Base () {
   const { t } = useTranslation();
@@ -11,10 +11,13 @@ function Base () {
 
   return (
     <>
-      <div className="mb-3">estas en: <strong>{location.pathname}</strong></div>
-      <h2>{t('welcome_to_react')}</h2>
+      <Container style={{ "backgroundColor": "#c68e44", "height": "600" }}>
 
-      <p>{t('inicio_carta')}</p>
+        <div id="base" name="Base" className="mb-3">estas en: <strong>{location.pathname}</strong></div>
+        <h2>{t('welcome_to_react')}</h2>
+
+        <p>{t('inicio_carta')}</p>
+      </Container>
 
     </>
   )

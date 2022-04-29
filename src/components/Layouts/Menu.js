@@ -1,9 +1,10 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import i18n from "i18next";
 import { useTranslation } from "react-i18next";
 import cookies from 'js-cookie'
-import { Outlet, Link } from "react-router-dom";
-import { Navbar, Container, NavDropdown, Button, DropdownButton } from 'react-bootstrap'
+// import { Outlet, Link } from "react-router-dom";
+import { Navbar, Container, NavDropdown } from 'react-bootstrap'
+import { Link, animateScroll as scroller } from 'react-scroll'
 import Nav from 'react-bootstrap/Nav'
 
 import 'flag-icon-css/css/flag-icons.min.css'
@@ -39,16 +40,22 @@ function Menu () {
   const { t } = useTranslation();
   const currentLenguageCode = cookies.get('i18next') || 'en'
 
-  useEffect(() => {
-
-
-  })
+  const tomate = () => {
+    const options = {
+      spy: true,
+      smooth: true,
+      offset: -70,
+      duration: 500
+    }
+    scroller.scrollTo('CryptosFabChecked', options);
+    console.log("tomate")
+  }
 
   return (
     <>
       <Navbar expand="lg" className="navbar navbar-expand-lg navbar-dark bg-dark">
         <Container>
-          <Navbar.Brand as={Link} to="/">prueba</Navbar.Brand>
+          {/* <Navbar.Brand as={Link} to="/">prueba</Navbar.Brand> */}
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
             <Nav
@@ -56,15 +63,45 @@ function Menu () {
               style={{ maxHeight: '100px' }}
               navbarScroll
             >
-              <Nav.Link as={Link} to="/Form1">Form1</Nav.Link>
-              <Nav.Link as={Link} to="/Form2">Form2</Nav.Link>
+              <Nav.Link to='FormAddDelToArray'>
+                <Link
+                  activeClass='active'
+                  to='FormAddDelToArray'
+                  spy={true}
+                  smooth={true}
+                  offset={-70}
+                  duration={300}
+                >
+                  FormAddDelToArray
+                </Link>
+              </Nav.Link>
+
+              <Nav.Link to='CryptosFabChecked'>
+                <Link
+                  activeClass='active'
+                  to='CryptosFabChecked'
+                  spy={true}
+                  smooth={true}
+                  offset={-70}
+                  duration={300}
+                >
+                  CryptosFabChecked
+                </Link>
+              </Nav.Link>
+
+              <Nav.Link
+                onClick={() => tomate()}
+              //  as={Link} to="/CryptosFabChecked"
+              >CryptosFabChecked</Nav.Link>
+
+              {/* <Nav.Link as={Link} to="/Form2">Form2</Nav.Link>
               <Nav.Link as={Link} to="/Form3">Form3</Nav.Link>
               <Nav.Link as={Link} to="/Datos">Datos</Nav.Link>
               <Nav.Link as={Link} to="/Frutas">Frutas</Nav.Link>
               <Nav.Link as={Link} to="/FormAddArray">FormAddArray</Nav.Link>
               <Nav.Link as={Link} to="/FormAddDelToArray">FormAddDelToArray</Nav.Link>
               <Nav.Link as={Link} to="/CryptosFabChecked">CryptosFabChecked</Nav.Link>
-              <Nav.Link as={Link} to="/CryptosFabCheckedAddDelArray">CryptosFabCheckedAddDelArray</Nav.Link>
+              <Nav.Link as={Link} to="/CryptosFabCheckedAddDelArray">CryptosFabCheckedAddDelArray</Nav.Link> */}
 
               <NavDropdown title={<FaGlobeAmericas size="20" />} id="navbarScrollingDropdown">
                 <span className="dropdown-item-text">{t('language')}</span>

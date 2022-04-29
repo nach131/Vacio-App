@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useLocalStorage } from "../hooks/useLocalStorageForm";
+import { Container, Col } from 'react-bootstrap'
 
 const Form1 = () => {
 
@@ -20,28 +21,35 @@ const Form1 = () => {
 
   return (
     <>
-      {name ? (
-        <div className="pt-4">
-          El nombre es:<strong>{name}</strong>
-        </div>
-      ) : (
-        <></>
-      )
-      }
+      <Container style={{ "height": "200" }}>
 
-      <form className="pt-3">
-        <div className="input-group mb-3">
-          <input
-            className="form-control"
-            type="text"
-            value={name}
-            onChange={(e) => setName(e.target.value)}
-            placeholder="Full name"
-            aria-label="fullname"
-          />
-          <input className="btn btn-primary" type="submit" value="Submit"></input>
-        </div>
-      </form>
+        <Col xs lg="5" className="mx-auto">
+
+
+          {name ? (
+            <div className="pt-4">
+              El nombre es:<strong>{name}</strong>
+            </div>
+          ) : (
+            <></>
+          )
+          }
+
+          <form className="pt-3">
+            <div className="input-group mb-3">
+              <input
+                className="form-control"
+                type="text"
+                value={name}
+                onChange={(e) => setName(e.target.value)}
+                placeholder="Full name"
+                aria-label="fullname"
+              />
+              <input className="btn btn-primary" type="submit" value="Submit"></input>
+            </div>
+          </form>
+        </Col>
+      </Container>
     </>
   );
 };

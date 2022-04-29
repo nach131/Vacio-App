@@ -40,7 +40,7 @@ function Datos () {
   }, [hits, query]);
 
   return (
-    <div>
+    <div className="pt-5">
       <h3>Filtrar</h3>
       <section>
         <form>

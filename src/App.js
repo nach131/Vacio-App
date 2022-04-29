@@ -18,6 +18,7 @@ import FormAddDelToArray from './components/FormAddDelToArray';
 import CryptosFabChecked from './components/CryptosFabChecked'
 import CryptosFabCheckedAddDelArray from './components/CryptosFabCheckedAddDelArray/index'
 import Base from './components/Base'
+import ScrollToTop from './components/ScrollToTop'
 class App extends React.Component {
   render () {
     return (
@@ -28,7 +29,17 @@ class App extends React.Component {
           <div className="App">
             <Outlet />
             <Base />
-            <Routes>
+            <Form1 />
+            <Form2 />
+            <Form3 />
+            <Datos />
+            <Frutas />
+            <FormAddArray />
+            <FormAddDelToArray />
+            <CryptosFabChecked />
+            <CryptosFabCheckedAddDelArray />
+            <ScrollToTop />
+            {/* <Routes>
               <Route excact path="/Form1" element={<Form1 />} />
               <Route excact path="/Form2" element={<Form2 />} />
               <Route excact path="/Form3" element={<Form3 />} />
@@ -38,7 +49,7 @@ class App extends React.Component {
               <Route excact path="/FormAddDelToArray" element={<FormAddDelToArray />} />
               <Route excact path="/CryptosFabChecked" element={<CryptosFabChecked />} />
               <Route excact path="/CryptosFabCheckedAddDelArray" element={<CryptosFabCheckedAddDelArray />} />
-            </Routes>
+            </Routes> */}
 
           </div>
         </div>

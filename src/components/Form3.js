@@ -17,20 +17,22 @@ function Form3 () {
 
   return (
     <>
-      <h4>{titulo}</h4>
-      <form onSubmit={handleSubmit}>
-        <input
-          type="text"
-          placeholder='Escribe aqui el Título'
-          value={titulo}
-          onChange={({ target }) => setTitulo(target.value)}
-        />
-        <button type='submit'>Guardar</button>
-      </form>
-      <div className="pt-3">
-        <ul className="list-group">
-          {titulos.map((a, i) => <li className="list-group-item" key={i}>{a}</li>)}
-        </ul>
+      <div className="pt-5">
+        <h4>{titulo}</h4>
+        <form onSubmit={handleSubmit}>
+          <input
+            type="text"
+            placeholder='Escribe aqui el Título'
+            value={titulo}
+            onChange={({ target }) => setTitulo(target.value)}
+          />
+          <button type='submit'>Guardar</button>
+        </form>
+        <div className="pt-3">
+          <ul className="list-group">
+            {titulos.map((a, i) => <li className="list-group-item" key={i}>{a}</li>)}
+          </ul>
+        </div>
       </div>
     </>
   )

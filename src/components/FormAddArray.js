@@ -39,48 +39,50 @@ function FormAddArray () {
 
   return (
     <>
-
-      <Card elevation="1">
-        <p>
-          Estas son las cryptos a listar
-        </p>
-        {DataSymbol ? (
-          <>
-            {DataSymbol.map(crypto => {
-              return (
-                <Tag
-                  key={crypto}
-                  round
-                  minimal
-                  large
-                  intent="warning"
-                  className="space"
-                >
-                  {crypto}
-                </Tag>
-              )
-            })}
-          </>
-        ) : (
-          <>
-          </>
-        )}
-        <form onSubmit={handleSubmint}>
-          <FormGroup label="Symbolo Coin" labelFor="name">
-            <InputGroup
-              id="symbolCoin"
-              // placeholder="Symbol coin"
-              type="symbolCoin"
-              value={name}
-              onChange={(e) => setName(e.target.value)}
-            />
-          </FormGroup>
-          <Button intent="primary" text="Guardar" fill type="submit" />
-        </form>
-      </Card>
+      <div className="pt-5">
 
 
+        <Card elevation="1">
+          <p>
+            Estas son las cryptos a listar
+          </p>
+          {DataSymbol ? (
+            <>
+              {DataSymbol.map(crypto => {
+                return (
+                  <Tag
+                    key={crypto}
+                    round
+                    minimal
+                    large
+                    intent="warning"
+                    className="space"
+                  >
+                    {crypto}
+                  </Tag>
+                )
+              })}
+            </>
+          ) : (
+            <>
+            </>
+          )}
+          <form onSubmit={handleSubmint}>
+            <FormGroup label="Symbolo Coin" labelFor="name">
+              <InputGroup
+                id="symbolCoin"
+                // placeholder="Symbol coin"
+                type="symbolCoin"
+                value={name}
+                onChange={(e) => setName(e.target.value)}
+              />
+            </FormGroup>
+            <Button intent="primary" text="Guardar" fill type="submit" />
+          </form>
+        </Card>
 
+
+      </div>
 
 
     </>
