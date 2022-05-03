@@ -1,16 +1,28 @@
-body,
-html {
-  height: 100%;
+.Uno {
+  font-family: sans-serif;
+  text-align: center;
 }
-.uno {
-  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).webp");
-  /* background-image: url("https://unsplash.com/photos/SQeNe3Xas4w"); */
-  height: 100vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: #000;
+
+.card {
+  background-color: blue !important;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  text-transform: capitalize;
+  color: white;
 }
-.uno h2 {
-  color: #000 !important;
+
+.tags {
+  position: absolute;
+  top: 5px;
+  left: 0;
+}
+.tags > span {
+  display: inline-block;
+  padding: 4px;
+  margin-left: 3px;
+  font-size: 14px;
+  background: gray;
+  min-width: 40px;
 }
