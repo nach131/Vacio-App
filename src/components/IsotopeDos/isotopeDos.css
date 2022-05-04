@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.filter-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: red;
+  padding: 8px;
+}
+
+.filter-box-item {
+  background: yellow;
+  margin: 4px;
+  padding: 4px;
+  border-bottom: solid 3px transparent;
+}
+
+.filter-box-item:hover {
+  border-bottom-color: rgb(17, 73, 255);
+}
+
+.gallery-item {
+  background: greenyellow;
+  padding: 8px;
+}

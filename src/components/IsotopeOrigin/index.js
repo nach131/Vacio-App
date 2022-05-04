@@ -88,7 +88,7 @@ const filtersDefault = [
   { label: "tile", isChecked: false }
 ];
 
-export default function Uno () {
+export default function IsotopeOrigin () {
   const [filters, updateFilters] = useState(filtersDefault);
 
   const onFilter = event => {
@@ -136,6 +136,7 @@ export default function Uno () {
           filters={filters}
         >
           {cardsDefault.map(card => (
+
             <Card key={card.id} className={`card ${card.filter[0]}`}>
               <div className="tags">
                 {card.filter.map(c => (
@@ -147,6 +148,6 @@ export default function Uno () {
           ))}
         </IsoTopeGrid>
       </Container>
-    </div>
+    </div >
   );
 }

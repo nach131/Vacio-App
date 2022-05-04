@@ -15,31 +15,32 @@ function Menu () {
         expand="lg"
       >
         <Container>
-          <Navbar.Brand link to="/">Isotope filter Animate</Navbar.Brand>
+          <Navbar.Brand as={Link} to="/">Isotope filter Animate</Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
             <Nav
               style={{ maxHeight: '100px' }}
               navbarScroll
             >
-              <Nav.Link
-                as={Link}
-                to="/uno"
-              >
-                Uno
+              <Nav.Link as={Link} to="/isotope_origin">
+                IsotopeOrigin
               </Nav.Link>
-              <Nav.Link
-                as={Link}
-                to="/dos"
-              >
-                Dos
+              <Nav.Link as={Link} to="/IsotopeOriginNach" >
+                IsotopeOriginNach
               </Nav.Link>
-              <Nav.Link
-                as={Link}
-                to="/tres"
-              >
+              <Nav.Link as={Link} to="/isotope_nach" >
+                IsotopeNach
+              </Nav.Link>
+              <Nav.Link as={Link} to="/tres">
                 Tres
               </Nav.Link>
+              <Nav.Link as={Link} to="/children">
+                Children
+              </Nav.Link>
+              <Nav.Link as={Link} to="/isotope_dos" >
+                IsotopeDos
+              </Nav.Link>
+
             </Nav>
           </Navbar.Collapse>
         </Container>
