@@ -12,6 +12,7 @@ import Tres from './components/Tres'
 import Children from './components/Children'
 import IsotopeDos from './components/IsotopeDos'
 import IsotopeOriginNach from './components/IsotopeOriginNach'
+import Error from './components/ErrorDos'
 
 function App () {
 
@@ -19,12 +20,14 @@ function App () {
     <>
       <Menu />
       <Routes>
+        <Route path='/' element={<IsotopeOriginNach />} />
         <Route path='/isotope_origin' element={<IsotopeOrigin />} />
         <Route path='/IsotopeOriginNach' element={<IsotopeOriginNach />} />
         <Route path='/isotope_nach' element={<IsotopeNach />} />
         <Route path='/tres' element={<Tres />} />
         <Route path='/children' element={<Children />} />
         <Route path='/isotope_dos' element={<IsotopeDos />} />
+        <Route path="*" element={<Error />} />
       </Routes>
     </>
 
