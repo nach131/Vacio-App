@@ -1,6 +1,6 @@
 import React, { useRef, useEffect, useState } from 'react'
 
-import { Navbar, Container, NavDropdown } from 'react-bootstrap'
+import { Navbar, Container } from 'react-bootstrap'
 import { Link, animateScroll as scroller } from 'react-scroll'
 import Nav from 'react-bootstrap/Nav'
 
@@ -22,12 +22,11 @@ function Menu () {
       });
     }
   }, []);
-  console.log(dimensions.width)
 
   const [color, setColor] = useState(false)
 
   const changeColor = () => {
-    console.log(window.scrollY) // 584
+    // console.log(window.scrollY) // 584
     if (window.scrollY >= 780) {
       setColor(true)
     } else {
@@ -54,13 +53,13 @@ function Menu () {
     <>
       <Navbar
         ref={targetRef}
-        bg={color ? 'light' : ''}
+        bg={color ? 'secondary' : 'primary'}
         variant={color ? 'light' : 'dark'}
         fixed="top"
         expand="lg"
       >
         <Container>
-          <Navbar.Brand as={Link} to="/">Scrolling & navBar</Navbar.Brand>
+          <Navbar.Brand as={Link} to="/">Filtering & Animation</Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse id="navbarScroll">
             <Nav

@@ -17,10 +17,10 @@ class App extends React.Component {
     return (
       <>
         <Menu />
-        <Dos />
+        {/* <Dos /> */}
         <Uno />
-        <Cuatro />
-        <Tres />
+        {/* <Cuatro /> */}
+        {/* <Tres /> */}
         {/* <ScrollToTop /> */}
       </>
 

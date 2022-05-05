@@ -1,16 +1,18 @@
-body,
-html {
-  height: 100%;
-}
-.uno {
-  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).webp");
-  /* background-image: url("https://unsplash.com/photos/SQeNe3Xas4w"); */
-  height: 100vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: #000;
-}
 .uno h2 {
+  font-size: 1rem;
   color: #000 !important;
+}
+.popular-movies {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-column-gap: 1rem;
+  grid-row-gap: 2rem;
+}
+
+img {
+  width: 100%;
+  height: 30vh;
+  object-fit: cover;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
 }
