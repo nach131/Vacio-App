@@ -10,6 +10,7 @@ import ScrollToTop from './components/ScrollToTop';
 import Uno from './components/Uno'
 import Dos from './components/Dos'
 import Tres from './components/Tres'
+import Cuatro from './components/Cuatro'
 
 class App extends React.Component {
   render () {
@@ -18,6 +19,7 @@ class App extends React.Component {
         <Menu />
         <Dos />
         <Uno />
+        <Cuatro />
         <Tres />
         {/* <ScrollToTop /> */}
       </>

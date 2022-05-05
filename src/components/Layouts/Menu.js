@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useRef, useEffect, useState } from 'react'
 
 import { Navbar, Container, NavDropdown } from 'react-bootstrap'
 import { Link, animateScroll as scroller } from 'react-scroll'
@@ -11,9 +11,23 @@ import 'bootstrap-icons/font/bootstrap-icons.css'
 
 function Menu () {
 
+  const targetRef = useRef();
+  const [dimensions, setDimensions] = useState({ width: 0, height: 0 });
+
+  useEffect(() => {
+    if (targetRef.current) {
+      setDimensions({
+        width: targetRef.current.offsetWidth,
+        height: targetRef.current.offsetHeight
+      });
+    }
+  }, []);
+  console.log(dimensions.width)
+
   const [color, setColor] = useState(false)
 
   const changeColor = () => {
+    console.log(window.scrollY) // 584
     if (window.scrollY >= 780) {
       setColor(true)
     } else {
@@ -24,8 +38,8 @@ function Menu () {
   window.addEventListener('scroll', changeColor)
 
 
-
-  const tomate = () => {
+  // para subir hacia arriba
+  const ScrollToTop = () => {
     const options = {
       spy: true,
       smooth: true,
@@ -39,6 +53,7 @@ function Menu () {
   return (
     <>
       <Navbar
+        ref={targetRef}
         bg={color ? 'light' : ''}
         variant={color ? 'light' : 'dark'}
         fixed="top"
