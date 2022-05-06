@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import { Row, Container } from 'react-bootstrap'
+import { Container } from 'react-bootstrap'
+import { AnimatePresence, motion } from 'framer-motion/dist/framer-motion'
 
 import Filter from '../Filter'
 import Movie from '../Movies'
@@ -27,13 +28,20 @@ function Uno () {
       <Container>
 
         <Filter popular={popular} setFiltered={setFiltered} activeGenre={activeGenre} setActiveGenre={setActiveGenre} />
-        <div className="popular-movies uno">
-          {filtered.map(movie => <Movie key={movie.id} movie={movie} />)}
-        </div>
+        <motion.div
+          layout
+          animate={{ opacity: 1 }}
+          initial={{ opacity: 0 }}
+          exit={{ opacity: 0 }}
+          className="popular-movies uno">
+          <AnimatePresence>
+            {filtered.map(movie => <Movie key={movie.id} movie={movie} />)}
+          </AnimatePresence>
+        </motion.div>
       </Container>
     </>
 
   )
 }
 
-export default Uno
+export default Uno 
